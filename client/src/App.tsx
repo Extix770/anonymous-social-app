@@ -1,9 +1,8 @@
-
 import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
-import MediaChat from './components/MediaChat';
+import OmegleChat from './components/OmegleChat';
 
 import './HackerTheme.css';
 
@@ -19,7 +18,7 @@ const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
 
 function App() {
   const [posts, setPosts] = useState<Post[]>([]);
-  const [chatMode, setChatMode] = useState<'none' | 'audio' | 'video'>('none');
+  const [isChatting, setIsChatting] = useState(false);
 
   const fetchPosts = useCallback(async () => {
     try {
@@ -34,24 +33,20 @@ function App() {
     fetchPosts();
   }, [fetchPosts]);
 
-  const handleLeaveChat = () => {
-    setChatMode('none');
-  };
-
   return (
     <div className="container mt-4 hacker-container">
       <header className="mb-4">
         <h1 className="text-center">Anonymous Social Feed</h1>
       </header>
       <main>
-        {chatMode !== 'none' ? (
-          <MediaChat mode={chatMode} onLeave={handleLeaveChat} />
+        {isChatting ? (
+          <OmegleChat onLeave={() => setIsChatting(false)} />
         ) : (
           <div className="card mb-3">
-            <div className="card-body">
-              <h5 className="card-title">Join Global Chat</h5>
-              <button className="btn btn-success me-2" onClick={() => setChatMode('audio')}>Join Voice Chat</button>
-              <button className="btn btn-primary" onClick={() => setChatMode('video')}>Join Video Chat</button>
+            <div className="card-body text-center">
+              <h5 className="card-title">Ready to Chat?</h5>
+              <p>You will be randomly paired with a stranger for a one-on-one video chat.</p>
+              <button className="btn btn-primary" onClick={() => setIsChatting(true)}>Start Chatting</button>
             </div>
           </div>
         )}
