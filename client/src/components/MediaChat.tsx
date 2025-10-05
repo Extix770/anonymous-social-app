@@ -1,11 +1,14 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
 
 const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
 
-const VideoChat: React.FC = () => {
-  const [isInChat, setIsInChat] = useState(false);
+interface MediaChatProps {
+  mode: 'audio' | 'video';
+  onLeave: () => void;
+}
+
+const MediaChat: React.FC<MediaChatProps> = ({ mode, onLeave }) => {
   const [isAudioMuted, setIsAudioMuted] = useState(false);
   const [isVideoMuted, setIsVideoMuted] = useState(false);
 
@@ -20,41 +23,42 @@ const VideoChat: React.FC = () => {
   };
 
   useEffect(() => {
+    const joinChat = async () => {
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true, video: mode === 'video' });
+        localStreamRef.current = stream;
+        if (localVideoRef.current) {
+          localVideoRef.current.srcObject = stream;
+        }
+
+        const socket = io(apiUrl);
+        socketRef.current = socket;
+
+        socket.on('connect', () => socket.emit('join-voice-chat'));
+        socket.on('existing-users', ({ userIds }: { userIds: string[] }) => userIds.forEach(id => createPeerConnection(id, true, stream)));
+        socket.on('user-joined', ({ newUserId }: { newUserId: string }) => createPeerConnection(newUserId, false, stream));
+        socket.on('webrtc-offer', handleOffer);
+        socket.on('webrtc-answer', handleAnswer);
+        socket.on('ice-candidate', handleIceCandidate);
+        socket.on('user-left', handleUserLeft);
+
+      } catch (error) {
+        console.error(`Error joining ${mode} chat:`, error);
+        onLeave(); // Leave if we can't get media
+      }
+    };
+
+    joinChat();
+
     return () => {
       // Cleanup on component unmount
       if (socketRef.current) socketRef.current.disconnect();
       if (localStreamRef.current) localStreamRef.current.getTracks().forEach(track => track.stop());
       Object.values(peerConnectionsRef.current).forEach(pc => pc.close());
+      const videoContainer = document.getElementById('video-grid');
+      if(videoContainer) videoContainer.innerHTML = '';
     };
-  }, []);
-
-  useEffect(() => {
-    if (localVideoRef.current && localStreamRef.current) {
-      localVideoRef.current.srcObject = localStreamRef.current;
-    }
-  }, [isInChat]);
-
-  const handleJoinChat = async () => {
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true, video: true });
-      localStreamRef.current = stream;
-      setIsInChat(true);
-
-      const socket = io(apiUrl);
-      socketRef.current = socket;
-
-      socket.on('connect', () => socket.emit('join-voice-chat'));
-      socket.on('existing-users', ({ userIds }: { userIds: string[] }) => userIds.forEach(id => createPeerConnection(id, true, stream)));
-      socket.on('user-joined', ({ newUserId }: { newUserId: string }) => createPeerConnection(newUserId, false, stream));
-      socket.on('webrtc-offer', handleOffer);
-      socket.on('webrtc-answer', handleAnswer);
-      socket.on('ice-candidate', handleIceCandidate);
-      socket.on('user-left', handleUserLeft);
-
-    } catch (error) {
-      console.error('Error joining video chat:', error);
-    }
-  };
+  }, [mode, onLeave]);
 
   const createPeerConnection = (remoteUserId: string, isInitiator: boolean, stream: MediaStream) => {
     const pc = new RTCPeerConnection(STUN_SERVERS);
@@ -118,18 +122,6 @@ const VideoChat: React.FC = () => {
     }
   };
 
-  const handleLeaveChat = () => {
-    if (socketRef.current) socketRef.current.disconnect();
-    if (localStreamRef.current) localStreamRef.current.getTracks().forEach(track => track.stop());
-    Object.values(peerConnectionsRef.current).forEach(pc => pc.close());
-    const videoContainer = document.getElementById('video-grid');
-    if(videoContainer) videoContainer.innerHTML = '';
-    peerConnectionsRef.current = {};
-    videoElementsRef.current = {};
-    localStreamRef.current = null;
-    setIsInChat(false);
-  };
-
   const toggleAudio = () => {
     if (localStreamRef.current) {
       localStreamRef.current.getAudioTracks().forEach(track => track.enabled = !track.enabled);
@@ -147,22 +139,20 @@ const VideoChat: React.FC = () => {
   return (
     <div className="card mb-3">
       <div className="card-body">
-        <h5 className="card-title">Global Video Chat</h5>
-        {!isInChat ? (
-          <button className="btn btn-success" onClick={handleJoinChat}>Join Video Chat</button>
-        ) : (
-          <div>
-            <button className="btn btn-danger me-2" onClick={handleLeaveChat}>Leave Chat</button>
-            <button className="btn btn-warning me-2" onClick={toggleAudio}>{isAudioMuted ? 'Unmute Audio' : 'Mute Audio'}</button>
+        <h5 className="card-title">Global {mode === 'video' ? 'Video' : 'Voice'} Chat</h5>
+        <div>
+          <button className="btn btn-danger me-2" onClick={onLeave}>Leave Chat</button>
+          <button className="btn btn-warning me-2" onClick={toggleAudio}>{isAudioMuted ? 'Unmute Audio' : 'Mute Audio'}</button>
+          {mode === 'video' && 
             <button className="btn btn-warning" onClick={toggleVideo}>{isVideoMuted ? 'Start Camera' : 'Stop Camera'}</button>
-          </div>
-        )}
+          }
+        </div>
         <div id="video-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '10px', marginTop: '10px' }}>
-          {isInChat && <video ref={localVideoRef} autoPlay playsInline muted style={{ width: '100%', transform: 'scaleX(-1)' }} />} 
+          <video ref={localVideoRef} autoPlay playsInline muted style={{ width: '100%', transform: 'scaleX(-1)', display: mode === 'video' ? 'block' : 'none' }} /> 
         </div>
       </div>
     </div>
   );
 };
 
-export default VideoChat;
+export default MediaChat;
