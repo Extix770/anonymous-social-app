@@ -3,6 +3,8 @@ import axios from 'axios';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
 
+import './HackerTheme.css';
+
 interface Post {
   id: number;
   content: string;
@@ -28,7 +30,7 @@ function App() {
   }, [fetchPosts]);
 
   return (
-    <div className="container mt-4" style={{ backgroundColor: '#f0f2f5', padding: '20px' }}>
+    <div className="container mt-4 hacker-container">
       <header className="mb-4">
         <h1 className="text-center">Anonymous Social Feed</h1>
       </header>

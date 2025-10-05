@@ -1,0 +1,48 @@
+
+body {
+  background-color: #000 !important;
+  color: #0f0 !important;
+  font-family: 'Monaco', 'Courier New', monospace !important;
+}
+
+.hacker-container h1 {
+  color: #0f0;
+  text-shadow: 0 0 5px #0f0;
+}
+
+.card {
+  background-color: #000 !important;
+  border: 1px solid #0f0 !important;
+  box-shadow: 0 0 10px #0f0;
+}
+
+.card-title,
+.card-text {
+  color: #0f0 !important;
+}
+
+textarea.form-control {
+  background-color: #111;
+  color: #0f0;
+  border: 1px solid #0f0;
+}
+
+textarea.form-control::placeholder {
+  color: #0a0;
+}
+
+.btn-success {
+  background-color: transparent !important;
+  border: 1px solid #0f0 !important;
+  color: #0f0 !important;
+}
+
+.btn-success:hover {
+  background-color: #0f0 !important;
+  color: #000 !important;
+  box-shadow: 0 0 10px #0f0;
+}
+
+.text-muted {
+  color: #0c0 !important;
+}
