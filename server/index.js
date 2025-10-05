@@ -5,12 +5,14 @@ const cloudinary = require('cloudinary').v2;
 const multer = require('multer');
 const http = require('http');
 const { Server } = require('socket.io');
+const helmet = require('helmet');
 
 const app = express();
 const server = http.createServer(app);
 const port = process.env.PORT || 3001;
 
 // --- Main Config ---
+app.use(helmet());
 app.use(cors());
 app.use(express.json());
 
