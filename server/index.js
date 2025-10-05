@@ -16,6 +16,12 @@ app.use(helmet());
 app.use(cors());
 app.use(express.json());
 
+// Explicitly set security headers to prevent clickjacking
+app.use((req, res, next) => {
+  res.setHeader("Content-Security-Policy", "frame-ancestors 'self'");
+  next();
+});
+
 // --- Socket.io Config ---
 const io = new Server(server, {
   cors: {
