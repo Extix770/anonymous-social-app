@@ -3,6 +3,7 @@ import axios from 'axios';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
 import OmegleChat from './components/OmegleChat';
+import StatsDisplay from './components/StatsDisplay';
 
 import './HackerTheme.css';
 
@@ -39,6 +40,7 @@ function App() {
         <h1 className="text-center">Anonymous Social Feed</h1>
       </header>
       <main>
+        <StatsDisplay />
         {isChatting ? (
           <OmegleChat onLeave={() => setIsChatting(false)} />
         ) : (
