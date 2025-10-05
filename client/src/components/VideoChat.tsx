@@ -44,8 +44,8 @@ const VideoChat: React.FC = () => {
       socketRef.current = socket;
 
       socket.on('connect', () => socket.emit('join-voice-chat'));
-      socket.on('existing-users', ({ userIds }) => userIds.forEach(id => createPeerConnection(id, true, stream)));
-      socket.on('user-joined', ({ newUserId }) => createPeerConnection(newUserId, false, stream));
+      socket.on('existing-users', ({ userIds }: { userIds: string[] }) => userIds.forEach(id => createPeerConnection(id, true, stream)));
+      socket.on('user-joined', ({ newUserId }: { newUserId: string }) => createPeerConnection(newUserId, false, stream));
       socket.on('webrtc-offer', handleOffer);
       socket.on('webrtc-answer', handleAnswer);
       socket.on('ice-candidate', handleIceCandidate);
