@@ -9,6 +9,8 @@ interface Post {
   id: number;
   content: string;
   timestamp: string;
+  mediaUrl?: string;
+  mediaType?: string;
 }
 
 const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
