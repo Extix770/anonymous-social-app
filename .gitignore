@@ -1,0 +1,14 @@
+
+# Dependencies
+/node_modules
+/client/node_modules
+/client/build
+
+# Env files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
