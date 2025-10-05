@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
-import VoiceChat from './components/VoiceChat';
+import VideoChat from './components/VideoChat';
 
 import './HackerTheme.css';
 
@@ -38,7 +38,7 @@ function App() {
         <h1 className="text-center">Anonymous Social Feed</h1>
       </header>
       <main>
-        <VoiceChat />
+        <VideoChat />
         <PostForm onNewPost={fetchPosts} />
         <PostFeed posts={posts} />
       </main>
