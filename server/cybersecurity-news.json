@@ -1,0 +1,351 @@
+[
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
+    "pubDate": "Mon, 06 Oct 2025 17:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-16ZOwFFzhbYAdpEvzFJqYHRoFcNnOR2NWEDpwL2ya7TeCBsyoRMa2rA5-ibME3xrn_xwEtR9LWQvMfI57HQJI977nOqnoBypqL2-U7PWROlxUEjhGTh_pz6WLk72Mlhczrz-mH9qVfy_hB5Ke6RSnUB340E02Y6mdwxWNn4TffGzRe4fUUfkYH3o2hW7/s1600/recap-mainn.jpg"
+    },
+    "content": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming",
+    "contentSnippet": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming",
+    "guid": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
+    "isoDate": "2025-10-06T11:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "5 Critical Questions For Adopting an AI Security Solution",
+    "link": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
+    "pubDate": "Mon, 06 Oct 2025 17:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfz3KCjm0Q8FYWkOgHENEAln0t4oa66D-4TJdIrkM-0yEpSksS9oZ_JlWBd68weRkQDK5M3Suy3BcNPfNmq89gP3hcMRDjcekzXMyctxdXoW8NZzvBv1KXshfrnCkRg6P7GgyhotfR06-URHB31CcC4eZLfsm-u8E2sA1PP4F3PDcE5Q1e-5WVDNJoI_0X/s1600/ai-cybersecurity.jpg"
+    },
+    "content": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
+    "contentSnippet": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
+    "guid": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
+    "isoDate": "2025-10-06T11:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
+    "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
+    "pubDate": "Mon, 06 Oct 2025 17:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45_vX3mA13QmCC3yLMn-k1mUEB2XZ1iLaS4Bft_m3UGI2ovVIXPBSK_Dk0tcv_h1jrLw85E9yR_cNFYKruGcrlAechzkw1-DgT6AqL3CtyXWOQIO5tW_nHqTums9SvLA5s-ZTxxx7o6_NclIvpKZShXjyCOi4zWBU_Em12NW5QX3Q0GIoeBIUsI2XCLTt/s1600/oracle.jpg"
+    },
+    "content": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks.\nThe vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
+    "contentSnippet": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks.\nThe vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
+    "guid": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
+    "isoDate": "2025-10-06T11:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
+    "link": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
+    "pubDate": "Mon, 06 Oct 2025 17:06:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5lq1VwGPxErqaYK5Or5Qfb2Dtmn7IhLPFWGw009bD563o4PaYVAg57qBcDMO7dNIth5f0ltofaFuJ1g8bfK7Z-ixBKQVoXZbUx5rtxHSW8agab1DQ8DW5ZSOyO9n7YpAaEV41QRizEjQR2Gm86_L3Nh5JFbKpzq7tzKe4BgSFKM5y9N0ZE50NaSpK2qF9/s1600/scams.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data.&nbsp;\nThe attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
+    "contentSnippet": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data. \nThe attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
+    "guid": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
+    "isoDate": "2025-10-06T11:36:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "AI in the 2026 Midterm Elections",
+    "link": "https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html",
+    "pubDate": "Mon, 06 Oct 2025 11:06:22 +0000",
+    "content:encoded": "<p>We are nearly one year out from the 2026 midterm elections, and it&#8217;s far too early to predict the outcomes. But it&#8217;s a safe bet that artificial intelligence technologies will once again be a major storyline.</p>\n<p>The widespread fear that AI would be used to manipulate the 2024 U.S. election seems rather quaint in a year where the president posts <a href=\"https://www.bbc.com/news/articles/cdrg8zkz8d0o\">AI-generated images</a> of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It&#8217;s also emerging as a <a href=\"https://www.brookings.edu/articles/trumps-executive-orders-politicize-ai/\">politicized</a> issue. Political first-movers are adopting the technology, and that&#8217;s opening a <a href=\"https://medium.com/quiller-ai/mind-the-gap-why-progressives-must-close-the-ai-adoption-divide-a264c019e552\">gap</a> across party lines.</p>\n<p>We expect this gap to widen, resulting in AI being predominantly used by one political side in the 2026 elections. To the extent that AI&#8217;s promise to automate and improve the effectiveness of political tasks like personalized messaging, persuasion, and campaign strategy is even partially realized, this could generate a systematic advantage.</p>\n<p>Right now, Republicans look poised to <a href=\"https://www.cnn.com/2025/09/29/politics/trump-ai-generated-video-schumer-jeffries-shutdown\">exploit the technology</a> in the 2026 midterms. The Trump White House has aggressively adopted AI-generated <a href=\"https://www.nbcnews.com/politics/politics-news/white-house-social-media-2025-memes-ai-maga-messaging-rcna220152\">memes</a> in its online messaging strategy. The administration has also used <a href=\"https://www.whitehouse.gov/presidential-actions/2025/07/preventing-woke-ai-in-the-federal-government/\">executive orders</a> and federal buying power to influence the development and encoded values of AI technologies away from &#8220;woke&#8221; ideology. Going further, Trump ally Elon Musk has shaped his own AI company&#8217;s <a href=\"https://www.nytimes.com/2025/09/02/technology/elon-musk-grok-conservative-chatbot.html\">Grok</a> models in his own ideological image. These actions appear to be part of a larger, ongoing Big Tech industry <a href=\"https://www.cbsnews.com/news/trump-jd-vance-silicon-valley-support/\">realignment</a> towards the political will, and perhaps also the values, of the Republican party.</p>\n<p>Democrats, as the party out of power, are in a largely reactive posture on AI. A large bloc of Congressional Democrats responded to Trump administration actions in April by <a href=\"https://beyer.house.gov/uploadedfiles/congressional_letter_to_administration_on_doge_use_of_ai.pdf\">arguing against</a> their adoption of AI in government. Their letter to the Trump administration&#8217;s Office of Management and Budget provided detailed criticisms and questions about DOGE&#8217;s behaviors and called for a halt to DOGE&#8217;s use of AI, but also said that they &#8220;support implementation of AI technologies in a manner that complies with existing&#8221; laws. It was a perfectly reasonable, if nuanced, position, and illustrates how the actions of one party can dictate the political positioning of the opposing party.</p>\n<p>These shifts are driven more by political dynamics than by ideology. Big Tech CEOs&#8217; deference to the Trump administration seems largely an effort to <a href=\"https://finance.yahoo.com/news/meet-33-silicon-valley-power-144226245.html\">curry favor</a>, while Silicon Valley continues to be represented by <a href=\"https://khanna.house.gov/media/in-the-news/silicon-valleys-khanna-top-scholars-being-ignored-ai-debate\">tech-forward</a> Democrat Ro Khanna. And a June <a href=\"https://www.pewresearch.org/science/2025/09/17/ai-impact-on-people-society-appendix/\">Pew Research</a> poll shows nearly identical levels of concern by Democrats and Republicans about the increasing use of AI in America.</p>\n<p>There are, arguably, natural positions each party would be expected to take on AI. An April House subcommittee <a href=\"https://judiciary.house.gov/committee-activity/hearings/artificial-intelligence-examining-trends-innovation-and-competition-0\">hearing</a> on AI trends in innovation and competition revealed much about that equilibrium. Following the lead of the Trump administration, Republicans cast doubt on any <a href=\"https://fedscoop.com/house-republicans-regulatory-approach-ai-trump/\">regulation</a> of the AI industry. Democrats, meanwhile, <a href=\"https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition\">emphasized</a> consumer protection and resisting a concentration of corporate power. Notwithstanding the <a href=\"https://robertreich.substack.com/p/the-corporate-democrats-biggest-nightmare\">fluctuating dominance</a> of the corporate wing of the Democratic party and the volatile populism of Trump, this reflects the parties&#8217; historical positions on technology.</p>\n<p>While Republicans focus on cozying up to tech plutocrats and removing the barriers around their business models, Democrats could revive the 2020 messaging of candidates like <a href=\"https://2020.yang2020.com/policies/the-freedom-dividend/\">Andrew Yang</a> and <a href=\"https://2020.elizabethwarren.com/toolkit/umt\">Elizabeth Warren</a>. They could paint an alternative vision of the future where Big Tech companies&#8217; profits and billionaires&#8217; wealth are taxed and redistributed to young people facing an affordability crisis for housing, healthcare, and other essentials.</p>\n<p>Moreover, Democrats could use the technology to demonstrably show a commitment to participatory democracy. They could use AI-driven <a href=\"https://proceedings.open.tudelft.nl/DGO2025/article/view/953\">collaborative policymaking</a> tools like <a href=\"https://decidim.org\">Decidim</a>, <a href=\"http://pol.is\">Pol.Is</a>, and <a href=\"https://www.govocal.com\">Go Vocal</a> to collect voter input on a massive scale and align their platform to the public interest.</p>\n<p>It&#8217;s surprising how little these kinds of sensemaking tools are being adopted by candidates and parties today. Instead of using AI to capture and learn from constituent input, candidates more often seem to think of AI as just another broadcast technology&#8212;good only for getting their likeness and message in front of people. A case in point: British Member of Parliament Mark Sewards, presumably acting in good faith, recently attracted <a href=\"https://www.washingtonpost.com/world/2025/08/06/ai-chatbot-mp-britain-labour/\">scorn</a> after releasing a vacuous AI avatar of himself to his constituents.</p>\n<p>Where the political polarization of AI goes next will probably depend on unpredictable future events and how partisans opportunistically seize on them. A recent European political controversy over AI illustrates how this can happen.</p>\n<p>Swedish Prime Minister Ulf Kristersson, a member of the country&#8217;s Moderate party, acknowledged in an August interview that he uses AI tools to get a &#8220;second opinion&#8221; on policy issues. The attacks from political opponents were <a href=\"https://www.warpnews.org/premium-content/embarrassing-criticism-of-the-prime-ministers-ai-use-but-justified-against-the-deputy-pm/\">scathing</a>. Kristersson had earlier this year advocated for the EU to <a href=\"https://www.politico.eu/article/swedish-pm-calls-to-pause-eu-ai-rules/\">pause</a> its trailblazing new law regulating AI and pulled an AI tool from his <a href=\"https://www.404media.co/swedish-prime-minister-pulls-ai-campaign-tool-after-it-was-used-to-ask-hitler-for-support/\">campaign website</a> after it was abused to generate images of him appearing to solicit an endorsement from Hitler. Although arguably much more consequential, neither of those stories grabbed global headlines in the way the Prime Minister&#8217;s admission that he himself uses tools like ChatGPT did.</p>\n<p>Age dynamics may govern how AI&#8217;s impacts on the midterms unfold. One of the prevailing trends that swung the 2024 election to Trump seems to have been the rightward <a href=\"https://circle.tufts.edu/2024-election#gender-gap-driven-by-young-white-men,-issue-differences\">migration</a> of young voters, particularly white men. So far, YouGov&#8217;s <a href=\"https://today.yougov.com/topics/politics/trackers/congressional-ballot-voting-intention?crossBreak=under30\">political tracking poll</a> does not suggest a huge shift in young voters&#8217; Congressional voting intent since the 2022 midterms.</p>\n<p>Embracing&#8212;or distancing themselves from&#8212;AI might be one way the parties seek to wrest control of this young voting bloc. While the Pew poll revealed that large fractions of Americans of all ages are generally concerned about AI, younger Americans are much more likely to say they regularly interact with, and hear a lot about, AI, and are comfortable with the level of control they have over AI in their lives. A Democratic party desperate to regain relevance for and approval from young voters might turn to AI as both a tool and a topic for engaging them.</p>\n<p>Voters and politicians alike should recognize that AI is no longer just an outside influence on elections. It&#8217;s not an uncontrollable natural disaster raining deepfakes down on a sheltering electorate. It&#8217;s more like a fire: a force that political actors can harness and manipulate for both mechanical and symbolic purposes.</p>\n<p>A party willing to intervene in the world of corporate AI and shape the future of the technology should recognize the legitimate fears and opportunities it presents, and offer solutions that both address and leverage AI.</p>\n<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://time.com/7321098/ai-2026-midterm-elections/\">Time</a>.</em></p>\n",
+    "content:encodedSnippet": "We are nearly one year out from the 2026 midterm elections, and it’s far too early to predict the outcomes. But it’s a safe bet that artificial intelligence technologies will once again be a major storyline.\nThe widespread fear that AI would be used to manipulate the 2024 U.S. election seems rather quaint in a year where the president posts AI-generated images of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It’s also emerging as a politicized issue. Political first-movers are adopting the technology, and that’s opening a gap across party lines.\nWe expect this gap to widen, resulting in AI being predominantly used by one political side in the 2026 elections. To the extent that AI’s promise to automate and improve the effectiveness of political tasks like personalized messaging, persuasion, and campaign strategy is even partially realized, this could generate a systematic advantage.\nRight now, Republicans look poised to exploit the technology in the 2026 midterms. The Trump White House has aggressively adopted AI-generated memes in its online messaging strategy. The administration has also used executive orders and federal buying power to influence the development and encoded values of AI technologies away from “woke” ideology. Going further, Trump ally Elon Musk has shaped his own AI company’s Grok models in his own ideological image. These actions appear to be part of a larger, ongoing Big Tech industry realignment towards the political will, and perhaps also the values, of the Republican party.\nDemocrats, as the party out of power, are in a largely reactive posture on AI. A large bloc of Congressional Democrats responded to Trump administration actions in April by arguing against their adoption of AI in government. Their letter to the Trump administration’s Office of Management and Budget provided detailed criticisms and questions about DOGE’s behaviors and called for a halt to DOGE’s use of AI, but also said that they “support implementation of AI technologies in a manner that complies with existing” laws. It was a perfectly reasonable, if nuanced, position, and illustrates how the actions of one party can dictate the political positioning of the opposing party.\nThese shifts are driven more by political dynamics than by ideology. Big Tech CEOs’ deference to the Trump administration seems largely an effort to curry favor, while Silicon Valley continues to be represented by tech-forward Democrat Ro Khanna. And a June Pew Research poll shows nearly identical levels of concern by Democrats and Republicans about the increasing use of AI in America.\nThere are, arguably, natural positions each party would be expected to take on AI. An April House subcommittee hearing on AI trends in innovation and competition revealed much about that equilibrium. Following the lead of the Trump administration, Republicans cast doubt on any regulation of the AI industry. Democrats, meanwhile, emphasized consumer protection and resisting a concentration of corporate power. Notwithstanding the fluctuating dominance of the corporate wing of the Democratic party and the volatile populism of Trump, this reflects the parties’ historical positions on technology.\nWhile Republicans focus on cozying up to tech plutocrats and removing the barriers around their business models, Democrats could revive the 2020 messaging of candidates like Andrew Yang and Elizabeth Warren. They could paint an alternative vision of the future where Big Tech companies’ profits and billionaires’ wealth are taxed and redistributed to young people facing an affordability crisis for housing, healthcare, and other essentials.\nMoreover, Democrats could use the technology to demonstrably show a commitment to participatory democracy. They could use AI-driven collaborative policymaking tools like Decidim, Pol.Is, and Go Vocal to collect voter input on a massive scale and align their platform to the public interest.\nIt’s surprising how little these kinds of sensemaking tools are being adopted by candidates and parties today. Instead of using AI to capture and learn from constituent input, candidates more often seem to think of AI as just another broadcast technology—good only for getting their likeness and message in front of people. A case in point: British Member of Parliament Mark Sewards, presumably acting in good faith, recently attracted scorn after releasing a vacuous AI avatar of himself to his constituents.\nWhere the political polarization of AI goes next will probably depend on unpredictable future events and how partisans opportunistically seize on them. A recent European political controversy over AI illustrates how this can happen.\nSwedish Prime Minister Ulf Kristersson, a member of the country’s Moderate party, acknowledged in an August interview that he uses AI tools to get a “second opinion” on policy issues. The attacks from political opponents were scathing. Kristersson had earlier this year advocated for the EU to pause its trailblazing new law regulating AI and pulled an AI tool from his campaign website after it was abused to generate images of him appearing to solicit an endorsement from Hitler. Although arguably much more consequential, neither of those stories grabbed global headlines in the way the Prime Minister’s admission that he himself uses tools like ChatGPT did.\nAge dynamics may govern how AI’s impacts on the midterms unfold. One of the prevailing trends that swung the 2024 election to Trump seems to have been the rightward migration of young voters, particularly white men. So far, YouGov’s political tracking poll does not suggest a huge shift in young voters’ Congressional voting intent since the 2022 midterms.\nEmbracing—or distancing themselves from—AI might be one way the parties seek to wrest control of this young voting bloc. While the Pew poll revealed that large fractions of Americans of all ages are generally concerned about AI, younger Americans are much more likely to say they regularly interact with, and hear a lot about, AI, and are comfortable with the level of control they have over AI in their lives. A Democratic party desperate to regain relevance for and approval from young voters might turn to AI as both a tool and a topic for engaging them.\nVoters and politicians alike should recognize that AI is no longer just an outside influence on elections. It’s not an uncontrollable natural disaster raining deepfakes down on a sheltering electorate. It’s more like a fire: a force that political actors can harness and manipulate for both mechanical and symbolic purposes.\nA party willing to intervene in the world of corporate AI and shape the future of the technology should recognize the legitimate fears and opportunities it presents, and offer solutions that both address and leverage AI.\nThis essay was written with Nathan E. Sanders, and originally appeared in Time.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html#comments",
+    "content": "<p>We are nearly one year out from the 2026 midterm elections, and it&#8217;s far too early to predict the outcomes. But it&#8217;s a safe bet that artificial intelligence technologies will once again be a major storyline.</p>\n<p>The widespread fear that AI would be used to manipulate the 2024 U.S. election seems rather quaint in a year where the president posts <a href=\"https://www.bbc.com/news/articles/cdrg8zkz8d0o\">AI-generated images</a> of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It&#8217;s also emerging as a <a href=\"https://www.brookings.edu/articles/trumps-executive-orders-politicize-ai/\">politicized</a> issue. Political first-movers are adopting the technology, and that&#8217;s opening a ...</p>",
+    "contentSnippet": "We are nearly one year out from the 2026 midterm elections, and it’s far too early to predict the outcomes. But it’s a safe bet that artificial intelligence technologies will once again be a major storyline.\nThe widespread fear that AI would be used to manipulate the 2024 U.S. election seems rather quaint in a year where the president posts AI-generated images of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It’s also emerging as a politicized issue. Political first-movers are adopting the technology, and that’s opening a ...",
+    "guid": "https://www.schneier.com/?p=70924",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "democracy",
+      "LLM"
+    ],
+    "isoDate": "2025-10-06T11:06:22.000Z"
+  },
+  {
+    "creator": "Lily Hay Newman",
+    "title": "Vibe Coding Is the New Open Source—in the Worst Way Possible",
+    "link": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+    "pubDate": "Mon, 06 Oct 2025 10:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "As developers increasingly lean on AI-generated code to build out their software—as they have with open source in the past—they risk introducing critical security failures along the way.",
+    "contentSnippet": "As developers increasingly lean on AI-generated code to build out their software—as they have with open source in the past—they risk introducing critical security failures along the way.",
+    "guid": "68b89e6e04e9fbb82ec057d3",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2025-10-06T10:00:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
+    "link": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
+    "pubDate": "Mon, 06 Oct 2025 11:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxCYsEXKdQeC582l2xUR18p9qT9PP-_OwgroBPjibHEFWoZPrqTUckH1p0-NMSw0TV5lT6ih4jyxHy3BTV_6ApzqRCK5RAHSJU0S78WyrtWGyecrbDmCy9yrDDnA128PXV_zPCEjOHxyMbYfd52xiy2RMqZJrG1XMGW8urAl3WmkwbZNCAcpg5yTt7p-a/s1600/zimbra-email-hacking.jpg"
+    },
+    "content": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.\nTracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
+    "contentSnippet": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.\nTracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
+    "guid": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
+    "isoDate": "2025-10-06T06:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief",
+    "link": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
+    "pubDate": "Sat, 04 Oct 2025 20:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwIREfLD0f9VnhVlWQeaAaQQQLFAE8Yq11lxwmw5UA9-54l9pbKf064vcz5GHQ1Rer9Qc892qln_Fn4RdecChxbCQk2qurb0OndYaSsdAt7qXWn61Binw_OZ96OtLwpRRXfq99QHnoGeCPiuqOE2yBAE2lVhgmUSdAjw32GybKl8HeYJGK3DcyEAOCWpRr/s1600/comet-ai.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.\nThe sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.\nThe sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
+    "guid": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
+    "isoDate": "2025-10-04T14:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
+    "link": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
+    "pubDate": "Sat, 04 Oct 2025 16:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlh6dseVQZIo9E7j4gKPiWbf9wDAoGVPr4DyhfsZB7iacAtu-Y5NAnMi1sWowgrtNrNQHhyphenhyphencPQgxvdClooUDsgL4e6FXfv5AjFQbVxQMO_PCcOfJ159qmn3kZbX1Q2o01jW1X0v16jPGCi8ttsPyLtwPmK6hZXduXtaA70Ioue0iCJUpU6Bd9myawUyb_/s1600/scans.jpg"
+    },
+    "content": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
+    "contentSnippet": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
+    "guid": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
+    "isoDate": "2025-10-04T10:39:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Matt Burgess, Andy Greenberg, Andrew Couts",
+    "title": "Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure",
+    "link": "https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/",
+    "pubDate": "Sat, 04 Oct 2025 10:30:00 +0000",
+    "dc:creator": "Matt Burgess, Andy Greenberg, Andrew Couts",
+    "content": "Plus: China sentences scam bosses to death, Europe is ramping up its plans to build a “drone wall” to protect against Russian airspace violations, and more.",
+    "contentSnippet": "Plus: China sentences scam bosses to death, Europe is ramping up its plans to build a “drone wall” to protect against Russian airspace violations, and more.",
+    "guid": "68e0069b0657e0c2fe68a56a",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-04T10:30:00.000Z"
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic",
+    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html",
+    "pubDate": "Fri, 03 Oct 2025 21:05:28 +0000",
+    "content:encoded": "<p><a href=\"https://oceanographicmagazine.com/news/southwest-atlantic-squid-plundering-puts-fishery-at-risk-of-collapse/\">Article</a>. <a href=\"https://ejfoundation.org/news-media/new-investigation-exposes-human-rights-abuses-and-ecological-crisis-in-the-southwest-atlantic-squid-fishery\">Report</a>.</p>\n",
+    "content:encodedSnippet": "Article. Report.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html#comments",
+    "content": "<p><a href=\"https://oceanographicmagazine.com/news/southwest-atlantic-squid-plundering-puts-fishery-at-risk-of-collapse/\">Article</a>. <a href=\"https://ejfoundation.org/news-media/new-investigation-exposes-human-rights-abuses-and-ecological-crisis-in-the-southwest-atlantic-squid-fishery\">Report</a>.</p>\n",
+    "contentSnippet": "Article. Report.",
+    "guid": "https://www.schneier.com/?p=70881",
+    "categories": [
+      "Uncategorized",
+      "reports",
+      "squid"
+    ],
+    "isoDate": "2025-10-03T21:05:28.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
+    "link": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
+    "pubDate": "Fri, 03 Oct 2025 23:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1j33LSzml8_Sl5Fp1kzrz_mVBXrvUzNw1aiEdY7RboQ3CagFk7sajYWtR1I6RTa6TlqIDCmgKc6rKpoFTEgiaadGwsIrznFyjk1i0JsIIsBB-IM9vtDExrH0aaWnY-fRVd4JyvTcNTxdTewEZKUoGBA7blWpBjvgMPwPZisEPWfnuQtbQWE0wB5I9F4aR/s1600/dns-malware.jpg"
+    },
+    "content": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer.\nThat's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish.\nThe DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
+    "contentSnippet": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer.\nThat's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish.\nThe DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
+    "guid": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
+    "isoDate": "2025-10-03T18:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
+    "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
+    "pubDate": "Fri, 03 Oct 2025 21:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizM08GLG48jlna2kwiWsliLcBCG5Bbb-iM2NCvEui90N919_bbrt-CS44xzBr3M9ccjqRMuGSPvzCYKKGubVFuaugLDMjfLYR3Dgqp_V0Qg-YZS3nBEzKkzvkO2JfkXAkV2hyy5qBQt6XUp1ta8Ed7eQF4sBeH13OfHBdhj1JJljqMLCnU8lTtMd7aMBM/s1600/stealer.jpg"
+    },
+    "content": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others.\n\"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
+    "contentSnippet": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others.\n\"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
+    "guid": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
+    "isoDate": "2025-10-03T15:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Dell Cameron",
+    "title": "ICE Wants to Build Out a 24/7 Social Media Surveillance Team",
+    "link": "https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/",
+    "pubDate": "Fri, 03 Oct 2025 13:21:05 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Documents show that ICE plans to hire dozens of contractors to scan X, Facebook, TikTok, and other platforms to target people for deportation.",
+    "contentSnippet": "Documents show that ICE plans to hire dozens of contractors to scan X, Facebook, TikTok, and other platforms to target people for deportation.",
+    "guid": "68dfbd0428801d6b5ae6a428",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-03T13:21:05.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
+    "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
+    "pubDate": "Fri, 03 Oct 2025 17:32:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZi_3aFVtIqXv86N1AY3tMum1vYvspKQJ06jdx7TUo4kbJ5xVFGXHxn7gW0cS5jNbxxjBfC_lXvzdGAs_jr_02xTgHCmQeipOk8dPyBb9vCejfZ926QaA45BBRVxRhHLa-Xlv3eW6_qlLDdAArC8RLNE_QE2ByXWQCjiuncQxb1-TINGE_1jaIVjDKV07P/s1600/whstsapp.jpg"
+    },
+    "content": "Brazilian users have emerged as the target of a new self-propagating malware that spreads via the popular messaging app WhatsApp.\nThe campaign, codenamed SORVEPOTEL by Trend Micro, weaponizes the trust with the platform to extend its reach across Windows systems, adding the attack is \"engineered for speed and propagation\" rather than data theft or ransomware.\n\"SORVEPOTEL has been observed to",
+    "contentSnippet": "Brazilian users have emerged as the target of a new self-propagating malware that spreads via the popular messaging app WhatsApp.\nThe campaign, codenamed SORVEPOTEL by Trend Micro, weaponizes the trust with the platform to extend its reach across Windows systems, adding the attack is \"engineered for speed and propagation\" rather than data theft or ransomware.\n\"SORVEPOTEL has been observed to",
+    "guid": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
+    "isoDate": "2025-10-03T12:02:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security",
+    "link": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
+    "pubDate": "Fri, 03 Oct 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8FRGGcvEftQ7ZU-kAGNuYyzpiiEI3kRRxBjikjcQeX0POahjC7VnAgXrOohBRUumEYmu-VtRqmKjUf5BQuoy_n_cQAqL1aXOOKFC1YxdTjuIF_bETIKETYHmzPu2NyYCWMRpoJyU-P0qobZXVOU_H6ytL1xMkvQKfkwTU1a7fS_KuCeYnkh2RSDAmlaz5/s1600/passwork.jpg"
+    },
+    "content": "Passwork is positioned as an on-premises unified platform for both password and secrets management, aiming to address the increasing complexity of credential storage and sharing in modern organizations. The platform recently received a major update that reworks all the core mechanics.\nPasswork 7 introduces significant changes to how credentials are organized, accessed, and managed, reflecting",
+    "contentSnippet": "Passwork is positioned as an on-premises unified platform for both password and secrets management, aiming to address the increasing complexity of credential storage and sharing in modern organizations. The platform recently received a major update that reworks all the core mechanics.\nPasswork 7 introduces significant changes to how credentials are organized, accessed, and managed, reflecting",
+    "guid": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
+    "isoDate": "2025-10-03T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New \"Cavalry Werewolf\" Attack Hits Russian Agencies with FoalShell and StallionRAT",
+    "link": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
+    "pubDate": "Fri, 03 Oct 2025 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVsTl631iiQsWoBJb_rx7mzUyk0TbL2bKhgSsH1iwIa2VOMDJLJ-XBqQRyzw8FuyfDQ21duI5iED5f0fxb7YLBctGOaNm2pSXfPhHHQLSv7CfyAFbMQ3enx7o_UVcdhZFfljSL6j8ccy9c_8MvIBUpldpWAgajd8GG-h5wNVviKx0yLKJvY8NYDLbZ2lPp/s1600/cyberattack.jpg"
+    },
+    "content": "A threat actor that's known to share overlaps with a hacking group called YoroTrooper has been observed targeting the Russian public sector with malware families such as FoalShell and StallionRAT.\nCybersecurity vendor BI.ZONE is tracking the activity under the moniker Cavalry Werewolf. It's also assessed to have commonalities with clusters tracked as SturgeonPhisher, Silent Lynx, Comrade Saiga,",
+    "contentSnippet": "A threat actor that's known to share overlaps with a hacking group called YoroTrooper has been observed targeting the Russian public sector with malware families such as FoalShell and StallionRAT.\nCybersecurity vendor BI.ZONE is tracking the activity under the moniker Cavalry Werewolf. It's also assessed to have commonalities with clusters tracked as SturgeonPhisher, Silent Lynx, Comrade Saiga,",
+    "guid": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
+    "isoDate": "2025-10-03T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
+    "pubDate": "Fri, 03 Oct 2025 13:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Vf5tvpRo-cxVfClYZXnuH7mBd-k439wei9RCLJXQkiQk-PdE7VJ2C2ZuARR1GIrg2UTt0aqFh-QALu9Zu5FQDhZHg-11c6UCCfN3n5ILXT9QBobEfGrT-pNfA3GJRcIveodbWL_HkuERMNFQvKCHKhsbp_RD5bRnDjeB-98W6tJJGNIoxJz3nXbF8rxl/s1600/onekey.gif"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Smartbedded Meteobridge to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-4008 (CVSS score: 8.7), is a case of command injection in the Meteobridge web interface that could result in code execution.\n\"",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Smartbedded Meteobridge to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-4008 (CVSS score: 8.7), is a case of command injection in the Meteobridge web interface that could result in code execution.\n\"",
+    "guid": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
+    "isoDate": "2025-10-03T08:23:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "Daniel Miessler on the AI Attack/Defense Balance",
+    "link": "https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html",
+    "pubDate": "Thu, 02 Oct 2025 16:19:59 +0000",
+    "content:encoded": "<p>His <a href=\"https://danielmiessler.com/blog/will-ai-help-moreattackers-defenders\">conclusion</a>:</p>\n<blockquote><p>Context wins</p>\n<p>Basically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.</p>\n<p>And if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­&#8212;hopefully before the baddies take advantage.</p>\n<p>Summary and prediction</p>\n<ol>\n<li>Attackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.\n<li>After that point, AI/SPQA will have the additional internal context to give Defenders the advantage.</ol>\n<p>LLM tech is nowhere near ready to handle the context of an entire company right now. That’s why this will take 3-5 years for true AI-enabled Blue to become a thing.</p>\n<p>And in the meantime, Red will be able to use publicly-available context from OSINT, Recon, etc. to power their attacks.</p></blockquote>\n<p>I <a href=\"https://www.schneier.com/wp-content/uploads/2018/03/Artificial-Intelligence-and-the-Attack-Defense-Balance-IEEE-SP.pdf\">agree</a>.</p>\n<p>By the way, <a href=\"https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software\">this</a> is the SPQA architecture.</p>\n",
+    "content:encodedSnippet": "His conclusion:\nContext wins\nBasically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.\nAnd if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­—hopefully before the baddies take advantage.\nSummary and prediction\nAttackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.\nAfter that point, AI/SPQA will have the additional internal context to give Defenders the advantage.\nLLM tech is nowhere near ready to handle the context of an entire company right now. That’s why this will take 3-5 years for true AI-enabled Blue to become a thing.\nAnd in the meantime, Red will be able to use publicly-available context from OSINT, Recon, etc. to power their attacks.\n\nI agree.\nBy the way, this is the SPQA architecture.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html#comments",
+    "content": "<p>His <a href=\"https://danielmiessler.com/blog/will-ai-help-moreattackers-defenders\">conclusion</a>:</p>\n<blockquote><p>Context wins</p>\n<p>Basically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.</p>\n<p>And if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­&#8212;hopefully before the baddies take advantage.</p>\n<p>Summary and prediction</p>\n<ol>\n<li>Attackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.\n...</li></ol></blockquote>",
+    "contentSnippet": "His conclusion:\nContext wins\nBasically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.\nAnd if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­—hopefully before the baddies take advantage.\nSummary and prediction\nAttackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.\n...",
+    "guid": "https://www.schneier.com/?p=70905",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "cyberattack",
+      "defense"
+    ],
+    "isoDate": "2025-10-02T16:19:59.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware",
+    "link": "https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html",
+    "pubDate": "Thu, 02 Oct 2025 20:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs19se3oOTe2LKNLUVG1eUCTWL7f7pmFyqFtBgj7tSlhbaY6nRVkoXwoPqW8fGjhLJsxkQYJXs4_1_VfbE2BhpB-_4qQ8YBbRyp39sdMuBB_Lr_LWxBS7mbyL4UN1wi-jbbPaiysanHv-G_fBH4edQvQRSHNX4IRTvdSRL6ZDvRgcZ02svkL14zVCL0Tji/s1600/pakistan-cyberattack.jpg"
+    },
+    "content": "The threat actor known as Confucius has been attributed to a new phishing campaign that has targeted Pakistan with malware families like WooperStealer and Anondoor.\n\"Over the past decade, Confucius has repeatedly targeted government agencies, military organizations, defense contractors, and critical industries -- especially in Pakistan – using spear-phishing and malicious documents as initial",
+    "contentSnippet": "The threat actor known as Confucius has been attributed to a new phishing campaign that has targeted Pakistan with malware families like WooperStealer and Anondoor.\n\"Over the past decade, Confucius has repeatedly targeted government agencies, military organizations, defense contractors, and critical industries -- especially in Pakistan – using spear-phishing and malicious documents as initial",
+    "guid": "https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html",
+    "isoDate": "2025-10-02T14:44:00.000Z",
+    "itunes": {}
+  }
+]
