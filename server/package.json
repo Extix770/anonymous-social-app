@@ -16,6 +16,7 @@
     "express": "^5.1.0",
     "helmet": "^8.1.0",
     "multer": "^2.0.2",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "rss-parser": "^3.13.0"
   }
 }

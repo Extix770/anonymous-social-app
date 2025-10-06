@@ -78,6 +78,16 @@ let nextId = 1;
 // --- REST API Endpoints ---
 app.get('/posts', incrementVisits, (req, res) => res.json(posts.sort((a, b) => b.id - a.id)));
 
+app.get('/api/cybersecurity-news', (req, res) => {
+  const newsFilePath = path.join(__dirname, 'cybersecurity-news.json');
+  if (fs.existsSync(newsFilePath)) {
+    const data = fs.readFileSync(newsFilePath, 'utf8');
+    res.json(JSON.parse(data));
+  } else {
+    res.json([]);
+  }
+});
+
 app.post('/upload', upload.single('media'), (req, res) => {
   if (!req.file) return res.status(400).json({ error: 'No file uploaded.' });
   cloudinary.uploader.upload_stream({ resource_type: 'auto' }, (error, result) => {
