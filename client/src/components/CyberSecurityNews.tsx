@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const apiUrl = '/api';
+const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
 
 interface NewsItem {
   title: string;

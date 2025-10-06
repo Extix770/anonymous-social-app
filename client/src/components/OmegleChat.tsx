@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
 
+const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+
 interface OmegleChatProps {
   onLeave: () => void;
 }
@@ -26,7 +28,7 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
         localStreamRef.current = stream;
         if (localVideoRef.current) localVideoRef.current.srcObject = stream;
 
-        const socket = io();
+        const socket = io(apiUrl);
         socketRef.current = socket;
 
         socket.on('connect', () => socket.emit('find-partner'));

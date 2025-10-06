@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
 
+const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+
 const StatsDisplay: React.FC = () => {
   const [onlineCount, setOnlineCount] = useState(0);
   const [totalVisits, setTotalVisits] = useState(0);
@@ -8,7 +10,7 @@ const StatsDisplay: React.FC = () => {
 
   useEffect(() => {
     // Connect to the server just for stats
-    const socket = io();
+    const socket = io(apiUrl);
     socketRef.current = socket;
 
     socket.on('update-stats', ({ onlineCount, totalVisits }) => {

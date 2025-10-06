@@ -18,7 +18,7 @@ interface Post {
   mediaType?: string;
 }
 
-const apiUrl = '/api';
+const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
 
 function App() {
   return (
@@ -58,7 +58,7 @@ function Home() {
   useEffect(() => {
     fetchPosts();
 
-    const socket = io();
+    const socket = io(apiUrl);
 
     socket.on('new-post', (newPost: Post) => {
       setPosts((prevPosts) => [newPost, ...prevPosts]);
