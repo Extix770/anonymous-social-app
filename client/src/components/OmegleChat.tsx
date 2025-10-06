@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
 
@@ -122,7 +121,7 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
   return (
     <div className="card mb-3">
       <div className="card-body">
-        <h5 className="card-title">Omegle Style Chat</h5>
+        <h5 className="card-title">MysticHiddenFace</h5>
         <p>{status}</p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <video ref={localVideoRef} autoPlay playsInline muted style={{ width: '50%', transform: 'scaleX(-1)' }} />
