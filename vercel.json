@@ -3,9 +3,7 @@
   "builds": [
     {
       "src": "client/package.json",
-      "use": "@vercel/static-build",
-      "installCommand": "npm install",
-      "buildCommand": "npm run build"
+      "use": "@vercel/static-build"
     },
     {
       "src": "server/index.js",
