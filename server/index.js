@@ -32,6 +32,7 @@ const upload = multer({ storage });
 
 // --- Stats Tracking ---
 const visitsFilePath = path.join(__dirname, 'visits.txt');
+const postsFilePath = path.join(__dirname, 'posts.json');
 let totalVisits = 0;
 
 const loadVisits = () => {
@@ -43,6 +44,18 @@ const loadVisits = () => {
 
 const saveVisits = () => {
   fs.writeFileSync(visitsFilePath, totalVisits.toString(), 'utf8');
+};
+
+const loadPosts = () => {
+  if (fs.existsSync(postsFilePath)) {
+    const data = fs.readFileSync(postsFilePath, 'utf8');
+    posts = JSON.parse(data);
+    nextId = posts.length > 0 ? Math.max(...posts.map(p => p.id)) + 1 : 1;
+  }
+};
+
+const savePosts = () => {
+  fs.writeFileSync(postsFilePath, JSON.stringify(posts, null, 2), 'utf8');
 };
 
 const incrementVisits = (req, res, next) => {
@@ -79,6 +92,7 @@ app.post('/posts', (req, res) => {
   if (!content && !mediaUrl) return res.status(400).json({ error: 'Post cannot be empty' });
   const newPost = { id: nextId++, content, mediaUrl, mediaType, timestamp: new Date().toISOString() };
   posts.push(newPost);
+  savePosts();
   res.status(201).json(newPost);
 });
 
@@ -140,5 +154,6 @@ io.on('connection', (socket) => {
 // --- Start Server ---
 server.listen(port, () => {
   loadVisits();
+  loadPosts();
   console.log(`Server listening at http://localhost:${port}`);
 });
