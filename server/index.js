@@ -1,4 +1,3 @@
-
 const express = require('express');
 const cors = require('cors');
 const cloudinary = require('cloudinary').v2;
@@ -93,6 +92,7 @@ app.post('/posts', (req, res) => {
   const newPost = { id: nextId++, content, mediaUrl, mediaType, timestamp: new Date().toISOString() };
   posts.push(newPost);
   savePosts();
+  io.emit('new-post', newPost);
   res.status(201).json(newPost);
 });
 

@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
+import io from 'socket.io-client';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
 import OmegleChat from './components/OmegleChat';
@@ -32,6 +33,16 @@ function App() {
 
   useEffect(() => {
     fetchPosts();
+
+    const socket = io(apiUrl);
+
+    socket.on('new-post', (newPost: Post) => {
+      setPosts((prevPosts) => [newPost, ...prevPosts]);
+    });
+
+    return () => {
+      socket.disconnect();
+    };
   }, [fetchPosts]);
 
   return (
