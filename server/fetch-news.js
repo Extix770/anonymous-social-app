@@ -37,4 +37,9 @@ async function fetchNews() {
   }
 }
 
+// Only run if executed directly
+if (require.main === module) {
+  fetchNews();
+}
+
 module.exports = { fetchNews };
