@@ -18,7 +18,7 @@ interface Post {
   mediaType?: string;
 }
 
-const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
+const apiUrl = '/api';
 
 function App() {
   return (
@@ -58,7 +58,7 @@ function Home() {
   useEffect(() => {
     fetchPosts();
 
-    const socket = io(apiUrl);
+    const socket = io();
 
     socket.on('new-post', (newPost: Post) => {
       setPosts((prevPosts) => [newPost, ...prevPosts]);

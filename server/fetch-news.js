@@ -37,4 +37,4 @@ async function fetchNews() {
   }
 }
 
-fetchNews();
+module.exports = { fetchNews };

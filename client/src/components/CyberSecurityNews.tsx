@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
+const apiUrl = '/api';
 
 interface NewsItem {
   title: string;
@@ -18,7 +18,7 @@ const CyberSecurityNews: React.FC = () => {
     const fetchNews = async () => {
       try {
         setLoading(true);
-        const response = await axios.get(`${apiUrl}/api/cybersecurity-news`);
+        const response = await axios.get(`${apiUrl}/cybersecurity-news`);
         setNews(response.data);
       } catch (error) {
         console.error('Error fetching cybersecurity news:', error);

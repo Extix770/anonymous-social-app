@@ -1,8 +1,5 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
-
-const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
 
 const StatsDisplay: React.FC = () => {
   const [onlineCount, setOnlineCount] = useState(0);
@@ -11,9 +8,7 @@ const StatsDisplay: React.FC = () => {
 
   useEffect(() => {
     // Connect to the server just for stats
-    const socket = io(apiUrl, {
-      // Note: We don't need the full chat connection here, just a lightweight connection.
-    });
+    const socket = io();
     socketRef.current = socket;
 
     socket.on('update-stats', ({ onlineCount, totalVisits }) => {
