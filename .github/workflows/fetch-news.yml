@@ -5,12 +5,12 @@ on:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write # Allow the action to write to the repository
+
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
