@@ -100,8 +100,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_E80fLCTOyE9oZStmxUkAY2S7iogIJtqgN9qDKEY2NFBEvyufU3MpJ_e4Hna3sat5lynYV7L1LjCyPYnlouSfeCS06lhZf1az_bkxxXLXFIBETvrGS57yUrmiDQACc6eD9ByzSRyUgsObte06i0mm85QhnuApnq97MmG7pZgk0PAtMj_d0voohEhP2x-8/s1600/oracle-cyberattack.jpg"
     },
-    "content": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe exploitation involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that facilitates",
-    "contentSnippet": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe exploitation involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that facilitates",
+    "content": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that",
+    "contentSnippet": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that",
     "guid": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
     "isoDate": "2025-10-07T05:12:00.000Z",
     "itunes": {}
