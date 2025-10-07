@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+    "link": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+    "pubDate": "Tue, 07 Oct 2025 22:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjRrqq-UN3pljzGEnoc_k8mvTwIWaW5ABEVsV-07P8aqUuVceB598GqhFiHbVj4fLUjaEV1A2-hLXaJY-CYpNS8tUyDKljg4oBDZBlaxfDLTGuWgVUKb0Hyal8Gl6ksA2jJjhcO4dod0hFK5Og2biOZw9aD0r_eWjgaMMlukktTkp6MSbaPJ60hiO6UlN/s1600/hackers.jpg"
+    },
+    "content": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs",
+    "contentSnippet": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs",
+    "guid": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+    "isoDate": "2025-10-07T17:04:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
     "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
     "pubDate": "Tue, 07 Oct 2025 20:48:00 +0530",
@@ -332,22 +349,5 @@
       "squid"
     ],
     "isoDate": "2025-10-03T21:05:28.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
-    "link": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
-    "pubDate": "Fri, 03 Oct 2025 23:41:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1j33LSzml8_Sl5Fp1kzrz_mVBXrvUzNw1aiEdY7RboQ3CagFk7sajYWtR1I6RTa6TlqIDCmgKc6rKpoFTEgiaadGwsIrznFyjk1i0JsIIsBB-IM9vtDExrH0aaWnY-fRVd4JyvTcNTxdTewEZKUoGBA7blWpBjvgMPwPZisEPWfnuQtbQWE0wB5I9F4aR/s1600/dns-malware.jpg"
-    },
-    "content": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer.\nThat's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish.\nThe DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
-    "contentSnippet": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer.\nThat's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish.\nThe DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
-    "guid": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
-    "isoDate": "2025-10-03T18:11:00.000Z",
-    "itunes": {}
   }
 ]
