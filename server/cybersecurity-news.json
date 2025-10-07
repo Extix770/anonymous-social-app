@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "13-Year Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+    "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+    "pubDate": "Tue, 07 Oct 2025 14:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QtGr5F2Nz_45W-3gFImDExFplzy_SofQQ04Jt6VpQ0AwmHWJL051s7XEDrRyqgKGXwGXswsMV0YLFtlaOpIocgkFYjwK4G-YxTohEfw4VJ-UiEPs2r7CGYYiBtnVOY2X_hfOe4pMhT93BnIy_dINOZurojkpf-AKHDxfVv703OINDm6hqtbnqOQ-Brlr/s1600/redis-flaw.png"
+    },
+    "content": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
+    "contentSnippet": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
+    "guid": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+    "isoDate": "2025-10-07T08:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+    "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+    "pubDate": "Tue, 07 Oct 2025 13:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONYKldOYGHsSAgX0eRSfnUTAjhjbHlDQ7OYBBCnYsH4jW7f-egFBxRvHiJhmtp5EPVKALsBk700DlaF5HXseSDdu0feEDRDbI1D4aibv7d6kHZuvqrCYaQ0kQNk8N9kCAmlQFCy3qFFf9gJLUgTXg-1r0o1iffqYq9bBPuO85uj-Igf8zrSF-Sq2B29A3/s1600/Medusa-Ransomware.jpg"
+    },
+    "content": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain",
+    "contentSnippet": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain",
+    "guid": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+    "isoDate": "2025-10-07T08:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
     "link": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
     "pubDate": "Tue, 07 Oct 2025 10:42:00 +0530",
@@ -309,40 +343,6 @@
     "contentSnippet": "Passwork is positioned as an on-premises unified platform for both password and secrets management, aiming to address the increasing complexity of credential storage and sharing in modern organizations. The platform recently received a major update that reworks all the core mechanics.\nPasswork 7 introduces significant changes to how credentials are organized, accessed, and managed, reflecting",
     "guid": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
     "isoDate": "2025-10-03T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New \"Cavalry Werewolf\" Attack Hits Russian Agencies with FoalShell and StallionRAT",
-    "link": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
-    "pubDate": "Fri, 03 Oct 2025 16:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVsTl631iiQsWoBJb_rx7mzUyk0TbL2bKhgSsH1iwIa2VOMDJLJ-XBqQRyzw8FuyfDQ21duI5iED5f0fxb7YLBctGOaNm2pSXfPhHHQLSv7CfyAFbMQ3enx7o_UVcdhZFfljSL6j8ccy9c_8MvIBUpldpWAgajd8GG-h5wNVviKx0yLKJvY8NYDLbZ2lPp/s1600/cyberattack.jpg"
-    },
-    "content": "A threat actor that's known to share overlaps with a hacking group called YoroTrooper has been observed targeting the Russian public sector with malware families such as FoalShell and StallionRAT.\nCybersecurity vendor BI.ZONE is tracking the activity under the moniker Cavalry Werewolf. It's also assessed to have commonalities with clusters tracked as SturgeonPhisher, Silent Lynx, Comrade Saiga,",
-    "contentSnippet": "A threat actor that's known to share overlaps with a hacking group called YoroTrooper has been observed targeting the Russian public sector with malware families such as FoalShell and StallionRAT.\nCybersecurity vendor BI.ZONE is tracking the activity under the moniker Cavalry Werewolf. It's also assessed to have commonalities with clusters tracked as SturgeonPhisher, Silent Lynx, Comrade Saiga,",
-    "guid": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
-    "isoDate": "2025-10-03T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild",
-    "link": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
-    "pubDate": "Fri, 03 Oct 2025 13:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Vf5tvpRo-cxVfClYZXnuH7mBd-k439wei9RCLJXQkiQk-PdE7VJ2C2ZuARR1GIrg2UTt0aqFh-QALu9Zu5FQDhZHg-11c6UCCfN3n5ILXT9QBobEfGrT-pNfA3GJRcIveodbWL_HkuERMNFQvKCHKhsbp_RD5bRnDjeB-98W6tJJGNIoxJz3nXbF8rxl/s1600/onekey.gif"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Smartbedded Meteobridge to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-4008 (CVSS score: 8.7), is a case of command injection in the Meteobridge web interface that could result in code execution.\n\"",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Smartbedded Meteobridge to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-4008 (CVSS score: 8.7), is a case of command injection in the Meteobridge web interface that could result in code execution.\n\"",
-    "guid": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
-    "isoDate": "2025-10-03T08:23:00.000Z",
     "itunes": {}
   }
 ]
