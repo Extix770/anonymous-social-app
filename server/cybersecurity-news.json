@@ -23,6 +23,40 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+    "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+    "pubDate": "Tue, 07 Oct 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb3HN9cQzmGSvd5iH1Pb396dWpf7EA2w3eN4JupNp1IVbz4cRypiYci-dkgnswgphQx-Jty8z4Qgu_idzIkQgXCH0ePVGhqZoT11LVw_utt0TvRhjk5hqetM1MiGmgbw9hdscLxBZ3AHF8aa0uYj_YmzmBDz6-G8HDpTyxvDr4IScTY7xK5oe__YwiD0/s1600/ai-data-leak.jpg"
+    },
+    "content": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI &amp; Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
+    "contentSnippet": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI & Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
+    "guid": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+    "isoDate": "2025-10-07T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+    "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+    "pubDate": "Tue, 07 Oct 2025 16:06:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHtjziCIhRv5PwpT1cAfKtXq4mo_NNfMegCCb_Qk6y0vVTBsWJ95D6Z8zm1rUhSBgXc1_SXMGyUz_MrJi_lZ-imveOwHrUFysV1iGypleIV_uTpUhPO0L4MQrad1W0de5pRtB9aBqB6gb7fRqJAuUQ5tSivB5r7ABrQXhw2GJGsfK7SA-BJ2raeCItUFk/s1600/xworm.jpg"
+    },
+    "content": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
+    "contentSnippet": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
+    "guid": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+    "isoDate": "2025-10-07T10:36:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
     "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
     "pubDate": "Tue, 07 Oct 2025 14:03:00 +0530",
@@ -314,40 +348,6 @@
     "contentSnippet": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others.\n\"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
     "guid": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
     "isoDate": "2025-10-03T15:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "ICE Wants to Build Out a 24/7 Social Media Surveillance Team",
-    "link": "https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/",
-    "pubDate": "Fri, 03 Oct 2025 13:21:05 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Documents show that ICE plans to hire dozens of contractors to scan X, Facebook, TikTok, and other platforms to target people for deportation.",
-    "contentSnippet": "Documents show that ICE plans to hire dozens of contractors to scan X, Facebook, TikTok, and other platforms to target people for deportation.",
-    "guid": "68dfbd0428801d6b5ae6a428",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-03T13:21:05.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
-    "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
-    "pubDate": "Fri, 03 Oct 2025 17:32:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZi_3aFVtIqXv86N1AY3tMum1vYvspKQJ06jdx7TUo4kbJ5xVFGXHxn7gW0cS5jNbxxjBfC_lXvzdGAs_jr_02xTgHCmQeipOk8dPyBb9vCejfZ926QaA45BBRVxRhHLa-Xlv3eW6_qlLDdAArC8RLNE_QE2ByXWQCjiuncQxb1-TINGE_1jaIVjDKV07P/s1600/whstsapp.jpg"
-    },
-    "content": "Brazilian users have emerged as the target of a new self-propagating malware dubbed SORVEPOTEL that spreads via the popular messaging app WhatsApp.\nThe campaign, codenamed Water Saci by Trend Micro, weaponizes the trust with the platform to extend its reach across Windows systems, adding the attack is \"engineered for speed and propagation\" rather than data theft or ransomware.\n\"SORVEPOTEL has",
-    "contentSnippet": "Brazilian users have emerged as the target of a new self-propagating malware dubbed SORVEPOTEL that spreads via the popular messaging app WhatsApp.\nThe campaign, codenamed Water Saci by Trend Micro, weaponizes the trust with the platform to extend its reach across Windows systems, adding the attack is \"engineered for speed and propagation\" rather than data theft or ransomware.\n\"SORVEPOTEL has",
-    "guid": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
-    "isoDate": "2025-10-03T12:02:00.000Z",
     "itunes": {}
   }
 ]
