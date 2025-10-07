@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
+    "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+    "pubDate": "Tue, 07 Oct 2025 20:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2_yOppUpR_OzddDQoSv2TmchRraf0gplmCW9EB2E3CKL_L2W7Mn0vOUsZCw8MOuy871WmTwFbzImnFvDfRr7GK8DKeReeZqhZYVKIl5i7viICUT7Fm9HxvqVbluyxYeHxq-eTTx_kDSZcWyEx7YrrrkHjT0JjC3g-s7KCqB27YspV8URR4eeRnKwK6Vd0/s1600/google-ai.jpg"
+    },
+    "content": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and",
+    "contentSnippet": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and",
+    "guid": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+    "isoDate": "2025-10-07T15:18:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI-Enabled Influence Operation Against Iran",
     "link": "https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html",
@@ -331,23 +348,6 @@
     "contentSnippet": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer.\nThat's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish.\nThe DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
     "guid": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
     "isoDate": "2025-10-03T18:11:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
-    "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
-    "pubDate": "Fri, 03 Oct 2025 21:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizM08GLG48jlna2kwiWsliLcBCG5Bbb-iM2NCvEui90N919_bbrt-CS44xzBr3M9ccjqRMuGSPvzCYKKGubVFuaugLDMjfLYR3Dgqp_V0Qg-YZS3nBEzKkzvkO2JfkXAkV2hyy5qBQt6XUp1ta8Ed7eQF4sBeH13OfHBdhj1JJljqMLCnU8lTtMd7aMBM/s1600/stealer.jpg"
-    },
-    "content": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others.\n\"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
-    "contentSnippet": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others.\n\"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
-    "guid": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
-    "isoDate": "2025-10-03T15:58:00.000Z",
     "itunes": {}
   }
 ]
