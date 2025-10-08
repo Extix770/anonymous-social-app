@@ -18,7 +18,7 @@ const CyberSecurityTools: React.FC = () => {
   useEffect(() => {
     const fetchTools = async () => {
       try {
-        const response = await fetch('http://localhost:3001/github-tools');
+        const response = await fetch('https://anonymous-api-tvtx.onrender.com/github-tools');
         const data = await response.json();
         setTools(data);
       } catch (error) {
