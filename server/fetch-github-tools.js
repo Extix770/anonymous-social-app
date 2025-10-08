@@ -13,7 +13,7 @@ async function fetchCyberSecurityTools() {
       q,
       sort: "stars",
       order: "desc",
-      per_page: 10,
+      per_page: 100,
     });
 
     const tools = repos.map((repo) => ({
