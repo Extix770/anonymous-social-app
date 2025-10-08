@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Step Into the Password Graveyard… If You Dare (and Join the Live Session)",
+    "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+    "pubDate": "Wed, 08 Oct 2025 17:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwsTf3ky6VtqQNr71Isd3UjCjU91fQSbDth8CN_3x4djTM6cpsvwUFIgI5NmlL1egPOlFkSqvpWKOT8d_sehIcb71Af-MbYuauCbHwbdqzI3N-u0Sli972aMWvccaR1LZqHunBp-Z_dMtum5NXcaCcefHAe7hD1eRFGz7x5s35Er8JLhIgjDkEaMYNL0/s1600/password-security.jpg"
+    },
+    "content": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “",
+    "contentSnippet": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “",
+    "guid": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+    "isoDate": "2025-10-08T11:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+    "link": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+    "pubDate": "Wed, 08 Oct 2025 16:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEeozb0vcoEHmYPAHRjF_BarXG0GIfTsono3rvP0iaLcasgFGchotwAxyhSKOcNoTsLlmzcIcawrbn4Yr7-FJCXYb0ndzLomPC9FKh3PfYx-EeV9pzpjm9nUezERDwzKGF6PbZKfv0jlozgQe6c7VUL_POXXOkkf5ed2moXnW3WccqLtxgl54KSrwgGoBZ/s1600/figma.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a now-patched vulnerability in the popular figma-developer-mcp Model Context Protocol (MCP) server that could allow attackers to achieve code execution.\nThe vulnerability, tracked as CVE-2025-53967 (CVSS score: 7.5), is a command injection bug stemming from the unsanitized use of user input, opening the door to a scenario where an attacker can",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a now-patched vulnerability in the popular figma-developer-mcp Model Context Protocol (MCP) server that could allow attackers to achieve code execution.\nThe vulnerability, tracked as CVE-2025-53967 (CVSS score: 7.5), is a command injection bug stemming from the unsanitized use of user input, opening the door to a scenario where an attacker can",
+    "guid": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+    "isoDate": "2025-10-08T10:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
     "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
     "pubDate": "Wed, 08 Oct 2025 14:27:00 +0530",
@@ -328,39 +362,5 @@
       "Business / Artificial Intelligence"
     ],
     "isoDate": "2025-10-06T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
-    "link": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
-    "pubDate": "Mon, 06 Oct 2025 11:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxCYsEXKdQeC582l2xUR18p9qT9PP-_OwgroBPjibHEFWoZPrqTUckH1p0-NMSw0TV5lT6ih4jyxHy3BTV_6ApzqRCK5RAHSJU0S78WyrtWGyecrbDmCy9yrDDnA128PXV_zPCEjOHxyMbYfd52xiy2RMqZJrG1XMGW8urAl3WmkwbZNCAcpg5yTt7p-a/s1600/zimbra-email-hacking.jpg"
-    },
-    "content": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.\nTracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
-    "contentSnippet": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.\nTracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
-    "guid": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
-    "isoDate": "2025-10-06T06:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief",
-    "link": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
-    "pubDate": "Sat, 04 Oct 2025 20:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwIREfLD0f9VnhVlWQeaAaQQQLFAE8Yq11lxwmw5UA9-54l9pbKf064vcz5GHQ1Rer9Qc892qln_Fn4RdecChxbCQk2qurb0OndYaSsdAt7qXWn61Binw_OZ96OtLwpRRXfq99QHnoGeCPiuqOE2yBAE2lVhgmUSdAjw32GybKl8HeYJGK3DcyEAOCWpRr/s1600/comet-ai.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.\nThe sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.\nThe sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
-    "guid": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
-    "isoDate": "2025-10-04T14:37:00.000Z",
-    "itunes": {}
   }
 ]
