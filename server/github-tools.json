@@ -630,21 +630,21 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -765,13 +765,13 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
     "forks": 0,
-    "language": "Perl"
+    "language": "Python"
   },
   {
     "name": "digital-forensics-tools",
@@ -783,13 +783,13 @@
     "language": null
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
     "stars": 4,
     "forks": 0,
-    "language": "Python"
+    "language": "Perl"
   },
   {
     "name": "cybersec-tools-installer",
@@ -810,13 +810,13 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
     "forks": 0,
-    "language": null
+    "language": "Python"
   },
   {
     "name": "linux-network-win-tools",
@@ -828,13 +828,13 @@
     "language": "Python"
   },
   {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 4,
     "forks": 0,
-    "language": "Python"
+    "language": null
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
