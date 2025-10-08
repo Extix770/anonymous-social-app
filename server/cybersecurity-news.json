@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+    "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+    "pubDate": "Wed, 08 Oct 2025 14:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjH27wmKHmbucQzDMPHCmT6HdEZSoRqWpBH0SVcGRZfdUktxb0C9_MVjhE6PYR4VYbp9nSIAtN4ghVo8wmz1NGcOL_4OPK8gqaJcRPhGtTEkVKlLa8i6ti3nyZM5IJSYROd5FEkf9gVD0ZQ4vSpIWuSRHV938OFfapC0PZ2c3ch9pajFWeaF323ONJkIkS/s1600/ai.jpg"
+    },
+    "content": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced before. Security teams are overwhelmed by an explosion of vulnerability data, tool outputs, and alerts, all while operating with finite human resources. The irony is that while AI has become a",
+    "contentSnippet": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced before. Security teams are overwhelmed by an explosion of vulnerability data, tool outputs, and alerts, all while operating with finite human resources. The irony is that while AI has become a",
+    "guid": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+    "isoDate": "2025-10-08T08:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
+    "link": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
+    "pubDate": "Wed, 08 Oct 2025 12:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6chC19HKnXwdVSqh15tLVk9oZnCqKy6GmdtBpDR181tsPB6mrx4hyphenhyphenfO_ef44UZkKjSlpQnCiifEtuA4W6aSh29FTn2buJ2DQf8rhKxKukFLSJQ2b3SozL4hIdBWX7KtR2ikKEZ2Cf4wMb0IwcOxkBM_RPm_aKYuqRUHclcauw4yB8JCqWdEUiTdhsSKoZ/s1600/chatgpt.jpg"
+    },
+    "content": "OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.\nThis includes a Russian‑language threat actor, who is said to have used the chatbot to help develop and refine a remote access trojan (RAT), a credential stealer with an aim to evade detection. The operator also used several ChatGPT accounts to",
+    "contentSnippet": "OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.\nThis includes a Russian‑language threat actor, who is said to have used the chatbot to help develop and refine a remote access trojan (RAT), a credential stealer with an aim to evade detection. The operator also used several ChatGPT accounts to",
+    "guid": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
+    "isoDate": "2025-10-08T07:16:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
     "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
@@ -328,40 +362,5 @@
     "guid": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
     "isoDate": "2025-10-04T14:37:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
-    "link": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-    "pubDate": "Sat, 04 Oct 2025 16:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlh6dseVQZIo9E7j4gKPiWbf9wDAoGVPr4DyhfsZB7iacAtu-Y5NAnMi1sWowgrtNrNQHhyphenhyphencPQgxvdClooUDsgL4e6FXfv5AjFQbVxQMO_PCcOfJ159qmn3kZbX1Q2o01jW1X0v16jPGCi8ttsPyLtwPmK6hZXduXtaA70Ioue0iCJUpU6Bd9myawUyb_/s1600/scans.jpg"
-    },
-    "content": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
-    "contentSnippet": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
-    "guid": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-    "isoDate": "2025-10-04T10:39:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Andy Greenberg, Andrew Couts",
-    "title": "Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure",
-    "link": "https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/",
-    "pubDate": "Sat, 04 Oct 2025 10:30:00 +0000",
-    "dc:creator": "Matt Burgess, Andy Greenberg, Andrew Couts",
-    "content": "Plus: China sentences scam bosses to death, Europe is ramping up its plans to build a “drone wall” to protect against Russian airspace violations, and more.",
-    "contentSnippet": "Plus: China sentences scam bosses to death, Europe is ramping up its plans to build a “drone wall” to protect against Russian airspace violations, and more.",
-    "guid": "68e0069b0657e0c2fe68a56a",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-04T10:30:00.000Z"
   }
 ]
