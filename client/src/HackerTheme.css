@@ -1,48 +1,63 @@
-
 body {
-  background-color: #000 !important;
-  color: #0f0 !important;
-  font-family: 'Monaco', 'Courier New', monospace !important;
+  background-color: #f8f9fa !important; /* A slightly off-white for a softer look */
+  color: #333333 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
 }
 
 .hacker-container h1 {
-  color: #0f0;
-  text-shadow: 0 0 5px #0f0;
+  color: #333333;
+  text-shadow: none;
 }
 
 .card {
-  background-color: #000 !important;
-  border: 1px solid #0f0 !important;
-  box-shadow: 0 0 10px #0f0;
+  background-color: #ffffff !important;
+  border: 1px solid #e0e0e0 !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: box-shadow 0.3s ease-in-out;
 }
 
-.card-title,
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-title {
+  color: #007bff !important;
+}
+
 .card-text {
-  color: #0f0 !important;
+  color: #555555 !important;
 }
 
 textarea.form-control {
-  background-color: #111;
-  color: #0f0;
-  border: 1px solid #0f0;
+  background-color: #ffffff;
+  color: #333333;
+  border: 1px solid #ced4da;
 }
 
 textarea.form-control::placeholder {
-  color: #0a0;
+  color: #6c757d;
 }
 
-.btn-success {
-  background-color: transparent !important;
-  border: 1px solid #0f0 !important;
-  color: #0f0 !important;
+.btn-primary {
+  background-color: #007bff !important;
+  border: 1px solid #007bff !important;
+  color: #ffffff !important;
+  transition: background-color 0.3s ease-in-out;
 }
 
-.btn-success:hover {
-  background-color: #0f0 !important;
-  color: #000 !important;
-  box-shadow: 0 0 10px #0f0;
+.btn-primary:hover {
+  background-color: #0056b3 !important;
+  border-color: #0056b3 !important;
+}
+
+.nav-link {
+  color: #007bff !important;
+}
+
+.nav-link:hover {
+  color: #0056b3 !important;
 }
 
 .text-muted {
-  color: #0c0 !important;
+  color: #6c757d !important;
 }

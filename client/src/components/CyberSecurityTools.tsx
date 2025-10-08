@@ -32,36 +32,28 @@ const CyberSecurityTools: React.FC = () => {
   }, []);
 
   if (loading) {
-    return <div className="hacker-theme">Loading...</div>;
+    return <div>Loading...</div>;
   }
 
   return (
-    <div className="hacker-theme">
-      <h2>Top 10 Cybersecurity Tools from GitHub</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Owner</th>
-            <th>Description</th>
-            <th>Language</th>
-            <th>Stars</th>
-            <th>Forks</th>
-          </tr>
-        </thead>
-        <tbody>
-          {tools.map((tool) => (
-            <tr key={tool.url}>
-              <td><a href={tool.url} target="_blank" rel="noopener noreferrer">{tool.name}</a></td>
-              <td>{tool.owner}</td>
-              <td>{tool.description}</td>
-              <td>{tool.language}</td>
-              <td>{tool.stars}</td>
-              <td>{tool.forks}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div>
+      <h2 className="text-center mb-4">Top 100 Cybersecurity Tools from GitHub</h2>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1rem' }}>
+        {tools.map((tool) => (
+          <div key={tool.url} className="card h-100">
+            <div className="card-body d-flex flex-column">
+              <h5 className="card-title"><a href={tool.url} target="_blank" rel="noopener noreferrer">{tool.name}</a></h5>
+              <h6 className="card-subtitle mb-2 text-muted">{tool.owner}</h6>
+              <p className="card-text flex-grow-1">{tool.description}</p>
+              <div>
+                <span className="badge bg-primary me-1">{tool.language}</span>
+                <span className="badge bg-success me-1">★ {tool.stars}</span>
+                <span className="badge bg-info">Forks: {tool.forks}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };

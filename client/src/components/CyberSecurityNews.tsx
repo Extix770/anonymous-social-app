@@ -30,23 +30,23 @@ const CyberSecurityNews: React.FC = () => {
   }, []);
 
   return (
-    <div className="card">
-      <div className="card-body">
-        <h5 className="card-title text-center">Cybersecurity News</h5>
-        {loading ? (
-          <p className="text-center">Loading news...</p>
-        ) : (
-          <ul className="list-group list-group-flush">
-            {news.map((item, index) => (
-              <li key={index} className="list-group-item">
-                <h6><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h6>
+    <div>
+      <h2 className="text-center mb-4">Cybersecurity News</h2>
+      {loading ? (
+        <p className="text-center">Loading news...</p>
+      ) : (
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1rem' }}>
+          {news.map((item, index) => (
+            <div key={index} className="card h-100">
+              <div className="card-body d-flex flex-column">
+                <h6 className="card-title"><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h6>
                 <p><small className="text-muted">{new Date(item.pubDate).toLocaleString()}</small></p>
-                <p>{item.contentSnippet}</p>
-              </li>
-            ))}
-          </ul>
-        )}
-      </div>
+                <p className="card-text flex-grow-1">{item.contentSnippet}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 };
