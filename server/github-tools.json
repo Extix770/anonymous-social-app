@@ -810,21 +810,21 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Mobile-Penetration-Testing-Tool",
     "owner": "4xyy",
     "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
     "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "Network-Security-Toolkit",
-    "owner": "ZealExorcist",
-    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
-    "description": "This Is a repo For a network security toolkit",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 3,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   }
 ]
