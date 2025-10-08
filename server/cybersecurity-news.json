@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+    "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+    "pubDate": "Wed, 08 Oct 2025 14:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjH27wmKHmbucQzDMPHCmT6HdEZSoRqWpBH0SVcGRZfdUktxb0C9_MVjhE6PYR4VYbp9nSIAtN4ghVo8wmz1NGcOL_4OPK8gqaJcRPhGtTEkVKlLa8i6ti3nyZM5IJSYROd5FEkf9gVD0ZQ4vSpIWuSRHV938OFfapC0PZ2c3ch9pajFWeaF323ONJkIkS/s1600/ai.jpg"
+    },
+    "content": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced before. Security teams are overwhelmed by an explosion of vulnerability data, tool outputs, and alerts, all while operating with finite human resources. The irony is that while AI has become a",
+    "contentSnippet": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced before. Security teams are overwhelmed by an explosion of vulnerability data, tool outputs, and alerts, all while operating with finite human resources. The irony is that while AI has become a",
+    "guid": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+    "isoDate": "2025-10-08T08:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
     "link": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
     "pubDate": "Wed, 08 Oct 2025 12:46:00 +0530",
@@ -344,23 +361,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.\nThe sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
     "guid": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
     "isoDate": "2025-10-04T14:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
-    "link": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-    "pubDate": "Sat, 04 Oct 2025 16:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlh6dseVQZIo9E7j4gKPiWbf9wDAoGVPr4DyhfsZB7iacAtu-Y5NAnMi1sWowgrtNrNQHhyphenhyphencPQgxvdClooUDsgL4e6FXfv5AjFQbVxQMO_PCcOfJ159qmn3kZbX1Q2o01jW1X0v16jPGCi8ttsPyLtwPmK6hZXduXtaA70Ioue0iCJUpU6Bd9myawUyb_/s1600/scans.jpg"
-    },
-    "content": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
-    "contentSnippet": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals.\nThe company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
-    "guid": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-    "isoDate": "2025-10-04T10:39:00.000Z",
     "itunes": {}
   }
 ]
