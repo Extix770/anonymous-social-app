@@ -1,13 +1,13 @@
 require('dotenv').config();
-const { Octokit } = require("octokit");
 const fs = require("fs");
-
-const octokit = new Octokit({
-  auth: process.env.GITHUB_API_KEY,
-});
 
 async function fetchCyberSecurityTools() {
   try {
+    const { Octokit } = await import("octokit");
+    const octokit = new Octokit({
+      auth: process.env.GITHUB_API_KEY,
+    });
+
     const q = "topic:cybersecurity tool in:name";
     const { data: { items: repos } } = await octokit.request("GET /search/repositories", {
       q,
