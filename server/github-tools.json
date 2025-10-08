@@ -630,15 +630,6 @@
     "language": "C"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -654,6 +645,15 @@
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -765,13 +765,13 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
     "stars": 4,
     "forks": 0,
-    "language": "Python"
+    "language": "Perl"
   },
   {
     "name": "digital-forensics-tools",
@@ -783,22 +783,13 @@
     "language": null
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
     "forks": 0,
-    "language": "Perl"
-  },
-  {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
+    "language": "Python"
   },
   {
     "name": "URL-Analysis-Tool",
@@ -810,13 +801,13 @@
     "language": "Python"
   },
   {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
     "stars": 4,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "linux-network-win-tools",
@@ -825,6 +816,15 @@
     "description": null,
     "stars": 4,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "stars": 4,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "Password-Management-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Password-Management-Tool",
-    "description": "This is a simple password management tool built using python, for penetration testing, ethical hacking and password security.",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 3,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   }
 ]
