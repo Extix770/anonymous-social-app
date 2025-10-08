@@ -540,15 +540,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 7,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "AUX-441",
     "url": "https://github.com/AUX-441/security-tools-hacking",
@@ -556,6 +547,15 @@
     "stars": 7,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "stars": 7,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "FuzzFindr-Web-Fuzzing-Tool",
@@ -630,15 +630,6 @@
     "language": "C"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -654,6 +645,15 @@
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -765,15 +765,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -781,6 +772,15 @@
     "stars": 4,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "PerlCodingToolkit",
@@ -810,15 +810,6 @@
     "language": "Python"
   },
   {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "linux-network-win-tools",
     "owner": "s3bu7i",
     "url": "https://github.com/s3bu7i/linux-network-win-tools",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 0,
     "language": null
+  },
+  {
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
