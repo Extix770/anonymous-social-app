@@ -23,12 +23,20 @@ const CyberSecurityTools: React.FC = () => {
         setTools(data);
       } catch (error) {
         console.error('Error fetching cybersecurity tools:', error);
-      } finally {
-        setLoading(false);
       }
     };
 
-    fetchTools();
+    const initialFetch = async () => {
+      setLoading(true);
+      await fetchTools();
+      setLoading(false);
+    };
+
+    initialFetch();
+
+    const intervalId = setInterval(fetchTools, 30000); // Refresh every 30 seconds
+
+    return () => clearInterval(intervalId); // Cleanup interval on unmount
   }, []);
 
   if (loading) {

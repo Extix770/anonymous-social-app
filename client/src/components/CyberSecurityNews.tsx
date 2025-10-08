@@ -17,16 +17,24 @@ const CyberSecurityNews: React.FC = () => {
   useEffect(() => {
     const fetchNews = async () => {
       try {
-        setLoading(true);
         const response = await axios.get(`${apiUrl}/cybersecurity-news`);
         setNews(response.data);
       } catch (error) {
         console.error('Error fetching cybersecurity news:', error);
       }
+    };
+
+    const initialFetch = async () => {
+      setLoading(true);
+      await fetchNews();
       setLoading(false);
     };
 
-    fetchNews();
+    initialFetch();
+
+    const intervalId = setInterval(fetchNews, 30000); // Refresh every 30 seconds
+
+    return () => clearInterval(intervalId); // Cleanup interval on unmount
   }, []);
 
   return (
