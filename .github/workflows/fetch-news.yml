@@ -1,16 +1,15 @@
-name: Fetch Cybersecurity News
+name: Fetch Cybersecurity News and Tools
 
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual triggering
 
-permissions:
-  contents: write # Allow the action to write to the repository
-
 jobs:
-  fetch-news:
+  fetch-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow the action to write to the repository
 
     steps:
       - name: Checkout repository
@@ -29,10 +28,12 @@ jobs:
         run: node fetch-news.js
         working-directory: ./server
 
+      - name: Fetch GitHub tools
+        run: node fetch-github-tools.js
+        working-directory: ./server
+
       - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add server/cybersecurity-news.json
-          git commit -m "Update cybersecurity news" || exit 0
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update cybersecurity news and tools"
+          file_pattern: server/cybersecurity-news.json server/github-tools.json

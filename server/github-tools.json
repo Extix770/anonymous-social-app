@@ -1,0 +1,92 @@
+[
+  {
+    "name": "RedTeam-Tools",
+    "owner": "A-poc",
+    "url": "https://github.com/A-poc/RedTeam-Tools",
+    "description": "Tools and Techniques for Red Team / Penetration Testing",
+    "stars": 7350,
+    "forks": 1005,
+    "language": null
+  },
+  {
+    "name": "osint_stuff_tool_collection",
+    "owner": "cipher387",
+    "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+    "description": "A collection of several hundred online tools for OSINT",
+    "stars": 7024,
+    "forks": 812,
+    "language": "HTML"
+  },
+  {
+    "name": "FBI-tools",
+    "owner": "danieldurnea",
+    "url": "https://github.com/danieldurnea/FBI-tools",
+    "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
+    "stars": 2219,
+    "forks": 343,
+    "language": null
+  },
+  {
+    "name": "RedTiger-Tools",
+    "owner": "loxy0dev",
+    "url": "https://github.com/loxy0dev/RedTiger-Tools",
+    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
+    "stars": 1590,
+    "forks": 314,
+    "language": "Python"
+  },
+  {
+    "name": "Ransomware-Tool-Matrix",
+    "owner": "BushidoUK",
+    "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
+    "description": "A resource containing all the tools each ransomware gangs uses",
+    "stars": 1236,
+    "forks": 140,
+    "language": null
+  },
+  {
+    "name": "Open-source-tools-for-CTI",
+    "owner": "BushidoUK",
+    "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
+    "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
+    "stars": 733,
+    "forks": 123,
+    "language": null
+  },
+  {
+    "name": "osint_toolkit",
+    "owner": "dev-lu",
+    "url": "https://github.com/dev-lu/osint_toolkit",
+    "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
+    "stars": 723,
+    "forks": 117,
+    "language": "JavaScript"
+  },
+  {
+    "name": "Awesome-Blackhat-Tools",
+    "owner": "UCYBERS",
+    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
+    "description": "A curated list of tools officially presented at Black Hat events",
+    "stars": 692,
+    "forks": 64,
+    "language": null
+  },
+  {
+    "name": "Awesome-hacking-tools",
+    "owner": "awake1t",
+    "url": "https://github.com/awake1t/Awesome-hacking-tools",
+    "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
+    "stars": 501,
+    "forks": 61,
+    "language": "Python"
+  },
+  {
+    "name": "kali-linux-tools-interface",
+    "owner": "lucasfrag",
+    "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
+    "description": "Graphical Web interface developed to facilitate the use of security information tools.",
+    "stars": 257,
+    "forks": 72,
+    "language": "PHP"
+  }
+]

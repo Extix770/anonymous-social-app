@@ -88,6 +88,16 @@ app.get('/cybersecurity-news', (req, res) => {
   }
 });
 
+app.get('/github-tools', (req, res) => {
+  const toolsFilePath = path.join(__dirname, 'github-tools.json');
+  if (fs.existsSync(toolsFilePath)) {
+    const data = fs.readFileSync(toolsFilePath, 'utf8');
+    res.json(JSON.parse(data));
+  } else {
+    res.json([]);
+  }
+});
+
 app.post('/upload', upload.single('media'), (req, res) => {
   if (!req.file) return res.status(400).json({ error: 'No file uploaded.' });
   cloudinary.uploader.upload_stream({ resource_type: 'auto' }, (error, result) => {

@@ -7,6 +7,7 @@ import PostFeed from './components/PostFeed';
 import OmegleChat from './components/OmegleChat';
 import StatsDisplay from './components/StatsDisplay';
 import CyberSecurityNews from './components/CyberSecurityNews';
+import CyberSecurityTools from './components/CyberSecurityTools';
 
 import './HackerTheme.css';
 
@@ -29,12 +30,14 @@ function App() {
           <nav className="nav justify-content-center">
             <Link className="nav-link" to="/">Home</Link>
             <Link className="nav-link" to="/cybersecurity-news">Cybersecurity News</Link>
+            <Link className="nav-link" to="/cybersecurity-tools">Cybersecurity Tools</Link>
           </nav>
         </header>
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
+            <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
           </Routes>
         </main>
       </div>
