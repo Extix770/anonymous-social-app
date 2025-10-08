@@ -79,6 +79,7 @@ let nextId = 1;
 app.get('/posts', incrementVisits, (req, res) => res.json(posts.sort((a, b) => b.id - a.id)));
 
 app.get('/cybersecurity-news', (req, res) => {
+  res.set('Cache-Control', 'no-store');
   const newsFilePath = path.join(__dirname, 'cybersecurity-news.json');
   if (fs.existsSync(newsFilePath)) {
     const data = fs.readFileSync(newsFilePath, 'utf8');
@@ -89,6 +90,7 @@ app.get('/cybersecurity-news', (req, res) => {
 });
 
 app.get('/github-tools', (req, res) => {
+  res.set('Cache-Control', 'no-store');
   const toolsFilePath = path.join(__dirname, 'github-tools.json');
   if (fs.existsSync(toolsFilePath)) {
     const data = fs.readFileSync(toolsFilePath, 'utf8');
