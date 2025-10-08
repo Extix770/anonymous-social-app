@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+    "pubDate": "Wed, 08 Oct 2025 22:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYtQ6iBZXeM_9-6-jbrGzyCTATFy9WOpr6EwvQtQ5CnLpPu8kgdYgU-N2QuSW6lSHPJBAu5a0L1PJdHUloy8IHJoLoU7GjAYinyJCBVEW_4I8jHryCgx5petplyS1wOc8W4utwQWqgY_dCu6JvoJ1VYpA_5LjOW-xFblJOKYSZJaWhKQOgOVbWuR5_mlB/s1600/clioci.jpg"
+    },
+    "content": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week.\nThe website security company",
+    "contentSnippet": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week.\nThe website security company",
+    "guid": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+    "isoDate": "2025-10-08T16:43:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Flok License Plate Surveillance",
     "link": "https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html",
@@ -347,23 +364,6 @@
     "contentSnippet": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
     "guid": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
     "isoDate": "2025-10-06T11:38:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-    "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-    "pubDate": "Mon, 06 Oct 2025 17:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45_vX3mA13QmCC3yLMn-k1mUEB2XZ1iLaS4Bft_m3UGI2ovVIXPBSK_Dk0tcv_h1jrLw85E9yR_cNFYKruGcrlAechzkw1-DgT6AqL3CtyXWOQIO5tW_nHqTums9SvLA5s-ZTxxx7o6_NclIvpKZShXjyCOi4zWBU_Em12NW5QX3Q0GIoeBIUsI2XCLTt/s1600/oracle.jpg"
-    },
-    "content": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite software that it said has been exploited in the recent wave of Cl0p data theft attacks.\nThe vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
-    "contentSnippet": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite software that it said has been exploited in the recent wave of Cl0p data theft attacks.\nThe vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
-    "guid": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-    "isoDate": "2025-10-06T11:37:00.000Z",
     "itunes": {}
   }
 ]
