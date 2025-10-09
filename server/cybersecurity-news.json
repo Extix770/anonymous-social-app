@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
+    "link": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
+    "pubDate": "Thu, 09 Oct 2025 19:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKVCoCUU92cuMge4jrED5l3NtGlvapm8j6ZW9_3ejj7hw3wIjj5ZTZZJnRL4-ljMYkxkKupkFzLnAdHehAlJP0ysckQfI2yMRfga9n4Bvw2UEPbmCfq-pZcbk5ivZV4bTMzCaLPf4wfzICo52y_sJcXDm9hn5pLTJ4AzmdVpMmwaWl6_sfTrMW7E8Hb4wT/s1600/sonic.jpg"
+    },
+    "content": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.\n\"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said.\nIt also noted that it's working to notify all",
+    "contentSnippet": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.\n\"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said.\nIt also noted that it's working to notify all",
+    "guid": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
+    "isoDate": "2025-10-09T13:48:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
+    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
+    "pubDate": "Thu, 09 Oct 2025 17:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxdLoRmhgk02ysA3JqNdrlVNNh7Q59n-ohX3VRVW745LTKfuV7Dqi25wLBnKZlefHEl-TBPyhXI9jexCMkkfN6zBLyrQA1C6VgUn7NYfwdRJekim7_VLmGq-gtqMU-q73-q7dTEUGyf0CziIZJGgoymYa7o9Dm3qOi5_TRRFfbQhRVqgwivu_uWz-rEG3W/s1600/threatsday-info.jpg"
+    },
+    "content": "Cyber threats are evolving faster than ever. Attackers now combine social engineering, AI-driven manipulation, and cloud exploitation to breach targets once considered secure. From communication platforms to connected devices, every system that enhances convenience also expands the attack surface.\nThis edition of ThreatsDay Bulletin explores these converging risks and the safeguards that help",
+    "contentSnippet": "Cyber threats are evolving faster than ever. Attackers now combine social engineering, AI-driven manipulation, and cloud exploitation to breach targets once considered secure. From communication platforms to connected devices, every system that enhances convenience also expands the attack surface.\nThis edition of ThreatsDay Bulletin explores these converging risks and the safeguards that help",
+    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
+    "isoDate": "2025-10-09T12:16:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
     "link": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
     "pubDate": "Thu, 09 Oct 2025 17:00:00 +0530",
@@ -143,7 +177,7 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+    "title": "Severe Framelink Figma MCP Vulnerability Lets Hackers Execute Code Remotely",
     "link": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
     "pubDate": "Wed, 08 Oct 2025 16:28:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -330,40 +364,6 @@
     "contentSnippet": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
     "guid": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
     "isoDate": "2025-10-07T08:33:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
-    "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
-    "pubDate": "Tue, 07 Oct 2025 13:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONYKldOYGHsSAgX0eRSfnUTAjhjbHlDQ7OYBBCnYsH4jW7f-egFBxRvHiJhmtp5EPVKALsBk700DlaF5HXseSDdu0feEDRDbI1D4aibv7d6kHZuvqrCYaQ0kQNk8N9kCAmlQFCy3qFFf9gJLUgTXg-1r0o1iffqYq9bBPuO85uj-Igf8zrSF-Sq2B29A3/s1600/Medusa-Ransomware.jpg"
-    },
-    "content": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain",
-    "contentSnippet": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain",
-    "guid": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
-    "isoDate": "2025-10-07T08:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
-    "link": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
-    "pubDate": "Tue, 07 Oct 2025 10:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_E80fLCTOyE9oZStmxUkAY2S7iogIJtqgN9qDKEY2NFBEvyufU3MpJ_e4Hna3sat5lynYV7L1LjCyPYnlouSfeCS06lhZf1az_bkxxXLXFIBETvrGS57yUrmiDQACc6eD9ByzSRyUgsObte06i0mm85QhnuApnq97MmG7pZgk0PAtMj_d0voohEhP2x-8/s1600/oracle-cyberattack.jpg"
-    },
-    "content": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that",
-    "contentSnippet": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that",
-    "guid": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
-    "isoDate": "2025-10-07T05:12:00.000Z",
     "itunes": {}
   }
 ]
