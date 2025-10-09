@@ -576,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "GovTools",
     "owner": "DecryptaTechnologies",
     "url": "https://github.com/DecryptaTechnologies/GovTools",
@@ -592,6 +583,15 @@
     "stars": 7,
     "forks": 1,
     "language": "C#"
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -639,21 +639,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -774,6 +774,24 @@
     "language": "Python"
   },
   {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 4,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
+  },
+  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -792,22 +810,13 @@
     "language": "Python"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "linux-network-win-tools",
@@ -828,15 +837,6 @@
     "language": null
   },
   {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "OSINT-tool-Telegram-Bot-script",
     "owner": "SaidSecurity",
     "url": "https://github.com/SaidSecurity/OSINT-tool-Telegram-Bot-script",
@@ -855,15 +855,6 @@
     "language": null
   },
   {
-    "name": "Cyber-Security-Toolset",
-    "owner": "SUmidcyber",
-    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
-    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
-    "stars": 3,
-    "forks": 2,
-    "language": "PowerShell"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -873,13 +864,13 @@
     "language": "HTML"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "Gottiee",
-    "url": "https://github.com/Gottiee/Hack-Tools",
-    "description": "Information, bypasses and payload for Application Security",
+    "name": "Cyber-Security-Toolset",
+    "owner": "SUmidcyber",
+    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
+    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
     "stars": 3,
-    "forks": 0,
-    "language": "Python"
+    "forks": 2,
+    "language": "PowerShell"
   },
   {
     "name": "ncl-tools",
@@ -889,6 +880,15 @@
     "stars": 3,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "Gottiee",
+    "url": "https://github.com/Gottiee/Hack-Tools",
+    "description": "Information, bypasses and payload for Application Security",
+    "stars": 3,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password-Management-Tool",
