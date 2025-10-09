@@ -18,6 +18,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+    "link": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+    "pubDate": "Thu, 09 Oct 2025 22:49:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOEstrhyphenhyphenCizrJ5PlhokPBRwlpC1NBlLi1ZOZIPhyphenhyphenPzYz_G9Ym0BQ-3RfmcK-GWOnK4TpboCcI9WU5r_ZbK5Jl97nD7MIAEOFyjyByLvCzyMl-jOGCe4VA1tnpnFTeT40m9GfbTiIdaCm_iS5fW-Fse_Hvq2TadRhGUQ6FcoRGLUaFYdD-RFNaMA7i60-IU/s1600/chinese.jpg"
+    },
+    "content": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
+    "contentSnippet": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
+    "guid": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+    "isoDate": "2025-10-09T17:19:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
     "link": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
     "pubDate": "Thu, 09 Oct 2025 21:00:00 +0530",
@@ -348,22 +365,5 @@
       "Israel"
     ],
     "isoDate": "2025-10-07T11:04:23.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
-    "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
-    "pubDate": "Tue, 07 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb3HN9cQzmGSvd5iH1Pb396dWpf7EA2w3eN4JupNp1IVbz4cRypiYci-dkgnswgphQx-Jty8z4Qgu_idzIkQgXCH0ePVGhqZoT11LVw_utt0TvRhjk5hqetM1MiGmgbw9hdscLxBZ3AHF8aa0uYj_YmzmBDz6-G8HDpTyxvDr4IScTY7xK5oe__YwiD0/s1600/ai-data-leak.jpg"
-    },
-    "content": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI &amp; Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
-    "contentSnippet": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI & Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
-    "guid": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
-    "isoDate": "2025-10-07T11:00:00.000Z",
-    "itunes": {}
   }
 ]
