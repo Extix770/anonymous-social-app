@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
+    "link": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
+    "pubDate": "Thu, 09 Oct 2025 12:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQr77l3KfGngFbogrkpR-NnGUpe7k1b4riMJzgAoW2vQJydnf-6Wbrm_vpuaTa7mW7NcYNS51LJmtt0LbA0zJ6sckAx9aYVaw-5R4T_e_PC6oUcUCDyJSZwRS_uz2d7TWZbRDCYrjGI3E-k3ydbpW_qtOcS-bvrP5gGvKL9bMPnUnxaS175Sx-haH1XVCq/s1600/wordpress.jpg"
+    },
+    "content": "Threat actors are actively exploiting a critical security flaw impacting the Service Finder WordPress theme that makes it possible to gain unauthorized access to any account, including administrators, and take control of susceptible sites.\nThe authentication bypass vulnerability, tracked as CVE-2025-5947 (CVSS score: 9.8), affects the Service Finder Bookings, a WordPress plugin bundled with the",
+    "contentSnippet": "Threat actors are actively exploiting a critical security flaw impacting the Service Finder WordPress theme that makes it possible to gain unauthorized access to any account, including administrators, and take control of susceptible sites.\nThe authentication bypass vulnerability, tracked as CVE-2025-5947 (CVSS score: 9.8), affects the Service Finder Bookings, a WordPress plugin bundled with the",
+    "guid": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
+    "isoDate": "2025-10-09T06:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
     "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
     "pubDate": "Wed, 08 Oct 2025 22:13:00 +0530",
@@ -346,23 +363,6 @@
     "content": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming",
     "contentSnippet": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming",
     "guid": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
-    "isoDate": "2025-10-06T11:38:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "5 Critical Questions For Adopting an AI Security Solution",
-    "link": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
-    "pubDate": "Mon, 06 Oct 2025 17:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfz3KCjm0Q8FYWkOgHENEAln0t4oa66D-4TJdIrkM-0yEpSksS9oZ_JlWBd68weRkQDK5M3Suy3BcNPfNmq89gP3hcMRDjcekzXMyctxdXoW8NZzvBv1KXshfrnCkRg6P7GgyhotfR06-URHB31CcC4eZLfsm-u8E2sA1PP4F3PDcE5Q1e-5WVDNJoI_0X/s1600/ai-cybersecurity.jpg"
-    },
-    "content": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
-    "contentSnippet": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
-    "guid": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
     "isoDate": "2025-10-06T11:38:00.000Z",
     "itunes": {}
   }
