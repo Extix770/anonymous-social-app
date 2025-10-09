@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Reece Rogers, Lily Hay Newman",
+    "title": "Apple Took Down ICE-Tracking Apps. Their Developers Aren't Giving Up",
+    "link": "https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/",
+    "pubDate": "Thu, 09 Oct 2025 17:22:32 +0000",
+    "dc:creator": "Reece Rogers, Lily Hay Newman",
+    "content": "“We are going to do everything in our power to fight this,” says ICEBlock developer Joshua Aaron after Apple removed his app from the App Store.",
+    "contentSnippet": "“We are going to do everything in our power to fight this,” says ICEBlock developer Joshua Aaron after Apple removed his app from the App Store.",
+    "guid": "68e6d7cbe66cb0a894b121a2",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Security / National Security",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2025-10-09T17:22:32.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
     "link": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
@@ -347,23 +364,6 @@
     "contentSnippet": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI & Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
     "guid": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
     "isoDate": "2025-10-07T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
-    "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
-    "pubDate": "Tue, 07 Oct 2025 16:06:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHtjziCIhRv5PwpT1cAfKtXq4mo_NNfMegCCb_Qk6y0vVTBsWJ95D6Z8zm1rUhSBgXc1_SXMGyUz_MrJi_lZ-imveOwHrUFysV1iGypleIV_uTpUhPO0L4MQrad1W0de5pRtB9aBqB6gb7fRqJAuUQ5tSivB5r7ABrQXhw2GJGsfK7SA-BJ2raeCItUFk/s1600/xworm.jpg"
-    },
-    "content": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
-    "contentSnippet": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
-    "guid": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
-    "isoDate": "2025-10-07T10:36:00.000Z",
     "itunes": {}
   }
 ]
