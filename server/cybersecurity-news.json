@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
+    "link": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
+    "pubDate": "Thu, 09 Oct 2025 21:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBW7NzBs5DgAJ2IJw5cj7fUW4lCbGH00TXlg15BFhceJegdd3WWB7zOuuRrNArH4wFRUIcoxzLyybLpU-m2SRJrK1cey_QlfvhRmOO3pSJkPHQPxOLOHz80pP-n-tmpT-1Kt4GX9kPR_HJkiTiWGZewCE6yxuhRg1juJOSx45L6NXuuo7_8Qmfe3O4rpPd/s1600/spyware.jpg"
+    },
+    "content": "A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them.\n\"Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front",
+    "contentSnippet": "A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them.\n\"Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front",
+    "guid": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
+    "isoDate": "2025-10-09T15:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
     "link": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
     "pubDate": "Thu, 09 Oct 2025 19:18:00 +0530",
@@ -347,23 +364,6 @@
     "contentSnippet": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
     "guid": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
     "isoDate": "2025-10-07T10:36:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
-    "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
-    "pubDate": "Tue, 07 Oct 2025 14:03:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QtGr5F2Nz_45W-3gFImDExFplzy_SofQQ04Jt6VpQ0AwmHWJL051s7XEDrRyqgKGXwGXswsMV0YLFtlaOpIocgkFYjwK4G-YxTohEfw4VJ-UiEPs2r7CGYYiBtnVOY2X_hfOe4pMhT93BnIy_dINOZurojkpf-AKHDxfVv703OINDm6hqtbnqOQ-Brlr/s1600/redis-flaw.png"
-    },
-    "content": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
-    "contentSnippet": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
-    "guid": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
-    "isoDate": "2025-10-07T08:33:00.000Z",
     "itunes": {}
   }
 ]
