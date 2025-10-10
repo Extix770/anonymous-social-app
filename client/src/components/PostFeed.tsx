@@ -46,10 +46,10 @@ const PostFeed: React.FC<PostFeedProps> = ({ posts }) => {
               </small>
             </p>
             <div className="mt-3">
-              <Reaction postId={post.id} reactions={post.reactions} />
+              <Reaction postId={post.id} reactions={post.reactions || {}} />
             </div>
             <div className="mt-3">
-              {post.comments.map(comment => (
+              {(post.comments || []).map(comment => (
                 <Comment key={comment.id} comment={comment} />
               ))}
             </div>
