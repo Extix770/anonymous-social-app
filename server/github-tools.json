@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "Network-Security-Toolkit",
+    "owner": "ZealExorcist",
+    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
+    "description": "This Is a repo For a network security toolkit",
     "stars": 3,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   }
 ]
