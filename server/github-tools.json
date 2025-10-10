@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7357,
+    "stars": 7358,
     "forks": 1007,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1595,
+    "stars": 1596,
     "forks": 313,
     "language": "Python"
   },
@@ -792,21 +792,21 @@
     "language": "Shell"
   },
   {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
     "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "URL-Analysis-Tool",
+    "owner": "Cybersight-Security",
+    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
+    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "stars": 4,
+    "forks": 1,
     "language": "Python"
   },
   {
