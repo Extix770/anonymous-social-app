@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import axios from 'axios';
-import io from 'socket.io-client';
+import io, { Socket } from 'socket.io-client';
 import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
 import OmegleChat from './components/OmegleChat';
@@ -15,6 +15,7 @@ interface Post {
   id: number;
   content: string;
   timestamp: string;
+  username: string;
   mediaUrl?: string;
   mediaType?: string;
   comments: Comment[];
@@ -25,9 +26,11 @@ interface Comment {
   id: number;
   text: string;
   timestamp: string;
+  username: string;
 }
 
 const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+const socket = io(apiUrl);
 
 function App() {
   return (
@@ -43,7 +46,7 @@ function App() {
         </header>
         <main>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/" element={<Home socket={socket} />} />
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
             <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
           </Routes>
@@ -53,9 +56,14 @@ function App() {
   );
 }
 
-function Home() {
+interface HomeProps {
+  socket: Socket;
+}
+
+function Home({ socket }: HomeProps) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [isChatting, setIsChatting] = useState(false);
+  const [username, setUsername] = useState('Anonymous');
 
   const fetchPosts = useCallback(async () => {
     try {
@@ -69,7 +77,9 @@ function Home() {
   useEffect(() => {
     fetchPosts();
 
-    const socket = io(apiUrl);
+    socket.on('username-assigned', (assignedUsername: string) => {
+      setUsername(assignedUsername);
+    });
 
     socket.on('new-post', (newPost: Post) => {
       setPosts((prevPosts) => [newPost, ...prevPosts]);
@@ -94,13 +104,21 @@ function Home() {
     });
 
     return () => {
-      socket.disconnect();
+      socket.off('username-assigned');
+      socket.off('new-post');
+      socket.off('new-comment');
+      socket.off('new-reaction');
     };
-  }, [fetchPosts]);
+  }, [fetchPosts, socket]);
 
   return (
     <>
       <StatsDisplay />
+      <div className="card mb-3">
+        <div className="card-body text-center">
+          <h5 className="card-title">You are: {username}</h5>
+        </div>
+      </div>
       {isChatting ? (
         <OmegleChat onLeave={() => setIsChatting(false)} />
       ) : (
@@ -112,8 +130,8 @@ function Home() {
           </div>
         </div>
       )}
-      <PostForm onNewPost={fetchPosts} />
-      <PostFeed posts={posts} />
+      <PostForm socket={socket} />
+      <PostFeed posts={posts} socket={socket} />
     </>
   );
 }

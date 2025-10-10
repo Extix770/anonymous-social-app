@@ -1,13 +1,14 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import { Socket } from 'socket.io-client';
 
 interface PostFormProps {
-  onNewPost: () => void;
+  socket: Socket;
 }
 
 const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
 
-const PostForm: React.FC<PostFormProps> = ({ onNewPost }) => {
+const PostForm: React.FC<PostFormProps> = ({ socket }) => {
   const [content, setContent] = useState('');
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [previewUrl, setPreviewUrl] = useState<string | null>(null);
@@ -50,15 +51,16 @@ const PostForm: React.FC<PostFormProps> = ({ onNewPost }) => {
         mediaType = uploadRes.data.mediaType;
       }
 
-      // 2. Create the post with the media URL
-      await axios.post(`${apiUrl}/posts`, { content, mediaUrl, mediaType });
+      // 2. Create the post with the media URL via socket
+      socket.emit('create-post', { content, mediaUrl, mediaType });
 
       // 3. Reset form
       setContent('');
       setSelectedFile(null);
-      setPreviewUrl(null);
-      if (previewUrl) URL.revokeObjectURL(previewUrl);
-      onNewPost();
+      if (previewUrl) {
+        URL.revokeObjectURL(previewUrl);
+        setPreviewUrl(null);
+      }
 
     } catch (error) {
       console.error('Error creating post:', error);

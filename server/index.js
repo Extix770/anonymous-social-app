@@ -7,6 +7,7 @@ const { Server } = require('socket.io');
 const helmet = require('helmet');
 const fs = require('fs');
 const path = require('path');
+const { generateUsername } = require('random-username-generator');
 
 const app = express();
 const server = http.createServer(app);
@@ -108,47 +109,23 @@ app.post('/upload', upload.single('media'), (req, res) => {
   }).end(req.file.buffer);
 });
 
-app.post('/posts', (req, res) => {
-  const { content, mediaUrl, mediaType } = req.body;
-  if (!content && !mediaUrl) return res.status(400).json({ error: 'Post cannot be empty' });
-    const newPost = { id: nextId++, content, mediaUrl, mediaType, timestamp: new Date().toISOString(), comments: [], reactions: {} };
-  posts.push(newPost);
-  savePosts();
-  io.emit('new-post', newPost);
-  res.status(201).json(newPost);
-});
-
-app.post('/posts/:id/comments', (req, res) => {
-  const postId = parseInt(req.params.id, 10);
-  const { comment } = req.body;
-  if (!comment) return res.status(400).json({ error: 'Comment cannot be empty' });
-
-  const post = posts.find(p => p.id === postId);
-  if (!post) return res.status(404).json({ error: 'Post not found' });
-
-  const newComment = { id: Date.now(), text: comment, timestamp: new Date().toISOString() };
-  post.comments.push(newComment);
-  savePosts();
-  io.emit('new-comment', { postId, comment: newComment });
-  res.status(201).json(newComment);
-});
-
 app.post('/posts/:id/react', (req, res) => {
-  const postId = parseInt(req.params.id, 10);
-  const { emoji } = req.body;
-  if (!emoji) return res.status(400).json({ error: 'Emoji not specified' });
+    const postId = parseInt(req.params.id, 10);
+    const { emoji } = req.body;
+    if (!emoji) return res.status(400).json({ error: 'Emoji not specified' });
 
-  const post = posts.find(p => p.id === postId);
-  if (!post) return res.status(404).json({ error: 'Post not found' });
+    const post = posts.find(p => p.id === postId);
+    if (!post) return res.status(404).json({ error: 'Post not found' });
 
-  if (!post.reactions[emoji]) {
-    post.reactions[emoji] = 0;
-  }
-  post.reactions[emoji]++;
-  savePosts();
-  io.emit('new-reaction', { postId, reactions: post.reactions });
-  res.status(200).json(post.reactions);
+    if (!post.reactions[emoji]) {
+        post.reactions[emoji] = 0;
+    }
+    post.reactions[emoji]++;
+    savePosts();
+    io.emit('new-reaction', { postId, reactions: post.reactions });
+    res.status(200).json(post.reactions);
 });
+
 // --- Omegle-style Chat Logic ---
 let waitingQueue = [];
 let partners = {};
@@ -180,6 +157,42 @@ const endChat = (socketId) => {
 
 io.on('connection', (socket) => {
   broadcastStats();
+
+  socket.username = generateUsername();
+  socket.emit('username-assigned', socket.username);
+
+  socket.on('create-post', ({ content, mediaUrl, mediaType }) => {
+    if (!content && !mediaUrl) return; // Basic validation
+    const newPost = {
+      id: nextId++,
+      username: socket.username,
+      content,
+      mediaUrl,
+      mediaType,
+      timestamp: new Date().toISOString(),
+      comments: [],
+      reactions: {},
+    };
+    posts.unshift(newPost);
+    savePosts();
+    io.emit('new-post', newPost);
+  });
+
+  socket.on('create-comment', ({ postId, comment }) => {
+    if (!comment) return;
+    const post = posts.find(p => p.id === postId);
+    if (!post) return;
+
+    const newComment = {
+      id: Date.now(),
+      username: socket.username,
+      text: comment,
+      timestamp: new Date().toISOString(),
+    };
+    post.comments.push(newComment);
+    savePosts();
+    io.emit('new-comment', { postId, comment: newComment });
+  });
 
   socket.on('find-partner', () => {
     endChat(socket.id);

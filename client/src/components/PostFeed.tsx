@@ -2,17 +2,20 @@ import React from 'react';
 import Comment from './Comment';
 import Reaction from './Reaction';
 import CommentForm from './CommentForm';
+import { Socket } from 'socket.io-client';
 
 interface CommentData {
   id: number;
   text: string;
   timestamp: string;
+  username: string;
 }
 
 interface Post {
   id: number;
   content: string;
   timestamp: string;
+  username: string;
   mediaUrl?: string;
   mediaType?: string;
   comments: CommentData[];
@@ -21,9 +24,10 @@ interface Post {
 
 interface PostFeedProps {
   posts: Post[];
+  socket: Socket;
 }
 
-const PostFeed: React.FC<PostFeedProps> = ({ posts }) => {
+const PostFeed: React.FC<PostFeedProps> = ({ posts, socket }) => {
   return (
     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1rem' }}>
       {posts.map((post) => (
@@ -42,18 +46,19 @@ const PostFeed: React.FC<PostFeedProps> = ({ posts }) => {
             <p className="card-text flex-grow-1">{post.content}</p>
             <p className="card-text">
               <small className="text-muted">
-                Posted on {new Date(post.timestamp).toLocaleString()}
+                Posted by {post.username} on {new Date(post.timestamp).toLocaleString()}
               </small>
             </p>
             <div className="mt-3">
               <Reaction postId={post.id} reactions={post.reactions || {}} />
             </div>
             <div className="mt-3">
+              <h6 className="card-subtitle mb-2 text-muted">Comments</h6>
               {(post.comments || []).map(comment => (
                 <Comment key={comment.id} comment={comment} />
               ))}
             </div>
-            <CommentForm postId={post.id} />
+            <CommentForm postId={post.id} socket={socket} />
           </div>
         </div>
       ))}

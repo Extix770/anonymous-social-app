@@ -1,20 +1,19 @@
 import React, { useState } from 'react';
-import axios from 'axios';
-
-const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+import { Socket } from 'socket.io-client';
 
 interface CommentFormProps {
   postId: number;
+  socket: Socket;
 }
 
-const CommentForm: React.FC<CommentFormProps> = ({ postId }) => {
+const CommentForm: React.FC<CommentFormProps> = ({ postId, socket }) => {
   const [comment, setComment] = useState('');
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!comment.trim()) return;
     try {
-      await axios.post(`${apiUrl}/posts/${postId}/comments`, { comment });
+      socket.emit('create-comment', { postId, comment });
       setComment('');
     } catch (error) {
       console.error('Error submitting comment:', error);
