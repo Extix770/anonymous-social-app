@@ -109,22 +109,7 @@ app.post('/upload', upload.single('media'), (req, res) => {
   }).end(req.file.buffer);
 });
 
-app.post('/posts/:id/react', (req, res) => {
-    const postId = parseInt(req.params.id, 10);
-    const { emoji } = req.body;
-    if (!emoji) return res.status(400).json({ error: 'Emoji not specified' });
 
-    const post = posts.find(p => p.id === postId);
-    if (!post) return res.status(404).json({ error: 'Post not found' });
-
-    if (!post.reactions[emoji]) {
-        post.reactions[emoji] = 0;
-    }
-    post.reactions[emoji]++;
-    savePosts();
-    io.emit('new-reaction', { postId, reactions: post.reactions });
-    res.status(200).json(post.reactions);
-});
 
 // --- Omegle-style Chat Logic ---
 let waitingQueue = [];

@@ -19,11 +19,7 @@ const Reaction: React.FC<ReactionProps> = ({ postId, reactions }) => {
 
   return (
     <div>
-      {['👍', '❤️', '😂', '😮', '😢', '😠'].map(emoji => (
-        <button key={emoji} className="btn btn-sm btn-outline-secondary me-1" onClick={() => handleReaction(emoji)}>
-          {emoji} {reactions[emoji] || 0}
-        </button>
-      ))}
+      {/* Reactions removed */}
     </div>
   );
 };
