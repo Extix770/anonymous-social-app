@@ -1,5 +1,37 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits",
+    "link": "https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/",
+    "pubDate": "Fri, 10 Oct 2025 09:15:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "With the mercenary spyware industry booming, Apple VP Ivan Krstić tells WIRED that the company is also offering bonuses that could bring the max total reward for iPhone exploits to $5 million.",
+    "contentSnippet": "With the mercenary spyware industry booming, Apple VP Ivan Krstić tells WIRED that the company is also offering bonuses that could bring the max total reward for iPhone exploits to $5 million.",
+    "guid": "68c37cf3123a0371980b71d3",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-10T09:15:00.000Z"
+  },
+  {
+    "creator": "Matt Burgess",
+    "title": "North Korean Scammers Are Doing Architectural Design Now",
+    "link": "https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/",
+    "pubDate": "Fri, 10 Oct 2025 09:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "New research shows that North Koreans appear to be trying to trick US companies into hiring them to develop architectural designs using fake profiles, résumés, and Social Security numbers.",
+    "contentSnippet": "New research shows that North Koreans appear to be trying to trick US companies into hiring them to develop architectural designs using fake profiles, résumés, and Social Security numbers.",
+    "guid": "68dfd17f31ef4c178fea6eeb",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-10T09:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
     "link": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
@@ -326,39 +358,5 @@
       "UNC6395"
     ],
     "isoDate": "2025-10-07T22:45:35.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
-    "link": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
-    "pubDate": "Tue, 07 Oct 2025 22:34:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjRrqq-UN3pljzGEnoc_k8mvTwIWaW5ABEVsV-07P8aqUuVceB598GqhFiHbVj4fLUjaEV1A2-hLXaJY-CYpNS8tUyDKljg4oBDZBlaxfDLTGuWgVUKb0Hyal8Gl6ksA2jJjhcO4dod0hFK5Og2biOZw9aD0r_eWjgaMMlukktTkp6MSbaPJ60hiO6UlN/s1600/hackers.jpg"
-    },
-    "content": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs",
-    "contentSnippet": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs",
-    "guid": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
-    "isoDate": "2025-10-07T17:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
-    "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
-    "pubDate": "Tue, 07 Oct 2025 20:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2_yOppUpR_OzddDQoSv2TmchRraf0gplmCW9EB2E3CKL_L2W7Mn0vOUsZCw8MOuy871WmTwFbzImnFvDfRr7GK8DKeReeZqhZYVKIl5i7viICUT7Fm9HxvqVbluyxYeHxq-eTTx_kDSZcWyEx7YrrrkHjT0JjC3g-s7KCqB27YspV8URR4eeRnKwK6Vd0/s1600/google-ai.jpg"
-    },
-    "content": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and",
-    "contentSnippet": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and",
-    "guid": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
-    "isoDate": "2025-10-07T15:18:00.000Z",
-    "itunes": {}
   }
 ]

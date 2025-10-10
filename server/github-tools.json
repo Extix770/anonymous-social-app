@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7358,
+    "stars": 7359,
     "forks": 1007,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1597,
+    "stars": 1598,
     "forks": 314,
     "language": "Python"
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1236,
+    "stars": 1237,
     "forks": 140,
     "language": null
   },
@@ -540,15 +540,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 7,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "AUX-441",
     "url": "https://github.com/AUX-441/security-tools-hacking",
@@ -556,6 +547,15 @@
     "stars": 7,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "stars": 7,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "FuzzFindr-Web-Fuzzing-Tool",
@@ -576,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "LuciTools",
     "owner": "IamLucif3r",
     "url": "https://github.com/IamLucif3r/LuciTools",
@@ -592,6 +583,15 @@
     "stars": 7,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -630,15 +630,6 @@
     "language": "C"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -654,6 +645,15 @@
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
+  },
+  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -783,13 +792,13 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "name": "URL-Analysis-Tool",
+    "owner": "Cybersight-Security",
+    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
+    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
     "stars": 4,
     "forks": 1,
-    "language": "Shell"
+    "language": "Python"
   },
   {
     "name": "PerlCodingToolkit",
@@ -801,13 +810,13 @@
     "language": "Perl"
   },
   {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 4,
-    "forks": 1,
-    "language": "Python"
+    "forks": 0,
+    "language": null
   },
   {
     "name": "linux-network-win-tools",
@@ -826,15 +835,6 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 4,
-    "forks": 0,
-    "language": null
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
@@ -891,10 +891,10 @@
     "language": "Python"
   },
   {
-    "name": "Network-Security-Toolkit",
-    "owner": "ZealExorcist",
-    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
-    "description": "This Is a repo For a network security toolkit",
+    "name": "Password-Management-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Password-Management-Tool",
+    "description": "This is a simple password management tool built using python, for penetration testing, ethical hacking and password security.",
     "stars": 3,
     "forks": 0,
     "language": "Python"
