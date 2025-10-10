@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7359,
+    "stars": 7360,
     "forks": 1007,
     "language": null
   },
@@ -630,15 +630,6 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -654,6 +645,15 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -702,19 +702,19 @@
     "language": "Python"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -792,19 +801,19 @@
     "language": "Perl"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "URL-Analysis-Tool",
     "owner": "Cybersight-Security",
     "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
     "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
     "stars": 4,
     "forks": 1,
     "language": "Python"
@@ -817,15 +826,6 @@
     "stars": 4,
     "forks": 0,
     "language": null
-  },
-  {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
   },
   {
     "name": "Mobile-Penetration-Testing-Tool",
@@ -891,10 +891,10 @@
     "language": "Python"
   },
   {
-    "name": "Password-Management-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Password-Management-Tool",
-    "description": "This is a simple password management tool built using python, for penetration testing, ethical hacking and password security.",
+    "name": "Network-Security-Toolkit",
+    "owner": "ZealExorcist",
+    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
+    "description": "This Is a repo For a network security toolkit",
     "stars": 3,
     "forks": 0,
     "language": "Python"
