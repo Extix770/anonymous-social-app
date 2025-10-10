@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
+    "link": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
+    "pubDate": "Fri, 10 Oct 2025 19:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjakgVGto_-OqvtF3jAOQ798lNCkt6Q_gm0N0NbfBIlHEGjbhyphenhyphenKudDV3Ol1GISKbuXy0SRlgOISfK2qMv_H7x7ClP7R_d8Nm0ylMp5o7EkHxPCIpIagimxxBAEFasCQe1ZUmmGw4aAOGKQilG-P_PeqJr03SYsTvvbNg08VRwtDwYbXyrvFxYgV5PIavKuu/s1600/nodejs-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through",
+    "guid": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
+    "isoDate": "2025-10-10T14:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries",
+    "link": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
+    "pubDate": "Fri, 10 Oct 2025 19:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Fr0HN_Hopnq6XStUBjqKYba-6EufmmmRHA4BhMnOzU8XOhKZFdMZ8zz77i00ecMI3Y_L63SHfYAjGT-lWUQGmUIRUtGeJkEya7ODnzQUDGQba7RTKt4MQT-SkvfBSx-qlvubg2b6KOwgmMydj0Fqg2cJjKzGJZRupeOL8Jm3sU9IZzg3pAF6nrVVg8uv/s1600/payroll.jpg"
+    },
+    "content": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
+    "contentSnippet": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
+    "guid": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
+    "isoDate": "2025-10-10T13:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
     "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
     "pubDate": "Fri, 10 Oct 2025 17:12:00 +0530",
@@ -313,39 +347,5 @@
       "tracking"
     ],
     "isoDate": "2025-10-08T16:10:58.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
-    "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-    "pubDate": "Wed, 08 Oct 2025 19:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFEU3_4hcDo6-rpmSdC4oOu6lqXwcs3zW75gC_vy27ch8215WSh_iF7dFmhHFNicFoE8OVHQ_OBo6mkPv5k1h-zla2zh9NB9NafhAhUl09c1JdaZyFNiL2J4WEbWvBPbWzqWK9_QcF0DD02XdxRyNmxNOV3P9Fur-cdMGfmvR2wRjm02Occ8nXnmd7sP79/s1600/chinese-hacker.jpg"
-    },
-    "content": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.\nThe activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web",
-    "contentSnippet": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.\nThe activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web",
-    "guid": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-    "isoDate": "2025-10-08T13:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Step Into the Password Graveyard… If You Dare (and Join the Live Session)",
-    "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
-    "pubDate": "Wed, 08 Oct 2025 17:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwsTf3ky6VtqQNr71Isd3UjCjU91fQSbDth8CN_3x4djTM6cpsvwUFIgI5NmlL1egPOlFkSqvpWKOT8d_sehIcb71Af-MbYuauCbHwbdqzI3N-u0Sli972aMWvccaR1LZqHunBp-Z_dMtum5NXcaCcefHAe7hD1eRFGz7x5s35Er8JLhIgjDkEaMYNL0/s1600/password-security.jpg"
-    },
-    "content": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “",
-    "contentSnippet": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “",
-    "guid": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
-    "isoDate": "2025-10-08T12:08:00.000Z",
-    "itunes": {}
   }
 ]
