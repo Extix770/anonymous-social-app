@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Sperm Whale Eating a Giant Squid",
+    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html",
+    "pubDate": "Fri, 10 Oct 2025 21:02:32 +0000",
+    "content:encoded": "<p><a href=\"https://freethoughtblogs.com/pharyngula/2025/09/25/watch-this-while-eating-your-cheerios/\">Video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html#respond",
+    "content": "<p><a href=\"https://freethoughtblogs.com/pharyngula/2025/09/25/watch-this-while-eating-your-cheerios/\">Video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=70909",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2025-10-10T21:02:32.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
     "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
@@ -355,23 +373,6 @@
     "contentSnippet": "Threat actors are actively exploiting a critical security flaw impacting the Service Finder WordPress theme that makes it possible to gain unauthorized access to any account, including administrators, and take control of susceptible sites.\nThe authentication bypass vulnerability, tracked as CVE-2025-5947 (CVSS score: 9.8), affects the Service Finder Bookings, a WordPress plugin bundled with the",
     "guid": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
     "isoDate": "2025-10-09T06:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
-    "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
-    "pubDate": "Wed, 08 Oct 2025 22:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYtQ6iBZXeM_9-6-jbrGzyCTATFy9WOpr6EwvQtQ5CnLpPu8kgdYgU-N2QuSW6lSHPJBAu5a0L1PJdHUloy8IHJoLoU7GjAYinyJCBVEW_4I8jHryCgx5petplyS1wOc8W4utwQWqgY_dCu6JvoJ1VYpA_5LjOW-xFblJOKYSZJaWhKQOgOVbWuR5_mlB/s1600/clioci.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week.\nThe website security company",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week.\nThe website security company",
-    "guid": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
-    "isoDate": "2025-10-08T16:43:00.000Z",
     "itunes": {}
   }
 ]
