@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7029,
+    "stars": 7030,
     "forks": 813,
     "language": "HTML"
   },
@@ -513,6 +513,15 @@
     "language": null
   },
   {
+    "name": "Shifter-tool",
+    "owner": "SabriAmir",
+    "url": "https://github.com/SabriAmir/Shifter-tool",
+    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more).",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "Caesar-Cipher-Tool",
     "owner": "RobCyberLab",
     "url": "https://github.com/RobCyberLab/Caesar-Cipher-Tool",
@@ -564,15 +573,6 @@
     "description": "FuzzFindr is a robust web fuzzing and web scraper tool inspired by the popular \"ffuf\" tool on Kali Linux. Designed to enhance web security testing, FuzzFindr allows users to meticulously fuzz web links using customizable wordlists. ",
     "stars": 7,
     "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "Shifter-tool",
-    "owner": "SabriAmir",
-    "url": "https://github.com/SabriAmir/Shifter-tool",
-    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more).",
-    "stars": 7,
-    "forks": 0,
     "language": "Python"
   },
   {
@@ -702,19 +702,19 @@
     "language": "Python"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -783,15 +783,6 @@
     "language": "Perl"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -799,6 +790,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "URL-Analysis-Tool",
