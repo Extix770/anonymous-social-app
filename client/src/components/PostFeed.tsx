@@ -46,7 +46,7 @@ const PostFeed: React.FC<PostFeedProps> = ({ posts, socket }) => {
             <p className="card-text flex-grow-1">{post.content}</p>
             <p className="card-text">
               <small className="text-muted">
-                Posted by {post.username} on {new Date(post.timestamp).toLocaleString()}
+                Posted by <span className="username">{post.username}</span> on {new Date(post.timestamp).toLocaleString()}
               </small>
             </p>
             <div className="mt-3">

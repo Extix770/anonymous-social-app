@@ -14,7 +14,7 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
     <div className="card-text border-top pt-2 mt-2">
       <p>{comment.text}</p>
       <small className="text-muted">
-        Posted by {comment.username} on {new Date(comment.timestamp).toLocaleString()}
+        Posted by <span className="username">{comment.username}</span> on {new Date(comment.timestamp).toLocaleString()}
       </small>
     </div>
   );
