@@ -52,7 +52,7 @@ const PostForm: React.FC<PostFormProps> = ({ socket }) => {
       }
 
       // 2. Create the post with the media URL via socket
-      socket.emit('create-post', { content, mediaUrl, mediaType });
+            socket.emit('create-post', { content, mediaUrl, mediaType });
 
       // 3. Reset form
       setContent('');

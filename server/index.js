@@ -7,7 +7,7 @@ const { Server } = require('socket.io');
 const helmet = require('helmet');
 const fs = require('fs');
 const path = require('path');
-const { generateUsername } = require('random-username-generator');
+const rug = require('random-username-generator');
 
 const app = express();
 const server = http.createServer(app);
@@ -158,7 +158,7 @@ const endChat = (socketId) => {
 io.on('connection', (socket) => {
   broadcastStats();
 
-  socket.username = generateUsername();
+  socket.username = rug.generate();
   socket.emit('username-assigned', socket.username);
 
   socket.on('create-post', ({ content, mediaUrl, mediaType }) => {
