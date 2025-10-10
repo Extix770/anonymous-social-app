@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
+    "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+    "pubDate": "Fri, 10 Oct 2025 17:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6M2Mk_m5h6N65jjDGVX4AmHsBVW6ou9RQrloE9wFrzWPykoJJtMgqx48QokDdXk6qZUYJh61b_9z0o1z7MorZg-kSeGgsYuGhxVt6LmjvAECLCAVHfo5yL1MI23zoK9eDrrvjWA5ou5_5Vh-Lo2DgcrYHeHP3hBuDepj_xAtDHV_hYhFZVSzgrDHrfF2b/s1600/forta.jpg"
+    },
+    "content": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025.\nThe company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
+    "contentSnippet": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025.\nThe company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
+    "guid": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+    "isoDate": "2025-10-10T11:42:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Autonomous AI Hacking and the Future of Cybersecurity",
     "link": "https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html",
@@ -329,23 +346,6 @@
     "contentSnippet": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “",
     "guid": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
     "isoDate": "2025-10-08T12:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
-    "link": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
-    "pubDate": "Wed, 08 Oct 2025 17:34:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7l0YTvsStRgMRAiw_OA_YpgmYvFPbaQjLuAnwMcEeeotQBHL-adsp8HhOZNf2DDJ8Ndc1URdC-47JRVjp5gWHItkY0XNkFLGnuAMkqmmbVLzMgyOCTZHHWDOpsT6W7EScav0tKAuII3U9leT1pjduP6UKFgShDYFU-vRKHBe0zTJVv6vO-1p1Xf9vAg_C/s1600/ransomware-attackers.jpg"
-    },
-    "content": "Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.\nThe coalition is seen as an attempt on the part of the financially motivated threat actors to conduct more effective ransomware attacks, ReliaQuest said in a report shared with The Hacker News.\n\"Announced shortly",
-    "contentSnippet": "Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.\nThe coalition is seen as an attempt on the part of the financially motivated threat actors to conduct more effective ransomware attacks, ReliaQuest said in a report shared with The Hacker News.\n\"Announced shortly",
-    "guid": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
-    "isoDate": "2025-10-08T12:04:00.000Z",
     "itunes": {}
   }
 ]
