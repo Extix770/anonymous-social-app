@@ -111,13 +111,44 @@ app.post('/upload', upload.single('media'), (req, res) => {
 app.post('/posts', (req, res) => {
   const { content, mediaUrl, mediaType } = req.body;
   if (!content && !mediaUrl) return res.status(400).json({ error: 'Post cannot be empty' });
-  const newPost = { id: nextId++, content, mediaUrl, mediaType, timestamp: new Date().toISOString() };
+    const newPost = { id: nextId++, content, mediaUrl, mediaType, timestamp: new Date().toISOString(), comments: [], reactions: {} };
   posts.push(newPost);
   savePosts();
   io.emit('new-post', newPost);
   res.status(201).json(newPost);
 });
 
+app.post('/posts/:id/comments', (req, res) => {
+  const postId = parseInt(req.params.id, 10);
+  const { comment } = req.body;
+  if (!comment) return res.status(400).json({ error: 'Comment cannot be empty' });
+
+  const post = posts.find(p => p.id === postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  const newComment = { id: Date.now(), text: comment, timestamp: new Date().toISOString() };
+  post.comments.push(newComment);
+  savePosts();
+  io.emit('new-comment', { postId, comment: newComment });
+  res.status(201).json(newComment);
+});
+
+app.post('/posts/:id/react', (req, res) => {
+  const postId = parseInt(req.params.id, 10);
+  const { emoji } = req.body;
+  if (!emoji) return res.status(400).json({ error: 'Emoji not specified' });
+
+  const post = posts.find(p => p.id === postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  if (!post.reactions[emoji]) {
+    post.reactions[emoji] = 0;
+  }
+  post.reactions[emoji]++;
+  savePosts();
+  io.emit('new-reaction', { postId, reactions: post.reactions });
+  res.status(200).json(post.reactions);
+});
 // --- Omegle-style Chat Logic ---
 let waitingQueue = [];
 let partners = {};

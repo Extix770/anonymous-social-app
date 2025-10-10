@@ -1,4 +1,13 @@
 import React from 'react';
+import Comment from './Comment';
+import Reaction from './Reaction';
+import CommentForm from './CommentForm';
+
+interface CommentData {
+  id: number;
+  text: string;
+  timestamp: string;
+}
 
 interface Post {
   id: number;
@@ -6,6 +15,8 @@ interface Post {
   timestamp: string;
   mediaUrl?: string;
   mediaType?: string;
+  comments: CommentData[];
+  reactions: { [key: string]: number };
 }
 
 interface PostFeedProps {
@@ -34,6 +45,15 @@ const PostFeed: React.FC<PostFeedProps> = ({ posts }) => {
                 Posted on {new Date(post.timestamp).toLocaleString()}
               </small>
             </p>
+            <div className="mt-3">
+              <Reaction postId={post.id} reactions={post.reactions} />
+            </div>
+            <div className="mt-3">
+              {post.comments.map(comment => (
+                <Comment key={comment.id} comment={comment} />
+              ))}
+            </div>
+            <CommentForm postId={post.id} />
           </div>
         </div>
       ))}

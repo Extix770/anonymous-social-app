@@ -17,6 +17,14 @@ interface Post {
   timestamp: string;
   mediaUrl?: string;
   mediaType?: string;
+  comments: Comment[];
+  reactions: { [key: string]: number };
+}
+
+interface Comment {
+  id: number;
+  text: string;
+  timestamp: string;
 }
 
 const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
@@ -65,6 +73,24 @@ function Home() {
 
     socket.on('new-post', (newPost: Post) => {
       setPosts((prevPosts) => [newPost, ...prevPosts]);
+    });
+
+    socket.on('new-comment', ({ postId, comment }) => {
+      setPosts(prevPosts =>
+        prevPosts.map(post =>
+          post.id === postId
+            ? { ...post, comments: [...post.comments, comment] }
+            : post
+        )
+      );
+    });
+
+    socket.on('new-reaction', ({ postId, reactions }) => {
+      setPosts(prevPosts =>
+        prevPosts.map(post =>
+          post.id === postId ? { ...post, reactions } : post
+        )
+      );
     });
 
     return () => {
