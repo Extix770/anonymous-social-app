@@ -34,14 +34,13 @@ const ProfilePage: React.FC = () => {
 
   return (
     <div className="card">
-      <div className="card-body">
-        <div className="d-flex align-items-center">
-          <img src={user.avatar} alt={user.username} className="rounded-circle me-3" width="100" height="100" />
-          <div>
-            <h5 className="card-title">{user.username}</h5>
-            <p className="card-text">{user.bio}</p>
-            <Link to={`/messages/${user.id}`} className="btn btn-primary">Message</Link>
-          </div>
+      <div className="card-body text-center">
+        <img src={user.avatar} alt={user.username} className="rounded-circle mb-3" width="150" height="150" />
+        <h5 className="card-title">{user.username}</h5>
+        <p className="card-text text-muted">{user.bio}</p>
+        <div className="d-grid gap-2 col-6 mx-auto">
+          <Link to={`/messages/${user.id}`} className="btn btn-primary">Message</Link>
+          <Link to={`/users/${user.id}/edit`} className="btn btn-outline-secondary">Edit Profile</Link>
         </div>
       </div>
     </div>

@@ -339,6 +339,14 @@ io.on('connection', (socket) => {
     socket.emit('notifications', userNotifications);
   });
 
+  socket.on('get-online-users', () => {
+    const onlineUsers = Object.keys(userSockets).map(userId => {
+      const user = users.find(u => u.id === userId);
+      return { id: user.id, username: user.username };
+    });
+    socket.emit('online-users', onlineUsers);
+  });
+
   socket.on('mark-notification-as-read', ({ notificationId }) => {
     const notification = notifications.find(n => n.id === notificationId);
     if (notification) {

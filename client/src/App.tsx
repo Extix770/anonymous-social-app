@@ -12,7 +12,7 @@ import ProfilePage from './components/ProfilePage';
 import EditProfilePage from './components/EditProfilePage';
 import PrivateMessagePage from './components/PrivateMessagePage';
 import NotificationsPage from './components/NotificationsPage';
-import SearchResultsPage from './components/SearchResultsPage';
+import OnlinePage from './components/OnlinePage';
 
 import './HackerTheme.css';
 
@@ -98,6 +98,7 @@ function App() {
             <Link className="nav-link" to="/">Home</Link>
             <Link className="nav-link" to="/cybersecurity-news">Cybersecurity News</Link>
             <Link className="nav-link" to="/cybersecurity-tools">Cybersecurity Tools</Link>
+            <Link className="nav-link" to="/online">Online</Link>
             {user && <Link className="nav-link" to={`/users/${user.id}`}>My Profile</Link>}
             {user && (
               <Link className="nav-link" to="/notifications">
@@ -111,6 +112,7 @@ function App() {
             <Route path="/" element={<Home socket={socket} user={user} />} />
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
             <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
+            <Route path="/online" element={<OnlinePage socket={socket} />} />
             <Route path="/users/:userId" element={<ProfilePage />} />
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
