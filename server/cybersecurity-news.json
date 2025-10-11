@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
+    "pubDate": "Sat, 11 Oct 2025 18:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaJtL8BSUE1GFjWCqBm6u4xyazrLyCXBHI_QrEbUkesBhCwyphi6Y9i1PNwKsdw84MB5pTzn9ZY3nI5PM-OPDPqZ5KdqyGfDllH9nqGTZej1wuTmq8G7hkwXSV44UylYAMloHhsT8fRVUQOnlNaURlpZEzjYrQbR_E4iwFHIHSi4QZQFXrBjcz44iN5Kae/s1600/Velociraptor-DFIR.jpg"
+    },
+    "content": "Threat actors are abusing Velociraptor, an open-source digital forensics and incident response (DFIR) tool, in connection with ransomware attacks likely orchestrated by Storm-2603 (aka CL-CRI-1040 or Gold Salem), which is known for deploying the Warlock and LockBit ransomware.\nThe threat actor's use of the security utility was documented by Sophos last month. It's assessed that the attackers",
+    "contentSnippet": "Threat actors are abusing Velociraptor, an open-source digital forensics and incident response (DFIR) tool, in connection with ransomware attacks likely orchestrated by Storm-2603 (aka CL-CRI-1040 or Gold Salem), which is known for deploying the Warlock and LockBit ransomware.\nThe threat actor's use of the security utility was documented by Sophos last month. It's assessed that the attackers",
+    "guid": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
+    "isoDate": "2025-10-11T13:04:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "'Happy Gilmore' Producer Buys Spyware Maker NSO Group",
     "link": "https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/",
@@ -357,23 +374,6 @@
     "contentSnippet": "Token theft is a leading cause of SaaS breaches. Discover why OAuth and API tokens are often overlooked and how security teams can strengthen token hygiene to prevent attacks.\nMost companies in 2025 rely on a whole range of software-as-a-service (SaaS) applications to run their operations. However, the security of these applications depends on small pieces of data called tokens. Tokens, like",
     "guid": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
     "isoDate": "2025-10-09T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
-    "link": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-    "pubDate": "Thu, 09 Oct 2025 14:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcdU1Cz-4l67OKynaQJ3I8fsIczjJy8Er8zBil5NZb4T5HbslQSGXQd3GfPVmexCSRJdKajgcpr0Qn5GeYUnwPthimGseTrVuCp-xRi7ZJHqaeUKP-Vkes3M4E1KJcEZqhMcLMfe0II_BWLvCWbzau7iw_Vn6AxtRkLpVzW4DXvts6Bb2MUb_W-Meesgg/s1600/russian-hackers.jpg"
-    },
-    "content": "Russian hackers' adoption of artificial intelligence (AI) in cyber attacks against Ukraine has reached a new level in the first half of 2025 (H1 2025), the country's State Service for Special Communications and Information Protection (SSSCIP) said.\n\"Hackers now employ it not only to generate phishing messages, but some of the malware samples we have analyzed show clear signs of being generated",
-    "contentSnippet": "Russian hackers' adoption of artificial intelligence (AI) in cyber attacks against Ukraine has reached a new level in the first half of 2025 (H1 2025), the country's State Service for Special Communications and Information Protection (SSSCIP) said.\n\"Hackers now employ it not only to generate phishing messages, but some of the malware samples we have analyzed show clear signs of being generated",
-    "guid": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-    "isoDate": "2025-10-09T09:10:00.000Z",
     "itunes": {}
   }
 ]
