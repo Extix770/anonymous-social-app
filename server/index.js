@@ -116,6 +116,8 @@ let posts = [];
 let nextId = 1;
 
 // --- REST API Endpoints ---
+app.use(express.static(path.join(__dirname, '../client/build')));
+
 app.get('/posts', incrementVisits, (req, res) => {
   const category = req.query.category;
   let filteredPosts = posts;
@@ -393,6 +395,10 @@ io.on('connection', (socket) => {
     endChat(socket.id);
     broadcastStats();
   });
+});
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/build/index.html'));
 });
 
 // --- Start Server ---
