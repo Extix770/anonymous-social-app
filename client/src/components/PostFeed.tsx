@@ -92,3 +92,5 @@ const PostFeed: React.FC<PostFeedProps> = ({ posts, socket }) => {
     </div>
   );
 };
+
+export default PostFeed;
