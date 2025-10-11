@@ -495,19 +495,19 @@
     "language": "Python"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 8,
     "forks": 2,
     "language": null
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 8,
     "forks": 2,
     "language": null
@@ -576,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "LuciTools",
     "owner": "IamLucif3r",
     "url": "https://github.com/IamLucif3r/LuciTools",
@@ -592,6 +583,15 @@
     "stars": 7,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -702,19 +702,19 @@
     "language": "Python"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -774,15 +774,6 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
-    "stars": 4,
-    "forks": 0,
-    "language": "Perl"
-  },
-  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -790,6 +781,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "stars": 4,
+    "forks": 0,
+    "language": "Perl"
   },
   {
     "name": "cybersec-tools-installer",
@@ -810,6 +810,15 @@
     "language": "Python"
   },
   {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 4,
+    "forks": 0,
+    "language": null
+  },
+  {
     "name": "linux-network-win-tools",
     "owner": "s3bu7i",
     "url": "https://github.com/s3bu7i/linux-network-win-tools",
@@ -826,15 +835,6 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 4,
-    "forks": 0,
-    "language": null
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
@@ -855,15 +855,6 @@
     "language": null
   },
   {
-    "name": "Cyber-Security-Toolset",
-    "owner": "SUmidcyber",
-    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
-    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
-    "stars": 3,
-    "forks": 2,
-    "language": "PowerShell"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -871,6 +862,15 @@
     "stars": 3,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "Cyber-Security-Toolset",
+    "owner": "SUmidcyber",
+    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
+    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
+    "stars": 3,
+    "forks": 2,
+    "language": "PowerShell"
   },
   {
     "name": "ncl-tools",
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "Password-Management-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Password-Management-Tool",
+    "description": "This is a simple password management tool built using python, for penetration testing, ethical hacking and password security.",
     "stars": 3,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   }
 ]
