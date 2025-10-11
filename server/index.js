@@ -35,11 +35,11 @@ const visitsFilePath = path.join(__dirname, 'visits.txt');
 const postsFilePath = path.join(__dirname, 'posts.json');
 const usersFilePath = path.join(__dirname, 'users.json');
 const messagesFilePath = path.join(__dirname, 'messages.json');
-const notificationsFilePath = path.join(__dirname, 'notifications.json');
+
 let totalVisits = 0;
 let users = [];
 let messages = [];
-let notifications = [];
+
 
 const loadVisits = () => {
   if (fs.existsSync(visitsFilePath)) {
@@ -74,16 +74,7 @@ const saveMessages = () => {
   fs.writeFileSync(messagesFilePath, JSON.stringify(messages, null, 2), 'utf8');
 };
 
-const loadNotifications = () => {
-  if (fs.existsSync(notificationsFilePath)) {
-    const data = fs.readFileSync(notificationsFilePath, 'utf8');
-    notifications = JSON.parse(data);
-  }
-};
 
-const saveNotifications = () => {
-  fs.writeFileSync(notificationsFilePath, JSON.stringify(notifications, null, 2), 'utf8');
-};
 
 const loadPosts = () => {
   if (fs.existsSync(postsFilePath)) {
@@ -313,48 +304,9 @@ io.on('connection', (socket) => {
     post.comments.push(newComment);
     savePosts();
     io.emit('new-comment', { postId, comment: newComment });
-
-    // Create a notification for the post author
-    if (post.userId !== socket.userId) {
-      const notification = {
-        id: Date.now().toString(),
-        userId: post.userId,
-        type: 'new-comment',
-        postId,
-        commentId: newComment.id,
-        fromUser: socket.username,
-        read: false,
-      };
-      notifications.push(notification);
-      saveNotifications();
-
-      const toSocketId = userSockets[post.userId];
-      if (toSocketId) {
-        io.to(toSocketId).emit('new-notification', notification);
-      }
-    }
   });
 
-  socket.on('get-notifications', () => {
-    const userNotifications = notifications.filter(n => n.userId === socket.userId);
-    socket.emit('notifications', userNotifications);
-  });
-
-  socket.on('get-online-users', () => {
-    const onlineUsers = Object.keys(userSockets).map(userId => {
-      const user = users.find(u => u.id === userId);
-      return { id: user.id, username: user.username };
-    });
-    socket.emit('online-users', onlineUsers);
-  });
-
-  socket.on('mark-notification-as-read', ({ notificationId }) => {
-    const notification = notifications.find(n => n.id === notificationId);
-    if (notification) {
-      notification.read = true;
-      saveNotifications();
-    }
-  });
+  
 
   socket.on('get-private-messages', ({ withUserId }) => {
     const userMessages = messages.filter(
@@ -415,6 +367,5 @@ server.listen(port, () => {
   loadPosts();
   loadUsers();
   loadMessages();
-  loadNotifications();
   console.log(`Server listening at http://localhost:${port}`);
 });

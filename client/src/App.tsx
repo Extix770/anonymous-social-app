@@ -13,7 +13,7 @@ import EditProfilePage from './components/EditProfilePage';
 import PrivateMessagePage from './components/PrivateMessagePage';
 import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
-import OnlinePage from './components/OnlinePage';
+import Dashboard from './components/Dashboard';
 
 import './HackerTheme.css';
 
@@ -50,21 +50,11 @@ interface User {
   avatar: string;
 }
 
-interface Notification {
-  id: string;
-  userId: string;
-  type: string;
-  postId: number;
-  fromUser: string;
-  read: boolean;
-}
-
 const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
 
 function App() {
   const [socket, setSocket] = useState<Socket | null>(null);
   const [user, setUser] = useState<User | null>(null);
-  const [unreadNotifications, setUnreadNotifications] = useState(0);
 
   useEffect(() => {
     const userId = localStorage.getItem('userId');
@@ -74,15 +64,6 @@ function App() {
     newSocket.on('user-assigned', (assignedUser: User) => {
       localStorage.setItem('userId', assignedUser.id);
       setUser(assignedUser);
-    });
-
-    newSocket.on('new-notification', () => {
-      setUnreadNotifications(prev => prev + 1);
-    });
-
-    newSocket.on('notifications', (notifications: Notification[]) => {
-      const unread = notifications.filter(n => !n.read).length;
-      setUnreadNotifications(unread);
     });
 
     return () => {
@@ -97,27 +78,19 @@ function App() {
           <h1 className="text-center">Anonymous Social Feed</h1>
           <nav className="nav justify-content-center">
             <Link className="nav-link" to="/">Home</Link>
-            <Link className="nav-link" to="/cybersecurity-news">Cybersecurity News</Link>
-            <Link className="nav-link" to="/cybersecurity-tools">Cybersecurity Tools</Link>
-            <Link className="nav-link" to="/online">Online</Link>
-            {user && <Link className="nav-link" to={`/users/${user.id}`}>My Profile</Link>}
-            {user && (
-              <Link className="nav-link" to="/notifications">
-                Notifications {unreadNotifications > 0 && <span className="badge bg-danger">{unreadNotifications}</span>}
-              </Link>
-            )}
+            <Link className="nav-link" to="/dashboard">Dashboard</Link>
           </nav>
         </header>
         <main>
           <Routes>
             <Route path="/" element={<Home socket={socket} user={user} />} />
+            <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
             <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
             <Route path="/online" element={<OnlinePage socket={socket} />} />
             <Route path="/users/:userId" element={<ProfilePage />} />
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
-            <Route path="/notifications" element={<NotificationsPage socket={socket} />} />
             <Route path="/search" element={<SearchResultsPage socket={socket} />} />
           </Routes>
         </main>
