@@ -12,6 +12,7 @@ import ProfilePage from './components/ProfilePage';
 import EditProfilePage from './components/EditProfilePage';
 import PrivateMessagePage from './components/PrivateMessagePage';
 import NotificationsPage from './components/NotificationsPage';
+import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
 
 import './HackerTheme.css';
