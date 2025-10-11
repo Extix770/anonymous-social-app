@@ -630,10 +630,10 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -648,10 +648,10 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -702,19 +702,19 @@
     "language": "Python"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -774,15 +774,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -790,6 +781,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cybersec-tools-installer",
@@ -819,15 +819,6 @@
     "language": "Python"
   },
   {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 0,
     "language": null
+  },
+  {
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
@@ -873,15 +873,6 @@
     "language": "HTML"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "Gottiee",
-    "url": "https://github.com/Gottiee/Hack-Tools",
-    "description": "Information, bypasses and payload for Application Security",
-    "stars": 3,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
@@ -891,12 +882,21 @@
     "language": null
   },
   {
-    "name": "Network-Security-Toolkit",
-    "owner": "ZealExorcist",
-    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
-    "description": "This Is a repo For a network security toolkit",
+    "name": "Hack-Tools",
+    "owner": "Gottiee",
+    "url": "https://github.com/Gottiee/Hack-Tools",
+    "description": "Information, bypasses and payload for Application Security",
     "stars": 3,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 3,
+    "forks": 0,
+    "language": "TypeScript"
   }
 ]
