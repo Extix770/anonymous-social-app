@@ -71,9 +71,9 @@ function App() {
     const newSocket = io(apiUrl, { query: { userId } });
     setSocket(newSocket);
 
-    newSocket.on('user-created', (newUser: User) => {
-      localStorage.setItem('userId', newUser.id);
-      setUser(newUser);
+    newSocket.on('user-assigned', (assignedUser: User) => {
+      localStorage.setItem('userId', assignedUser.id);
+      setUser(assignedUser);
     });
 
     newSocket.on('new-notification', () => {

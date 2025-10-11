@@ -240,8 +240,9 @@ io.on('connection', (socket) => {
     };
     users.push(user);
     saveUsers();
-    socket.emit('user-created', user);
   }
+
+  socket.emit('user-assigned', user);
 
   socket.username = user.username;
   socket.userId = user.id;
