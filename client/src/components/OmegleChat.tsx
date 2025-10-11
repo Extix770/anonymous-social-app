@@ -43,7 +43,11 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
 
       } catch (error) {
         console.error('Error initializing chat:', error);
-        onLeave();
+        if (error.name === 'NotAllowedError') {
+          setStatus('Camera and microphone access denied. Please allow access to use this feature.');
+        } else {
+          setStatus('Error initializing chat. Please try again later.');
+        }
       }
     };
 
