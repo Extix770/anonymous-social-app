@@ -6,7 +6,12 @@ import PostForm from './components/PostForm';
 import PostFeed from './components/PostFeed';
 import OmegleChat from './components/OmegleChat';
 import StatsDisplay from './components/StatsDisplay';
+import CyberSecurityNews from './components/CyberSecurityNews';
+import CyberSecurityTools from './components/CyberSecurityTools';
 import ProfilePage from './components/ProfilePage';
+import EditProfilePage from './components/EditProfilePage';
+import PrivateMessagePage from './components/PrivateMessagePage';
+import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
 
 import './HackerTheme.css';
