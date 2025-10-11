@@ -375,6 +375,7 @@ io.on('connection', (socket) => {
     saveMessages();
 
     const toSocketId = userSockets[to];
+    console.log(`Sending private message from ${socket.userId} to ${to} (socket: ${toSocketId})`);
     if (toSocketId) {
       io.to(toSocketId).emit('private-message', message);
     }

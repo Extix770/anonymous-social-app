@@ -30,6 +30,7 @@ const PrivateMessagePage: React.FC<PrivateMessagePageProps> = ({ socket, user })
     });
 
     socket.on('private-message', (message: Message) => {
+      console.log('Received private message:', message, user);
       if ((message.from === user?.id && message.to === userId) || (message.from === userId && message.to === user?.id)) {
         setMessages((prevMessages) => [...prevMessages, message]);
       }
