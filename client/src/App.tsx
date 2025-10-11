@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import axios from 'axios';
 import io, { Socket } from 'socket.io-client';
 import PostForm from './components/PostForm';
@@ -134,9 +134,7 @@ interface HomeProps {
 function Home({ socket, user }: HomeProps) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [isChatting, setIsChatting] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
-  const navigate = useNavigate();
 
   const fetchPosts = useCallback(async () => {
     try {
@@ -198,49 +196,9 @@ function Home({ socket, user }: HomeProps) {
     };
   }, [fetchPosts, socket, selectedCategory]);
 
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      navigate(`/search?q=${searchQuery}`);
-    }
-  };
-
   return (
     <>
       <StatsDisplay />
-      <div className="card mb-3">
-        <div className="card-body">
-          <form onSubmit={handleSearch}>
-            <div className="input-group">
-              <input
-                type="text"
-                className="form-control"
-                placeholder="Search..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-              />
-              <button className="btn btn-primary" type="submit">Search</button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div className="card mb-3">
-        <div className="card-body">
-          <label htmlFor="category-filter" className="form-label">Filter by Category</label>
-          <select
-            id="category-filter"
-            className="form-select"
-            value={selectedCategory}
-            onChange={(e) => setSelectedCategory(e.target.value)}
-          >
-            <option value="All">All</option>
-            <option value="General">General</option>
-            <option value="Tech">Tech</option>
-            <option value="News">News</option>
-            <option value="Funny">Funny</option>
-          </select>
-        </div>
-      </div>
       <div className="card mb-3">
         <div className="card-body text-center">
           <h5 className="card-title">You are: {user?.username || 'Anonymous'}</h5>
