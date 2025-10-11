@@ -10,10 +10,16 @@ interface Post {
   timestamp: string;
   username: string;
   userId: string;
+  category: string;
   mediaUrl?: string;
   mediaType?: string;
   comments: any[];
-  reactions: { [key: string]: number };
+  upvotes: number;
+  downvotes: number;
+  poll?: {
+    question: string;
+    options: { text: string; votes: number }[];
+  };
 }
 
 interface SearchResultsPageProps {
