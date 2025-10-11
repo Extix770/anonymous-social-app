@@ -22,6 +22,11 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
   };
 
   useEffect(() => {
+    if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia || !window.RTCPeerConnection) {
+      setStatus('Your browser does not support WebRTC.');
+      return;
+    }
+
     const init = async () => {
       try {
         const stream = await navigator.mediaDevices.getUserMedia({ audio: true, video: true });
