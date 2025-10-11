@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 interface CommentProps {
   comment: {
@@ -6,6 +7,7 @@ interface CommentProps {
     text: string;
     timestamp: string;
     username: string;
+    userId: string;
   };
 }
 
@@ -14,7 +16,7 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
     <div className="card-text border-top pt-2 mt-2">
       <p>{comment.text}</p>
       <small className="text-muted">
-        Posted by <span className="username">{comment.username}</span> on {new Date(comment.timestamp).toLocaleString()}
+        Posted by <Link to={`/users/${comment.userId}`} className="username">{comment.username}</Link> on {new Date(comment.timestamp).toLocaleString()}
       </small>
     </div>
   );
