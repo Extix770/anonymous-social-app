@@ -116,7 +116,7 @@ let posts = [];
 let nextId = 1;
 
 // --- REST API Endpoints ---
-app.use(express.static(path.resolve(__dirname, '..', 'client', 'build')));
+
 
 app.get('/posts', incrementVisits, (req, res) => {
   const category = req.query.category;
@@ -397,9 +397,7 @@ io.on('connection', (socket) => {
   });
 });
 
-app.get(/^(?!\/api).*/, (req, res) => {
-  res.sendFile(path.resolve(__dirname, '..', 'client', 'build', 'index.html'));
-});
+
 
 // --- Start Server ---
 server.listen(port, () => {
