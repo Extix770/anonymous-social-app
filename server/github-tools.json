@@ -418,7 +418,7 @@
     "owner": "Teammatriix",
     "url": "https://github.com/Teammatriix/wifi-adapter-tool",
     "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
-    "stars": 10,
+    "stars": 11,
     "forks": 4,
     "language": "Shell"
   },
