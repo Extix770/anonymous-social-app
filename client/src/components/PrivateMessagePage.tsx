@@ -21,7 +21,7 @@ const PrivateMessagePage: React.FC<PrivateMessagePageProps> = ({ socket, user })
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (!socket || !userId) return;
+    if (!socket || !userId || !user) return;
 
     socket.emit('get-private-messages', { withUserId: userId });
 
@@ -52,6 +52,10 @@ const PrivateMessagePage: React.FC<PrivateMessagePageProps> = ({ socket, user })
       setNewMessage('');
     }
   };
+
+  if (!user) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <div className="card">
