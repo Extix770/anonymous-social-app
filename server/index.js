@@ -11,6 +11,8 @@ const rug = require('random-username-generator');
 
 const dns = require('dns');
 
+const axios = require('axios');
+
 const app = express();
 const server = http.createServer(app);
 const port = process.env.PORT || 3001;
@@ -181,12 +183,15 @@ app.get('/api/search', (req, res) => {
   res.json(results);
 });
 
-app.post('/api/subdomain-enumeration', (req, res) => {
-  const { domain } = req.body;
+app.post('/api/subdomain-enumeration', async (req, res) => {
+  const { domain, userId } = req.body;
   if (!domain) return res.status(400).json({ error: 'Domain not specified' });
 
   res.json({ message: `Starting subdomain enumeration for ${domain}` });
 
+  const socketId = userSockets[userId];
+
+  // Brute-force
   const wordlistPath = path.join(__dirname, 'subdomains.txt');
   fs.readFile(wordlistPath, 'utf8', (err, data) => {
     if (err) {
@@ -199,7 +204,6 @@ app.post('/api/subdomain-enumeration', (req, res) => {
 
     subdomains.forEach(subdomain => {
       const hostname = `${subdomain}.${domain}`;
-      const socketId = userSockets[req.body.userId];
       if (socketId) {
         io.to(socketId).emit('subdomain-scan-log', `Testing: ${hostname}`);
       }
@@ -219,6 +223,34 @@ app.post('/api/subdomain-enumeration', (req, res) => {
       });
     });
   });
+
+  // Certificate Transparency Logs
+  try {
+    if (socketId) {
+      io.to(socketId).emit('subdomain-scan-log', 'Querying crt.sh...');
+    }
+    const response = await axios.get(`https://crt.sh/?q=%.${domain}&output=json`);
+    const uniqueSubdomains = new Set();
+    response.data.forEach(cert => {
+      const nameValue = cert.name_value.split('\n');
+      nameValue.forEach(name => {
+        if (name.endsWith(domain)) {
+          uniqueSubdomains.add(name);
+        }
+      });
+    });
+
+    uniqueSubdomains.forEach(subdomain => {
+      if (socketId) {
+        io.to(socketId).emit('subdomain-found', subdomain);
+      }
+    });
+  } catch (error) {
+    if (socketId) {
+      io.to(socketId).emit('subdomain-scan-log', 'Error querying crt.sh');
+    }
+    console.error('Error querying crt.sh:', error);
+  }
 });
 
 
