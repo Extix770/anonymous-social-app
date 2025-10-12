@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
+    "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+    "pubDate": "Sun, 12 Oct 2025 22:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiOSe5MSzJjlmmn79XDwcJoSUh95PSeVQalNoZwnzlTDwp2UkbB0Zwrp526ZX5iWaXA3oDVvhwPI1Uh2Plj8nnRa3OpE2iuKlAfBUTJw8bb0Vs9XzvQuogwfq-ZIYmCp0WsLm_ULrhOP1D07GuKwVbXlNY_-NQbBuB17QTgv2tI9RjHmRemC3_tNkpfVN/s1600/oracle-flaw-hack.jpg"
+    },
+    "content": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
+    "contentSnippet": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
+    "guid": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+    "isoDate": "2025-10-12T17:24:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
     "link": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
     "pubDate": "Sat, 11 Oct 2025 19:00:00 +0530",
@@ -357,23 +374,6 @@
     "contentSnippet": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.\n\"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said.\nIt also noted that it's working to notify all",
     "guid": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
     "isoDate": "2025-10-09T13:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
-    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
-    "pubDate": "Thu, 09 Oct 2025 17:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxdLoRmhgk02ysA3JqNdrlVNNh7Q59n-ohX3VRVW745LTKfuV7Dqi25wLBnKZlefHEl-TBPyhXI9jexCMkkfN6zBLyrQA1C6VgUn7NYfwdRJekim7_VLmGq-gtqMU-q73-q7dTEUGyf0CziIZJGgoymYa7o9Dm3qOi5_TRRFfbQhRVqgwivu_uWz-rEG3W/s1600/threatsday-info.jpg"
-    },
-    "content": "Cyber threats are evolving faster than ever. Attackers now combine social engineering, AI-driven manipulation, and cloud exploitation to breach targets once considered secure. From communication platforms to connected devices, every system that enhances convenience also expands the attack surface.\nThis edition of ThreatsDay Bulletin explores these converging risks and the safeguards that help",
-    "contentSnippet": "Cyber threats are evolving faster than ever. Attackers now combine social engineering, AI-driven manipulation, and cloud exploitation to breach targets once considered secure. From communication platforms to connected devices, every system that enhances convenience also expands the attack surface.\nThis edition of ThreatsDay Bulletin explores these converging risks and the safeguards that help",
-    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
-    "isoDate": "2025-10-09T12:16:00.000Z",
     "itunes": {}
   }
 ]
