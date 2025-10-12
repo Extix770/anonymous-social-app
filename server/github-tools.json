@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7033,
+    "stars": 7034,
     "forks": 814,
     "language": "HTML"
   },
@@ -639,21 +639,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -774,15 +774,6 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
-    "stars": 4,
-    "forks": 0,
-    "language": "Perl"
-  },
-  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -790,6 +781,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "stars": 4,
+    "forks": 0,
+    "language": "Perl"
   },
   {
     "name": "cybersec-tools-installer",
@@ -855,15 +855,6 @@
     "language": null
   },
   {
-    "name": "Cyber-Security-Toolset",
-    "owner": "SUmidcyber",
-    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
-    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
-    "stars": 3,
-    "forks": 2,
-    "language": "PowerShell"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -871,6 +862,15 @@
     "stars": 3,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "Cyber-Security-Toolset",
+    "owner": "SUmidcyber",
+    "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
+    "description": "PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.",
+    "stars": 3,
+    "forks": 2,
+    "language": "PowerShell"
   },
   {
     "name": "Hack-Tools",
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "Network-Security-Toolkit",
+    "owner": "ZealExorcist",
+    "url": "https://github.com/ZealExorcist/Network-Security-Toolkit",
+    "description": "This Is a repo For a network security toolkit",
     "stars": 3,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   }
 ]
