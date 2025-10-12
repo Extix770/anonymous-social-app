@@ -97,7 +97,7 @@ function App() {
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
             <Route path="/search" element={<SearchResultsPage socket={socket} />} />
-            <Route path="/local-tools" element={<LocalTools />} />
+            
           </Routes>
         </main>
       </div>
@@ -201,4 +201,4 @@ function Home({ socket, user }: HomeProps) {
   );
 }
 
-export default App;
+export default App; App;
