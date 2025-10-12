@@ -11,6 +11,7 @@ const Dashboard: React.FC = () => {
         <Link to="/subdomain-enumeration" className="list-group-item list-group-item-action">Subdomain Enumeration</Link>
         <Link to="/online" className="list-group-item list-group-item-action">Online</Link>
         <Link to={`/users/${localStorage.getItem('userId')}`} className="list-group-item list-group-item-action">My Profile</Link>
+        <Link to="/local-tools" className="list-group-item list-group-item-action">Local Tools</Link>
       </div>
     </div>
   );

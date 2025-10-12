@@ -17,6 +17,8 @@ import OnlinePage from './components/OnlinePage';
 import SubdomainEnumeration from './components/SubdomainEnumeration';
 import Dashboard from './components/Dashboard';
 
+import LocalTools from './components/LocalTools';
+
 import './HackerTheme.css';
 
 interface Post {
@@ -95,6 +97,7 @@ function App() {
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
             <Route path="/search" element={<SearchResultsPage socket={socket} />} />
+            <Route path="/local-tools" element={<LocalTools />} />
           </Routes>
         </main>
       </div>
