@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7365,
-    "forks": 1008,
+    "stars": 7371,
+    "forks": 1009,
     "language": null
   },
   {
@@ -13,8 +13,8 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7031,
-    "forks": 813,
+    "stars": 7033,
+    "forks": 814,
     "language": "HTML"
   },
   {
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2220,
+    "stars": 2223,
     "forks": 344,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1600,
+    "stars": 1604,
     "forks": 315,
     "language": "Python"
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1236,
+    "stars": 1238,
     "forks": 141,
     "language": null
   },
@@ -67,7 +67,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 692,
+    "stars": 693,
     "forks": 64,
     "language": null
   },
@@ -139,7 +139,7 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 97,
+    "stars": 98,
     "forks": 11,
     "language": "HTML"
   },
@@ -247,7 +247,7 @@
     "owner": "AnandaRauf",
     "url": "https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-",
     "description": "Haram Tool is Software Web Penetration Testing Tool.",
-    "stars": 22,
+    "stars": 23,
     "forks": 7,
     "language": "Python"
   },
@@ -418,7 +418,7 @@
     "owner": "Teammatriix",
     "url": "https://github.com/Teammatriix/wifi-adapter-tool",
     "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
-    "stars": 10,
+    "stars": 11,
     "forks": 4,
     "language": "Shell"
   },
@@ -432,21 +432,21 @@
     "language": null
   },
   {
-    "name": "3num-tool",
-    "owner": "RichardAlmeyda",
-    "url": "https://github.com/RichardAlmeyda/3num-tool",
-    "description": "Enumeration Tool",
-    "stars": 10,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "Ayesha-osint-toolkit",
     "owner": "SilentProgrammer-max",
     "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
     "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
     "stars": 10,
     "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "3num-tool",
+    "owner": "RichardAlmeyda",
+    "url": "https://github.com/RichardAlmeyda/3num-tool",
+    "description": "Enumeration Tool",
+    "stars": 10,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -468,6 +468,15 @@
     "language": null
   },
   {
+    "name": "Shifter-tool",
+    "owner": "SabriAmir",
+    "url": "https://github.com/SabriAmir/Shifter-tool",
+    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more).",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "ocsf-tool",
     "owner": "valllabh",
     "url": "https://github.com/valllabh/ocsf-tool",
@@ -486,19 +495,19 @@
     "language": "Python"
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 8,
     "forks": 2,
     "language": null
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 8,
     "forks": 2,
     "language": null
@@ -520,15 +529,6 @@
     "stars": 8,
     "forks": 2,
     "language": null
-  },
-  {
-    "name": "Shifter-tool",
-    "owner": "SabriAmir",
-    "url": "https://github.com/SabriAmir/Shifter-tool",
-    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more).",
-    "stars": 8,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "Caesar-Cipher-Tool",
@@ -576,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "GovTools",
     "owner": "DecryptaTechnologies",
     "url": "https://github.com/DecryptaTechnologies/GovTools",
@@ -592,6 +583,15 @@
     "stars": 7,
     "forks": 1,
     "language": "C#"
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -612,15 +612,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -630,19 +621,28 @@
     "language": "C"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
     "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -702,19 +702,19 @@
     "language": "Python"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "stars": 4,
+    "forks": 0,
+    "language": "Perl"
+  },
+  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -790,15 +799,6 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
-  },
-  {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
-    "stars": 4,
-    "forks": 0,
-    "language": "Perl"
   },
   {
     "name": "URL-Analysis-Tool",
@@ -819,15 +819,6 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 4,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "Mobile-Penetration-Testing-Tool",
     "owner": "4xyy",
     "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 4,
+    "forks": 0,
+    "language": null
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
@@ -855,15 +855,6 @@
     "language": null
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 3,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "Cyber-Security-Toolset",
     "owner": "SUmidcyber",
     "url": "https://github.com/SUmidcyber/Cyber-Security-Toolset",
@@ -873,13 +864,13 @@
     "language": "PowerShell"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
     "stars": 3,
-    "forks": 1,
-    "language": null
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Hack-Tools",
@@ -891,12 +882,21 @@
     "language": "Python"
   },
   {
-    "name": "Password-Management-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Password-Management-Tool",
-    "description": "This is a simple password management tool built using python, for penetration testing, ethical hacking and password security.",
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 3,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 3,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   }
 ]
