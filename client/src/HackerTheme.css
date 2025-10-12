@@ -1,68 +1,61 @@
 body {
-  background-color: #f8f9fa !important; /* A slightly off-white for a softer look */
-  color: #333333 !important;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  background-color: #1e1e1e !important;
+  color: #d4d4d4 !important;
+  font-family: 'Menlo', 'Monaco', 'Courier New', monospace !important;
 }
 
 .hacker-container h1 {
-  color: #333333;
-  text-shadow: none;
+  color: #569cd6;
+  text-shadow: 0 0 5px #569cd6;
 }
 
 .card {
-  background-color: #ffffff !important;
-  border: 1px solid #e0e0e0 !important;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  transition: box-shadow 0.3s ease-in-out;
-}
-
-.card:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #252526 !important;
+  border: 1px solid #333333 !important;
 }
 
 .card-title {
-  color: #007bff !important;
+  color: #569cd6 !important;
 }
 
 .card-text {
-  color: #555555 !important;
+  color: #d4d4d4 !important;
 }
 
 textarea.form-control {
-  background-color: #ffffff;
-  color: #333333;
-  border: 1px solid #ced4da;
+  background-color: #3c3c3c;
+  color: #d4d4d4;
+  border: 1px solid #333333;
 }
 
 textarea.form-control::placeholder {
-  color: #6c757d;
+  color: #a0a0a0;
 }
 
 .btn-primary {
-  background-color: #007bff !important;
-  border: 1px solid #007bff !important;
+  background-color: #0e639c !important;
+  border: 1px solid #0e639c !important;
   color: #ffffff !important;
-  transition: background-color 0.3s ease-in-out;
 }
 
 .btn-primary:hover {
-  background-color: #0056b3 !important;
-  border-color: #0056b3 !important;
+  background-color: #1177bb !important;
+  border-color: #1177bb !important;
 }
 
 .nav-link {
-  color: #007bff !important;
+  color: #569cd6 !important;
 }
 
 .nav-link:hover {
-  color: #0056b3 !important;
+  color: #4b8ccb !important;
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #a0a0a0 !important;
 }
 
 .username {
-  color: #007bff;
+  color: #9cdcfe;
   font-weight: bold;
 }
