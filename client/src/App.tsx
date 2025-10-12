@@ -15,6 +15,7 @@ import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
 import SubdomainEnumeration from './components/SubdomainEnumeration';
+import Dashboard from './components/Dashboard';
 
 import './HackerTheme.css';
 
