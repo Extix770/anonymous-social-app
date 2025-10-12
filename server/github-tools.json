@@ -126,6 +126,15 @@
     "language": "JavaScript"
   },
   {
+    "name": "ToolHunt",
+    "owner": "cyberytti",
+    "url": "https://github.com/cyberytti/ToolHunt",
+    "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
+    "stars": 99,
+    "forks": 11,
+    "language": "HTML"
+  },
+  {
     "name": "HackerToolkit",
     "owner": "ChrisJr404",
     "url": "https://github.com/ChrisJr404/HackerToolkit",
@@ -133,15 +142,6 @@
     "stars": 99,
     "forks": 6,
     "language": "Shell"
-  },
-  {
-    "name": "ToolHunt",
-    "owner": "cyberytti",
-    "url": "https://github.com/cyberytti/ToolHunt",
-    "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 98,
-    "forks": 11,
-    "language": "HTML"
   },
   {
     "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
@@ -495,19 +495,19 @@
     "language": "Python"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 8,
     "forks": 2,
     "language": null
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 8,
     "forks": 2,
     "language": null
