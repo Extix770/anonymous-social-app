@@ -199,17 +199,19 @@ app.post('/api/subdomain-enumeration', (req, res) => {
 
     subdomains.forEach(subdomain => {
       const hostname = `${subdomain}.${domain}`;
+      const socketId = userSockets[req.body.userId];
+      if (socketId) {
+        io.to(socketId).emit('subdomain-scan-log', `Testing: ${hostname}`);
+      }
       dns.lookup(hostname, (err, address) => {
         scannedCount++;
         if (!err) {
-          const socketId = userSockets[req.body.userId]; // Assuming userId is sent in the request
           if (socketId) {
             io.to(socketId).emit('subdomain-found', hostname);
           }
         }
 
         if (scannedCount === subdomains.length) {
-          const socketId = userSockets[req.body.userId];
           if (socketId) {
             io.to(socketId).emit('subdomain-scan-finished');
           }

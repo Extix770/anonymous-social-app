@@ -9,12 +9,14 @@ interface SubdomainEnumerationProps {
 const SubdomainEnumeration: React.FC<SubdomainEnumerationProps> = ({ socket }) => {
   const [domain, setDomain] = useState('');
   const [subdomains, setSubdomains] = useState<string[]>([]);
+  const [logs, setLogs] = useState<string[]>([]);
   const [isScanning, setIsScanning] = useState(false);
 
   const handleStartScan = async () => {
     if (!domain) return;
     setIsScanning(true);
     setSubdomains([]);
+    setLogs([]);
     try {
       const userId = localStorage.getItem('userId');
       await axios.post('/api/subdomain-enumeration', { domain, userId });
@@ -26,6 +28,10 @@ const SubdomainEnumeration: React.FC<SubdomainEnumerationProps> = ({ socket }) =
   useEffect(() => {
     if (!socket) return;
 
+    socket.on('subdomain-scan-log', (log: string) => {
+      setLogs(prevLogs => [...prevLogs, log]);
+    });
+
     socket.on('subdomain-found', (subdomain: string) => {
       setSubdomains(prevSubdomains => [...prevSubdomains, subdomain]);
     });
@@ -35,6 +41,7 @@ const SubdomainEnumeration: React.FC<SubdomainEnumerationProps> = ({ socket }) =
     });
 
     return () => {
+      socket.off('subdomain-scan-log');
       socket.off('subdomain-found');
       socket.off('subdomain-scan-finished');
     };
@@ -61,11 +68,24 @@ const SubdomainEnumeration: React.FC<SubdomainEnumerationProps> = ({ socket }) =
             {isScanning ? 'Scanning...' : 'Start Scan'}
           </button>
         </div>
-        <ul className="list-group">
-          {subdomains.map((subdomain, index) => (
-            <li key={index} className="list-group-item">{subdomain}</li>
-          ))}
-        </ul>
+        <div className="row">
+          <div className="col-md-6">
+            <h5>Logs</h5>
+            <pre className="bg-dark text-white p-2" style={{ height: '300px', overflowY: 'auto' }}>
+              {logs.map((log, index) => (
+                <div key={index}>{log}</div>
+              ))}
+            </pre>
+          </div>
+          <div className="col-md-6">
+            <h5>Results</h5>
+            <ul className="list-group">
+              {subdomains.map((subdomain, index) => (
+                <li key={index} className="list-group-item">{subdomain}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
   );
