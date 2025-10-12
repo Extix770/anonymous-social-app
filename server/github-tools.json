@@ -576,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "GovTools",
     "owner": "DecryptaTechnologies",
     "url": "https://github.com/DecryptaTechnologies/GovTools",
@@ -592,6 +583,15 @@
     "stars": 7,
     "forks": 1,
     "language": "C#"
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Bug-Bounty-Tools",
