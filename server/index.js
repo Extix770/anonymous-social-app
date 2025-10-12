@@ -191,86 +191,93 @@ app.post('/api/subdomain-enumeration', async (req, res) => {
 
   const socketId = userSockets[userId];
 
-  // Brute-force
-  const wordlistPath = path.join(__dirname, 'subdomains.txt');
-  fs.readFile(wordlistPath, 'utf8', (err, data) => {
-    if (err) {
-      console.error('Error reading wordlist:', err);
-      if (socketId) {
-        io.to(socketId).emit('subdomain-scan-log', 'Error reading wordlist');
-      }
-      return;
-    }
-
-    const subdomains = data.split('\n').filter(Boolean);
-    console.log(`Starting brute-force scan with ${subdomains.length} subdomains.`);
-    if (socketId) {
-      io.to(socketId).emit('subdomain-scan-log', `Starting brute-force scan with ${subdomains.length} subdomains.`);
-    }
-    let scannedCount = 0;
-
-    subdomains.forEach(subdomain => {
-      const hostname = `${subdomain}.${domain}`;
-      if (socketId) {
-        io.to(socketId).emit('subdomain-scan-log', `Testing: ${hostname}`);
-      }
-      dns.lookup(hostname, (err, address) => {
-        scannedCount++;
-        if (!err) {
-          console.log(`Found subdomain (brute-force): ${hostname}`);
-          if (socketId) {
-            io.to(socketId).emit('subdomain-found', hostname);
-          }
+  const bruteForceScan = new Promise((resolve, reject) => {
+    const wordlistPath = path.join(__dirname, 'subdomains.txt');
+    fs.readFile(wordlistPath, 'utf8', (err, data) => {
+      if (err) {
+        console.error('Error reading wordlist:', err);
+        if (socketId) {
+          io.to(socketId).emit('subdomain-scan-log', 'Error reading wordlist');
         }
+        return reject(err);
+      }
 
-        if (scannedCount === subdomains.length) {
-          console.log('Brute-force scan finished.');
-          if (socketId) {
-            io.to(socketId).emit('subdomain-scan-log', 'Brute-force scan finished.');
-          }
+      const subdomains = data.split('\n').filter(Boolean);
+      console.log(`Starting brute-force scan with ${subdomains.length} subdomains.`);
+      if (socketId) {
+        io.to(socketId).emit('subdomain-scan-log', `Starting brute-force scan with ${subdomains.length} subdomains.`);
+      }
+      let scannedCount = 0;
+
+      subdomains.forEach(subdomain => {
+        const hostname = `${subdomain}.${domain}`;
+        if (socketId) {
+          io.to(socketId).emit('subdomain-scan-log', `Testing: ${hostname}`);
         }
+        dns.lookup(hostname, (err, address) => {
+          scannedCount++;
+          if (!err) {
+            console.log(`Found subdomain (brute-force): ${hostname}`);
+            if (socketId) {
+              io.to(socketId).emit('subdomain-found', hostname);
+            }
+          }
+
+          if (scannedCount === subdomains.length) {
+            console.log('Brute-force scan finished.');
+            if (socketId) {
+              io.to(socketId).emit('subdomain-scan-log', 'Brute-force scan finished.');
+            }
+            resolve();
+          }
+        });
       });
     });
   });
 
-  // Certificate Transparency Logs
-  try {
-    console.log(`Querying crt.sh for ${domain}`);
-    if (socketId) {
-      io.to(socketId).emit('subdomain-scan-log', 'Querying crt.sh...');
-    }
-    const response = await axios.get(`https://crt.sh/?q=%.${domain}&output=json`);
-    console.log(`crt.sh response status: ${response.status}`);
-    const uniqueSubdomains = new Set();
-    response.data.forEach(cert => {
-      const nameValue = cert.name_value.split('\n');
-      nameValue.forEach(name => {
-        if (name.endsWith(domain)) {
-          uniqueSubdomains.add(name);
+  const crtShScan = new Promise(async (resolve, reject) => {
+    try {
+      console.log(`Querying crt.sh for ${domain}`);
+      if (socketId) {
+        io.to(socketId).emit('subdomain-scan-log', 'Querying crt.sh...');
+      }
+      const response = await axios.get(`https://crt.sh/?q=%.${domain}&output=json`);
+      console.log(`crt.sh response status: ${response.status}`);
+      const uniqueSubdomains = new Set();
+      response.data.forEach(cert => {
+        const nameValue = cert.name_value.split('\n');
+        nameValue.forEach(name => {
+          if (name.endsWith(domain)) {
+            uniqueSubdomains.add(name);
+          }
+        });
+      });
+
+      console.log(`Found ${uniqueSubdomains.size} unique subdomains from crt.sh`);
+      if (socketId) {
+        io.to(socketId).emit('subdomain-scan-log', `Found ${uniqueSubdomains.size} unique subdomains from crt.sh`);
+      }
+
+      uniqueSubdomains.forEach(subdomain => {
+        if (socketId) {
+          io.to(socketId).emit('subdomain-found', subdomain);
         }
       });
-    });
-
-    console.log(`Found ${uniqueSubdomains.size} unique subdomains from crt.sh`);
-    if (socketId) {
-      io.to(socketId).emit('subdomain-scan-log', `Found ${uniqueSubdomains.size} unique subdomains from crt.sh`);
-    }
-
-    uniqueSubdomains.forEach(subdomain => {
+      resolve();
+    } catch (error) {
+      console.error('Error querying crt.sh:', error.message);
       if (socketId) {
-        io.to(socketId).emit('subdomain-found', subdomain);
+        io.to(socketId).emit('subdomain-scan-log', 'Error querying crt.sh');
       }
-    });
-  } catch (error) {
-    console.error('Error querying crt.sh:', error.message);
-    if (socketId) {
-      io.to(socketId).emit('subdomain-scan-log', 'Error querying crt.sh');
+      reject(error);
     }
-  }
+  });
 
-  if (socketId) {
-    io.to(socketId).emit('subdomain-scan-finished');
-  }
+  Promise.all([bruteForceScan, crtShScan]).finally(() => {
+    if (socketId) {
+      io.to(socketId).emit('subdomain-scan-finished');
+    }
+  });
 });
 
 
