@@ -9,6 +9,8 @@ const fs = require('fs');
 const path = require('path');
 const rug = require('random-username-generator');
 
+const dns = require('dns');
+
 const app = express();
 const server = http.createServer(app);
 const port = process.env.PORT || 3001;
@@ -177,6 +179,44 @@ app.get('/api/search', (req, res) => {
   });
 
   res.json(results);
+});
+
+app.post('/api/subdomain-enumeration', (req, res) => {
+  const { domain } = req.body;
+  if (!domain) return res.status(400).json({ error: 'Domain not specified' });
+
+  res.json({ message: `Starting subdomain enumeration for ${domain}` });
+
+  const wordlistPath = path.join(__dirname, 'subdomains.txt');
+  fs.readFile(wordlistPath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading wordlist:', err);
+      return;
+    }
+
+    const subdomains = data.split('\n').filter(Boolean);
+    let scannedCount = 0;
+
+    subdomains.forEach(subdomain => {
+      const hostname = `${subdomain}.${domain}`;
+      dns.lookup(hostname, (err, address) => {
+        scannedCount++;
+        if (!err) {
+          const socketId = userSockets[req.body.userId]; // Assuming userId is sent in the request
+          if (socketId) {
+            io.to(socketId).emit('subdomain-found', hostname);
+          }
+        }
+
+        if (scannedCount === subdomains.length) {
+          const socketId = userSockets[req.body.userId];
+          if (socketId) {
+            io.to(socketId).emit('subdomain-scan-finished');
+          }
+        }
+      });
+    });
+  });
 });
 
 

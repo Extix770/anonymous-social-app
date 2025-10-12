@@ -14,7 +14,7 @@ import PrivateMessagePage from './components/PrivateMessagePage';
 import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
-import Dashboard from './components/Dashboard';
+import SubdomainEnumeration from './components/SubdomainEnumeration';
 
 import './HackerTheme.css';
 
@@ -89,6 +89,7 @@ function App() {
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
             <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
             <Route path="/online" element={<OnlinePage socket={socket} />} />
+            <Route path="/subdomain-enumeration" element={<SubdomainEnumeration socket={socket} />} />
             <Route path="/users/:userId" element={<ProfilePage />} />
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
