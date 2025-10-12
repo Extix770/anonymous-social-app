@@ -306,6 +306,14 @@ io.on('connection', (socket) => {
     io.emit('new-comment', { postId, comment: newComment });
   });
 
+  socket.on('get-online-users', () => {
+    const onlineUsers = Object.keys(userSockets).map(userId => {
+      const user = users.find(u => u.id === userId);
+      return { id: user.id, username: user.username };
+    });
+    socket.emit('online-users', onlineUsers);
+  });
+
   
 
   socket.on('get-private-messages', ({ withUserId }) => {
