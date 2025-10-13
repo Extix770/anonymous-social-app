@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
+    "link": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
+    "pubDate": "Mon, 13 Oct 2025 15:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwiot_8OzTXJxhYapPUtVLyE1hpXSVFloD14Z-isSG0lOkfNpbjihyphenhyphenhpFE54GCl2hcCsy8a5yqisoAKmvyaF1vrC48jY4eLI0jf70oCDLC0uSD2DRahi3Xf8gnqWNHGla20yccMEw5rm4Hj1bks5iLW4JxtHUDbOvEgCuMsyz-XrKcR_6eM6vqOuQ46ANQ/s1600/botnet-malware.jpg"
+    },
+    "content": "Malware campaigns distributing the RondoDox botnet have expanded their targeting focus to exploit more than 50 vulnerabilities across over 30 vendors.\nThe activity, described as akin to an \"exploit shotgun\" approach, has singled out a wide range of internet-exposed infrastructure, including routers, digital video recorders (DVRs), network video recorders (NVRs), CCTV systems, web servers, and",
+    "contentSnippet": "Malware campaigns distributing the RondoDox botnet have expanded their targeting focus to exploit more than 50 vulnerabilities across over 30 vendors.\nThe activity, described as akin to an \"exploit shotgun\" approach, has singled out a wide range of internet-exposed infrastructure, including routers, digital video recorders (DVRs), network video recorders (NVRs), CCTV systems, web servers, and",
+    "guid": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
+    "isoDate": "2025-10-13T10:12:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
+    "link": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+    "pubDate": "Mon, 13 Oct 2025 15:24:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtO_KAfNCOTqs2JcWLrUFXMVfDeVWtB8zvcN3nIR4i2wPde7J5FxNBOzLU2sYynj2wNmZXPYs60s9-kf4tIlrEEu4ZrxLnqLOdGyMjBVR0AbCBP5WG9pNZEq7Img77ZoIqGquYFGeG0HPzHbhiSgHjLn_2f_gi_4sZnQawhSUT9qTELXPk_DagHbugCM2y/s1600/edge.jpg"
+    },
+    "content": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices.\n\"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript",
+    "contentSnippet": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices.\n\"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript",
+    "guid": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+    "isoDate": "2025-10-13T09:54:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
     "link": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
     "pubDate": "Mon, 13 Oct 2025 12:22:00 +0530",
@@ -340,40 +374,6 @@
     "contentSnippet": "Dozens of organizations may have been impacted following the zero-day exploitation of a security flaw in Oracle's E-Business Suite (EBS) software since August 9, 2025, Google Threat Intelligence Group (GTIG) and Mandiant said in a new report released Thursday.\n\"We're still assessing the scope of this incident, but we believe it affected dozens of organizations,\" John Hultquist, chief analyst of",
     "guid": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
     "isoDate": "2025-10-10T06:41:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Reece Rogers, Lily Hay Newman",
-    "title": "Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up",
-    "link": "https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/",
-    "pubDate": "Thu, 09 Oct 2025 17:22:32 +0000",
-    "dc:creator": "Reece Rogers, Lily Hay Newman",
-    "content": "“We are going to do everything in our power to fight this,” says ICEBlock developer Joshua Aaron after Apple removed his app from the App Store.",
-    "contentSnippet": "“We are going to do everything in our power to fight this,” says ICEBlock developer Joshua Aaron after Apple removed his app from the App Store.",
-    "guid": "68e6d7cbe66cb0a894b121a2",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Security / National Security",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-10-09T17:22:32.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
-    "link": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-    "pubDate": "Thu, 09 Oct 2025 22:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOEstrhyphenhyphenCizrJ5PlhokPBRwlpC1NBlLi1ZOZIPhyphenhyphenPzYz_G9Ym0BQ-3RfmcK-GWOnK4TpboCcI9WU5r_ZbK5Jl97nD7MIAEOFyjyByLvCzyMl-jOGCe4VA1tnpnFTeT40m9GfbTiIdaCm_iS5fW-Fse_Hvq2TadRhGUQ6FcoRGLUaFYdD-RFNaMA7i60-IU/s1600/chinese.jpg"
-    },
-    "content": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
-    "contentSnippet": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
-    "guid": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-    "isoDate": "2025-10-09T17:19:00.000Z",
     "itunes": {}
   }
 ]
