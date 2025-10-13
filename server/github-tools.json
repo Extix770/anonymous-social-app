@@ -324,19 +324,19 @@
     "language": "Shell"
   },
   {
-    "name": "securitylabs-thrunting-tools",
-    "owner": "elastic",
-    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
-    "description": "A collection of  utilities to help with analysis on the command line.",
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
     "stars": 18,
     "forks": 3,
     "language": "Python"
   },
   {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "name": "securitylabs-thrunting-tools",
+    "owner": "elastic",
+    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
+    "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
     "language": "Python"
@@ -504,15 +504,6 @@
     "language": "Python"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 9,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "UM-NIDS-Tool",
     "owner": "SyedWaliAbbas",
     "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
@@ -520,6 +511,15 @@
     "stars": 9,
     "forks": 3,
     "language": "Jupyter Notebook"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 9,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "Shifter-tool",
@@ -630,15 +630,6 @@
     "language": "Python"
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "LuciTools",
     "owner": "IamLucif3r",
     "url": "https://github.com/IamLucif3r/LuciTools",
@@ -646,6 +637,15 @@
     "stars": 7,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -684,19 +684,19 @@
     "language": "TypeScript"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -738,15 +738,6 @@
     "language": "Python"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -754,6 +745,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "digital-forensics-tools",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 0,
     "language": null
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Mobile-Penetration-Testing-Tool",
