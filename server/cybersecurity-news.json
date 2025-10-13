@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
+    "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+    "pubDate": "Mon, 13 Oct 2025 10:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3iBS_M1DTXWPqBT43YKsEeEvGS5AfTVvw_RHitAi-w0f-zQkDSW2HffEnKE_fLC-Kj6xp9RNcTle8RIZmltoTGaFvoLwpSRBx6sHBpv7xtpM31lvoif9WagX2eVsIMyYejs4J_8_oXf7lUWFsoKbkwEapbSqkM64pfFvHw9HaGKZyfnE5N3MAMm5cM3B/s1600/Discord.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
+    "guid": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+    "isoDate": "2025-10-13T05:12:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
     "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
     "pubDate": "Sun, 12 Oct 2025 22:54:00 +0530",
@@ -357,23 +374,6 @@
     "contentSnippet": "A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them.\n\"Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front",
     "guid": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
     "isoDate": "2025-10-09T15:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
-    "link": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
-    "pubDate": "Thu, 09 Oct 2025 19:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKVCoCUU92cuMge4jrED5l3NtGlvapm8j6ZW9_3ejj7hw3wIjj5ZTZZJnRL4-ljMYkxkKupkFzLnAdHehAlJP0ysckQfI2yMRfga9n4Bvw2UEPbmCfq-pZcbk5ivZV4bTMzCaLPf4wfzICo52y_sJcXDm9hn5pLTJ4AzmdVpMmwaWl6_sfTrMW7E8Hb4wT/s1600/sonic.jpg"
-    },
-    "content": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.\n\"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said.\nIt also noted that it's working to notify all",
-    "contentSnippet": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.\n\"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said.\nIt also noted that it's working to notify all",
-    "guid": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
-    "isoDate": "2025-10-09T13:48:00.000Z",
     "itunes": {}
   }
 ]
