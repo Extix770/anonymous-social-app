@@ -513,6 +513,15 @@
     "language": null
   },
   {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "stars": 9,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "UM-NIDS-Tool",
     "owner": "SyedWaliAbbas",
     "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
@@ -547,15 +556,6 @@
     "stars": 8,
     "forks": 2,
     "language": "Python"
-  },
-  {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 8,
-    "forks": 2,
-    "language": null
   },
   {
     "name": "Cybersecurity-Web-Tools",
