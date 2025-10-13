@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Rewiring Democracy is Coming Soon",
+    "link": "https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html",
+    "pubDate": "Mon, 13 Oct 2025 16:36:38 +0000",
+    "content:encoded": "<p>My latest book, <i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i>, will be published in just over a week. No reviews yet, but can read chapters <a href=\"https://pghrev.com/being-a-politician/\">12</a> and &lt;a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd&#8221;>34</a> (of <a href=\"https://www.schneier.com/books/table-of-contents/\">43 chapters</a> total).</p>\n<p>You can order the book pretty much everywhere, and a copy signed by me &lt;a href=&#8221;https://www.schneier.com/product/rewiring-democracy-hardcover/&#8217;>here</a>.</p>\n<p>Please help spread the word. I want this book to make a splash when it&#8217;s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I&#8217;d like the book to be announced there.</p>\n",
+    "content:encodedSnippet": "My latest book, Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship, will be published in just over a week. No reviews yet, but can read chapters 12 and <a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd”>34 (of 43 chapters total).\nYou can order the book pretty much everywhere, and a copy signed by me <a href=”https://www.schneier.com/product/rewiring-democracy-hardcover/’>here.\nPlease help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I’d like the book to be announced there.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html#respond",
+    "content": "<p>My latest book, <i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i>, will be published in just over a week. No reviews yet, but can read chapters <a href=\"https://pghrev.com/being-a-politician/\">12</a> and &#60;a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd&#8221;&#62;34</a> (of <a href=\"https://www.schneier.com/books/table-of-contents/\">43 chapters</a> total).</p>\n<p>You can order the book pretty much everywhere, and a copy signed by me &#60;a href=&#8221;https://www.schneier.com/product/rewiring-democracy-hardcover/&#8217;&#62;here</a>.</p>\n<p>Please help spread the word. I want this book to make a splash when it&#8217;s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I&#8217;d like the book to be announced there...</p>",
+    "contentSnippet": "My latest book, Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship, will be published in just over a week. No reviews yet, but can read chapters 12 and <a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd”>34 (of 43 chapters total).\nYou can order the book pretty much everywhere, and a copy signed by me <a href=”https://www.schneier.com/product/rewiring-democracy-hardcover/’>here.\nPlease help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I’d like the book to be announced there...",
+    "guid": "https://www.schneier.com/?p=70952",
+    "categories": [
+      "Uncategorized"
+    ],
+    "isoDate": "2025-10-13T16:36:38.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
     "link": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
@@ -362,23 +379,6 @@
     "contentSnippet": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.\nThe packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
     "guid": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
     "isoDate": "2025-10-10T10:45:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-    "link": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-    "pubDate": "Fri, 10 Oct 2025 15:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFpozHtF1PQTsD-RpUuVO5cSYufG01hWx1-Y8NFgpTTQakZg-HZjSRQBt_2eSZE0zwa_6HGEkxF22vaC0HyEW0e4T0S4Po91yO-PbdjXwcS0foskmlO8x8WXs6WpzuoJFfhIqfwNHv9_BJTxWH-1xgxBm95pmIs4K6602uQmSP2qDftAZJBDNWFgz_mWSI/s1600/glad.jpg"
-    },
-    "content": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products.\nThe zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and",
-    "contentSnippet": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products.\nThe zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and",
-    "guid": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-    "isoDate": "2025-10-10T09:34:00.000Z",
     "itunes": {}
   }
 ]
