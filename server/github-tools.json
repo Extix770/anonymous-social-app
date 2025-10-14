@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7378,
+    "stars": 7379,
     "forks": 1010,
     "language": null
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1244,
+    "stars": 1245,
     "forks": 141,
     "language": null
   },
@@ -828,15 +828,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -844,6 +835,15 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "PerlCodingToolkit",
