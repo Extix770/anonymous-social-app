@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Andy Greenberg, Matt Burgess",
+    "title": "Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
+    "link": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
+    "pubDate": "Tue, 14 Oct 2025 01:00:00 +0000",
+    "dc:creator": "Andy Greenberg, Matt Burgess",
+    "content": "With just $800 in basic equipment, researchers found a stunning variety of data—including thousands of T-Mobile users’ calls and texts and even US military communications—sent by satellites unencrypted.",
+    "contentSnippet": "With just $800 in basic equipment, researchers found a stunning variety of data—including thousands of T-Mobile users’ calls and texts and even US military communications—sent by satellites unencrypted.",
+    "guid": "68dfdd9c45b931ea873e447d",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-14T01:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Rewiring Democracy is Coming Soon",
     "link": "https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html",
@@ -362,23 +380,6 @@
     "contentSnippet": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt.\nBut not all AI SOC platforms are created equal.\nFrom prompt-dependent copilots to autonomous, multi-agent systems, the current market offers",
     "guid": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
     "isoDate": "2025-10-10T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
-    "link": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
-    "pubDate": "Fri, 10 Oct 2025 16:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQBV8_oOxPwudRj1LYeRYYfTfqGdJNspxDsZdEaik1CN3pwKs_iRvpPO2M94Vg3jRoxTGhUFMsbFVWdKvoBvZMs8Enyz9LRlhw2cNsgDiNLxlOgU4g-ADGcg8yFt6q3pUoxgnBhL_xZdNQUnAwLHyujuVRm4HmBonEiU1A_D3O4vCzTzJVK_M_mwW8f2Mb/s1600/msms.jpg"
-    },
-    "content": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.\nThe packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
-    "contentSnippet": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.\nThe packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
-    "guid": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
-    "isoDate": "2025-10-10T10:45:00.000Z",
     "itunes": {}
   }
 ]
