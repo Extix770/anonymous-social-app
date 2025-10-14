@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Jacob Roach",
+    "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
+    "link": "https://www.wired.com/gallery/best-vpn-for-iphone/",
+    "pubDate": "Tue, 14 Oct 2025 11:30:00 +0000",
+    "dc:creator": "Jacob Roach",
+    "content": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
+    "contentSnippet": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
+    "guid": "68cb21d1fa58bb73aa9626a5",
+    "categories": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Online Services",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-10-14T11:30:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "The Trump Administration’s Increased Use of Social Media Surveillance",
     "link": "https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html",
@@ -364,23 +381,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through",
     "guid": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
     "isoDate": "2025-10-10T14:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries",
-    "link": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-    "pubDate": "Fri, 10 Oct 2025 19:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Fr0HN_Hopnq6XStUBjqKYba-6EufmmmRHA4BhMnOzU8XOhKZFdMZ8zz77i00ecMI3Y_L63SHfYAjGT-lWUQGmUIRUtGeJkEya7ODnzQUDGQba7RTKt4MQT-SkvfBSx-qlvubg2b6KOwgmMydj0Fqg2cJjKzGJZRupeOL8Jm3sU9IZzg3pAF6nrVVg8uv/s1600/payroll.jpg"
-    },
-    "content": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
-    "contentSnippet": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
-    "guid": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-    "isoDate": "2025-10-10T13:31:00.000Z",
     "itunes": {}
   }
 ]
