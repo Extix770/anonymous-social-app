@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "The Trump Administration’s Increased Use of Social Media Surveillance",
+    "link": "https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html",
+    "pubDate": "Tue, 14 Oct 2025 11:09:54 +0000",
+    "content:encoded": "<p>This chilling paragraph is in a comprehensive <a href=\"https://www.brookings.edu/articles/how-tech-powers-immigration-enforcement/\">Brookings report</a> about the use of tech to deport people from the US:</p>\n<blockquote><p>The administration has also adapted its methods of social media surveillance. Though agencies like <a href=\"https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government\">the State Department</a> have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it&#8217;s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance <a href=\"https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas\">&#8220;Catch and Revoke&#8221; strategy,</a> which uses AI to monitor the public speech of foreign nationals and <a href=\"https://www.forbes.com/sites/stuartanderson/2025/05/05/rubio-makes-immigration-threat-to-revoke-student-h-1b-and-other-visas/\">revoke visas</a> of those who &#8220;abuse [the country&#8217;s] hospitality.&#8221; In a March press conference, <a href=\"https://www.state.gov/secretary-of-state-marco-rubio-remarks-to-the-press-3/\">Rubio remarked</a> that at least 300 visas, primarily student and visitor visas, had been revoked on the grounds that visitors are engaging in activity contrary to national interest. A State Department cable also announced <a href=\"https://www.washingtonpost.com/national-security/2025/06/18/student-visas-social-media-vetting-state-department/\">a new requirement</a> for student visa applicants to set their social media accounts to public&#8212;reflecting stricter vetting practices aimed at identifying individuals who &#8220;bear hostile attitudes toward our citizens, culture, government, institutions, or founding principles,&#8221; among other criteria.</p></blockquote>\n",
+    "content:encodedSnippet": "This chilling paragraph is in a comprehensive Brookings report about the use of tech to deport people from the US:\nThe administration has also adapted its methods of social media surveillance. Though agencies like the State Department have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it’s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance “Catch and Revoke” strategy, which uses AI to monitor the public speech of foreign nationals and revoke visas of those who “abuse [the country’s] hospitality.” In a March press conference, Rubio remarked that at least 300 visas, primarily student and visitor visas, had been revoked on the grounds that visitors are engaging in activity contrary to national interest. A State Department cable also announced a new requirement for student visa applicants to set their social media accounts to public—reflecting stricter vetting practices aimed at identifying individuals who “bear hostile attitudes toward our citizens, culture, government, institutions, or founding principles,” among other criteria.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html#respond",
+    "content": "<p>This chilling paragraph is in a comprehensive <a href=\"https://www.brookings.edu/articles/how-tech-powers-immigration-enforcement/\">Brookings report</a> about the use of tech to deport people from the US:</p>\n<blockquote><p>The administration has also adapted its methods of social media surveillance. Though agencies like <a href=\"https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government\">the State Department</a> have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it&#8217;s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance <a href=\"https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas\">&#8220;Catch and Revoke&#8221; strategy,</a> which uses AI to monitor the public speech of foreign nationals and <a href=\"https://www.forbes.com/sites/stuartanderson/2025/05/05/rubio-makes-immigration-threat-to-revoke-student-h-1b-and-other-visas/\">revoke visas...</a></p></blockquote>",
+    "contentSnippet": "This chilling paragraph is in a comprehensive Brookings report about the use of tech to deport people from the US:\nThe administration has also adapted its methods of social media surveillance. Though agencies like the State Department have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it’s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance “Catch and Revoke” strategy, which uses AI to monitor the public speech of foreign nationals and revoke visas...",
+    "guid": "https://www.schneier.com/?p=70954",
+    "categories": [
+      "Uncategorized",
+      "activism",
+      "AI",
+      "privacy",
+      "reports",
+      "social media",
+      "surveillance"
+    ],
+    "isoDate": "2025-10-14T11:09:54.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
     "link": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
@@ -358,23 +381,6 @@
     "contentSnippet": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
     "guid": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
     "isoDate": "2025-10-10T13:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
-    "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-    "pubDate": "Fri, 10 Oct 2025 17:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6M2Mk_m5h6N65jjDGVX4AmHsBVW6ou9RQrloE9wFrzWPykoJJtMgqx48QokDdXk6qZUYJh61b_9z0o1z7MorZg-kSeGgsYuGhxVt6LmjvAECLCAVHfo5yL1MI23zoK9eDrrvjWA5ou5_5Vh-Lo2DgcrYHeHP3hBuDepj_xAtDHV_hYhFZVSzgrDHrfF2b/s1600/forta.jpg"
-    },
-    "content": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025.\nThe company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
-    "contentSnippet": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025.\nThe company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
-    "guid": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-    "isoDate": "2025-10-10T11:42:00.000Z",
     "itunes": {}
   }
 ]
