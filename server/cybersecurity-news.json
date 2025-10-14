@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
+    "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+    "pubDate": "Tue, 14 Oct 2025 22:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRSZWxMRER0yVw2hm_uaYvfH3DFKO-dOCU6AUL-VlFHF7lmrq-DCYFHE3U5icBAMhKf3-XjeAoqTIie42qTngwACS-cNm7CF8t01SHoEWhpNdmmZZTDBtuoUv9TZUUze6MU1lfe4NWC5KcJcT_pLGx-1dqjoZm9IJOR1X8zV0zapl05Pux01XLhfHNGk3/s1600/chinese-hackers.jpg"
+    },
+    "content": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.\nThe activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded",
+    "contentSnippet": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.\nThe activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded",
+    "guid": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+    "isoDate": "2025-10-14T16:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Upcoming Speaking Engagements",
     "link": "https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html",
@@ -335,23 +352,6 @@
     "contentSnippet": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
     "guid": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
     "isoDate": "2025-10-12T17:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
-    "link": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
-    "pubDate": "Sat, 11 Oct 2025 19:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8fODIM7k71u9xlKKIpIeQaYuLTZduw0K0cz4iK0_IBO_ngStXEPNuB6WTsJL9sZI0Tiz8NflomVUra3DTSmxxyApil-Kg3_Jjo2iFnrwFJ3U0wHyM6DKHCTVUB30OKPNP9x4rURP6qsuTUcimFYPulsbL5pTrEr_SCVKajw7dPy7lle20f83ql5TAuAQ/s1600/sonicwall.jpg"
-    },
-    "content": "Cybersecurity company Huntress on Friday warned of \"widespread compromise\" of SonicWall SSL VPN devices to access multiple customer environments.\n\"Threat actors are authenticating into multiple accounts rapidly across compromised devices,\" it said. \"The speed and scale of these attacks imply that the attackers appear to control valid credentials rather than brute-forcing.\"\nA significant chunk of",
-    "contentSnippet": "Cybersecurity company Huntress on Friday warned of \"widespread compromise\" of SonicWall SSL VPN devices to access multiple customer environments.\n\"Threat actors are authenticating into multiple accounts rapidly across compromised devices,\" it said. \"The speed and scale of these attacks imply that the attackers appear to control valid credentials rather than brute-forcing.\"\nA significant chunk of",
-    "guid": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
-    "isoDate": "2025-10-11T13:30:00.000Z",
     "itunes": {}
   }
 ]
