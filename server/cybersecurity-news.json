@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Dan Goodin, Ars Technica",
+    "title": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
+    "link": "https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/",
+    "pubDate": "Tue, 14 Oct 2025 21:40:00 +0000",
+    "dc:creator": "Dan Goodin, Ars Technica",
+    "content": "The malicious app required to make a “Pixnapping” attack work requires no permissions.",
+    "contentSnippet": "The malicious app required to make a “Pixnapping” attack work requires no permissions.",
+    "guid": "68ee936ad2e2f912b644160b",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-14T21:40:00.000Z"
+  },
+  {
     "creator": "Matt Burgess, Andy Greenberg",
     "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire",
     "link": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
@@ -334,23 +350,6 @@
     "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign that delivers the Astaroth banking trojan that employs GitHub as a backbone for its operations to stay resilient in the face of infrastructure takedowns.\n\"Instead of relying solely on traditional command-and-control (C2) servers that can be taken down, these attackers are leveraging GitHub repositories to host malware",
     "guid": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
     "isoDate": "2025-10-13T06:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-    "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-    "pubDate": "Mon, 13 Oct 2025 10:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3iBS_M1DTXWPqBT43YKsEeEvGS5AfTVvw_RHitAi-w0f-zQkDSW2HffEnKE_fLC-Kj6xp9RNcTle8RIZmltoTGaFvoLwpSRBx6sHBpv7xtpM31lvoif9WagX2eVsIMyYejs4J_8_oXf7lUWFsoKbkwEapbSqkM64pfFvHw9HaGKZyfnE5N3MAMm5cM3B/s1600/Discord.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
-    "guid": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-    "isoDate": "2025-10-13T05:12:00.000Z",
     "itunes": {}
   }
 ]
