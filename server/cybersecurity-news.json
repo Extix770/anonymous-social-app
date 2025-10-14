@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
+    "link": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
+    "pubDate": "Tue, 14 Oct 2025 10:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuj2qXooTKDuCllVA-M9rA4zrxasH5zIdp6lm-BsS66td0H5rfmJDpWkHmzBlu72tUzQbvv5VBofkRfhpoU60REAndnUxabWWmQH9Udy8NWuJCWWwVzt1gny0Bu8siufR0XpIwJrkBjwKiQk7sOu4gn76qFA8iqMXWJKyakCk3kSOC9McQEmd7kAF0lx60/s1600/malware-click.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
+    "contentSnippet": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
+    "guid": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
+    "isoDate": "2025-10-14T05:28:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg, Matt Burgess",
     "title": "Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
     "link": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
@@ -364,22 +381,5 @@
       "vulnerabilities"
     ],
     "isoDate": "2025-10-10T11:06:53.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
-    "link": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
-    "pubDate": "Fri, 10 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9E9Gk-E3tAqszpQaTnUcbiDzkBhMI5gfgepK0Q8azLXmHEolhPwrn3gEWDzisFgMW1RLbxgdLGS1rXZvKn35tKNiE7MqF60phyphenhyphentHpcBhKgidflNb3-LUAGfzdJCfevDfGOIJrRkQ2ECt1wrGwnvPMwot3aEqSJjyAoQWDCOBLYpzd8Y6zNiZrZhdcrqs/s1600/_con.jpg"
-    },
-    "content": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt.\nBut not all AI SOC platforms are created equal.\nFrom prompt-dependent copilots to autonomous, multi-agent systems, the current market offers",
-    "contentSnippet": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt.\nBut not all AI SOC platforms are created equal.\nFrom prompt-dependent copilots to autonomous, multi-agent systems, the current market offers",
-    "guid": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
-    "isoDate": "2025-10-10T11:00:00.000Z",
-    "itunes": {}
   }
 ]
