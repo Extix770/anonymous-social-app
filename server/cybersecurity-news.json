@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Matt Burgess, Andy Greenberg",
+    "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire",
+    "link": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
+    "pubDate": "Tue, 14 Oct 2025 17:34:58 +0000",
+    "dc:creator": "Matt Burgess, Andy Greenberg",
+    "content": "Officials in the US and UK have taken sweeping action against “one of the largest investment fraud operations in history,” confiscating a historic amount of funds in the process.",
+    "contentSnippet": "Officials in the US and UK have taken sweeping action against “one of the largest investment fraud operations in history,” confiscating a historic amount of funds in the process.",
+    "guid": "68ee6581c531b4ce5da04989",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Business / Blockchain and Cryptocurrency"
+    ],
+    "isoDate": "2025-10-14T17:34:58.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
     "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
@@ -335,23 +351,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
     "guid": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
     "isoDate": "2025-10-13T05:12:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
-    "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
-    "pubDate": "Sun, 12 Oct 2025 22:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiOSe5MSzJjlmmn79XDwcJoSUh95PSeVQalNoZwnzlTDwp2UkbB0Zwrp526ZX5iWaXA3oDVvhwPI1Uh2Plj8nnRa3OpE2iuKlAfBUTJw8bb0Vs9XzvQuogwfq-ZIYmCp0WsLm_ULrhOP1D07GuKwVbXlNY_-NQbBuB17QTgv2tI9RjHmRemC3_tNkpfVN/s1600/oracle-flaw-hack.jpg"
-    },
-    "content": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
-    "contentSnippet": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
-    "guid": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
-    "isoDate": "2025-10-12T17:24:00.000Z",
     "itunes": {}
   }
 ]
