@@ -16,6 +16,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped",
+    "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
+    "pubDate": "Wed, 15 Oct 2025 14:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsUPy8pWQeMczzJ16wCN6ZkwAqkLXBq0poUDFr7UKWqEzdEZM-DmiAuFzFkrTiZdMuZkw59QW6PhVQvop26Ai0KNV_9DjWTVdh2V7trF64XPV7KqanoyZAaxo9DYHcVDysYW8EoB1R1RGyFAhnseVy1UANS_w81BEA4eeMYsvuSOnF7mZ55stReEszY2Ap/s1600/windows-security.jpg"
+    },
+    "content": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
+    "contentSnippet": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
+    "guid": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
+    "isoDate": "2025-10-15T09:23:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
     "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
     "pubDate": "Wed, 15 Oct 2025 12:20:00 +0530",
@@ -340,22 +357,5 @@
       "Schneier news"
     ],
     "isoDate": "2025-10-13T16:36:38.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
-    "link": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
-    "pubDate": "Mon, 13 Oct 2025 18:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKzA6hRzW-Mgk5W9s3gbwP5yMAXyWG2-z41WpJxSie4cmtWmrW2BkCDZOIcgnJG9GmNveauQ_zz_zKDIcYJm94r_n_xfxfcpwTpJUzjhGcx0VpgPc-DxVwd5mFjYk2VBYZ-UjnahfkmkLQIkXO2lRIFd4uotcYPuaE1_s0RToXExibn2ZyMCVtJGNfJAl/s1600/recap.jpg"
-    },
-    "content": "Every week, the cyber world reminds us that silence doesn’t mean safety. Attacks often begin quietly — one unpatched flaw, one overlooked credential, one backup left unencrypted. By the time alarms sound, the damage is done.\nThis week’s edition looks at how attackers are changing the game — linking different flaws, working together across borders, and even turning trusted tools into weapons.",
-    "contentSnippet": "Every week, the cyber world reminds us that silence doesn’t mean safety. Attacks often begin quietly — one unpatched flaw, one overlooked credential, one backup left unencrypted. By the time alarms sound, the damage is done.\nThis week’s edition looks at how attackers are changing the game — linking different flaws, working together across borders, and even turning trusted tools into weapons.",
-    "guid": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
-    "isoDate": "2025-10-13T13:18:00.000Z",
-    "itunes": {}
   }
 ]
