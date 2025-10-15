@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
+    "link": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
+    "pubDate": "Wed, 15 Oct 2025 19:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nxODcfvRiRGSDL38ckIG0H-EQiEDgbQ7L09l-4hmze6f8fJxdAGx1sTPtM7qq4RJKe-0hvOxWJnxKElwWIem-mteqIPckj3p3LsPg-qWkBMHgS-hhQvOZZTwXvun2IRsLnjJt4d3nu0orFjiZYNDj_frr4wU6zTId8Lli8pr_yq1I4KbDMj18Je21op9/s1600/vscode.jpg"
+    },
+    "content": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\"",
+    "contentSnippet": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\"",
+    "guid": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
+    "isoDate": "2025-10-15T14:16:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How Attackers Bypass Synced Passkeys",
     "link": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
     "pubDate": "Wed, 15 Oct 2025 17:00:00 +0530",
@@ -338,23 +355,6 @@
     "contentSnippet": "Cybersecurity researchers have identified several malicious packages across npm, Python, and Ruby ecosystems that leverage Discord as a command-and-control (C2) channel to transmit stolen data to actor-controlled webhooks.\nWebhooks on Discord are a way to post messages to channels in the platform without requiring a bot user or authentication, making them an attractive mechanism for attackers to",
     "guid": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
     "isoDate": "2025-10-14T07:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
-    "link": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-    "pubDate": "Tue, 14 Oct 2025 10:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuj2qXooTKDuCllVA-M9rA4zrxasH5zIdp6lm-BsS66td0H5rfmJDpWkHmzBlu72tUzQbvv5VBofkRfhpoU60REAndnUxabWWmQH9Udy8NWuJCWWwVzt1gny0Bu8siufR0XpIwJrkBjwKiQk7sOu4gn76qFA8iqMXWJKyakCk3kSOC9McQEmd7kAF0lx60/s1600/malware-click.jpg"
-    },
-    "content": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
-    "contentSnippet": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
-    "guid": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-    "isoDate": "2025-10-14T05:28:00.000Z",
     "itunes": {}
   }
 ]
