@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
+    "link": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
+    "pubDate": "Wed, 15 Oct 2025 11:06:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibwMpwIcTESa-J42zco0tMbMURh88KiyZZxXnaPzUZ6sgAtKRFXnDNvDH0yoLrY4a79zexRnTdl7nMm7_zlPTXn76oGndUldnCy9W6TUDUarQLygt0sdeAjFK-xsW18QdL3vUqbCN3s4LozHCVA_A9IADc_XztONXnzCWDmkvpFm8PGpf5tH-BkFJMDfFx/s1600/SAP.jpg"
+    },
+    "content": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
+    "contentSnippet": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
+    "guid": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
+    "isoDate": "2025-10-15T05:36:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
     "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
@@ -344,23 +361,6 @@
     "contentSnippet": "Malware campaigns distributing the RondoDox botnet have expanded their targeting focus to exploit more than 50 vulnerabilities across over 30 vendors.\nThe activity, described as akin to an \"exploit shotgun\" approach, has singled out a wide range of internet-exposed infrastructure, including routers, digital video recorders (DVRs), network video recorders (NVRs), CCTV systems, web servers, and",
     "guid": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
     "isoDate": "2025-10-13T10:12:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
-    "link": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-    "pubDate": "Mon, 13 Oct 2025 15:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtO_KAfNCOTqs2JcWLrUFXMVfDeVWtB8zvcN3nIR4i2wPde7J5FxNBOzLU2sYynj2wNmZXPYs60s9-kf4tIlrEEu4ZrxLnqLOdGyMjBVR0AbCBP5WG9pNZEq7Img77ZoIqGquYFGeG0HPzHbhiSgHjLn_2f_gi_4sZnQawhSUT9qTELXPk_DagHbugCM2y/s1600/edge.jpg"
-    },
-    "content": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices.\n\"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript",
-    "contentSnippet": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices.\n\"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript",
-    "guid": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-    "isoDate": "2025-10-13T09:54:00.000Z",
     "itunes": {}
   }
 ]
