@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+    "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+    "pubDate": "Wed, 15 Oct 2025 22:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nykKDi4Kxm3Eu3aSZYa8kFlVKKAB9frynapbWV4g6edks9HwevOZIHND0tnEQVnxl825CByrAZ3bUmKHp8i-VySR95AexY9STYOj-mkJUp5tmLJR08zkhdaDHEz7Rg8_eN5qTWuS6aRqGSs5fxwpcDnXYwavcF1KGjksXpWa-t1HPuHv6Q46mgaiwk8Y/s1600/cyberattacks.jpg"
+    },
+    "content": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
+    "contentSnippet": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
+    "guid": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+    "isoDate": "2025-10-15T17:28:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion",
     "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
     "pubDate": "Wed, 15 Oct 2025 21:36:00 +0530",
@@ -339,22 +356,5 @@
       "surveillance"
     ],
     "isoDate": "2025-10-14T11:09:54.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "What AI Reveals About Web Applications— and Why It Matters",
-    "link": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-    "pubDate": "Tue, 14 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7Mjlbpc0lAUpBshNwlfCnaymfSU7Zq7tdye5IB97rku35Ml0Pq3f4a-L1rmj_bapTGV4VBodWJAeKNw59_JoQj4O7REr0fHyG0CqIp3cEncjvwzySWjeusJRmWdrRACdwQ5qsPpt3n6khw4lgT0XoBKmj6bHltQ9GW6SS4aPmSc5EB8dGQEihze8bO0/s1600/pentera.jpg"
-    },
-    "content": "Before an attacker ever sends a payload, they’ve already done the work of understanding how your environment is built. They look at your login flows, your JavaScript files, your error messages, your API documentation, your GitHub repos. These are all clues that help them understand how your systems behave. AI is significantly accelerating reconnaissance and enabling attackers to map your",
-    "contentSnippet": "Before an attacker ever sends a payload, they’ve already done the work of understanding how your environment is built. They look at your login flows, your JavaScript files, your error messages, your API documentation, your GitHub repos. These are all clues that help them understand how your systems behave. AI is significantly accelerating reconnaissance and enabling attackers to map your",
-    "guid": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-    "isoDate": "2025-10-14T11:00:00.000Z",
-    "itunes": {}
   }
 ]
