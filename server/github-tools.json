@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7388,
+    "stars": 7389,
     "forks": 1010,
     "language": null
   },
@@ -121,7 +121,7 @@
     "owner": "nateahess",
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 144,
+    "stars": 145,
     "forks": 15,
     "language": null
   },
@@ -220,7 +220,7 @@
     "owner": "SalehLardhi",
     "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
     "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
-    "stars": 50,
+    "stars": 51,
     "forks": 4,
     "language": "Python"
   },
@@ -873,15 +873,6 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 4,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "Mobile-Penetration-Testing-Tool",
     "owner": "4xyy",
     "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
@@ -889,6 +880,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 4,
+    "forks": 0,
+    "language": null
   },
   {
     "name": "OSINT-tool-Telegram-Bot-script",
