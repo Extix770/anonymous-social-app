@@ -1,5 +1,19 @@
 [
   {
+    "creator": "Dan Goodin, Ars Technica",
+    "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
+    "link": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
+    "pubDate": "Thu, 16 Oct 2025 20:42:29 +0000",
+    "dc:creator": "Dan Goodin, Ars Technica",
+    "content": "Networking software company F5 disclosed a long-term breach of its systems this week. The fallout could be severe.",
+    "contentSnippet": "Networking software company F5 disclosed a long-term breach of its systems this week. The fallout could be severe.",
+    "guid": "68f10c80252a49e05299b084",
+    "categories": [
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2025-10-16T20:42:29.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
     "link": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
@@ -325,23 +339,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
     "guid": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
     "isoDate": "2025-10-15T06:16:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
-    "link": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
-    "pubDate": "Wed, 15 Oct 2025 11:06:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibwMpwIcTESa-J42zco0tMbMURh88KiyZZxXnaPzUZ6sgAtKRFXnDNvDH0yoLrY4a79zexRnTdl7nMm7_zlPTXn76oGndUldnCy9W6TUDUarQLygt0sdeAjFK-xsW18QdL3vUqbCN3s4LozHCVA_A9IADc_XztONXnzCWDmkvpFm8PGpf5tH-BkFJMDfFx/s1600/SAP.jpg"
-    },
-    "content": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
-    "contentSnippet": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
-    "guid": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
-    "isoDate": "2025-10-15T05:36:00.000Z",
     "itunes": {}
   }
 ]
