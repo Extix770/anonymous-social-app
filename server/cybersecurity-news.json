@@ -21,6 +21,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Beware the Hidden Costs of Pen Testing",
+    "link": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
+    "pubDate": "Thu, 16 Oct 2025 16:20:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyr6oUbQY-aHYsXznA94IfeTLqbBgx_erNaTCegVaysnV0to81EmfxAV133QPwveczTRvqiueDQMi72XtigC76zhgk7CpeI1JAAT-y1K24G8yc4kKQLrIIqqc4UO-k_a_S2H_vS2pyVz4NfCxfeMmItblu0TK_bQrmTpgmSJDNwX6tnzJzvWKtemOe4k/s1600/pentest.jpg"
+    },
+    "content": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results.&nbsp;\nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to",
+    "contentSnippet": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results. \nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to",
+    "guid": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
+    "isoDate": "2025-10-16T10:50:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs & More",
     "link": "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html",
     "pubDate": "Thu, 16 Oct 2025 14:44:00 +0530",
@@ -335,23 +352,6 @@
     "contentSnippet": "Every October brings a familiar rhythm - pumpkin-spice everything in stores and cafés, alongside a wave of reminders, webinars, and checklists in my inbox. Halloween may be just around the corner, yet for those of us in cybersecurity, Security Awareness Month is the true seasonal milestone.\nMake no mistake, as a security professional, I love this month. Launched by CISA and the National",
     "guid": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
     "isoDate": "2025-10-14T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing",
-    "link": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
-    "pubDate": "Tue, 14 Oct 2025 17:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfM0c5rZJUwsBFHWrBJcfep4asTBq2waC9noJl2LmqAAZT0eDKyaE8jsL4rpWrg49kne1dDUdlUBsr8cCAovMAbhsWvF20gecN_Dd_GGgCOxgsW9DkZHffR9p5ylHbVDXgVuHFOCHATwmh9OpGaZOoIEPYkBF289ifAvRJihNLPKJqOqyd4_M-dJ-X5cXl/s1600/amd-attack.jpg"
-    },
-    "content": "Chipmaker AMD has released fixes to address a security flaw dubbed RMPocalypse that could be exploited to undermine confidential computing guarantees provided by Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP).\nThe attack, per ETH Zürich researchers Benedict Schlüter and Shweta Shinde, exploits AMD's incomplete protections that make it possible to perform a single memory",
-    "contentSnippet": "Chipmaker AMD has released fixes to address a security flaw dubbed RMPocalypse that could be exploited to undermine confidential computing guarantees provided by Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP).\nThe attack, per ETH Zürich researchers Benedict Schlüter and Shweta Shinde, exploits AMD's incomplete protections that make it possible to perform a single memory",
-    "guid": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
-    "isoDate": "2025-10-14T11:45:00.000Z",
     "itunes": {}
   }
 ]
