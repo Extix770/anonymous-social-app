@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Cryptocurrency ATMs",
+    "link": "https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html",
+    "pubDate": "Thu, 16 Oct 2025 11:06:51 +0000",
+    "content:encoded": "<p>CNN has a <a href=\"https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/\">great piece</a> about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they&#8217;re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</p>\n",
+    "content:encodedSnippet": "CNN has a great piece about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they’re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html#respond",
+    "content": "<p>CNN has a <a href=\"https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/\">great piece</a> about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they&#8217;re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</p>\n",
+    "contentSnippet": "CNN has a great piece about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they’re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.",
+    "guid": "https://www.schneier.com/?p=71010",
+    "categories": [
+      "Uncategorized",
+      "ATMs",
+      "cryptocurrency",
+      "scams"
+    ],
+    "isoDate": "2025-10-16T11:06:51.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs & More",
     "link": "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html",
@@ -333,22 +353,5 @@
     "guid": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
     "isoDate": "2025-10-14T11:45:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Jacob Roach",
-    "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
-    "link": "https://www.wired.com/gallery/best-vpn-for-iphone/",
-    "pubDate": "Tue, 14 Oct 2025 11:30:00 +0000",
-    "dc:creator": "Jacob Roach",
-    "content": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
-    "contentSnippet": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
-    "guid": "68cb21d1fa58bb73aa9626a5",
-    "categories": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Online Services",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-10-14T11:30:00.000Z"
   }
 ]
