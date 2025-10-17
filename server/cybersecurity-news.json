@@ -53,6 +53,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Identity Security: Your First and Last Line of Defense",
+    "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+    "pubDate": "Fri, 17 Oct 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrf3SNrJtA9ogAsUh8Md4fU4yC0HCkGJbedZ6jQUivAuuAkYP0vrpjnQrjhTE0Bwkf7yEj2fkgxaP6XaAO4R8ARGp30JUatnhiOlnrJqahuczssni_ET7ZJRFaNqDCcAGwjnzs345KXNIl1UJYWIGr1PRNp-8z_9IZ_8k4YL9hKUq7nII0BO6wOA8aRSQ/s1600/is.jpg"
+    },
+    "content": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
+    "contentSnippet": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
+    "guid": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+    "isoDate": "2025-10-17T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
     "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
     "pubDate": "Fri, 17 Oct 2025 14:55:00 +0530",
@@ -339,26 +356,5 @@
     "guid": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
     "isoDate": "2025-10-15T11:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Apple’s Bug Bounty Program",
-    "link": "https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html",
-    "pubDate": "Wed, 15 Oct 2025 11:02:18 +0000",
-    "content:encoded": "<p>Apple is now offering a <a href=\"https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/\">$2M</a> <a href=\"https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html\">bounty</a> for a zero-click exploit. According to <a href=\"https://security.apple.com/blog/apple-security-bounty-evolved/\">the Apple website</a>:</p>\n<blockquote><p>Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.</p>\n<ol>\n<li>We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.\n<li>Our bounty categories are expanding to cover even more attack surfaces. Notably, we&#8217;re rewarding one-click WebKit sandbox escapes with up to $300,000, and wireless proximity exploits over any radio with up to $1 million.\n<li>We’re introducing Target Flags, a new way for researchers to objectively demonstrate exploitability for some of our top bounty categories, including remote code execution and Transparency, Consent, and Control (TCC) bypasses ­ and to help determine eligibility for a specific award. Researchers who submit reports with Target Flags will qualify for accelerated awards, which are processed immediately after the research is received and verified, even before a fix becomes available.</ol>\n</blockquote>\n",
-    "content:encodedSnippet": "Apple is now offering a $2M bounty for a zero-click exploit. According to the Apple website:\nToday we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.\nWe’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.\nOur bounty categories are expanding to cover even more attack surfaces. Notably, we’re rewarding one-click WebKit sandbox escapes with up to $300,000, and wireless proximity exploits over any radio with up to $1 million.\nWe’re introducing Target Flags, a new way for researchers to objectively demonstrate exploitability for some of our top bounty categories, including remote code execution and Transparency, Consent, and Control (TCC) bypasses ­ and to help determine eligibility for a specific award. Researchers who submit reports with Target Flags will qualify for accelerated awards, which are processed immediately after the research is received and verified, even before a fix becomes available.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html#comments",
-    "content": "<p>Apple is now offering a <a href=\"https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/\">$2M</a> <a href=\"https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html\">bounty</a> for a zero-click exploit. According to <a href=\"https://security.apple.com/blog/apple-security-bounty-evolved/\">the Apple website</a>:</p>\n<blockquote><p>Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.</p>\n<ol>\n<li>We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.\n...</li></ol></blockquote>",
-    "contentSnippet": "Apple is now offering a $2M bounty for a zero-click exploit. According to the Apple website:\nToday we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.\nWe’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.\n...",
-    "guid": "https://www.schneier.com/?p=70981",
-    "categories": [
-      "Uncategorized",
-      "Apple",
-      "exploits",
-      "spyware",
-      "vulnerabilities"
-    ],
-    "isoDate": "2025-10-15T11:02:18.000Z"
   }
 ]
