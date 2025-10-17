@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "A Surprising Amount of Satellite Traffic Is Unencrypted",
+    "link": "https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html",
+    "pubDate": "Fri, 17 Oct 2025 11:03:53 +0000",
+    "content:encoded": "<p>Here&#8217;s the <a href=\"https://satcom.sysnet.ucsd.edu/\">summary</a>:</p>\n<blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth.</p></blockquote>\n<p>Full <a href=\"https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf\">paper</a>. News <a href=\"https://gizmodo.com/satellites-are-exposing-unprotected-cellphone-and-military-data-study-finds-2000672091\">article</a>.</p>\n",
+    "content:encodedSnippet": "Here’s the summary:\nWe pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth.\n\nFull paper. News article.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html#respond",
+    "content": "<p>Here&#8217;s the <a href=\"https://satcom.sysnet.ucsd.edu/\">summary</a>:</p>\n<blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</p></blockquote>",
+    "contentSnippet": "Here’s the summary:\nWe pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...",
+    "guid": "https://www.schneier.com/?p=71022",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "cell phones",
+      "data protection",
+      "eavesdropping",
+      "encryption",
+      "infrastructure"
+    ],
+    "isoDate": "2025-10-17T11:03:53.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
     "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
@@ -323,22 +346,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-10-15T09:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped",
-    "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-    "pubDate": "Wed, 15 Oct 2025 14:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsUPy8pWQeMczzJ16wCN6ZkwAqkLXBq0poUDFr7UKWqEzdEZM-DmiAuFzFkrTiZdMuZkw59QW6PhVQvop26Ai0KNV_9DjWTVdh2V7trF64XPV7KqanoyZAaxo9DYHcVDysYW8EoB1R1RGyFAhnseVy1UANS_w81BEA4eeMYsvuSOnF7mZ55stReEszY2Ap/s1600/windows-security.jpg"
-    },
-    "content": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
-    "contentSnippet": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
-    "guid": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-    "isoDate": "2025-10-15T09:23:00.000Z",
-    "itunes": {}
   }
 ]
