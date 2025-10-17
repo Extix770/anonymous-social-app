@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Inks Philippines Fisherman",
+    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html",
+    "pubDate": "Fri, 17 Oct 2025 21:02:47 +0000",
+    "content:encoded": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html#respond",
+    "content": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71027",
+    "categories": [
+      "Uncategorized",
+      "squid",
+      "video"
+    ],
+    "isoDate": "2025-10-17T21:02:47.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
     "link": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
@@ -338,23 +357,6 @@
     "contentSnippet": "U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclosed vulnerabilities in the product.\nIt attributed the activity to a \"highly sophisticated nation-state threat actor,\" adding the adversary maintained long-term, persistent access to its network. The",
     "guid": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
     "isoDate": "2025-10-15T16:06:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
-    "link": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
-    "pubDate": "Wed, 15 Oct 2025 19:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nxODcfvRiRGSDL38ckIG0H-EQiEDgbQ7L09l-4hmze6f8fJxdAGx1sTPtM7qq4RJKe-0hvOxWJnxKElwWIem-mteqIPckj3p3LsPg-qWkBMHgS-hhQvOZZTwXvun2IRsLnjJt4d3nu0orFjiZYNDj_frr4wU6zTId8Lli8pr_yq1I4KbDMj18Je21op9/s1600/vscode.jpg"
-    },
-    "content": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\"",
-    "contentSnippet": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\"",
-    "guid": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
-    "isoDate": "2025-10-15T14:16:00.000Z",
     "itunes": {}
   }
 ]
