@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign",
+    "link": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
+    "pubDate": "Fri, 17 Oct 2025 11:33:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikW56LsCKHPpyfH2AIVdz2Cuy3x2z7pTgiAMRHiyYU0m-wnbxE-8zGrGaamjCX79Ypc9Hz6-JHph78BvlB56sNwYh20cI5LcVuNLrx8C9izVE7Z3o_d6KgHWpoMNENBjinWUUco_7hzc9NwxFtmC__VF0Cfud9e3q61stbWCaHG_5jDh5QEtrcSf8WsJav/s1600/ransomware-certificate.jpg"
+    },
+    "content": "Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.\nThe certificates were \"used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,\" the Microsoft Threat Intelligence team said in a post shared on X.\nThe tech",
+    "contentSnippet": "Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.\nThe certificates were \"used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,\" the Microsoft Threat Intelligence team said in a post shared on X.\nThe tech",
+    "guid": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
+    "isoDate": "2025-10-17T06:03:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dan Goodin, Ars Technica",
     "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
     "link": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
@@ -322,23 +339,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
     "guid": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
     "isoDate": "2025-10-15T06:50:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
-    "link": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
-    "pubDate": "Wed, 15 Oct 2025 11:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht-AlrRupsMmlNlQlln5yqtv-DvYv2IfyBuNhgh4zrPXpmewDg_wxCOOk1J9EDKzx4CJCp9gcPGr-d2yXiDE9gAX8BRTdPbrerxnMNA3bXL08JBlDQq_yaEjM6euVOazBKAU3IM-54TtpKaEpp-Qtk-fSsd9B_vfjBv47M7eoe3qQQMCAqtFwXyPrUPO4S/s1600/cookie-shell.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
-    "contentSnippet": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
-    "guid": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
-    "isoDate": "2025-10-15T06:16:00.000Z",
     "itunes": {}
   }
 ]
