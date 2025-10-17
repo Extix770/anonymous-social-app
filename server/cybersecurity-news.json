@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
+    "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
+    "pubDate": "Fri, 17 Oct 2025 14:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wXElZ2cOoqWu0KvQRLkdOMEVEy2OErFfkGWokp1gdNCJH8_MxEnR1RMopVgNuFWuAxiCiP90_YEcQe_XEKxadsliIouePVm63amvt2JV3tORO8EQmNCh2ylwY4eQgJPNWR5aoQMPWdefC1wL_HSYTS1dFnjaAQNF3sXQbkeJxY3q7tCu4j4DaPXpJBPY/s1600/exploit.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
+    "guid": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
+    "isoDate": "2025-10-17T09:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign",
     "link": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
     "pubDate": "Fri, 17 Oct 2025 11:33:00 +0530",
@@ -322,23 +339,6 @@
     "contentSnippet": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
     "guid": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
     "isoDate": "2025-10-15T09:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
-    "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
-    "pubDate": "Wed, 15 Oct 2025 12:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbStyTHoDcDIi2hOYUUE0gL0ICoN_VfOwuMpKAjzXx2aYFQsNUm4sdBWjCezEi3M33IAhZ_t70GwUVVBcVy5tdU5Qnxcn-OAoOONXq_W-QPvJwR6aOmEBRvpuV-ZHH1a9LXqLbNcTqOpUZ5Bc-FA5uGhVxGq07e71OF7_0ducIZLm8_ScQ4XSE-95Syw0O/s1600/ics-hacking.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
-    "contentSnippet": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
-    "guid": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
-    "isoDate": "2025-10-15T06:50:00.000Z",
     "itunes": {}
   }
 ]
