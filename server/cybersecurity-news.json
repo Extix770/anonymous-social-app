@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
+    "link": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
+    "pubDate": "Sat, 18 Oct 2025 12:21:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibiSdv0av_jBT1NvQWK4prfMmJUZXETQesWOp4pATha0asiCgMVGZ6_A_56RBxOX_gPNijoVz4QQN955iyx-KRfAj8k-F48zjIZE5gFopMN_rMyacDt1UFR7g97Hbt7SUnldANyT1T3upYifeVyFQnOHbHplYu3Vw_HtsJURvqfqqe38TU80hgIloRppiL/s1600/pdf-malware.jpg"
+    },
+    "content": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
+    "contentSnippet": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
+    "guid": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
+    "isoDate": "2025-10-18T06:51:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Squid Inks Philippines Fisherman",
     "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html",
@@ -340,23 +357,6 @@
     "contentSnippet": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
     "guid": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
     "isoDate": "2025-10-15T17:28:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion",
-    "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
-    "pubDate": "Wed, 15 Oct 2025 21:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJiKneCQua-fXepd4pk7_FxXHgVnZz0RB2vAIU97iXzYWowAYIj09-SjfKhPoYIxmUztJjO6aFiV8Bpnw1d8ewYQSUOTJo_8406FZI2R9gaItb5ia29FsHYaTmk6bbRnwnLhp19T7hvjHfRC647TTjflZhzCpKUm-M4N2J2azSb2vZamS-d-saSgGQwxSR/s1600/f5.png"
-    },
-    "content": "U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclosed vulnerabilities in the product.\nIt attributed the activity to a \"highly sophisticated nation-state threat actor,\" adding the adversary maintained long-term, persistent access to its network. The",
-    "contentSnippet": "U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclosed vulnerabilities in the product.\nIt attributed the activity to a \"highly sophisticated nation-state threat actor,\" adding the adversary maintained long-term, persistent access to its network. The",
-    "guid": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
-    "isoDate": "2025-10-15T16:06:00.000Z",
     "itunes": {}
   }
 ]
