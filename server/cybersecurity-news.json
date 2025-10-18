@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
+    "link": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
+    "pubDate": "Sat, 18 Oct 2025 17:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONqdUuuzUnSmVHZhMcb0nfxYoLC_St8teKiK0-qlwf3oFZ-rYbcUdnFHk7Mgy1EGoVKTbyQxzKaba5HD7dK6BinVxUGsBQUmUUpgzw5mx6ovilIp8qze4uC_8RTbjv7enWakXLBUKJZwdKcHhUS6qVJ-ke9FXhzkBw951sZZYbBRD_QhTQiH4Pas9oRF7/s1600/russian-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP",
+    "contentSnippet": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP",
+    "guid": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
+    "isoDate": "2025-10-18T11:41:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg, Matt Burgess",
     "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
     "link": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
@@ -341,23 +358,6 @@
     "contentSnippet": "The online world is changing fast. Every week, new scams, hacks, and tricks show how easy it’s become to turn everyday technology into a weapon. Tools made to help us work, connect, and stay safe are now being used to steal, spy, and deceive.\nHackers don’t always break systems anymore — they use them. They hide inside trusted apps, copy real websites, and trick people into giving up control",
     "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html",
     "isoDate": "2025-10-16T09:14:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack",
-    "link": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
-    "pubDate": "Thu, 16 Oct 2025 09:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhhzaQiS3EeVns9gTPySL4gUmobN634H-744SFUn9qJ1LvjQmj0IB9yPqF8e0Xz7j-Zqi3XxRdgMXDmH3Ee8jDUqfpyT2JnJ7e5Hv0lsEZodSYWFBoZD_uvMRyYclLavLHMpEsXb_a_e8T1CAMBHbAEKgPEoNXfe5nVeUUgljwiLv161hnUIaA5WrtJcQ/s1600/adobe.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
-    "guid": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
-    "isoDate": "2025-10-16T04:26:00.000Z",
     "itunes": {}
   }
 ]
