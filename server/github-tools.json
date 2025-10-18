@@ -504,19 +504,19 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 9,
     "forks": 2,
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 9,
     "forks": 2,
     "language": null
@@ -666,15 +666,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 6,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -684,13 +675,13 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "qradarOffenseTools",
@@ -708,6 +699,15 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -810,6 +810,15 @@
     "language": "Python"
   },
   {
+    "name": "ReconForge-ToolKit",
+    "owner": "letchupkt",
+    "url": "https://github.com/letchupkt/ReconForge-ToolKit",
+    "description": "ReconForge is a comprehensive, web-based bug hunting and penetration testing toolkit designed for security researchers, ethical hackers, and cybersecurity professionals.",
+    "stars": 4,
+    "forks": 0,
+    "language": null
+  },
+  {
     "name": "ipurl-tool",
     "owner": "spapjh",
     "url": "https://github.com/spapjh/ipurl-tool",
@@ -837,15 +846,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -855,30 +855,21 @@
     "language": "Perl"
   },
   {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
+  },
+  {
     "name": "URL-Analysis-Tool",
     "owner": "Cybersight-Security",
     "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
     "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
     "stars": 4,
     "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "Mobile-Penetration-Testing-Tool",
-    "owner": "4xyy",
-    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
-    "description": "AI-Powered Mobile Application Penetration Testing Tool",
-    "stars": 4,
-    "forks": 0,
     "language": "Python"
   },
   {
@@ -891,12 +882,21 @@
     "language": null
   },
   {
-    "name": "OSINT-tool-Telegram-Bot-script",
-    "owner": "SaidSecurity",
-    "url": "https://github.com/SaidSecurity/OSINT-tool-Telegram-Bot-script",
-    "description": "Telegram-based OSINT tool to check domain information (DNS, IP, subdomains) using SecurityTrails API, with rate limiting and input validation.",
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
     "language": "Python"
   }
 ]
