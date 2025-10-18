@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Andy Greenberg, Matt Burgess",
+    "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
+    "link": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
+    "pubDate": "Sat, 18 Oct 2025 10:30:00 +0000",
+    "dc:creator": "Andy Greenberg, Matt Burgess",
+    "content": "Plus: A secret FBI anti-ransomware task force gets exposed, the mystery of the CIA’s Kryptos sculpture is finally solved, North Koreans busted hiding malware in the Ethereum blockchain, and more.",
+    "contentSnippet": "Plus: A secret FBI anti-ransomware task force gets exposed, the mystery of the CIA’s Kryptos sculpture is finally solved, North Koreans busted hiding malware in the Ethereum blockchain, and more.",
+    "guid": "68f252e51ad7b00832d9075a",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-18T10:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
     "link": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
@@ -340,23 +358,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
     "guid": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
     "isoDate": "2025-10-16T04:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
-    "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
-    "pubDate": "Wed, 15 Oct 2025 22:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nykKDi4Kxm3Eu3aSZYa8kFlVKKAB9frynapbWV4g6edks9HwevOZIHND0tnEQVnxl825CByrAZ3bUmKHp8i-VySR95AexY9STYOj-mkJUp5tmLJR08zkhdaDHEz7Rg8_eN5qTWuS6aRqGSs5fxwpcDnXYwavcF1KGjksXpWa-t1HPuHv6Q46mgaiwk8Y/s1600/cyberattacks.jpg"
-    },
-    "content": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
-    "contentSnippet": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
-    "guid": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
-    "isoDate": "2025-10-15T17:28:00.000Z",
     "itunes": {}
   }
 ]
