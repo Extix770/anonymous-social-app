@@ -69,25 +69,6 @@
     "itunes": {}
   },
   {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Inks Philippines Fisherman",
-    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html",
-    "pubDate": "Fri, 17 Oct 2025 21:02:47 +0000",
-    "content:encoded": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html#comments",
-    "content": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71027",
-    "categories": [
-      "Uncategorized",
-      "squid",
-      "video"
-    ],
-    "isoDate": "2025-10-17T21:02:47.000Z"
-  },
-  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
     "link": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
@@ -132,29 +113,6 @@
       "Zendesk"
     ],
     "isoDate": "2025-10-17T11:26:27.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "A Surprising Amount of Satellite Traffic Is Unencrypted",
-    "link": "https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html",
-    "pubDate": "Fri, 17 Oct 2025 11:03:53 +0000",
-    "content:encoded": "<p>Here&#8217;s the <a href=\"https://satcom.sysnet.ucsd.edu/\">summary</a>:</p>\n<blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth.</p></blockquote>\n<p>Full <a href=\"https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf\">paper</a>. News <a href=\"https://gizmodo.com/satellites-are-exposing-unprotected-cellphone-and-military-data-study-finds-2000672091\">article</a>.</p>\n",
-    "content:encodedSnippet": "Here’s the summary:\nWe pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth.\n\nFull paper. News article.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html#comments",
-    "content": "<p>Here&#8217;s the <a href=\"https://satcom.sysnet.ucsd.edu/\">summary</a>:</p>\n<blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</p></blockquote>",
-    "contentSnippet": "Here’s the summary:\nWe pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...",
-    "guid": "https://www.schneier.com/?p=71022",
-    "categories": [
-      "Uncategorized",
-      "academic papers",
-      "cell phones",
-      "data protection",
-      "eavesdropping",
-      "encryption",
-      "infrastructure"
-    ],
-    "isoDate": "2025-10-17T11:03:53.000Z"
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -324,26 +282,6 @@
     "itunes": {}
   },
   {
-    "creator": "Bruce Schneier",
-    "title": "Cryptocurrency ATMs",
-    "link": "https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html",
-    "pubDate": "Thu, 16 Oct 2025 11:06:51 +0000",
-    "content:encoded": "<p>CNN has a <a href=\"https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/\">great piece</a> about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they&#8217;re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</p>\n",
-    "content:encodedSnippet": "CNN has a great piece about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they’re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html#comments",
-    "content": "<p>CNN has a <a href=\"https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/\">great piece</a> about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they&#8217;re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</p>\n",
-    "contentSnippet": "CNN has a great piece about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they’re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.",
-    "guid": "https://www.schneier.com/?p=71010",
-    "categories": [
-      "Uncategorized",
-      "ATMs",
-      "cryptocurrency",
-      "scams"
-    ],
-    "isoDate": "2025-10-16T11:06:51.000Z"
-  },
-  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Beware the Hidden Costs of Pen Testing",
     "link": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
@@ -358,6 +296,57 @@
     "contentSnippet": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results. \nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to",
     "guid": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
     "isoDate": "2025-10-16T10:50:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs & More",
+    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html",
+    "pubDate": "Thu, 16 Oct 2025 14:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy8U0y6wKjqKP0EDI9xasM4uWGlklCg-zeO2yzu5Jzq-Ip_yzFPCNbbftmP3C4_ar2h3D2Q8nNJ2DsCbcuJYlIHWHRKj_3gAFy5mvnOGb96n8H3aH-JPr5-j-6T4HwTPvJGVhlisK6KKlEkBBe6p511tc_lUE-jJ6kXubJ8J-V2OySVfxGDWnwPVaPLLZM/s1600/threatsday.jpg"
+    },
+    "content": "The online world is changing fast. Every week, new scams, hacks, and tricks show how easy it’s become to turn everyday technology into a weapon. Tools made to help us work, connect, and stay safe are now being used to steal, spy, and deceive.\nHackers don’t always break systems anymore — they use them. They hide inside trusted apps, copy real websites, and trick people into giving up control",
+    "contentSnippet": "The online world is changing fast. Every week, new scams, hacks, and tricks show how easy it’s become to turn everyday technology into a weapon. Tools made to help us work, connect, and stay safe are now being used to steal, spy, and deceive.\nHackers don’t always break systems anymore — they use them. They hide inside trusted apps, copy real websites, and trick people into giving up control",
+    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html",
+    "isoDate": "2025-10-16T09:14:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack",
+    "link": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
+    "pubDate": "Thu, 16 Oct 2025 09:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhhzaQiS3EeVns9gTPySL4gUmobN634H-744SFUn9qJ1LvjQmj0IB9yPqF8e0Xz7j-Zqi3XxRdgMXDmH3Ee8jDUqfpyT2JnJ7e5Hv0lsEZodSYWFBoZD_uvMRyYclLavLHMpEsXb_a_e8T1CAMBHbAEKgPEoNXfe5nVeUUgljwiLv161hnUIaA5WrtJcQ/s1600/adobe.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
+    "guid": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
+    "isoDate": "2025-10-16T04:26:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+    "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+    "pubDate": "Wed, 15 Oct 2025 22:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nykKDi4Kxm3Eu3aSZYa8kFlVKKAB9frynapbWV4g6edks9HwevOZIHND0tnEQVnxl825CByrAZ3bUmKHp8i-VySR95AexY9STYOj-mkJUp5tmLJR08zkhdaDHEz7Rg8_eN5qTWuS6aRqGSs5fxwpcDnXYwavcF1KGjksXpWa-t1HPuHv6Q46mgaiwk8Y/s1600/cyberattacks.jpg"
+    },
+    "content": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
+    "contentSnippet": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
+    "guid": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+    "isoDate": "2025-10-15T17:28:00.000Z",
     "itunes": {}
   }
 ]
