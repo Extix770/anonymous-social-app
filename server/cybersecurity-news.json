@@ -1,5 +1,56 @@
 [
   {
+    "creator": "Jacob Roach",
+    "title": "6 Best VPN Services (2025), Tested and Reviewed",
+    "link": "https://www.wired.com/gallery/best-vpn/",
+    "pubDate": "Mon, 20 Oct 2025 13:00:00 +0000",
+    "dc:creator": "Jacob Roach",
+    "content": "Every VPN says it’s the best, but only some of them are telling the truth.",
+    "contentSnippet": "Every VPN says it’s the best, but only some of them are telling the truth.",
+    "guid": "68af63e252be2b76ffa4c01a",
+    "categories": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Online Services",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-10-20T13:00:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+    "pubDate": "Mon, 20 Oct 2025 17:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN5kly7iFKUp7UBUq7oHKiUGJ80W3o91xqoevd_txiAmElk-EIlQ0ElPbz3_WlYGw67bLyZJkDPWPIUSGosXJk28DbZU930KYLdyO0p3xzqAcS4tFWCQUq2Q-5HrxdZOcBwuCud9lzkLD4LDecrNp0p6-A4P0w-A0GXBpWyzq9T6bWVTpblMlIpOo_Infg/s1600/recap-main.jpg"
+    },
+    "content": "It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.\nHere’s a quick look at this week’s top threats, new tactics, and security stories shaping",
+    "contentSnippet": "It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.\nHere’s a quick look at this week’s top threats, new tactics, and security stories shaping",
+    "guid": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+    "isoDate": "2025-10-20T12:27:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
+    "link": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+    "pubDate": "Mon, 20 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5038UqY-M1JonfIYTCdPFsPCsb09z9DKaRKFYnUKX8zHbn3_Sm1REhOYuMZmA-kMjLMSO9b3W9-8IRdWHqb4MDCP4s0o4t1FW7CvWbbCboLOQE8tlewbQ4BxBONZAMKRfJIc4rwCgejK5hp-_zhV9W5cuO44S38f6pVa0TAfKd8F86l5PjAZUel1Xuk/s1600/push.jpg"
+    },
+    "content": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches.&nbsp;\nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage.&nbsp;\nThe name is a little misleading, though",
+    "contentSnippet": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches. \nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage. \nThe name is a little misleading, though",
+    "guid": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+    "isoDate": "2025-10-20T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Agentic AI’s OODA Loop Problem",
     "link": "https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html",
@@ -18,6 +69,23 @@
       "LLM"
     ],
     "isoDate": "2025-10-20T11:00:28.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
+    "link": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+    "pubDate": "Mon, 20 Oct 2025 16:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXakHQ6GIVNqxANLePApKp1lgLfEZJrBJhrZhuDLjh3HVt1QYS9LEa1u9GPp7K_-dD6CLo2sHxW8tbZjUEnq1XcFsdmyomem3hctdRwjIsfi9r4CSWaYrM2zdmeVcE_E8N5RRS6JyVl1v282R3lVGo6nAahd7S1SGG7mWExLdF_VZn8GAc1ahORCjZAg4Q/s1600/whatsapp-web.jpg"
+    },
+    "content": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.\nThe 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.\n\"",
+    "contentSnippet": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.\nThe 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.\n\"",
+    "guid": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+    "isoDate": "2025-10-20T10:47:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -290,74 +358,6 @@
     "contentSnippet": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers, such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
     "guid": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
     "isoDate": "2025-10-16T14:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
-    "link": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
-    "pubDate": "Thu, 16 Oct 2025 19:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-cDOtGBRZfQEbBlDLNhFzLj2mAPT6gHnq3bEnJD-FcJ0ci_C9GdgiHyOIg9S0XYwu6aOX-JPwAtjK953a7yjE-RYyTGziZLHi0nzZJlWsBakdMcDYuI4EVNkx0Xv67lsGmB7S-nJbNn1kcb6PK54WxA5us3KsZrVIyfk579v9SkQpNo_iNadEM_FN09I/s1600/linux.jpg"
-    },
-    "content": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely",
-    "contentSnippet": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely",
-    "guid": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
-    "isoDate": "2025-10-16T14:28:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Kim Zetter",
-    "title": "One Republican Now Controls a Huge Chunk of US Election Infrastructure",
-    "link": "https://www.wired.com/story/scott-leiendecker-dominion-liberty-votes/",
-    "pubDate": "Thu, 16 Oct 2025 14:01:03 +0000",
-    "dc:creator": "Kim Zetter",
-    "content": "Former GOP operative Scott Leiendecker just bought Dominion Voting Systems, giving him ownership of voting systems used in 27 states. Election experts don't know what to think.",
-    "contentSnippet": "Former GOP operative Scott Leiendecker just bought Dominion Voting Systems, giving him ownership of voting systems used in 27 states. Election experts don't know what to think.",
-    "guid": "68ee5f5f21984a45f842f297",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Politics / Global Elections",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-10-16T14:01:03.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform",
-    "link": "https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html",
-    "pubDate": "Thu, 16 Oct 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCIgFPaeVDchp6TJItDJRwLkaBa1mNcGp5D6dKRMYO1v4FcuXEal4-lSMObBAJYqBIhfc3kvV0_FusD2rJS_MuGVvFxD7IPzbTrbiKWcg5hojbah6bDbfF5gw1pqMZ_oCN3GinmF4Gj89YyV8_WKfZl3rzZsXbf5cHmWvUCqILfS_IGNxHAaOsrlXKUjA/s1600/radiant.jpg"
-    },
-    "content": "Scaling the SOC with AI - Why now?&nbsp;\nSecurity Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit",
-    "contentSnippet": "Scaling the SOC with AI - Why now? \nSecurity Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit",
-    "guid": "https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html",
-    "isoDate": "2025-10-16T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks",
-    "link": "https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html",
-    "pubDate": "Thu, 16 Oct 2025 17:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFduzQNIhMMv_l3eYWgasX5HmfiX200pwiHh2Pw_f8y_LFlLmatm1hwbbYFst5uut0EygI2QzRJVDPuIKYzTIjqHqrt-svaLQZrVqkL5306o9Y_x5qmD9TChLgf_Xt5mOQsWbMaNTP3E61GFxKGRBK-RRQI4g6NjonQgpLhVJZIg3VJskMgeBV1WTOifYV/s1600/cisco-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.\nThe activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.\nThe activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple",
-    "guid": "https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html",
-    "isoDate": "2025-10-16T11:38:00.000Z",
     "itunes": {}
   }
 ]
