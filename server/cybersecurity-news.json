@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Paolo Armelli",
+    "title": "What to Know About the Shocking Louvre Jewelry Heist",
+    "link": "https://www.wired.com/story/louvre-jewelry-theft-what-to-know/",
+    "pubDate": "Mon, 20 Oct 2025 18:18:18 +0000",
+    "dc:creator": "Paolo Armelli",
+    "content": "In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.",
+    "contentSnippet": "In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.",
+    "guid": "68f668c42cd3353b7b1becf5",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-20T18:18:18.000Z"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "What the Huge AWS Outage Reveals About the Internet",
     "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
@@ -343,19 +358,5 @@
     "guid": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
     "isoDate": "2025-10-17T06:03:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dan Goodin, Ars Technica",
-    "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
-    "link": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
-    "pubDate": "Thu, 16 Oct 2025 20:42:29 +0000",
-    "dc:creator": "Dan Goodin, Ars Technica",
-    "content": "Networking software company F5 disclosed a long-term breach of its systems this week. The fallout could be severe.",
-    "contentSnippet": "Networking software company F5 disclosed a long-term breach of its systems this week. The fallout could be severe.",
-    "guid": "68f10c80252a49e05299b084",
-    "categories": [
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2025-10-16T20:42:29.000Z"
   }
 ]
