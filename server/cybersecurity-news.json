@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+    "link": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+    "pubDate": "Mon, 20 Oct 2025 11:02:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbyTAesJjrKdf7Xi5TAVIcEz8gljv1a1ZyP5GQgZ9EKsEVDL2uYNsQ4EjmVAV0dRsqc4kLV1tgOO8bPe5JlM_jq54R0YD1VrJN6XJmlQ7SfUJN-T4bzvNFtYyX5-OziaQgAdnvXTZ2VTk1RkwynpeYNmEg-HCkmDdD7CwO7ygXX8VIcrvI4VG5-URAiqf/s1600/chinese.jpg"
+    },
+    "content": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion",
+    "contentSnippet": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion",
+    "guid": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+    "isoDate": "2025-10-20T05:32:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
     "link": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
     "pubDate": "Sun, 19 Oct 2025 11:43:00 +0530",
@@ -342,22 +359,5 @@
       "scams"
     ],
     "isoDate": "2025-10-16T11:06:51.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Beware the Hidden Costs of Pen Testing",
-    "link": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
-    "pubDate": "Thu, 16 Oct 2025 16:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyr6oUbQY-aHYsXznA94IfeTLqbBgx_erNaTCegVaysnV0to81EmfxAV133QPwveczTRvqiueDQMi72XtigC76zhgk7CpeI1JAAT-y1K24G8yc4kKQLrIIqqc4UO-k_a_S2H_vS2pyVz4NfCxfeMmItblu0TK_bQrmTpgmSJDNwX6tnzJzvWKtemOe4k/s1600/pentest.jpg"
-    },
-    "content": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results.&nbsp;\nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to",
-    "contentSnippet": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results. \nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to",
-    "guid": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
-    "isoDate": "2025-10-16T10:50:00.000Z",
-    "itunes": {}
   }
 ]
