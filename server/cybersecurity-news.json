@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "What the Huge AWS Outage Reveals About the Internet",
+    "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
+    "pubDate": "Mon, 20 Oct 2025 14:22:46 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a longstanding weakness in the internet's infrastructure.",
+    "contentSnippet": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a longstanding weakness in the internet's infrastructure.",
+    "guid": "68f626ea91fa39647b82c1b9",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-20T14:22:46.000Z"
+  },
+  {
     "creator": "Jacob Roach",
     "title": "6 Best VPN Services (2025), Tested and Reviewed",
     "link": "https://www.wired.com/gallery/best-vpn/",
@@ -342,22 +357,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2025-10-16T20:42:29.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
-    "link": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
-    "pubDate": "Thu, 16 Oct 2025 20:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAkWqyP-kjx3tsDRbhwCbgbYrCfv0bhsscLPeraWfsWXD0mN158-j8SWyraPNsbVa9_Iv_lMsOFckxYCbc6jtrVSE2qvKzDpErsFoHG-kp5NiCwBuPi72zjnxP1WUqdLiGnBfw4JaDD2QKdPy0PAG4YIhFZxuS6IlbfEjpvgtKVlqaKMz2aSSl_gFfOia/s1600/hacker-blockchain.jpg"
-    },
-    "content": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
-    "contentSnippet": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
-    "guid": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
-    "isoDate": "2025-10-16T14:56:00.000Z",
-    "itunes": {}
   }
 ]
