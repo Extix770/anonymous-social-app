@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1248,
+    "stars": 1249,
     "forks": 141,
     "language": null
   },
@@ -148,7 +148,7 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 101,
+    "stars": 102,
     "forks": 11,
     "language": "HTML"
   },
