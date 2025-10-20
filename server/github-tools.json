@@ -67,7 +67,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 695,
+    "stars": 694,
     "forks": 66,
     "language": null
   },
@@ -175,7 +175,7 @@
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
     "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 86,
+    "stars": 87,
     "forks": 9,
     "language": null
   },
