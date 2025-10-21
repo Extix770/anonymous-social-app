@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
+    "link": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
+    "pubDate": "Tue, 21 Oct 2025 12:59:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTan9GHWsCwaO4bnKiGglFvl2rp8eOV3zwfWIezDpTI7ww63DIocRbxttxbRl89SpjjsHR4nRtQR4xqG5OqRxx2C1nw1KEENkV4dn10LsS8c-oPLHZQJBJytRrWWIfxrVthw4Z2a4GpB6bIyjVdT5flB1SOubHC0-u4IudmvFtR71eiqmxGY7PTu-Z8YD/s1600/click.jpg"
+    },
+    "content": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
+    "contentSnippet": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
+    "guid": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
+    "isoDate": "2025-10-21T07:29:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
+    "link": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
+    "pubDate": "Tue, 21 Oct 2025 12:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1uqqrVb9fKiKp2TAXLGACkDICTIsIazYbw2ok4_DaWSzauAX72ezhEc8SNV_Ml20uhs4ogNtgNg470hX5H1Ipg2D7H0H7cJoit_aYkTn8P9IWjT5AS3fnpGmipoDRC8cTvHPwSo6_LD5sfmjoiBEjT95p9Yntx9JL7W9mzUp41hfTzktNP3Opxme6XG2/s1600/telecom-hacker.jpg"
+    },
+    "content": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,",
+    "contentSnippet": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,",
+    "guid": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
+    "isoDate": "2025-10-21T07:23:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets",
     "link": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
     "pubDate": "Tue, 21 Oct 2025 00:30:00 +0530",
@@ -324,39 +358,5 @@
       "infrastructure"
     ],
     "isoDate": "2025-10-17T11:03:53.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Identity Security: Your First and Last Line of Defense",
-    "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
-    "pubDate": "Fri, 17 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrf3SNrJtA9ogAsUh8Md4fU4yC0HCkGJbedZ6jQUivAuuAkYP0vrpjnQrjhTE0Bwkf7yEj2fkgxaP6XaAO4R8ARGp30JUatnhiOlnrJqahuczssni_ET7ZJRFaNqDCcAGwjnzs345KXNIl1UJYWIGr1PRNp-8z_9IZ_8k4YL9hKUq7nII0BO6wOA8aRSQ/s1600/is.jpg"
-    },
-    "content": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
-    "contentSnippet": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
-    "guid": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
-    "isoDate": "2025-10-17T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
-    "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
-    "pubDate": "Fri, 17 Oct 2025 14:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wXElZ2cOoqWu0KvQRLkdOMEVEy2OErFfkGWokp1gdNCJH8_MxEnR1RMopVgNuFWuAxiCiP90_YEcQe_XEKxadsliIouePVm63amvt2JV3tORO8EQmNCh2ylwY4eQgJPNWR5aoQMPWdefC1wL_HSYTS1dFnjaAQNF3sXQbkeJxY3q7tCu4j4DaPXpJBPY/s1600/exploit.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
-    "guid": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
-    "isoDate": "2025-10-17T09:25:00.000Z",
-    "itunes": {}
   }
 ]
