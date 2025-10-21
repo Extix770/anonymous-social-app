@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
+    "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
+    "pubDate": "Tue, 21 Oct 2025 20:33:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggN-MPjNW8WCdwSNEANZNgMKFjXP9o2wdrX_lYXxxSHNh2h7-PIkCkGc9H535RnhIEZyQYiBq1lZiC0O0h0Y_t4gEFd4tstPAFMOzMYcanDlq_iDRvhsP0P5FFkUFQsbGj0oqIhijY1JzdIr88E4rF7K0ohazXjTN80SNp5ZUsLVoHWxUkHVOan2nz7Say/s1600/spam.jpg"
+    },
+    "content": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to",
+    "contentSnippet": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to",
+    "guid": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
+    "isoDate": "2025-10-21T15:03:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
+    "link": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
+    "pubDate": "Tue, 21 Oct 2025 19:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyKcAsgNTnb5uzcatYsKuGgvPU7aklzYxxG5B-w-kZCNoMD09YJty9-6U7PPYtJAc4PsX-B539OlaWlq8PyWs1wLH84vt1yX8fxhdQ8pMstBogMKpj9UQrQqpIq4AHcQ0VjbY6ni1Jrc5Uu6Sko2WwJOySPDdc4ov4KdtqZGHvJGug2kpjC402k1Fn7kDx/s1600/botnet.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor",
+    "contentSnippet": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor",
+    "guid": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
+    "isoDate": "2025-10-21T13:47:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "A Cybersecurity Merit Badge",
     "link": "https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html",
@@ -305,42 +339,6 @@
     "contentSnippet": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
     "guid": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
     "isoDate": "2025-10-18T06:51:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Inks Philippines Fisherman",
-    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html",
-    "pubDate": "Fri, 17 Oct 2025 21:02:47 +0000",
-    "content:encoded": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html#comments",
-    "content": "<p>Good <a href=\"https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "Good video.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71027",
-    "categories": [
-      "Uncategorized",
-      "squid",
-      "video"
-    ],
-    "isoDate": "2025-10-17T21:02:47.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
-    "link": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
-    "pubDate": "Fri, 17 Oct 2025 19:03:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii_qL8ioAKIQ7YOM6kLCcN9eyqE6pS2Put-ayeBXqibcGCOaV1r-2uLa5MFvwy-VAPLR-wkjnzMr1UwbTUAZGHwa0JVewhyMpYDdrhXGNxbU1ZHeY6xlZZut5QdrlFj8CEhd6Mb6nmgVLTSZ7uytoIUIYsI-8e9xOs8XErc2ycwU4H8xgkXyF081I4g_Zy/s1600/malware-code.jpg"
-    },
-    "content": "The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset.\nThat's according to new findings from Cisco Talos, which said recent campaigns undertaken by the hacking group have seen the functions of BeaverTail and OtterCookie coming",
-    "contentSnippet": "The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset.\nThat's according to new findings from Cisco Talos, which said recent campaigns undertaken by the hacking group have seen the functions of BeaverTail and OtterCookie coming",
-    "guid": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
-    "isoDate": "2025-10-17T13:33:00.000Z",
     "itunes": {}
   }
 ]
