@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
+    "link": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
+    "pubDate": "Wed, 22 Oct 2025 14:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9e1ZfYC1sAh1MgxVFJ4ZxDzDvbtFnbZvEunXZDqT9fMT3S00TlDx3qlc1uAUGUzga07_KnR_KkWfJnaUzbTnCVp65j7TPRWF182fSONEd-p_-fGTWSpd3s1_UCYXJgB2XA13vgmC5R6oKVWdAZ8A3KeFSIkPkyJh6SbZUIjmuCNKmMfGCaxmMaOh3RyVG/s1600/cyberattack.jpg"
+    },
+    "content": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using",
+    "contentSnippet": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using",
+    "guid": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
+    "isoDate": "2025-10-22T08:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
     "link": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
     "pubDate": "Wed, 22 Oct 2025 12:35:00 +0530",
@@ -321,23 +338,6 @@
     "contentSnippet": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.\nThe coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of",
     "guid": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
     "isoDate": "2025-10-19T06:13:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
-    "link": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
-    "pubDate": "Sat, 18 Oct 2025 17:11:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONqdUuuzUnSmVHZhMcb0nfxYoLC_St8teKiK0-qlwf3oFZ-rYbcUdnFHk7Mgy1EGoVKTbyQxzKaba5HD7dK6BinVxUGsBQUmUUpgzw5mx6ovilIp8qze4uC_8RTbjv7enWakXLBUKJZwdKcHhUS6qVJ-ke9FXhzkBw951sZZYbBRD_QhTQiH4Pas9oRF7/s1600/russian-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP",
-    "contentSnippet": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP",
-    "guid": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
-    "isoDate": "2025-10-18T11:41:00.000Z",
     "itunes": {}
   }
 ]
