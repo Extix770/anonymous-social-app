@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
+    "link": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+    "pubDate": "Wed, 22 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_i87-seKwjH0Cp1DSg8tCCCk-rdCCa6R3aGzrrYQaXtOnCTBiMFmE5pW7F6FsDztRcfYrsPBH6NZgn3dnRjoI5wDDPWWYWOuSHhJWxxBJzUzXRVph2ylTti6wytHpCQwTMzjjdu2ntcV7Exz8pr4D7OC6RrqmV2JtILkvETyyatCC27NJsyIxsKC5pCk/s1600/pentera-main.jpg"
+    },
+    "content": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the",
+    "contentSnippet": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the",
+    "guid": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+    "isoDate": "2025-10-22T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Failures in Face Recognition",
     "link": "https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html",
@@ -325,22 +342,5 @@
     "guid": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
     "isoDate": "2025-10-20T10:47:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matthew Gault",
-    "title": "Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?",
-    "link": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
-    "pubDate": "Mon, 20 Oct 2025 09:00:00 +0000",
-    "dc:creator": "Matthew Gault",
-    "content": "Anthropic partnered with the US government to create a filter meant to block Claude from helping someone build a nuke. Experts are divided on whether its a necessary protection—or a protection at all.",
-    "contentSnippet": "Anthropic partnered with the US government to create a filter meant to block Claude from helping someone build a nuke. Experts are divided on whether its a necessary protection—or a protection at all.",
-    "guid": "68f243da4dfa654488b864ee",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2025-10-20T09:00:00.000Z"
   }
 ]
