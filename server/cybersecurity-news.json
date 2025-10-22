@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Caroline Haskins",
+    "title": "No, ICE (Probably) Didn't Buy Guided Missile Warheads",
+    "link": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
+    "pubDate": "Wed, 22 Oct 2025 20:31:57 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "A federal contracting database lists an ICE payment for $61,218 with the payment code “guided missile warheads and explosive components.” But it appears ICE simply entered the wrong code.",
+    "contentSnippet": "A federal contracting database lists an ICE payment for $61,218 with the payment code “guided missile warheads and explosive components.” But it appears ICE simply entered the wrong code.",
+    "guid": "68f7f4576cddf439e692fd8c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-10-22T20:31:57.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
     "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
@@ -336,20 +353,5 @@
     "guid": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
     "isoDate": "2025-10-20T19:00:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Paolo Armelli",
-    "title": "What to Know About the Shocking Louvre Jewelry Heist",
-    "link": "https://www.wired.com/story/louvre-jewelry-theft-what-to-know/",
-    "pubDate": "Mon, 20 Oct 2025 18:18:18 +0000",
-    "dc:creator": "Paolo Armelli",
-    "content": "In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.",
-    "contentSnippet": "In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.",
-    "guid": "68f668c42cd3353b7b1becf5",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-20T18:18:18.000Z"
   }
 ]
