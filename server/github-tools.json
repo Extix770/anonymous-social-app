@@ -68,7 +68,7 @@
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
     "stars": 692,
-    "forks": 66,
+    "forks": 67,
     "language": null
   },
   {
@@ -747,19 +747,19 @@
     "language": "Python"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
     "stars": 5,
     "forks": 1,
     "language": null
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
