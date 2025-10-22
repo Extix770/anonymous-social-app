@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "The Long Tail of the AWS Outage",
+    "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
+    "pubDate": "Wed, 22 Oct 2025 16:31:33 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Experts say outages like the one that Amazon experienced this week are almost inevitable given the complexity and scale of cloud technology—but the duration serves as a warning.",
+    "contentSnippet": "Experts say outages like the one that Amazon experienced this week are almost inevitable given the complexity and scale of cloud technology—but the duration serves as a warning.",
+    "guid": "68f7874fcfabbdb3da9ea3e4",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-22T16:31:33.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
     "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
@@ -321,23 +336,6 @@
     "contentSnippet": "It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.\nHere’s a quick look at this week’s top threats, new tactics, and security stories shaping",
     "guid": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
     "isoDate": "2025-10-20T12:27:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
-    "link": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-    "pubDate": "Mon, 20 Oct 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5038UqY-M1JonfIYTCdPFsPCsb09z9DKaRKFYnUKX8zHbn3_Sm1REhOYuMZmA-kMjLMSO9b3W9-8IRdWHqb4MDCP4s0o4t1FW7CvWbbCboLOQE8tlewbQ4BxBONZAMKRfJIc4rwCgejK5hp-_zhV9W5cuO44S38f6pVa0TAfKd8F86l5PjAZUel1Xuk/s1600/push.jpg"
-    },
-    "content": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches.&nbsp;\nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage.&nbsp;\nThe name is a little misleading, though",
-    "contentSnippet": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches. \nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage. \nThe name is a little misleading, though",
-    "guid": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-    "isoDate": "2025-10-20T11:55:00.000Z",
     "itunes": {}
   }
 ]

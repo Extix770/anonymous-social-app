@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7065,
+    "stars": 7064,
     "forks": 817,
     "language": "HTML"
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2237,
+    "stars": 2236,
     "forks": 347,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1609,
+    "stars": 1607,
     "forks": 320,
     "language": "Python"
   },
@@ -76,7 +76,7 @@
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
     "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
-    "stars": 502,
+    "stars": 501,
     "forks": 61,
     "language": "Python"
   },
@@ -486,15 +486,6 @@
     "language": "Python"
   },
   {
-    "name": "3num-tool",
-    "owner": "RichardAlmeyda",
-    "url": "https://github.com/RichardAlmeyda/3num-tool",
-    "description": "Enumeration Tool",
-    "stars": 10,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "awesome-osint-toolkit",
     "owner": "shallvhack",
     "url": "https://github.com/shallvhack/awesome-osint-toolkit",
@@ -520,6 +511,15 @@
     "stars": 9,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "3num-tool",
+    "owner": "RichardAlmeyda",
+    "url": "https://github.com/RichardAlmeyda/3num-tool",
+    "description": "Enumeration Tool",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "ocsf-tool",
