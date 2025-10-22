@@ -29,6 +29,40 @@
     "isoDate": "2025-10-22T17:21:36.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+    "link": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+    "pubDate": "Wed, 22 Oct 2025 22:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcGdFphQeU55XMUNKLN5TMSnSR8UrMx41Obgu6kcLVXhebPi1uBmiqkY4Mj0s3MUAY4Rg6xyY23rKGz2hbAzJ-Ao7yn6pQFnmANejg1rKEVFLI6Xo1Sm5_OGupFw374ZM7lwddt68Db0ZHJBxQayTgSbM_gnd3VG8Fxkcm9Xtc0RzElUfGVEh4xest-8qo/s1600/iranian-hackers.jpg"
+    },
+    "content": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering",
+    "contentSnippet": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering",
+    "guid": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+    "isoDate": "2025-10-22T17:21:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+    "link": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+    "pubDate": "Wed, 22 Oct 2025 22:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjASSD00b23d8ZYC2Uva9Cuh74SiVXvG5mFbW4H2oU3LuWOyS7EkLRQxmJLZBmae0uaOZYVIwPT7RBF1yp3KHzgLnhrra3xmwjRGb7CZ3yLNryv6V15Bxr_J1IOLENMxD4hzdSiPlkp4Nahp-OiAYy8xPcNEXas5JYcHhDdrbBQXxNUBkRu3tU1PEFIk7Dv/s1600/zoom.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee",
+    "guid": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+    "isoDate": "2025-10-22T16:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "The Long Tail of the AWS Outage",
     "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
@@ -317,37 +351,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-20T18:18:18.000Z"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "What the Huge AWS Outage Reveals About the Internet",
-    "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
-    "pubDate": "Mon, 20 Oct 2025 14:22:46 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a long-standing weakness in the internet's infrastructure.",
-    "contentSnippet": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a long-standing weakness in the internet's infrastructure.",
-    "guid": "68f626ea91fa39647b82c1b9",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-20T14:22:46.000Z"
-  },
-  {
-    "creator": "Jacob Roach",
-    "title": "6 Best VPN Services (2025), Tested and Reviewed",
-    "link": "https://www.wired.com/gallery/best-vpn/",
-    "pubDate": "Mon, 20 Oct 2025 13:00:00 +0000",
-    "dc:creator": "Jacob Roach",
-    "content": "Every VPN says it’s the best, but only some of them are telling the truth.",
-    "contentSnippet": "Every VPN says it’s the best, but only some of them are telling the truth.",
-    "guid": "68af63e252be2b76ffa4c01a",
-    "categories": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Online Services",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-10-20T13:00:00.000Z"
   }
 ]
