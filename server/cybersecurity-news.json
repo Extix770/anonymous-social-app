@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
+    "pubDate": "Wed, 22 Oct 2025 10:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg909qzwXCVImVBLUJRZFpVi2LmezwwKdilxNhWcxEgJeuaV4wCvv30iepLVY_a6dZ9pJ-4WXAkLf3WUwHdTJQvempUMchfRzpyRqtyxVuworV65sqEhsDcxjfQvvhIcqyrczco6o_Z617Vzrey8YWwEhQD-uy3eDZmM52pUnjoJSvYHHgdlvgGwgtOWeSl/s1600/router.jpg"
+    },
+    "content": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
+    "contentSnippet": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
+    "guid": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
+    "isoDate": "2025-10-22T04:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
     "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
     "pubDate": "Tue, 21 Oct 2025 20:33:00 +0530",
@@ -323,22 +340,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-18T10:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
-    "link": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
-    "pubDate": "Sat, 18 Oct 2025 12:21:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibiSdv0av_jBT1NvQWK4prfMmJUZXETQesWOp4pATha0asiCgMVGZ6_A_56RBxOX_gPNijoVz4QQN955iyx-KRfAj8k-F48zjIZE5gFopMN_rMyacDt1UFR7g97Hbt7SUnldANyT1T3upYifeVyFQnOHbHplYu3Vw_HtsJURvqfqqe38TU80hgIloRppiL/s1600/pdf-malware.jpg"
-    },
-    "content": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
-    "contentSnippet": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
-    "guid": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
-    "isoDate": "2025-10-18T06:51:00.000Z",
-    "itunes": {}
   }
 ]
