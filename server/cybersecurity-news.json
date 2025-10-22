@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Failures in Face Recognition",
+    "link": "https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html",
+    "pubDate": "Wed, 22 Oct 2025 11:03:14 +0000",
+    "content:encoded": "<p>Interesting <a href=\"https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/\">article</a> on people with nonstandard faces and how facial recognition systems fail for them.</p>\n<blockquote><p>Some of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven&#8217;t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won&#8217;t work, they say.</p></blockquote>\n<p>It&#8217;s easy to blame the tech, but the real issue are the engineers who only considered a narrow spectrum of potential faces. That needs to change. But also, we need easy-to-access backup systems when the primary ones fail.</p>\n",
+    "content:encodedSnippet": "Interesting article on people with nonstandard faces and how facial recognition systems fail for them.\nSome of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven’t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won’t work, they say.\n\nIt’s easy to blame the tech, but the real issue are the engineers who only considered a narrow spectrum of potential faces. That needs to change. But also, we need easy-to-access backup systems when the primary ones fail.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html#respond",
+    "content": "<p>Interesting <a href=\"https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/\">article</a> on people with nonstandard faces and how facial recognition systems fail for them.</p>\n<blockquote><p>Some of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven&#8217;t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won&#8217;t work, they say...</p></blockquote>",
+    "contentSnippet": "Interesting article on people with nonstandard faces and how facial recognition systems fail for them.\nSome of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven’t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won’t work, they say...",
+    "guid": "https://www.schneier.com/?p=71038",
+    "categories": [
+      "Uncategorized",
+      "biometrics",
+      "face recognition",
+      "identification"
+    ],
+    "isoDate": "2025-10-22T11:03:14.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Why You Should Swap Passwords for Passphrases",
     "link": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
@@ -322,22 +342,5 @@
       "Business / Artificial Intelligence"
     ],
     "isoDate": "2025-10-20T09:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
-    "link": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
-    "pubDate": "Mon, 20 Oct 2025 11:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbyTAesJjrKdf7Xi5TAVIcEz8gljv1a1ZyP5GQgZ9EKsEVDL2uYNsQ4EjmVAV0dRsqc4kLV1tgOO8bPe5JlM_jq54R0YD1VrJN6XJmlQ7SfUJN-T4bzvNFtYyX5-OziaQgAdnvXTZ2VTk1RkwynpeYNmEg-HCkmDdD7CwO7ygXX8VIcrvI4VG5-URAiqf/s1600/chinese.jpg"
-    },
-    "content": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion",
-    "contentSnippet": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion",
-    "guid": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
-    "isoDate": "2025-10-20T05:32:00.000Z",
-    "itunes": {}
   }
 ]
