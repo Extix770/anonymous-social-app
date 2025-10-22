@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why You Should Swap Passwords for Passphrases",
+    "link": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+    "pubDate": "Wed, 22 Oct 2025 14:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDAguIG96RALTt26AAiezNmRWKzNP8pz2CTXvpPbIhS4UKIaPVX4hnrWAK9_7kKOLaEWpe2xFhYxcLcBDfsENXOcXOT8k8Td3BgTJCcTcDIZncDXmbkGUNUn6Uk2agLF1GmtR2rCfa1FhDPPGtH4HOJGGQLn7rZXWBL2QxHETrrZTXbUt1dMmFOMzErw/s1600/OUTPOST.jpg"
+    },
+    "content": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
+    "contentSnippet": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
+    "guid": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+    "isoDate": "2025-10-22T09:26:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
     "link": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
     "pubDate": "Wed, 22 Oct 2025 14:28:00 +0530",
@@ -321,23 +338,6 @@
     "contentSnippet": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion",
     "guid": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
     "isoDate": "2025-10-20T05:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
-    "link": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
-    "pubDate": "Sun, 19 Oct 2025 11:43:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_I5eP3IIKFpmiSm1phVEKFUbg1o3JZ9DH_6R8w2XAVD5xxHEDx74c28SBq6sRo5d18K4Msnx8iHphoSeUot29zcoUH-6OMwLsjrtDL10S44x7uVIr2d8hh-mez0REVSA6C3qvdVGhlQWcMrIb9uBrX7cKuUvAO3EwHvuW3oSjqRNm9u8diTsWPi3lFMZw/s1600/sim-farm.jpg"
-    },
-    "content": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.\nThe coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of",
-    "contentSnippet": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.\nThe coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of",
-    "guid": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
-    "isoDate": "2025-10-19T06:13:00.000Z",
     "itunes": {}
   }
 ]
