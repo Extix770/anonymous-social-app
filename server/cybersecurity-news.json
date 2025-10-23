@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw",
+    "link": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
+    "pubDate": "Thu, 23 Oct 2025 11:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr6q4VXCW0imh0YjZL7pmH95MM5h-ikE4R8DsRsjoP_lAro1YZYsP9B9tnjsje5vW5-Ng-Hmeb8uetlCJy0L6PUAOm0TG4ubjIws_UGxH2jPUoG9YSwpNbR2NQLQQ3jUPs8WXSQW89Yl0BVbykhkRn_Mg34F4OUlhNE5id3Yzq3HA-OmWwqNnrEgfhWYq6/s1600/adobe-flaws.jpg"
+    },
+    "content": "E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.\nThe vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be",
+    "contentSnippet": "E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.\nThe vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be",
+    "guid": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
+    "isoDate": "2025-10-23T05:47:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms",
+    "link": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
+    "pubDate": "Thu, 23 Oct 2025 11:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF0_anh2D7u1BXDzmTHk1Z2oVOcQvyBSs2KFS9qG34RBu7u3glGB3KzZ4gy3kR9wDSf1BVBM8W2t9Nc3qUMHdlO7tWrZFaOKQQFitA0OuquBHYMqSeIGOEWU2rIbdRYkLYHjq45PM-yCnHQsssYF_C9eganVXF5mEBxBJRVW2N5CrM45Z_P1YPoPXjkBLN/s1600/flaw.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.\nThe vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.\nThe vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client",
+    "guid": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
+    "isoDate": "2025-10-23T05:37:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "No, ICE (Probably) Didn’t Buy Guided Missile Warheads",
     "link": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
@@ -318,40 +352,6 @@
     "contentSnippet": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
     "guid": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
     "isoDate": "2025-10-21T07:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
-    "link": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
-    "pubDate": "Tue, 21 Oct 2025 12:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1uqqrVb9fKiKp2TAXLGACkDICTIsIazYbw2ok4_DaWSzauAX72ezhEc8SNV_Ml20uhs4ogNtgNg470hX5H1Ipg2D7H0H7cJoit_aYkTn8P9IWjT5AS3fnpGmipoDRC8cTvHPwSo6_LD5sfmjoiBEjT95p9Yntx9JL7W9mzUp41hfTzktNP3Opxme6XG2/s1600/telecom-hacker.jpg"
-    },
-    "content": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,",
-    "contentSnippet": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,",
-    "guid": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
-    "isoDate": "2025-10-21T07:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets",
-    "link": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-    "pubDate": "Tue, 21 Oct 2025 00:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNo6sry2Rb7QLB26quJDY1T7IX2CM01saJ2AG2Lkw9BCBks3wQK6iBakiQG8ncEJZb13nsWnHvLAuiSihA13ytfmuco6899Q5O7Whmtccu0hQfH_XN8DnGcK3mgS3h9GPzM4xGuUaqBIrrvdvt2DeKen4Ae9XR6QnECqoQ40WenBoS1jE5ujVjuF0GgyM/s1600/CISA.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added five security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, officially confirming a recently disclosed vulnerability impacting Oracle E-Business Suite (EBS) has been weaponized in real-world attacks.\nThe security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has been described as a",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added five security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, officially confirming a recently disclosed vulnerability impacting Oracle E-Business Suite (EBS) has been weaponized in real-world attacks.\nThe security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has been described as a",
-    "guid": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-    "isoDate": "2025-10-20T19:00:00.000Z",
     "itunes": {}
   }
 ]
