@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+    "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
+    "pubDate": "Thu, 23 Oct 2025 13:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKxmcih1vSk9zV3rxmSlJbG10cSql0qeyBPbcbVx9spXIsuoJ7Fy-WZPMUNrR4lPhCYwjqW7ViGz6j4IIYpeNzVyS9IjYTdKxORB0ggHC-hxh0k9Tx9wvJ8gXSta_kf7O6cfcqE9NzLbm6pzCFMP8ANumFe8XBgiyvXgnV5XDvERHoTg1nX6Bi-0ZSJ2pJ/s1600/giftcardds.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
+    "contentSnippet": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
+    "guid": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
+    "isoDate": "2025-10-23T07:52:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw",
     "link": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
     "pubDate": "Thu, 23 Oct 2025 11:17:00 +0530",
@@ -335,23 +352,6 @@
     "contentSnippet": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can’t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in",
     "guid": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
     "isoDate": "2025-10-21T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
-    "link": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
-    "pubDate": "Tue, 21 Oct 2025 12:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTan9GHWsCwaO4bnKiGglFvl2rp8eOV3zwfWIezDpTI7ww63DIocRbxttxbRl89SpjjsHR4nRtQR4xqG5OqRxx2C1nw1KEENkV4dn10LsS8c-oPLHZQJBJytRrWWIfxrVthw4Z2a4GpB6bIyjVdT5flB1SOubHC0-u4IudmvFtR71eiqmxGY7PTu-Z8YD/s1600/click.jpg"
-    },
-    "content": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
-    "contentSnippet": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
-    "guid": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
-    "isoDate": "2025-10-21T07:29:00.000Z",
     "itunes": {}
   }
 ]
