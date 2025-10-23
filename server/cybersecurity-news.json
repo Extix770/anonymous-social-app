@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
+    "link": "https://www.wired.com/story/universe-browser-malware-gambling-networks/",
+    "pubDate": "Thu, 23 Oct 2025 09:30:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "The Universe Browser is believed to have been downloaded millions of times. But researchers say it behaves like malware and has links to Asia’s booming cybercrime and illegal gambling networks.",
+    "contentSnippet": "The Universe Browser is believed to have been downloaded millions of times. But researchers say it behaves like malware and has links to Asia’s booming cybercrime and illegal gambling networks.",
+    "guid": "67a5e2dca4e6ca167b11e1a8",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-23T09:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
     "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
@@ -336,22 +353,5 @@
       "cybersecurity"
     ],
     "isoDate": "2025-10-21T11:07:34.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Securing AI to Benefit from AI",
-    "link": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
-    "pubDate": "Tue, 21 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeBVzzbq4N029qf31udLK89vZYg0gBNzRwagRRcMUjxi-GlXm6FmJDgipuN2pj_M5hN6ocvBB8BUnwj32N2f_LlYnNA5M1_z14vNS4_FYhLsu-wIFBYAZmiavILEKqBmks9ie6J2lN0XiyejW0-6ZE52AMg2fJF85cvTEXP1379gTcEeoLhKKLeg6Wf2Y/s1600/secure-ai.jpg"
-    },
-    "content": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can’t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in",
-    "contentSnippet": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can’t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in",
-    "guid": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
-    "isoDate": "2025-10-21T11:00:00.000Z",
-    "itunes": {}
   }
 ]
