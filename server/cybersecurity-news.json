@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Serious F5 Breach",
+    "link": "https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html",
+    "pubDate": "Thu, 23 Oct 2025 11:04:48 +0000",
+    "content:encoded": "<p><a href=\"https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/\">This</a> is bad:</p>\n<blockquote><p>F5, a Seattle-based maker of networking software, <a href=\"https://my.f5.com/manage/s/article/K000154696\">disclosed the breach</a> on Wednesday. F5 said a &#8220;sophisticated&#8221; threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a &#8220;long-term.&#8221; Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network <a href=\"https://cyberplace.social/@GossiTheDog/115378445416288653\">for years</a>.</p>\n<p>During that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 <a href=\"https://www.f5.com/c/emea-2020/event/f5-myforum\">says</a> is used by 48 of the world&#8217;s top 50 corporations. Wednesday&#8217;s disclosure went on to say the threat group downloaded proprietary BIG-IP source code information about vulnerabilities that had been privately discovered but not yet patched. The hackers also obtained configuration settings that some customers used inside their networks.</p>\n<p>Control of the build system and access to the source code, customer configurations, and documentation of unpatched vulnerabilities has the potential to give the hackers unprecedented knowledge of weaknesses and the ability to exploit them in supply-chain attacks on thousands of networks, many of which are sensitive. The theft of customer configurations and other data further raises the risk that sensitive credentials can be abused, F5 and outside security experts said.</p></blockquote>\n<p>F5 <a href=\"https://my.f5.com/manage/s/article/K000154696\">announcement</a>.</p>\n",
+    "content:encodedSnippet": "This is bad:\nF5, a Seattle-based maker of networking software, disclosed the breach on Wednesday. F5 said a “sophisticated” threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a “long-term.” Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network for years.\nDuring that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 says is used by 48 of the world’s top 50 corporations. Wednesday’s disclosure went on to say the threat group downloaded proprietary BIG-IP source code information about vulnerabilities that had been privately discovered but not yet patched. The hackers also obtained configuration settings that some customers used inside their networks.\nControl of the build system and access to the source code, customer configurations, and documentation of unpatched vulnerabilities has the potential to give the hackers unprecedented knowledge of weaknesses and the ability to exploit them in supply-chain attacks on thousands of networks, many of which are sensitive. The theft of customer configurations and other data further raises the risk that sensitive credentials can be abused, F5 and outside security experts said.\n\nF5 announcement.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html#respond",
+    "content": "<p><a href=\"https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/\">This</a> is bad:</p>\n<blockquote><p>F5, a Seattle-based maker of networking software, <a href=\"https://my.f5.com/manage/s/article/K000154696\">disclosed the breach</a> on Wednesday. F5 said a &#8220;sophisticated&#8221; threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a &#8220;long-term.&#8221; Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network <a href=\"https://cyberplace.social/@GossiTheDog/115378445416288653\">for years</a>.</p>\n<p>During that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 ...</p></blockquote>",
+    "contentSnippet": "This is bad:\nF5, a Seattle-based maker of networking software, disclosed the breach on Wednesday. F5 said a “sophisticated” threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a “long-term.” Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network for years.\nDuring that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 ...",
+    "guid": "https://www.schneier.com/?p=71041",
+    "categories": [
+      "Uncategorized",
+      "breaches",
+      "disclosure",
+      "network security",
+      "vulnerabilities"
+    ],
+    "isoDate": "2025-10-23T11:04:48.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+    "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+    "pubDate": "Thu, 23 Oct 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQXR3hJJeyu725GU64q2P5FS-Dd_Q0tHPYl3PQ1dCsQSc0mth8d5AZI7OMRrluhhS6WXIWRkVhGwtuA4KJoEv16v7m2v1SqGmByyRUMI_zoB2H0VNri0x4TjuklCtV1K21ZdIPmbr2a6ZwMQNva6rCii54DI2vhn4kRYgtbrKq22MccEK-eeyMy2gvNw/s1600/git.jpg"
+    },
+    "content": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
+    "contentSnippet": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
+    "guid": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+    "isoDate": "2025-10-23T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
     "link": "https://www.wired.com/story/universe-browser-malware-gambling-networks/",
@@ -317,41 +355,5 @@
     "guid": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
     "isoDate": "2025-10-21T15:03:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
-    "link": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
-    "pubDate": "Tue, 21 Oct 2025 19:17:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyKcAsgNTnb5uzcatYsKuGgvPU7aklzYxxG5B-w-kZCNoMD09YJty9-6U7PPYtJAc4PsX-B539OlaWlq8PyWs1wLH84vt1yX8fxhdQ8pMstBogMKpj9UQrQqpIq4AHcQ0VjbY6ni1Jrc5Uu6Sko2WwJOySPDdc4ov4KdtqZGHvJGug2kpjC402k1Fn7kDx/s1600/botnet.jpg"
-    },
-    "content": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor",
-    "contentSnippet": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor",
-    "guid": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
-    "isoDate": "2025-10-21T13:47:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "A Cybersecurity Merit Badge",
-    "link": "https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html",
-    "pubDate": "Tue, 21 Oct 2025 11:07:34 +0000",
-    "content:encoded": "<p>Scouting America (formerly known as Boy Scouts) has a <a href=\"https://www.cnn.com/2025/10/14/tech/scouting-america-ai-cybersecurity-merit-badges\">new badge</a> in cybersecurity. There&#8217;s an image in the article; it looks good.</p>\n<p>I want one.</p>\n",
-    "content:encodedSnippet": "Scouting America (formerly known as Boy Scouts) has a new badge in cybersecurity. There’s an image in the article; it looks good.\nI want one.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html#comments",
-    "content": "<p>Scouting America (formerly known as Boy Scouts) has a <a href=\"https://www.cnn.com/2025/10/14/tech/scouting-america-ai-cybersecurity-merit-badges\">new badge</a> in cybersecurity. There&#8217;s an image in the article; it looks good.</p>\n<p>I want one.</p>\n",
-    "contentSnippet": "Scouting America (formerly known as Boy Scouts) has a new badge in cybersecurity. There’s an image in the article; it looks good.\nI want one.",
-    "guid": "https://www.schneier.com/?p=71024",
-    "categories": [
-      "Uncategorized",
-      "children",
-      "cybersecurity"
-    ],
-    "isoDate": "2025-10-21T11:07:34.000Z"
   }
 ]
