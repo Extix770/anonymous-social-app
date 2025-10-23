@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA",
+    "link": "https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/",
+    "pubDate": "Thu, 23 Oct 2025 23:51:38 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
+    "contentSnippet": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
+    "guid": "68fa87d358ddf62ce047a4f3",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-23T23:51:38.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
     "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
@@ -337,23 +353,6 @@
     "contentSnippet": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
     "guid": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
     "isoDate": "2025-10-22T09:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
-    "link": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
-    "pubDate": "Wed, 22 Oct 2025 14:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9e1ZfYC1sAh1MgxVFJ4ZxDzDvbtFnbZvEunXZDqT9fMT3S00TlDx3qlc1uAUGUzga07_KnR_KkWfJnaUzbTnCVp65j7TPRWF182fSONEd-p_-fGTWSpd3s1_UCYXJgB2XA13vgmC5R6oKVWdAZ8A3KeFSIkPkyJh6SbZUIjmuCNKmMfGCaxmMaOh3RyVG/s1600/cyberattack.jpg"
-    },
-    "content": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using",
-    "contentSnippet": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using",
-    "guid": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
-    "isoDate": "2025-10-22T08:58:00.000Z",
     "itunes": {}
   }
 ]
