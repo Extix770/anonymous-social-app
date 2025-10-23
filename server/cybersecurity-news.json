@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
+    "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
+    "pubDate": "Thu, 23 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGHe6ecCCrv5YeciYpjLs8cTVWBfIwqtIhubmEGeOf3aQxopS2A9usHvEDovFsKOPn21Mb6TbOgK2LtlzZFRksJaAd_TMk6Ew8Y8WGLnom3CmVOqy_DRHZvxNsVcyUJSWzfrUaER-FQNClUteZj5weOUaLSrA8KEQDqrPR-jolax51bY3KoSTM3aMRks6A/s1600/webinar.jpg"
+    },
+    "content": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI",
+    "contentSnippet": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI",
+    "guid": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
+    "isoDate": "2025-10-23T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
+    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
+    "pubDate": "Thu, 23 Oct 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBGI55y_fOIk2ah8f4huRsruWz2X2BQM5tPxTX7pHHQJe06G9V_VpwiP25wvxTQzFoYBn0i45sZ_CG2U269mLKWfOvYg-ng2pXAgDixytL0uZNz1TzmYdsCrcQ0pdCP9nTh2VzyRgV8hPE7hOSLd0BUDN1xrydraGAUUV5T_opmJq88S0Z9C3eQE13RaHQ/s1600/threatsday-ai.jpg"
+    },
+    "content": "Criminals don&rsquo;t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you&rsquo;re already a target.\nThis week&rsquo;s ThreatsDay highlights show exactly how those weak points are being exploited &mdash; from overlooked",
+    "contentSnippet": "Criminals don’t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you’re already a target.\nThis week’s ThreatsDay highlights show exactly how those weak points are being exploited — from overlooked",
+    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
+    "isoDate": "2025-10-23T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Serious F5 Breach",
     "link": "https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html",
@@ -320,40 +354,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.\nThe vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several",
     "guid": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
     "isoDate": "2025-10-22T07:05:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
-    "link": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-    "pubDate": "Wed, 22 Oct 2025 10:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg909qzwXCVImVBLUJRZFpVi2LmezwwKdilxNhWcxEgJeuaV4wCvv30iepLVY_a6dZ9pJ-4WXAkLf3WUwHdTJQvempUMchfRzpyRqtyxVuworV65sqEhsDcxjfQvvhIcqyrczco6o_Z617Vzrey8YWwEhQD-uy3eDZmM52pUnjoJSvYHHgdlvgGwgtOWeSl/s1600/router.jpg"
-    },
-    "content": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
-    "contentSnippet": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
-    "guid": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-    "isoDate": "2025-10-22T04:38:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
-    "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
-    "pubDate": "Tue, 21 Oct 2025 20:33:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggN-MPjNW8WCdwSNEANZNgMKFjXP9o2wdrX_lYXxxSHNh2h7-PIkCkGc9H535RnhIEZyQYiBq1lZiC0O0h0Y_t4gEFd4tstPAFMOzMYcanDlq_iDRvhsP0P5FFkUFQsbGj0oqIhijY1JzdIr88E4rF7K0ohazXjTN80SNp5ZUsLVoHWxUkHVOan2nz7Say/s1600/spam.jpg"
-    },
-    "content": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to",
-    "contentSnippet": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to",
-    "guid": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
-    "isoDate": "2025-10-21T15:03:00.000Z",
     "itunes": {}
   }
 ]
