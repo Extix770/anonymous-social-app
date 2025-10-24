@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
+    "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+    "pubDate": "Fri, 24 Oct 2025 12:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s1600/code-vscode.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
+    "contentSnippet": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
+    "guid": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+    "isoDate": "2025-10-24T07:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA",
     "link": "https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/",
@@ -26,8 +43,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0FPtpkvxFxGAd0hh2wsJHxGCIA0PCJbURwlsS5x93_6Ak68WSe2rbdXj4xRMu5DddZcKeqoTD-VDuHCY9eNqF2IcnjDwm8OAbQs7rgZsTTq-uY9UfNurt5YFv_MuL9ytL5PxwpPWUfTa3_4h8uSr4D5xnIiXlbzQhAYhVnQRnC8xcAp-v1lO2xfT_fjO/s1600/drone-hacking.jpg"
     },
-    "content": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies' are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
-    "contentSnippet": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies' are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
+    "content": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
+    "contentSnippet": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
     "guid": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
     "isoDate": "2025-10-23T15:29:00.000Z",
     "itunes": {}
@@ -337,22 +354,5 @@
       "identification"
     ],
     "isoDate": "2025-10-22T11:03:14.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why You Should Swap Passwords for Passphrases",
-    "link": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
-    "pubDate": "Wed, 22 Oct 2025 14:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDAguIG96RALTt26AAiezNmRWKzNP8pz2CTXvpPbIhS4UKIaPVX4hnrWAK9_7kKOLaEWpe2xFhYxcLcBDfsENXOcXOT8k8Td3BgTJCcTcDIZncDXmbkGUNUn6Uk2agLF1GmtR2rCfa1FhDPPGtH4HOJGGQLn7rZXWBL2QxHETrrZTXbUt1dMmFOMzErw/s1600/OUTPOST.jpg"
-    },
-    "content": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
-    "contentSnippet": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
-    "guid": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
-    "isoDate": "2025-10-22T09:26:00.000Z",
-    "itunes": {}
   }
 ]
