@@ -1,7 +1,24 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+    "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
+    "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
+    "pubDate": "Sat, 25 Oct 2025 00:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4D_INO1jh6PECfBBx_gyROybG6I1e1BUQLpwGYP1rSiZL7JqX2S2IxzWGs0NvDDI1AKJIHp6Lr6oX7YCt0Sfz-scRv2Y4TNJ7091ffHmKdj5aMcIldD-X8snwmwsk_SOYtd8QZ2YlfwwQlPGlUHDUmqCsCUMMk0-dRwRNbVDDRd0gemFeOOCkL8ZGqdZ/s1600/phishing.jpg"
+    },
+    "content": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
+    "contentSnippet": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
+    "guid": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
+    "isoDate": "2025-10-24T18:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
     "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
     "pubDate": "Fri, 24 Oct 2025 22:00:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -337,23 +354,6 @@
     "contentSnippet": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering",
     "guid": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
     "isoDate": "2025-10-22T17:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
-    "link": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
-    "pubDate": "Wed, 22 Oct 2025 22:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjASSD00b23d8ZYC2Uva9Cuh74SiVXvG5mFbW4H2oU3LuWOyS7EkLRQxmJLZBmae0uaOZYVIwPT7RBF1yp3KHzgLnhrra3xmwjRGb7CZ3yLNryv6V15Bxr_J1IOLENMxD4hzdSiPlkp4Nahp-OiAYy8xPcNEXas5JYcHhDdrbBQXxNUBkRu3tU1PEFIk7Dv/s1600/zoom.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee",
-    "guid": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
-    "isoDate": "2025-10-22T16:55:00.000Z",
     "itunes": {}
   }
 ]
