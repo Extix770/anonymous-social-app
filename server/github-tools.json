@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1257,
+    "stars": 1258,
     "forks": 141,
     "language": null
   },
@@ -229,7 +229,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-    "stars": 41,
+    "stars": 42,
     "forks": 5,
     "language": null
   },
@@ -495,15 +495,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 9,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -511,6 +502,15 @@
     "stars": 9,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 9,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "uk-personal-osint-toolkit",
@@ -657,15 +657,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -673,6 +664,15 @@
     "stars": 6,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -684,21 +684,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -828,15 +828,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -844,6 +835,15 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "PerlCodingToolkit",
