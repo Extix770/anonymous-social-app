@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: “El Pulpo The Squid”",
+    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html",
+    "pubDate": "Fri, 24 Oct 2025 21:07:38 +0000",
+    "content:encoded": "<p>There is a <a href=\"https://halfwheel.com/el-pulpo-the-squid/455265/\">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "There is a new cigar named “El Pulpo The Squid.” Yes, that means “The Octopus The Squid.”\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html#respond",
+    "content": "<p>There is a <a href=\"https://halfwheel.com/el-pulpo-the-squid/455265/\">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "There is a new cigar named “El Pulpo The Squid.” Yes, that means “The Octopus The Squid.”\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71067",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2025-10-24T21:07:38.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
     "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
@@ -338,22 +356,5 @@
       "Xeltox Enterprises Ltd"
     ],
     "isoDate": "2025-10-22T17:21:36.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
-    "link": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
-    "pubDate": "Wed, 22 Oct 2025 22:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcGdFphQeU55XMUNKLN5TMSnSR8UrMx41Obgu6kcLVXhebPi1uBmiqkY4Mj0s3MUAY4Rg6xyY23rKGz2hbAzJ-Ao7yn6pQFnmANejg1rKEVFLI6Xo1Sm5_OGupFw374ZM7lwddt68Db0ZHJBxQayTgSbM_gnd3VG8Fxkcm9Xtc0RzElUfGVEh4xest-8qo/s1600/iranian-hackers.jpg"
-    },
-    "content": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering",
-    "contentSnippet": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering",
-    "guid": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
-    "isoDate": "2025-10-22T17:21:00.000Z",
-    "itunes": {}
   }
 ]
