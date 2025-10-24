@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
+    "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
+    "pubDate": "Fri, 24 Oct 2025 19:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlLDV9eHmX0UxtlV_GgmAOIgKuN8Ko4GLu13DsbfOsmXOvZCCfJFJYTu4bWeUaVoNQdQvqwitjs9X6gMRTAMc_42zGhH59sINyGokJo-7HwggyEP6v0NqKmiLlMHl2WDVoclCkkDXEAsE-ZN3Yz1ADcLXPV5vRtrIKTP07e87JvUg72soCwq2BwffNjbD/s1600/indian-cyberattack.jpg"
+    },
+    "content": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior",
+    "contentSnippet": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior",
+    "guid": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
+    "isoDate": "2025-10-24T14:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Part Four of The Kryptos Sculpture",
     "link": "https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html",
@@ -336,22 +353,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-22T16:31:33.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
-    "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
-    "pubDate": "Wed, 22 Oct 2025 18:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha5q6jnY_8Y6xACyBZ_yiUAcIQ3IXuRd2uOKF9t1FjjllTiuuy4SaqnXGddolrXgpRO92TcXIHvsu5uoB4HRSXsxIUos3HUpgjQ2-K4odObODu18xROyGjzfvqG3jsfbyM_xHqmRZ60CX3oG0k7ye5f1JxwEN7jRPhcR0pNakj7XstD2BZkq8qEW-Uubwv/s1600/sharepoint-hack.jpg"
-    },
-    "content": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.\nAlso targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology",
-    "contentSnippet": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.\nAlso targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology",
-    "guid": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
-    "isoDate": "2025-10-22T12:56:00.000Z",
-    "itunes": {}
   }
 ]
