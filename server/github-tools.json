@@ -58,7 +58,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 727,
+    "stars": 728,
     "forks": 122,
     "language": "JavaScript"
   },
@@ -356,7 +356,7 @@
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
     "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
     "stars": 17,
-    "forks": 7,
+    "forks": 8,
     "language": "Python"
   },
   {
