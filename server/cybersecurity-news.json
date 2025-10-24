@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Part Four of The Kryptos Sculpture",
+    "link": "https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html",
+    "pubDate": "Fri, 24 Oct 2025 11:01:14 +0000",
+    "content:encoded": "<p>Two people <a href=\"https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html\">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>\n<p>This comes as an awkward time, as Sanborn is <a href=\"https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html\">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>\n",
+    "content:encodedSnippet": "Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.\nThis comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html#respond",
+    "content": "<p>Two people <a href=\"https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html\">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>\n<p>This comes as an awkward time, as Sanborn is <a href=\"https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html\">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>\n",
+    "contentSnippet": "Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.\nThis comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.",
+    "guid": "https://www.schneier.com/?p=71044",
+    "categories": [
+      "Uncategorized",
+      "CIA",
+      "cryptography"
+    ],
+    "isoDate": "2025-10-24T11:01:14.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
     "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
@@ -333,23 +352,6 @@
     "contentSnippet": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the",
     "guid": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
     "isoDate": "2025-10-22T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys",
-    "link": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
-    "pubDate": "Wed, 22 Oct 2025 17:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4CzOs4JEMRtUD88VjPdObvU2Ty0XQ8oo4B28iYPPNBnBhPEbWkvu5-1O9DVarWe7jY3T8WieMumik8JCrklI9of87YRpnVd6yePtjSSxI5u7CNtWh3q_u-6mXwdPfqnsBrhX8T_U5gARTD-4ZwMYuGSxTqHbZFaA2FGLJRX2bF_zDQSscrgwtRL6QTSHp/s1600/wallet.jpg"
-    },
-    "content": "Cybersecurity researchers have uncovered a new supply chain attack targeting the NuGet package manager with malicious typosquats of Nethereum, a popular Ethereum .NET integration platform, to steal victims' cryptocurrency wallet keys.\nThe package, Netherеum.All, has been found to harbor functionality to decode a command-and-control (C2) endpoint and exfiltrate mnemonic phrases, private keys, and",
-    "contentSnippet": "Cybersecurity researchers have uncovered a new supply chain attack targeting the NuGet package manager with malicious typosquats of Nethereum, a popular Ethereum .NET integration platform, to steal victims' cryptocurrency wallet keys.\nThe package, Netherеum.All, has been found to harbor functionality to decode a command-and-control (C2) endpoint and exfiltrate mnemonic phrases, private keys, and",
-    "guid": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
-    "isoDate": "2025-10-22T11:43:00.000Z",
     "itunes": {}
   }
 ]
