@@ -20,6 +20,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+    "link": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+    "pubDate": "Fri, 24 Oct 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg"
+    },
+    "content": "Does your organization suffer from a cybersecurity perception gap? Findings from the&nbsp;Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
+    "contentSnippet": "Does your organization suffer from a cybersecurity perception gap? Findings from the Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
+    "guid": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+    "isoDate": "2025-10-24T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
     "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
     "pubDate": "Fri, 24 Oct 2025 15:30:00 +0530",
@@ -335,23 +352,6 @@
     "contentSnippet": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.\nAlso targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology",
     "guid": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
     "isoDate": "2025-10-22T12:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
-    "link": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
-    "pubDate": "Wed, 22 Oct 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_i87-seKwjH0Cp1DSg8tCCCk-rdCCa6R3aGzrrYQaXtOnCTBiMFmE5pW7F6FsDztRcfYrsPBH6NZgn3dnRjoI5wDDPWWYWOuSHhJWxxBJzUzXRVph2ylTti6wytHpCQwTMzjjdu2ntcV7Exz8pr4D7OC6RrqmV2JtILkvETyyatCC27NJsyIxsKC5pCk/s1600/pentera-main.jpg"
-    },
-    "content": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the",
-    "contentSnippet": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the",
-    "guid": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
-    "isoDate": "2025-10-22T11:55:00.000Z",
     "itunes": {}
   }
 ]
