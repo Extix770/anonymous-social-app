@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+    "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+    "pubDate": "Fri, 24 Oct 2025 22:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboN42WiQTI7VcMEGEDyMaY3ZP7VsruF2cHNgK4XQ2SxW0adaaMaJYfa_3B5Og4rvc1KF9HS1L7IxA-jSa_ZWMOz5kAKexTlsbZHomhllf8esxYBqcv3-pL7GY5CCb7qZaSxFaM2s3sbLR6cw-KlYMQ0ZnyWbYpjxHph9tMZxDxGdsf6jQ8kdBWYsMdvol/s1600/windows-update.jpg"
+    },
+    "content": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
+    "contentSnippet": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
+    "guid": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+    "isoDate": "2025-10-24T16:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
     "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
     "pubDate": "Fri, 24 Oct 2025 19:30:00 +0530",
@@ -210,7 +227,7 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+    "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
     "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
     "pubDate": "Thu, 23 Oct 2025 13:22:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -338,20 +355,5 @@
     "guid": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
     "isoDate": "2025-10-22T16:55:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "The Long Tail of the AWS Outage",
-    "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
-    "pubDate": "Wed, 22 Oct 2025 16:31:33 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Experts say outages like the one that Amazon experienced this week are almost inevitable given the complexity and scale of cloud technology—but the duration serves as a warning.",
-    "contentSnippet": "Experts say outages like the one that Amazon experienced this week are almost inevitable given the complexity and scale of cloud technology—but the duration serves as a warning.",
-    "guid": "68f7874fcfabbdb3da9ea3e4",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-22T16:31:33.000Z"
   }
 ]
