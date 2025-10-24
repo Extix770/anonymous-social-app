@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
+    "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+    "pubDate": "Fri, 24 Oct 2025 15:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8EaTq-s91jlucVVZYpqJYdk5xQXEy0ylAf-poP2YIxboYThJyShnGQwhh-OORfMy6LnRQlwQfzHP2bf8Ao0JyihddLTI6G4fcLdnxktdgM8vE_02iM1LFvJCgmafz56dDvXjyDLXMWkE8-RxezA8kCpkn4heiMnIZT7pZp72rQXIa00u9YAJadnsKxUm/s1600/youtube.jpg"
+    },
+    "content": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
+    "contentSnippet": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
+    "guid": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+    "isoDate": "2025-10-24T10:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
     "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
     "pubDate": "Fri, 24 Oct 2025 12:30:00 +0530",
@@ -334,25 +351,5 @@
     "guid": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
     "isoDate": "2025-10-22T11:43:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Failures in Face Recognition",
-    "link": "https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html",
-    "pubDate": "Wed, 22 Oct 2025 11:03:14 +0000",
-    "content:encoded": "<p>Interesting <a href=\"https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/\">article</a> on people with nonstandard faces and how facial recognition systems fail for them.</p>\n<blockquote><p>Some of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven&#8217;t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won&#8217;t work, they say.</p></blockquote>\n<p>It&#8217;s easy to blame the tech, but the real issue are the engineers who only considered a narrow spectrum of potential faces. That needs to change. But also, we need easy-to-access backup systems when the primary ones fail.</p>\n",
-    "content:encodedSnippet": "Interesting article on people with nonstandard faces and how facial recognition systems fail for them.\nSome of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven’t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won’t work, they say.\n\nIt’s easy to blame the tech, but the real issue are the engineers who only considered a narrow spectrum of potential faces. That needs to change. But also, we need easy-to-access backup systems when the primary ones fail.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html#comments",
-    "content": "<p>Interesting <a href=\"https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/\">article</a> on people with nonstandard faces and how facial recognition systems fail for them.</p>\n<blockquote><p>Some of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven&#8217;t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won&#8217;t work, they say...</p></blockquote>",
-    "contentSnippet": "Interesting article on people with nonstandard faces and how facial recognition systems fail for them.\nSome of those living with facial differences tell WIRED they have undergone multiple surgeries and experienced stigma for their entire lives, which is now being echoed by the technology they are forced to interact with. They say they haven’t been able to access public services due to facial verification services failing, while others have struggled to access financial services. Social media filters and face-unlocking systems on phones often won’t work, they say...",
-    "guid": "https://www.schneier.com/?p=71038",
-    "categories": [
-      "Uncategorized",
-      "biometrics",
-      "face recognition",
-      "identification"
-    ],
-    "isoDate": "2025-10-22T11:03:14.000Z"
   }
 ]
