@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7429,
+    "stars": 7430,
     "forks": 1015,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7073,
+    "stars": 7074,
     "forks": 815,
     "language": "HTML"
   },
@@ -86,7 +86,7 @@
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 447,
-    "forks": 101,
+    "forks": 102,
     "language": null
   },
   {
@@ -495,15 +495,6 @@
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 9,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "UM-NIDS-Tool",
     "owner": "SyedWaliAbbas",
     "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
@@ -511,6 +502,15 @@
     "stars": 9,
     "forks": 3,
     "language": "Jupyter Notebook"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 9,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "uk-personal-osint-toolkit",
