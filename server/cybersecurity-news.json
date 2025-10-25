@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matt Burgess, Lily Hay Newman",
+    "title": "Amazon Explains How Its AWS Outage Took Down the Web",
+    "link": "https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/",
+    "pubDate": "Sat, 25 Oct 2025 10:30:00 +0000",
+    "dc:creator": "Matt Burgess, Lily Hay Newman",
+    "content": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and more.",
+    "contentSnippet": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and more.",
+    "guid": "68fbb2b44a23c33f07ae3287",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-25T10:30:00.000Z"
+  },
+  {
     "creator": "Dell Cameron",
     "title": "DHS Wants a Fleet of AI-Powered Surveillance Trucks",
     "link": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
@@ -326,22 +343,5 @@
     "guid": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
     "isoDate": "2025-10-23T05:37:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "No, ICE (Probably) Didn’t Buy Guided Missile Warheads",
-    "link": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
-    "pubDate": "Wed, 22 Oct 2025 20:31:57 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "A federal contracting database lists an ICE payment for $61,218 with the payment code for “guided missile warheads and explosive components.” But it appears ICE simply entered the wrong code.",
-    "contentSnippet": "A federal contracting database lists an ICE payment for $61,218 with the payment code for “guided missile warheads and explosive components.” But it appears ICE simply entered the wrong code.",
-    "guid": "68f7f4576cddf439e692fd8c",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-10-22T20:31:57.000Z"
   }
 ]
