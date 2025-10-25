@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7420,
+    "stars": 7421,
     "forks": 1014,
     "language": null
   },
@@ -657,6 +657,15 @@
     "language": "Python"
   },
   {
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 6,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -727,15 +736,6 @@
     "stars": 5,
     "forks": 0,
     "language": null
-  },
-  {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 5,
-    "forks": 2,
-    "language": "Python"
   },
   {
     "name": "WEEK-TOOL",
