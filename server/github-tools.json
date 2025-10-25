@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7069,
+    "stars": 7070,
     "forks": 816,
     "language": "HTML"
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1619,
+    "stars": 1618,
     "forks": 321,
     "language": "Python"
   },
@@ -140,7 +140,7 @@
     "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
     "description": "List, utilize and cheatsheet of Ethical Hacking tools",
     "stars": 113,
-    "forks": 47,
+    "forks": 48,
     "language": null
   },
   {
@@ -495,15 +495,6 @@
     "language": null
   },
   {
-    "name": "UM-NIDS-Tool",
-    "owner": "SyedWaliAbbas",
-    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
-    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
-    "stars": 9,
-    "forks": 3,
-    "language": "Jupyter Notebook"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -511,6 +502,15 @@
     "stars": 9,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "UM-NIDS-Tool",
+    "owner": "SyedWaliAbbas",
+    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
+    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
+    "stars": 9,
+    "forks": 3,
+    "language": "Jupyter Notebook"
   },
   {
     "name": "uk-personal-osint-toolkit",
@@ -657,15 +657,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 6,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -673,6 +664,15 @@
     "stars": 6,
     "forks": 1,
     "language": "TypeScript"
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 6,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "qradarOffenseTools",
@@ -684,21 +684,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -846,15 +846,6 @@
     "language": null
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "ddos-tool-python",
     "owner": "ArthurDeveloper",
     "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
@@ -862,6 +853,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "PerlCodingToolkit",
@@ -882,15 +882,6 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": null
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
   }
 ]
