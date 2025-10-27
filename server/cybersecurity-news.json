@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "Hundreds of People With ‘Top Secret’ Clearance Exposed by House Democrats’ Website",
+    "link": "https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/",
+    "pubDate": "Mon, 27 Oct 2025 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "A database containing information on people who applied for jobs with Democrats in the US House of Representatives was left accessible on the open web.",
+    "contentSnippet": "A database containing information on people who applied for jobs with Democrats in the US House of Representatives was left accessible on the open web.",
+    "guid": "68fb8ff460df113db783347c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2025-10-27T10:30:00.000Z"
+  },
+  {
     "creator": "Matt Burgess, Natasha Bernal",
     "title": "Chatbots Are Pushing Sanctioned Russian Propaganda",
     "link": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
@@ -14,6 +32,23 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-27T09:00:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
+    "link": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+    "pubDate": "Mon, 27 Oct 2025 14:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EopwQw3Z0ZKEpgBMr6o1NnpTuZh32VqYXhHSIiYfDxDAJaPe2lUu0kTMYDMPwnytqXlofMPn2BNJpl1DEXihvRPAkofRn8kd5HwjaWGaaojcMZl67A3gj1sESX7PYipB5xqcUZt4HPPyv7W5UWFDlBXi7kYlvGP9MJC_N2BqnekOzdRbi2nVx-TFVtrX/s1600/ransomware.jpg"
+    },
+    "content": "The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.\nThe development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for",
+    "contentSnippet": "The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.\nThe development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for",
+    "guid": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+    "isoDate": "2025-10-27T08:55:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -307,40 +342,6 @@
     "contentSnippet": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
     "guid": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
     "isoDate": "2025-10-23T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
-    "link": "https://www.wired.com/story/universe-browser-malware-gambling-networks/",
-    "pubDate": "Thu, 23 Oct 2025 09:30:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "The Universe Browser is believed to have been downloaded millions of times. But researchers say it behaves like malware and has links to Asia’s booming cybercrime and illegal gambling networks.",
-    "contentSnippet": "The Universe Browser is believed to have been downloaded millions of times. But researchers say it behaves like malware and has links to Asia’s booming cybercrime and illegal gambling networks.",
-    "guid": "67a5e2dca4e6ca167b11e1a8",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-23T09:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
-    "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
-    "pubDate": "Thu, 23 Oct 2025 13:22:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKxmcih1vSk9zV3rxmSlJbG10cSql0qeyBPbcbVx9spXIsuoJ7Fy-WZPMUNrR4lPhCYwjqW7ViGz6j4IIYpeNzVyS9IjYTdKxORB0ggHC-hxh0k9Tx9wvJ8gXSta_kf7O6cfcqE9NzLbm6pzCFMP8ANumFe8XBgiyvXgnV5XDvERHoTg1nX6Bi-0ZSJ2pJ/s1600/giftcardds.jpg"
-    },
-    "content": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
-    "contentSnippet": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
-    "guid": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
-    "isoDate": "2025-10-23T07:52:00.000Z",
     "itunes": {}
   }
 ]
