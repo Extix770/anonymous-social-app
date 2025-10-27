@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7503,
+    "stars": 7505,
     "forks": 1026,
     "language": null
   },
@@ -94,7 +94,7 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 260,
+    "stars": 261,
     "forks": 71,
     "language": "PHP"
   },
