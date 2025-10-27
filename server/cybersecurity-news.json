@@ -21,6 +21,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
+    "link": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+    "pubDate": "Mon, 27 Oct 2025 20:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjDfq1tN5Ap43g7G5CQgjVrSSmrbFsxBYg0A1f7lzX6fMXkdlZ_1hD2ceYP8N3dVVoftQI7gnM5XmwVi9H4Js0m1WOGaoEC8rZOxbv3pPqoKFoOgrDbMj6P-9vdd-YWEjW56MvKGICyZu8VateghhN3NyGQMqbU0SEQ0NeeXVmxh22Hv9SgMGB7KosNLJP/s1600/openai.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX",
+    "contentSnippet": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX",
+    "guid": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+    "isoDate": "2025-10-27T14:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
     "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
     "pubDate": "Mon, 27 Oct 2025 18:21:00 +0530",
@@ -119,8 +136,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNBu2Kv_7ZWCpDqM_MBmHWghQSmsUC5dH4E-CGxu7Gv-G1IUDSx8RnR5wGnHO6FyjD3WoV1i1BTRpmqS_6GJBhbHuj0M0VRCjbVHvoK3P2a8t69U4PgUf-dRWXbsgcCyg0c2ZoDeVUnS_4pceIperLn_anC_JX6qTh8MLoUzP0c3GGKOR8cwvp2kYdOHG/s1600/chatgpt-atlas.jpg"
     },
-    "content": "The newly released OpenAI Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report published Friday",
-    "contentSnippet": "The newly released OpenAI Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report published Friday",
+    "content": "The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report",
+    "contentSnippet": "The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report",
     "guid": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
     "isoDate": "2025-10-27T07:29:00.000Z",
     "itunes": {}
@@ -328,23 +345,6 @@
     "contentSnippet": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
     "guid": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
     "isoDate": "2025-10-23T15:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
-    "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-    "pubDate": "Thu, 23 Oct 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGHe6ecCCrv5YeciYpjLs8cTVWBfIwqtIhubmEGeOf3aQxopS2A9usHvEDovFsKOPn21Mb6TbOgK2LtlzZFRksJaAd_TMk6Ew8Y8WGLnom3CmVOqy_DRHZvxNsVcyUJSWzfrUaER-FQNClUteZj5weOUaLSrA8KEQDqrPR-jolax51bY3KoSTM3aMRks6A/s1600/webinar.jpg"
-    },
-    "content": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI",
-    "contentSnippet": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI",
-    "guid": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-    "isoDate": "2025-10-23T11:55:00.000Z",
     "itunes": {}
   }
 ]
