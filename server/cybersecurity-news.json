@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
+    "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+    "pubDate": "Mon, 27 Oct 2025 21:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOI99OQs-se9ygpm5v5mTH7o_NupseTZd2gJxEcCpVcQhEZDUqmnQK6TYa5RepYRUv5RuFhlGGefZlazteLlFIkVYDlpLIzbPot9PmqcnIi-DqqqfR3bzDiOAAAQU1btf5h1fe31-zYwiE5uDm-EzKNoQ53RySI7HyfdFsVrbWrGF58LLaMnJALkAs3HO3/s1600/x-account.jpg"
+    },
+    "content": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you",
+    "contentSnippet": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you",
+    "guid": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+    "isoDate": "2025-10-27T16:12:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Louvre Jewel Heist",
     "link": "https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html",
@@ -329,22 +346,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-23T23:51:38.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
-    "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-    "pubDate": "Thu, 23 Oct 2025 20:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0FPtpkvxFxGAd0hh2wsJHxGCIA0PCJbURwlsS5x93_6Ak68WSe2rbdXj4xRMu5DddZcKeqoTD-VDuHCY9eNqF2IcnjDwm8OAbQs7rgZsTTq-uY9UfNurt5YFv_MuL9ytL5PxwpPWUfTa3_4h8uSr4D5xnIiXlbzQhAYhVnQRnC8xcAp-v1lO2xfT_fjO/s1600/drone-hacking.jpg"
-    },
-    "content": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
-    "contentSnippet": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
-    "guid": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-    "isoDate": "2025-10-23T15:29:00.000Z",
-    "itunes": {}
   }
 ]
