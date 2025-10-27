@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7519,
+    "stars": 7520,
     "forks": 1027,
     "language": null
   },
@@ -342,19 +342,19 @@
     "language": "Batchfile"
   },
   {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "name": "securitylabs-thrunting-tools",
+    "owner": "elastic",
+    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
+    "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
     "language": "Python"
   },
   {
-    "name": "securitylabs-thrunting-tools",
-    "owner": "elastic",
-    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
-    "description": "A collection of  utilities to help with analysis on the command line.",
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
     "stars": 18,
     "forks": 3,
     "language": "Python"
@@ -504,15 +504,6 @@
     "language": null
   },
   {
-    "name": "UM-NIDS-Tool",
-    "owner": "SyedWaliAbbas",
-    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
-    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
-    "stars": 9,
-    "forks": 3,
-    "language": "Jupyter Notebook"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -520,6 +511,15 @@
     "stars": 9,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "UM-NIDS-Tool",
+    "owner": "SyedWaliAbbas",
+    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
+    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
+    "stars": 9,
+    "forks": 3,
+    "language": "Jupyter Notebook"
   },
   {
     "name": "uk-personal-osint-toolkit",
@@ -549,19 +549,19 @@
     "language": "Go"
   },
   {
-    "name": "Spy-Tool",
-    "owner": "srimani-programmer",
-    "url": "https://github.com/srimani-programmer/Spy-Tool",
-    "description": "A Python tool to perform image spy operation on a computer.",
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
     "stars": 8,
     "forks": 2,
     "language": "Python"
   },
   {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "name": "Spy-Tool",
+    "owner": "srimani-programmer",
+    "url": "https://github.com/srimani-programmer/Spy-Tool",
+    "description": "A Python tool to perform image spy operation on a computer.",
     "stars": 8,
     "forks": 2,
     "language": "Python"
@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -691,6 +682,15 @@
     "stars": 6,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -702,21 +702,21 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -855,15 +855,6 @@
     "language": null
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -871,6 +862,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cybersec-tools-installer",
