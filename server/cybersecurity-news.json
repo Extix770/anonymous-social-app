@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "First Wap: A Surveillance Computer You’ve Never Heard Of",
+    "link": "https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html",
+    "pubDate": "Mon, 27 Oct 2025 11:08:11 +0000",
+    "content:encoded": "<p><i>Mother Jones</i> has a <a href=\"https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/\">long article</a> on surveillance arms manufacturers, their wares, and how they avoid export control laws:</p>\n<blockquote><p>Operating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap&#8217;s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.</p>\n<p>It calls its proprietary system Altamides, which it describes in promotional materials as &#8220;a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.&#8221;</p>\n<p>Altamides leaves no trace on the phones it targets, unlike spyware such as Pegasus. Nor does it require a target to click on a malicious link or show any of the telltale signs (such as overheating or a short battery life) of remote monitoring.</p>\n<p>Its secret is shrewd use of the antiquated telecom language Signaling System No. 7, known as SS7, that phone carriers use to route calls and text messages. Any entity with SS7 access can send queries requesting information about which cell tower a phone subscriber is nearest to, an essential first step to sending a text message or making a call to that subscriber. But First Wap&#8217;s technology uses SS7 to zero in on phone numbers and trace the location of their users.</p></blockquote>\n<p>Much more in this Lighthouse Reports <a href=\"https://www.lighthousereports.com/investigation/surveillance-secrets/\">analysis</a>.</p>\n",
+    "content:encodedSnippet": "Mother Jones has a long article on surveillance arms manufacturers, their wares, and how they avoid export control laws:\nOperating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap’s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.\nIt calls its proprietary system Altamides, which it describes in promotional materials as “a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.”\nAltamides leaves no trace on the phones it targets, unlike spyware such as Pegasus. Nor does it require a target to click on a malicious link or show any of the telltale signs (such as overheating or a short battery life) of remote monitoring.\nIts secret is shrewd use of the antiquated telecom language Signaling System No. 7, known as SS7, that phone carriers use to route calls and text messages. Any entity with SS7 access can send queries requesting information about which cell tower a phone subscriber is nearest to, an essential first step to sending a text message or making a call to that subscriber. But First Wap’s technology uses SS7 to zero in on phone numbers and trace the location of their users.\n\nMuch more in this Lighthouse Reports analysis.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html#respond",
+    "content": "<p><i>Mother Jones</i> has a <a href=\"https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/\">long article</a> on surveillance arms manufacturers, their wares, and how they avoid export control laws:</p>\n<blockquote><p>Operating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap&#8217;s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.</p>\n<p>It calls its proprietary system Altamides, which it describes in promotional materials as &#8220;a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.&#8221;...</p></blockquote>",
+    "contentSnippet": "Mother Jones has a long article on surveillance arms manufacturers, their wares, and how they avoid export control laws:\nOperating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap’s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.\nIt calls its proprietary system Altamides, which it describes in promotional materials as “a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.”...",
+    "guid": "https://www.schneier.com/?p=71049",
+    "categories": [
+      "Uncategorized",
+      "cell phones",
+      "privacy",
+      "surveillance",
+      "tracking"
+    ],
+    "isoDate": "2025-10-27T11:08:11.000Z"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "Hundreds of People With ‘Top Secret’ Clearance Exposed by House Democrats’ Website",
     "link": "https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/",
@@ -326,22 +347,5 @@
       "vulnerabilities"
     ],
     "isoDate": "2025-10-23T11:04:48.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
-    "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
-    "pubDate": "Thu, 23 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQXR3hJJeyu725GU64q2P5FS-Dd_Q0tHPYl3PQ1dCsQSc0mth8d5AZI7OMRrluhhS6WXIWRkVhGwtuA4KJoEv16v7m2v1SqGmByyRUMI_zoB2H0VNri0x4TjuklCtV1K21ZdIPmbr2a6ZwMQNva6rCii54DI2vhn4kRYgtbrKq22MccEK-eeyMy2gvNw/s1600/git.jpg"
-    },
-    "content": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
-    "contentSnippet": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
-    "guid": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
-    "isoDate": "2025-10-23T11:00:00.000Z",
-    "itunes": {}
   }
 ]
