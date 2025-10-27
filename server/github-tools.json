@@ -549,19 +549,19 @@
     "language": "Go"
   },
   {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "name": "Spy-Tool",
+    "owner": "srimani-programmer",
+    "url": "https://github.com/srimani-programmer/Spy-Tool",
+    "description": "A Python tool to perform image spy operation on a computer.",
     "stars": 8,
     "forks": 2,
     "language": "Python"
   },
   {
-    "name": "Spy-Tool",
-    "owner": "srimani-programmer",
-    "url": "https://github.com/srimani-programmer/Spy-Tool",
-    "description": "A Python tool to perform image spy operation on a computer.",
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
     "stars": 8,
     "forks": 2,
     "language": "Python"
