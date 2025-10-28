@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+    "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+    "pubDate": "Tue, 28 Oct 2025 22:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqDg4meP42AOosMdpQlHsFbpyLK_CI4zHlECaRACwTo7Dejigq3qACm17aG33bE67yt8pWOUOrz3jbiAAGyTHSRoZAA7wL5bEvXwFLxBKPt9UXZCfxEGOi6ZF5I4AbEm8tgWrBbkMqz4fvXAHOv7R8t6Pxro5eWMJzypdAmItOAXDz_j_5TYZi7VpeylM/s1600/android-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
+    "guid": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+    "isoDate": "2025-10-28T16:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
     "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
     "pubDate": "Tue, 28 Oct 2025 21:42:00 +0530",
@@ -333,23 +350,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-24T22:59:51.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: “El Pulpo The Squid”",
-    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html",
-    "pubDate": "Fri, 24 Oct 2025 21:07:38 +0000",
-    "content:encoded": "<p>There is a <a href=\"https://halfwheel.com/el-pulpo-the-squid/455265/\">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "There is a new cigar named “El Pulpo The Squid.” Yes, that means “The Octopus The Squid.”\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html#comments",
-    "content": "<p>There is a <a href=\"https://halfwheel.com/el-pulpo-the-squid/455265/\">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "There is a new cigar named “El Pulpo The Squid.” Yes, that means “The Octopus The Squid.”\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71067",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2025-10-24T21:07:38.000Z"
   }
 ]
