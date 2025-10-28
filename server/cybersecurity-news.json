@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Matt Burgess, Dell Cameron",
+    "title": "CBP Searched a Record Number of Phones at the US Border Over the Past Year",
+    "link": "https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/",
+    "pubDate": "Tue, 28 Oct 2025 15:26:29 +0000",
+    "dc:creator": "Matt Burgess, Dell Cameron",
+    "content": "The total number of US Customs and Border Protection device searches jumped by 17 percent over the 2024 fiscal year, but more invasive forensic searches remain relatively rare.",
+    "contentSnippet": "The total number of US Customs and Border Protection device searches jumped by 17 percent over the 2024 fiscal year, but more invasive forensic searches remain relatively rare.",
+    "guid": "6900c4d6cc2301baa4889bce",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-10-28T15:26:29.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
     "link": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
@@ -332,23 +350,6 @@
     "contentSnippet": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
     "guid": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
     "isoDate": "2025-10-24T18:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
-    "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
-    "pubDate": "Fri, 24 Oct 2025 22:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboN42WiQTI7VcMEGEDyMaY3ZP7VsruF2cHNgK4XQ2SxW0adaaMaJYfa_3B5Og4rvc1KF9HS1L7IxA-jSa_ZWMOz5kAKexTlsbZHomhllf8esxYBqcv3-pL7GY5CCb7qZaSxFaM2s3sbLR6cw-KlYMQ0ZnyWbYpjxHph9tMZxDxGdsf6jQ8kdBWYsMdvol/s1600/windows-update.jpg"
-    },
-    "content": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
-    "contentSnippet": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
-    "guid": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
-    "isoDate": "2025-10-24T16:30:00.000Z",
     "itunes": {}
   }
 ]
