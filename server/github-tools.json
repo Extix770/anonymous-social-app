@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7079,
+    "stars": 7081,
     "forks": 816,
     "language": "HTML"
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1657,
+    "stars": 1659,
     "forks": 333,
     "language": "Python"
   },
@@ -139,7 +139,7 @@
     "owner": "dev-angelist",
     "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
     "description": "List, utilize and cheatsheet of Ethical Hacking tools",
-    "stars": 113,
+    "stars": 114,
     "forks": 48,
     "language": null
   },
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
-    "stars": 4,
-    "forks": 0,
-    "language": "Perl"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "stars": 4,
+    "forks": 0,
+    "language": "Perl"
   },
   {
     "name": "URL-Analysis-Tool",
