@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
+    "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
+    "pubDate": "Tue, 28 Oct 2025 09:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3hjuQYF6NrQ5JvlPhwaBdmr4TLCJkOaKfH3-D0_WE_ibmXtG76evHlGv9MN6nAKXgUnRmfkfBILBE5PKFOc4-dH-KVGVA4p_ubK73bo2u6Tbr2M_qZ8VI2xW3q_UBQZ_nanyTEprtqryK4EwtqdzuwWwPhhHyyFKkI9RImjIjCIl8Wg_kBN5GPddporW/s1600/cyberattack-paki.jpg"
+    },
+    "content": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in",
+    "contentSnippet": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in",
+    "guid": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
+    "isoDate": "2025-10-28T04:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
     "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
     "pubDate": "Mon, 27 Oct 2025 21:42:00 +0530",
@@ -330,21 +347,5 @@
     "guid": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
     "isoDate": "2025-10-24T07:00:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA",
-    "link": "https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/",
-    "pubDate": "Thu, 23 Oct 2025 23:51:38 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
-    "contentSnippet": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
-    "guid": "68fa87d358ddf62ce047a4f3",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-23T23:51:38.000Z"
   }
 ]
