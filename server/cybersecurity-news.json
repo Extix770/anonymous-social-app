@@ -1,5 +1,44 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Social Engineering People’s Credit Card Details",
+    "link": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html",
+    "pubDate": "Tue, 28 Oct 2025 11:01:20 +0000",
+    "content:encoded": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.</p>\n<p>[&#8230;]</p>\n<p>Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.</p></blockquote>\n",
+    "content:encodedSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.\n[…]\nMaking the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html#respond",
+    "content": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</p></blockquote>",
+    "contentSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...",
+    "guid": "https://www.schneier.com/?p=71053",
+    "categories": [
+      "Uncategorized",
+      "China",
+      "credit cards",
+      "fraud",
+      "scams",
+      "social engineering"
+    ],
+    "isoDate": "2025-10-28T11:01:20.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Is Your Google Workspace as Secure as You Think it is?",
+    "link": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
+    "pubDate": "Tue, 28 Oct 2025 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png"
+    },
+    "content": "The New Reality for Lean Security Teams\nIf you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.\nMost organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant",
+    "contentSnippet": "The New Reality for Lean Security Teams\nIf you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.\nMost organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant",
+    "guid": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
+    "isoDate": "2025-10-28T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Fernanda González",
     "title": "This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats",
     "link": "https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/",
@@ -310,42 +349,6 @@
     "contentSnippet": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior",
     "guid": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
     "isoDate": "2025-10-24T14:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Part Four of The Kryptos Sculpture",
-    "link": "https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html",
-    "pubDate": "Fri, 24 Oct 2025 11:01:14 +0000",
-    "content:encoded": "<p>Two people <a href=\"https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html\">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>\n<p>This comes as an awkward time, as Sanborn is <a href=\"https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html\">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>\n",
-    "content:encodedSnippet": "Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.\nThis comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html#comments",
-    "content": "<p>Two people <a href=\"https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html\">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>\n<p>This comes as an awkward time, as Sanborn is <a href=\"https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html\">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>\n",
-    "contentSnippet": "Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.\nThis comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.",
-    "guid": "https://www.schneier.com/?p=71044",
-    "categories": [
-      "Uncategorized",
-      "CIA",
-      "cryptography"
-    ],
-    "isoDate": "2025-10-24T11:01:14.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
-    "link": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
-    "pubDate": "Fri, 24 Oct 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg"
-    },
-    "content": "Does your organization suffer from a cybersecurity perception gap? Findings from the&nbsp;Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
-    "contentSnippet": "Does your organization suffer from a cybersecurity perception gap? Findings from the Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
-    "guid": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
-    "isoDate": "2025-10-24T11:00:00.000Z",
     "itunes": {}
   }
 ]

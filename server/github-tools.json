@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7553,
+    "stars": 7555,
     "forks": 1029,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1676,
+    "stars": 1677,
     "forks": 337,
     "language": "Python"
   },
@@ -333,19 +333,19 @@
     "language": "Batchfile"
   },
   {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "name": "securitylabs-thrunting-tools",
+    "owner": "elastic",
+    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
+    "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
     "language": "Python"
   },
   {
-    "name": "securitylabs-thrunting-tools",
-    "owner": "elastic",
-    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
-    "description": "A collection of  utilities to help with analysis on the command line.",
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
     "stars": 18,
     "forks": 3,
     "language": "Python"
@@ -756,15 +756,6 @@
     "language": "Python"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -772,6 +763,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "digital-forensics-tools",
@@ -846,15 +846,6 @@
     "language": null
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -862,6 +853,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cybersec-tools-installer",
@@ -882,21 +882,21 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Mobile-Penetration-Testing-Tool",
     "owner": "4xyy",
     "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
     "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
+    "stars": 4,
+    "forks": 1,
     "language": "Python"
   }
 ]
