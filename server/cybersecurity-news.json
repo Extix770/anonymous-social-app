@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Fernanda González",
+    "title": "This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats",
+    "link": "https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/",
+    "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
+    "dc:creator": "Fernanda González",
+    "content": "The USS Gerald R. Ford is a $13 billion aircraft carrier sailing to the Caribbean with nuclear propulsion, an electromagnetic plane launcher, and 90 aircraft onboard.",
+    "contentSnippet": "The USS Gerald R. Ford is a $13 billion aircraft carrier sailing to the Caribbean with nuclear propulsion, an electromagnetic plane launcher, and 90 aircraft onboard.",
+    "guid": "68ffdf052a0cc1a8eeca12e8",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2025-10-28T09:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
     "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
@@ -329,23 +346,6 @@
     "contentSnippet": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
     "guid": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
     "isoDate": "2025-10-24T10:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
-    "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
-    "pubDate": "Fri, 24 Oct 2025 12:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s1600/code-vscode.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
-    "contentSnippet": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
-    "guid": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
-    "isoDate": "2025-10-24T07:00:00.000Z",
     "itunes": {}
   }
 ]
