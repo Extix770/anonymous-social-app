@@ -18,6 +18,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware",
+    "link": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+    "pubDate": "Tue, 28 Oct 2025 13:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s1600/chrome-exploit.png"
+    },
+    "content": "The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.\nThe vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under",
+    "contentSnippet": "The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.\nThe vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under",
+    "guid": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+    "isoDate": "2025-10-28T08:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
     "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
     "pubDate": "Tue, 28 Oct 2025 09:31:00 +0530",
@@ -329,23 +346,6 @@
     "contentSnippet": "Does your organization suffer from a cybersecurity perception gap? Findings from the Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
     "guid": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
     "isoDate": "2025-10-24T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
-    "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
-    "pubDate": "Fri, 24 Oct 2025 15:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8EaTq-s91jlucVVZYpqJYdk5xQXEy0ylAf-poP2YIxboYThJyShnGQwhh-OORfMy6LnRQlwQfzHP2bf8Ao0JyihddLTI6G4fcLdnxktdgM8vE_02iM1LFvJCgmafz56dDvXjyDLXMWkE8-RxezA8kCpkn4heiMnIZT7pZp72rQXIa00u9YAJadnsKxUm/s1600/youtube.jpg"
-    },
-    "content": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
-    "contentSnippet": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
-    "guid": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
-    "isoDate": "2025-10-24T10:00:00.000Z",
     "itunes": {}
   }
 ]
