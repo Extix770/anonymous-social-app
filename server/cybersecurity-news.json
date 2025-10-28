@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+    "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+    "pubDate": "Tue, 28 Oct 2025 21:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMbkAsrs6YvT6hgAJ1VD5h6DLPGjqLKZoVnv-Y9DUffXGlUHJ13omcv_O1rJJDQB7y_c8akQmP99DzBy1VAWYpxqTqY2fzxZUW0j3ON2wOQGzWt1QCyvCQGg_1R_tpZaeBadjWqFsiGPaY-zLKsWtXMEJfTpWEO2kkv_lvyl_q6Hk2Lx9EcJGCxGcsFLOK/s1600/gjost-hacker.jpg"
+    },
+    "content": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
+    "contentSnippet": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
+    "guid": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+    "isoDate": "2025-10-28T16:12:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess, Dell Cameron",
     "title": "CBP Searched a Record Number of Phones at the US Border Over the Past Year",
     "link": "https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/",
@@ -334,22 +351,5 @@
       "squid"
     ],
     "isoDate": "2025-10-24T21:07:38.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
-    "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-    "pubDate": "Sat, 25 Oct 2025 00:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4D_INO1jh6PECfBBx_gyROybG6I1e1BUQLpwGYP1rSiZL7JqX2S2IxzWGs0NvDDI1AKJIHp6Lr6oX7YCt0Sfz-scRv2Y4TNJ7091ffHmKdj5aMcIldD-X8snwmwsk_SOYtd8QZ2YlfwwQlPGlUHDUmqCsCUMMk0-dRwRNbVDDRd0gemFeOOCkL8ZGqdZ/s1600/phishing.jpg"
-    },
-    "content": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
-    "contentSnippet": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
-    "guid": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-    "isoDate": "2025-10-24T18:35:00.000Z",
-    "itunes": {}
   }
 ]
