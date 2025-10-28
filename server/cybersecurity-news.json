@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+    "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+    "pubDate": "Wed, 29 Oct 2025 00:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WEENR9AjQZ-WdyQPD5itMbQHGgQu79Ykq0IYfq-vThOrYHX14a_kPBXDW39gvSaT8qQpGHJ9Xb73eCO18CfNSPLOHmnp40IAZ3HDHeCmgMLxaB7sGt8w37KQkuXoFelF4letd03UWYWcFfPYtfA6g-0P7z_qAMbQjI-2Mg4htAyB71nfu7CKlqVVw2Q2/s1600/tee.jpg"
+    },
+    "content": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure",
+    "contentSnippet": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure",
+    "guid": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+    "isoDate": "2025-10-28T19:16:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
     "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
     "pubDate": "Tue, 28 Oct 2025 22:03:00 +0530",
@@ -334,21 +351,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-10-25T10:30:00.000Z"
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "DHS Wants a Fleet of AI-Powered Surveillance Trucks",
-    "link": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
-    "pubDate": "Fri, 24 Oct 2025 22:59:51 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "US border patrol is asking companies to submit plans to turn standard 4x4 trucks into AI-powered watchtowers—combining radar, cameras, and autonomous tracking to extend surveillance on demand.",
-    "contentSnippet": "US border patrol is asking companies to submit plans to turn standard 4x4 trucks into AI-powered watchtowers—combining radar, cameras, and autonomous tracking to extend surveillance on demand.",
-    "guid": "68fbd4b11c5a6c9b492ed23e",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-10-24T22:59:51.000Z"
   }
 ]
