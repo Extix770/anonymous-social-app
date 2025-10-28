@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7563,
+    "stars": 7564,
     "forks": 1033,
     "language": null
   },
@@ -882,15 +882,6 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 4,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "linux-network-win-tools",
     "owner": "s3bu7i",
     "url": "https://github.com/s3bu7i/linux-network-win-tools",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 4,
+    "forks": 0,
+    "language": null
   }
 ]
