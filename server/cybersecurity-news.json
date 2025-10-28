@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
+    "link": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
+    "pubDate": "Tue, 28 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahIAFVAlDP3Fg0ZEiWhBxiZNiuovhyYDTY1yaKWFxZ3inBHxDKuycmzTZMk_vJvOKVrIYlsh6_rR_-kK1VY2bR5V-E7Nw5QWvXm3UTFCUdUJyPyBo6hS5XUE4fpoPYtSzxnMRoyxINGnZeP_qWmO_QxdG4jin0uGtzYcG0qgg2Guqv8x4x7q8yuVlWLQ/s1600/anyrun-main.jpg"
+    },
+    "content": "In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.\nCompanies that treat cybersecurity as a",
+    "contentSnippet": "In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.\nCompanies that treat cybersecurity as a",
+    "guid": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
+    "isoDate": "2025-10-28T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Social Engineering People’s Credit Card Details",
     "link": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html",
@@ -7,7 +24,7 @@
     "content:encoded": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.</p>\n<p>[&#8230;]</p>\n<p>Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.</p></blockquote>\n",
     "content:encodedSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.\n[…]\nMaking the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html#comments",
     "content": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</p></blockquote>",
     "contentSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...",
     "guid": "https://www.schneier.com/?p=71053",
@@ -332,23 +349,6 @@
     "contentSnippet": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
     "guid": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
     "isoDate": "2025-10-24T16:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
-    "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
-    "pubDate": "Fri, 24 Oct 2025 19:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlLDV9eHmX0UxtlV_GgmAOIgKuN8Ko4GLu13DsbfOsmXOvZCCfJFJYTu4bWeUaVoNQdQvqwitjs9X6gMRTAMc_42zGhH59sINyGokJo-7HwggyEP6v0NqKmiLlMHl2WDVoclCkkDXEAsE-ZN3Yz1ADcLXPV5vRtrIKTP07e87JvUg72soCwq2BwffNjbD/s1600/indian-cyberattack.jpg"
-    },
-    "content": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior",
-    "contentSnippet": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior",
-    "guid": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
-    "isoDate": "2025-10-24T14:00:00.000Z",
     "itunes": {}
   }
 ]
