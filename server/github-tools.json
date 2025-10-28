@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7558,
-    "forks": 1031,
+    "stars": 7560,
+    "forks": 1032,
     "language": null
   },
   {
@@ -486,6 +486,15 @@
     "language": "Python"
   },
   {
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 9,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
     "name": "awesome-osint-toolkit",
     "owner": "shallvhack",
     "url": "https://github.com/shallvhack/awesome-osint-toolkit",
@@ -544,15 +553,6 @@
     "owner": "srimani-programmer",
     "url": "https://github.com/srimani-programmer/Spy-Tool",
     "description": "A Python tool to perform image spy operation on a computer.",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
     "stars": 8,
     "forks": 2,
     "language": "Python"
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
     "forks": 0,
-    "language": null
+    "language": "Python"
   }
 ]
