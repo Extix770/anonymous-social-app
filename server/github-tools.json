@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7594,
+    "stars": 7596,
     "forks": 1037,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1695,
+    "stars": 1696,
     "forks": 340,
     "language": "Python"
   },
@@ -630,15 +630,6 @@
     "language": "Python"
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "LuciTools",
     "owner": "IamLucif3r",
     "url": "https://github.com/IamLucif3r/LuciTools",
@@ -646,6 +637,15 @@
     "stars": 7,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -702,6 +702,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 1,
+    "language": null
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -718,15 +727,6 @@
     "stars": 6,
     "forks": 1,
     "language": "Python"
-  },
-  {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
-    "forks": 1,
-    "language": null
   },
   {
     "name": "red_team_toolkit",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "URL-Analysis-Tool",
