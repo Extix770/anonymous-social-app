@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Signal’s Post-Quantum Cryptographic Implementation",
+    "link": "https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html",
+    "pubDate": "Wed, 29 Oct 2025 11:09:57 +0000",
+    "content:encoded": "<p>Signal has <a href=\"https://signal.org/blog/spqr/\">just rolled out</a> its quantum-safe cryptographic implementation.</p>\n<p><i>Ars Technica</i> has a <a href=\"https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/\">really good article</a> with details:</p>\n<blockquote><p>Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.</p>\n<p>Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too.</p>\n<p> The Signal engineers have given this third ratchet the formal name: Sparse Post Quantum Ratchet, or SPQR for short. The third ratchet was designed in collaboration with <a href=\"https://pqshield.com\">PQShield</a>, <a href=\"https://www.aist.go.jp/index_en.html\">AIST</a>, and New York University. The developers <a href=\"https://eprint.iacr.org/2025/078\">presented</a> the erasure-code-based chunking and the high-level Triple Ratchet design at the Eurocrypt 2025 conference. At the Usenix 25 conference, they <a href=\"https://www.usenix.org/system/files/usenixsecurity25-auerbach.pdf\">discussed</a> the six options they considered for adding quantum-safe forward secrecy and post-compromise security and why SPQR and one other stood out. Presentations at the <a href=\"https://csrc.nist.gov/Presentations/2025/post-quantum-ratcheting-for-signal\">NIST PQC Standardization Conference</a> and the <a href=\"https://youtu.be/WhTLjKzkK9c\">Cryptographic Applications Workshop</a> explain the details of chunking, the design challenges, and how the protocol had to be adapted to use the standardized ML-KEM.</p>\n<p>Jacomme further observed: </p>\n<blockquote><p>The final thing interesting for the triple ratchet is that it nicely combines the best of both worlds. Between two users, you have a classical DH-based ratchet going on one side, and fully independently, a KEM-based ratchet is going on. Then, whenever you need to encrypt something, you get a key from both, and mix it up to get the actual encryption key. So, even if one ratchet is fully broken, be it because there is now a quantum computer, or because somebody manages to break either elliptic curves or ML-KEM, or because the implementation of one is flawed, or…, the Signal message will still be protected by the second ratchet. In a sense, this update can be seen, of course simplifying, as doubling the security of the ratchet part of Signal, and is a cool thing even for people that don’t care about quantum computers.</p></blockquote>\n</blockquote>\n<p>Also read <a href=\"https://x.com/ianonymous3000/status/1976499827325202587?s=46\">this post</a> on X.</p>\n",
+    "content:encodedSnippet": "Signal has just rolled out its quantum-safe cryptographic implementation.\nArs Technica has a really good article with details:\nUltimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.\nNow, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too.\n The Signal engineers have given this third ratchet the formal name: Sparse Post Quantum Ratchet, or SPQR for short. The third ratchet was designed in collaboration with PQShield, AIST, and New York University. The developers presented the erasure-code-based chunking and the high-level Triple Ratchet design at the Eurocrypt 2025 conference. At the Usenix 25 conference, they discussed the six options they considered for adding quantum-safe forward secrecy and post-compromise security and why SPQR and one other stood out. Presentations at the NIST PQC Standardization Conference and the Cryptographic Applications Workshop explain the details of chunking, the design challenges, and how the protocol had to be adapted to use the standardized ML-KEM.\nJacomme further observed: \nThe final thing interesting for the triple ratchet is that it nicely combines the best of both worlds. Between two users, you have a classical DH-based ratchet going on one side, and fully independently, a KEM-based ratchet is going on. Then, whenever you need to encrypt something, you get a key from both, and mix it up to get the actual encryption key. So, even if one ratchet is fully broken, be it because there is now a quantum computer, or because somebody manages to break either elliptic curves or ML-KEM, or because the implementation of one is flawed, or…, the Signal message will still be protected by the second ratchet. In a sense, this update can be seen, of course simplifying, as doubling the security of the ratchet part of Signal, and is a cool thing even for people that don’t care about quantum computers.\n\n\nAlso read this post on X.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html#respond",
+    "content": "<p>Signal has <a href=\"https://signal.org/blog/spqr/\">just rolled out</a> its quantum-safe cryptographic implementation.</p>\n<p><i>Ars Technica</i> has a <a href=\"https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/\">really good article</a> with details:</p>\n<blockquote><p>Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.</p>\n<p>Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...</p></blockquote>",
+    "contentSnippet": "Signal has just rolled out its quantum-safe cryptographic implementation.\nArs Technica has a really good article with details:\nUltimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.\nNow, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...",
+    "guid": "https://www.schneier.com/?p=71097",
+    "categories": [
+      "Uncategorized",
+      "cryptography",
+      "encryption",
+      "quantum computing",
+      "Signal"
+    ],
+    "isoDate": "2025-10-29T11:09:57.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
     "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
@@ -366,23 +387,5 @@
       "tracking"
     ],
     "isoDate": "2025-10-27T11:08:11.000Z"
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "Hundreds of People With ‘Top Secret’ Clearance Exposed by House Democrats’ Website",
-    "link": "https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/",
-    "pubDate": "Mon, 27 Oct 2025 10:30:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "A database containing information on people who applied for jobs with Democrats in the US House of Representatives was left accessible on the open web.",
-    "contentSnippet": "A database containing information on people who applied for jobs with Democrats in the US House of Representatives was left accessible on the open web.",
-    "guid": "68fb8ff460df113db783347c",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-10-27T10:30:00.000Z"
   }
 ]
