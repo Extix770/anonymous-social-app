@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7083,
+    "stars": 7084,
     "forks": 816,
     "language": "HTML"
   },
@@ -666,6 +666,15 @@
     "language": "Python"
   },
   {
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
     "name": "ReconForge-ToolKit",
     "owner": "letchupkt",
     "url": "https://github.com/letchupkt/ReconForge-ToolKit",
@@ -727,15 +736,6 @@
     "stars": 6,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 5,
-    "forks": 3,
-    "language": "Python"
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
