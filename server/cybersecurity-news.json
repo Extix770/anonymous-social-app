@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures",
+    "link": "https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/",
+    "pubDate": "Wed, 29 Oct 2025 20:20:07 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The second major cloud outage in less than two weeks, Azure's downtime highlights the “brittleness” of a digital ecosystem that depends on a few companies never making mistakes.",
+    "contentSnippet": "The second major cloud outage in less than two weeks, Azure's downtime highlights the “brittleness” of a digital ecosystem that depends on a few companies never making mistakes.",
+    "guid": "690254959f45e40ae292076b",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-29T20:20:07.000Z"
+  },
+  {
     "creator": "Kim Zetter",
     "title": "Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm",
     "link": "https://www.wired.com/story/peter-williams-trenchant-trade-secrets-theft-russian-firm/",
@@ -362,23 +377,6 @@
     "contentSnippet": "The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.\nThe vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under",
     "guid": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
     "isoDate": "2025-10-28T08:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
-    "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
-    "pubDate": "Tue, 28 Oct 2025 09:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3hjuQYF6NrQ5JvlPhwaBdmr4TLCJkOaKfH3-D0_WE_ibmXtG76evHlGv9MN6nAKXgUnRmfkfBILBE5PKFOc4-dH-KVGVA4p_ubK73bo2u6Tbr2M_qZ8VI2xW3q_UBQZ_nanyTEprtqryK4EwtqdzuwWwPhhHyyFKkI9RImjIjCIl8Wg_kBN5GPddporW/s1600/cyberattack-paki.jpg"
-    },
-    "content": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in",
-    "contentSnippet": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in",
-    "guid": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
-    "isoDate": "2025-10-28T04:01:00.000Z",
     "itunes": {}
   }
 ]
