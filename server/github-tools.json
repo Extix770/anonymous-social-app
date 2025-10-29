@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1691,
+    "stars": 1692,
     "forks": 340,
     "language": "Python"
   },
@@ -85,7 +85,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 448,
+    "stars": 449,
     "forks": 102,
     "language": null
   },
@@ -121,7 +121,7 @@
     "owner": "nateahess",
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 145,
+    "stars": 146,
     "forks": 15,
     "language": null
   },
@@ -441,6 +441,15 @@
     "language": "Python"
   },
   {
+    "name": "Hacking-Tools",
+    "owner": "Rahulgarg2206",
+    "url": "https://github.com/Rahulgarg2206/Hacking-Tools",
+    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+    "stars": 12,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "teaching-toolkit",
     "owner": "iwazirijr",
     "url": "https://github.com/iwazirijr/teaching-toolkit",
@@ -477,11 +486,20 @@
     "language": "Shell"
   },
   {
-    "name": "Hacking-Tools",
-    "owner": "Rahulgarg2206",
-    "url": "https://github.com/Rahulgarg2206/Hacking-Tools",
-    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 11,
+    "name": "UM-NIDS-Tool",
+    "owner": "SyedWaliAbbas",
+    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
+    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
+    "stars": 10,
+    "forks": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
     "forks": 2,
     "language": null
   },
@@ -504,19 +522,10 @@
     "language": null
   },
   {
-    "name": "UM-NIDS-Tool",
-    "owner": "SyedWaliAbbas",
-    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
-    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
-    "stars": 9,
-    "forks": 3,
-    "language": "Jupyter Notebook"
-  },
-  {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 9,
     "forks": 2,
     "language": null
@@ -529,6 +538,15 @@
     "stars": 9,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Shifter-tool",
+    "owner": "SabriAmir",
+    "url": "https://github.com/SabriAmir/Shifter-tool",
+    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more)",
+    "stars": 9,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "3num-tool",
@@ -558,15 +576,6 @@
     "language": "Python"
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 8,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "Blue-Team-Cyber-Investigation-Tools-and-Tricks",
     "owner": "DevVj-1",
     "url": "https://github.com/DevVj-1/Blue-Team-Cyber-Investigation-Tools-and-Tricks",
@@ -574,15 +583,6 @@
     "stars": 8,
     "forks": 2,
     "language": null
-  },
-  {
-    "name": "Shifter-tool",
-    "owner": "SabriAmir",
-    "url": "https://github.com/SabriAmir/Shifter-tool",
-    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more)",
-    "stars": 8,
-    "forks": 1,
-    "language": "Python"
   },
   {
     "name": "Caesar-Cipher-Tool",
