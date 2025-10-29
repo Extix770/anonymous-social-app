@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack",
+    "link": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+    "pubDate": "Wed, 29 Oct 2025 13:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMgE8RpqcNAqAa9qfKbwHkmy-9REaXva31VDPCO8YNMfV9_W6CsD23kAev_GhqEmVzZ5a7RJABDQpfMWftbT729ZF7hoi5rJQfnQUPyEOSOQXQPXJnwwcG3Fk6j7wVU-oz44u1_GW4CLw7Dbf4N5dpE7vrZWM9O7ODxt-7LQcfFHWEh5zbIJ1Bz3EZl5T/s1600/cisa.jpg"
+    },
+    "content": "Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and VulnCheck.\nThe vulnerabilities are listed below -\n\nCVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Systèmes DELMIA Apriso that could allow an attacker to",
+    "contentSnippet": "Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and VulnCheck.\nThe vulnerabilities are listed below -\n\nCVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Systèmes DELMIA Apriso that could allow an attacker to",
+    "guid": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+    "isoDate": "2025-10-29T07:44:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
     "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
@@ -365,23 +382,6 @@
     "contentSnippet": "The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.\nThe development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for",
     "guid": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
     "isoDate": "2025-10-27T08:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
-    "link": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
-    "pubDate": "Mon, 27 Oct 2025 12:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNBu2Kv_7ZWCpDqM_MBmHWghQSmsUC5dH4E-CGxu7Gv-G1IUDSx8RnR5wGnHO6FyjD3WoV1i1BTRpmqS_6GJBhbHuj0M0VRCjbVHvoK3P2a8t69U4PgUf-dRWXbsgcCyg0c2ZoDeVUnS_4pceIperLn_anC_JX6qTh8MLoUzP0c3GGKOR8cwvp2kYdOHG/s1600/chatgpt-atlas.jpg"
-    },
-    "content": "The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report",
-    "contentSnippet": "The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report",
-    "guid": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
-    "isoDate": "2025-10-27T07:29:00.000Z",
     "itunes": {}
   }
 ]
