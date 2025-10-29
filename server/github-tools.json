@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7605,
+    "stars": 7606,
     "forks": 1038,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1698,
+    "stars": 1699,
     "forks": 340,
     "language": "Python"
   },
@@ -837,21 +837,21 @@
     "language": "Python"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 4,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "OSINT-TOOLS",
     "owner": "ruzgarcyber",
     "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
     "description": "OSINT(Open-Source Intelligence) araçları. ",
     "stars": 4,
     "forks": 0,
+    "language": null
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 4,
+    "forks": 1,
     "language": null
   },
   {
