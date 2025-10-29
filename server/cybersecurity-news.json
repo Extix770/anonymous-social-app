@@ -1,5 +1,56 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
+    "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
+    "pubDate": "Wed, 29 Oct 2025 17:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD6spgwTwHUJ0TIDuL_yYHZY4G2OU4oMy85RnoVRg3J1URpCNQTBZjObkutPjxXWyuyyPYxoVMkYdq8OeItqsFb8T2NzMwfufoXLgdIP7dC2vxfxvXCJnEt7k9JyZd07T8mMOlfk1sMG9DeamSnm62zVxdGkxjLDf2AdE2mdjq6FPQSkV4cmn9R2anowO5/s1600/grc.jpg"
+    },
+    "content": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more",
+    "contentSnippet": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more",
+    "guid": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
+    "isoDate": "2025-10-29T11:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, & AI Agent Havoc",
+    "link": "https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html",
+    "pubDate": "Wed, 29 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCY5j9CHM4fw-VLi_MK0NbjKBVaIcQB7pI10g5LZolL46Qj-l3JB9iY9BZx3YHwJubG7AQGBctFT_v4YvoRFnGEEZl_0nfr1uNLmFYS3NLH-hlCiulSTG4Abzi0Umgvb4yusateyfIjWl8IkeSkbhrOiSLf74UElHRUsnTFeJ9cn5Gk9RkYalFGZKMFF8/s1600/bt.jpg"
+    },
+    "content": "BeyondTrust’s annual cybersecurity predictions point to a year where old defenses will fail quietly, and new attack vectors will surge.\nIntroduction\nThe next major breach won’t be a phished password. It will be the result of a massive, unmanaged identity debt. This debt takes many forms: it’s the “ghost” identity from a 2015 breach lurking in your IAM, the privilege sprawl from thousands of new",
+    "contentSnippet": "BeyondTrust’s annual cybersecurity predictions point to a year where old defenses will fail quietly, and new attack vectors will surge.\nIntroduction\nThe next major breach won’t be a phished password. It will be the result of a massive, unmanaged identity debt. This debt takes many forms: it’s the “ghost” identity from a 2015 breach lurking in your IAM, the privilege sprawl from thousands of new",
+    "guid": "https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html",
+    "isoDate": "2025-10-29T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Russian Hackers Target Ukrainian Organizations Using Stealthy Living-Off-the-Land Tactics",
+    "link": "https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html",
+    "pubDate": "Wed, 29 Oct 2025 17:21:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX53AJ2ZRF76XuNCIbv1Eoj3ugawtHgL9MA-KgpYweY8I98juyR1U7bzj5XDPBNbdMncN3EN3G2-gML7KAoHjWqskTslBDNg2k4Aj6hPOzv_597krzz8nge5VY5LEiXjV3IxtVxXhH9K35jEXfL1mIGm0yu0Kw_w1qpC4M66Pv8sTy2hTB3K_q_Ved_jNn/s1600/malware-attac.jpg"
+    },
+    "content": "Organizations in Ukraine have been targeted by threat actors of Russian origin with an aim to siphon sensitive data and maintain persistent access to compromised networks.\nThe activity, according to a new report from the Symantec and Carbon Black Threat Hunter Team, targeted a large business services organization for two months and a local government entity in the country for a week.\nThe attacks",
+    "contentSnippet": "Organizations in Ukraine have been targeted by threat actors of Russian origin with an aim to siphon sensitive data and maintain persistent access to compromised networks.\nThe activity, according to a new report from the Symantec and Carbon Black Threat Hunter Team, targeted a large business services organization for two months and a local government entity in the country for a week.\nThe attacks",
+    "guid": "https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html",
+    "isoDate": "2025-10-29T11:51:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Signal’s Post-Quantum Cryptographic Implementation",
     "link": "https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html",
@@ -19,23 +70,6 @@
       "Signal"
     ],
     "isoDate": "2025-10-29T11:09:57.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
-    "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
-    "pubDate": "Wed, 29 Oct 2025 15:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD6spgwTwHUJ0TIDuL_yYHZY4G2OU4oMy85RnoVRg3J1URpCNQTBZjObkutPjxXWyuyyPYxoVMkYdq8OeItqsFb8T2NzMwfufoXLgdIP7dC2vxfxvXCJnEt7k9JyZd07T8mMOlfk1sMG9DeamSnm62zVxdGkxjLDf2AdE2mdjq6FPQSkV4cmn9R2anowO5/s1600/grc.jpg"
-    },
-    "content": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more",
-    "contentSnippet": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more",
-    "guid": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
-    "isoDate": "2025-10-29T10:16:00.000Z",
-    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -349,43 +383,5 @@
     "guid": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
     "isoDate": "2025-10-27T14:31:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
-    "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
-    "pubDate": "Mon, 27 Oct 2025 18:21:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2q6euKywSmaEnRcHkwDW0flTn3K1gG307F71NC88dB79TWO64M7pzPZ4Fkf5NtpizatYaN1f2mLWHXbwUnU0IZrq7gJpvsiPuQ4Fs1c8AuGLgdf6F0qF-kBH9GFBu1tyEGCduxFZQw0HuN3J8N5q2OHBtCopO1bjIk9NuCoHveb8Bw_gZWioAY0CsBr3/s1600/recap-hacker.jpg"
-    },
-    "content": "Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.\nEach new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert.\nHere’s how that false sense of security",
-    "contentSnippet": "Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.\nEach new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert.\nHere’s how that false sense of security",
-    "guid": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
-    "isoDate": "2025-10-27T12:51:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "First Wap: A Surveillance Computer You’ve Never Heard Of",
-    "link": "https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html",
-    "pubDate": "Mon, 27 Oct 2025 11:08:11 +0000",
-    "content:encoded": "<p><i>Mother Jones</i> has a <a href=\"https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/\">long article</a> on surveillance arms manufacturers, their wares, and how they avoid export control laws:</p>\n<blockquote><p>Operating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap&#8217;s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.</p>\n<p>It calls its proprietary system Altamides, which it describes in promotional materials as &#8220;a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.&#8221;</p>\n<p>Altamides leaves no trace on the phones it targets, unlike spyware such as Pegasus. Nor does it require a target to click on a malicious link or show any of the telltale signs (such as overheating or a short battery life) of remote monitoring.</p>\n<p>Its secret is shrewd use of the antiquated telecom language Signaling System No. 7, known as SS7, that phone carriers use to route calls and text messages. Any entity with SS7 access can send queries requesting information about which cell tower a phone subscriber is nearest to, an essential first step to sending a text message or making a call to that subscriber. But First Wap&#8217;s technology uses SS7 to zero in on phone numbers and trace the location of their users.</p></blockquote>\n<p>Much more in this Lighthouse Reports <a href=\"https://www.lighthousereports.com/investigation/surveillance-secrets/\">analysis</a>.</p>\n",
-    "content:encodedSnippet": "Mother Jones has a long article on surveillance arms manufacturers, their wares, and how they avoid export control laws:\nOperating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap’s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.\nIt calls its proprietary system Altamides, which it describes in promotional materials as “a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.”\nAltamides leaves no trace on the phones it targets, unlike spyware such as Pegasus. Nor does it require a target to click on a malicious link or show any of the telltale signs (such as overheating or a short battery life) of remote monitoring.\nIts secret is shrewd use of the antiquated telecom language Signaling System No. 7, known as SS7, that phone carriers use to route calls and text messages. Any entity with SS7 access can send queries requesting information about which cell tower a phone subscriber is nearest to, an essential first step to sending a text message or making a call to that subscriber. But First Wap’s technology uses SS7 to zero in on phone numbers and trace the location of their users.\n\nMuch more in this Lighthouse Reports analysis.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html#comments",
-    "content": "<p><i>Mother Jones</i> has a <a href=\"https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/\">long article</a> on surveillance arms manufacturers, their wares, and how they avoid export control laws:</p>\n<blockquote><p>Operating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap&#8217;s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.</p>\n<p>It calls its proprietary system Altamides, which it describes in promotional materials as &#8220;a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.&#8221;...</p></blockquote>",
-    "contentSnippet": "Mother Jones has a long article on surveillance arms manufacturers, their wares, and how they avoid export control laws:\nOperating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap’s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.\nIt calls its proprietary system Altamides, which it describes in promotional materials as “a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.”...",
-    "guid": "https://www.schneier.com/?p=71049",
-    "categories": [
-      "Uncategorized",
-      "cell phones",
-      "privacy",
-      "surveillance",
-      "tracking"
-    ],
-    "isoDate": "2025-10-27T11:08:11.000Z"
   }
 ]
