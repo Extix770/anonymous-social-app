@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
+    "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
+    "pubDate": "Wed, 29 Oct 2025 21:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUs8CWZuMjytXCzRiRr1Njj-R-Sv2PglgPmqZCLMHd71SMJyPl8hh9RPTqhzeZm7OJ7BdDEOO0b5bODPEvOl6uOB4cA1Hobq1j_O6uIsuFSqDMp-lyswH6W3-NIkX3fmGCsvU93B9OlouN-ngLew2lqxLFpQHA5NgedY2CQcyZQ-W4-GEtj-CK01hEb9/s1600/php-site.jpg"
+    },
+    "content": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
+    "contentSnippet": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
+    "guid": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
+    "isoDate": "2025-10-29T15:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
+    "link": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
+    "pubDate": "Wed, 29 Oct 2025 20:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Zf17lOXR_Z03iHmWh_BUjSexeLn117N0KiHTTh8NCcDhuLDju5f6EpPZDtp1uPqHTV-h6-ebxTdZOoRuYRglmJVPig9BfOx-O0k8Yz0ms1Ghk4r8k_9ZVC36xPuvvXpJsT4WFiTUBmLEw-oYCVIpXxINdhOySH0ysqaG40exTNITYuMuIxb3wLNXm71H/s1600/ai-news.jpg"
+    },
+    "content": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
+    "contentSnippet": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
+    "guid": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
+    "isoDate": "2025-10-29T14:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
     "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
     "pubDate": "Wed, 29 Oct 2025 17:28:00 +0530",
@@ -345,43 +379,6 @@
     "contentSnippet": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you",
     "guid": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
     "isoDate": "2025-10-27T16:12:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Louvre Jewel Heist",
-    "link": "https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html",
-    "pubDate": "Mon, 27 Oct 2025 15:03:15 +0000",
-    "content:encoded": "<p>I assume I don&#8217;t have to explain last week&#8217;s <a href=\"https://www.nytimes.com/2025/10/19/world/europe/louvre-paris-robbery.html\">Louvre jewel heist</a>. I love a good caper, and have (like <a href=\"https://www.nytimes.com/2025/10/23/opinion/louvre-heist-internet-thrill.html\">many others</a>) eagerly followed the <a href=\"https://www.theguardian.com/world/2025/oct/20/louvre-museum-robbery-thieves-stolen-jewellery\">details</a>. An electric ladder to a second-floor window, an angle grinder to get into the room and the display cases, security guards there more to protect patrons than valuables&#8212;seven minutes, in and out.</p>\n<p>There were <a href=\"https://www.theatlantic.com/ideas/archive/2025/10/praise-louvre-heist/684677/\">security lapses</a>:</p>\n<blockquote><p>The Louvre, it turns out&#8212;at least certain nooks of the ancient former palace&#8212;is something like an anopticon: a place where no one is observed. The world now knows what the four thieves (two burglars and two accomplices) realized as recently as last week: The museum&#8217;s Apollo Gallery, which housed the stolen items, was monitored by a single outdoor camera angled away from its only exterior point of entry, a balcony. In other words, a free-roaming Roomba could have provided the world&#8217;s most famous museum with more information about the interior of this space. There is no surveillance footage of the break-in.</p></blockquote>\n<p>Professional jewelry thieves were not impressed with the four. Here&#8217;s <a href=\"https://www.nytimes.com/2025/10/25/world/europe/louvre-heist-jewelry-thieves.html\">Larry Lawton</a>:</p>\n<blockquote><p>&#8220;I robbed 25, 30 jewelry stores&#8212;20 million, 18 million, something like that,&#8221; Mr. Lawton said. &#8220;Did you know that I never dropped a ring or an earring, no less, a crown worth 20 million?&#8221;</p></blockquote>\n<p>He thinks that they had a compatriot on the inside.</p>\n<p>Museums, especially smaller ones, are good targets for theft because they rarely secure what they hold to its true value. They can&#8217;t; it would be prohibitively expensive. This makes them an attractive target.</p>\n<p>We might find out soon. It looks like some people have been <a href=\"https://www.nytimes.com/2025/10/26/world/europe/louvre-heist-arrests.html\">arrested</a></p>\n<p>Not being out of the country&#8212;out of the EU&#8212;by now was sloppy. Leaving DNA evidence was sloppy. I can hope the criminals were sloppy enough not to have disassembled the jewelry by now, but I doubt it. They were probably taken apart within hours of the theft.</p>\n<p>The whole thing is sad, really. Unlike stolen paintings, those jewels have no value in their original form. They need to be <a href=\"https://www.cbsnews.com/news/louvre-robbery-stolen-jewels-jeweler-paris-france/\">taken apart</a> and sold in pieces. But then their value drops considerably&#8212;so the end result is that most of the worth of those items disappears. It would have been much better to pay the thieves not to rob the Louvre.</p>\n",
-    "content:encodedSnippet": "I assume I don’t have to explain last week’s Louvre jewel heist. I love a good caper, and have (like many others) eagerly followed the details. An electric ladder to a second-floor window, an angle grinder to get into the room and the display cases, security guards there more to protect patrons than valuables—seven minutes, in and out.\nThere were security lapses:\nThe Louvre, it turns out—at least certain nooks of the ancient former palace—is something like an anopticon: a place where no one is observed. The world now knows what the four thieves (two burglars and two accomplices) realized as recently as last week: The museum’s Apollo Gallery, which housed the stolen items, was monitored by a single outdoor camera angled away from its only exterior point of entry, a balcony. In other words, a free-roaming Roomba could have provided the world’s most famous museum with more information about the interior of this space. There is no surveillance footage of the break-in.\n\nProfessional jewelry thieves were not impressed with the four. Here’s Larry Lawton:\n“I robbed 25, 30 jewelry stores—20 million, 18 million, something like that,” Mr. Lawton said. “Did you know that I never dropped a ring or an earring, no less, a crown worth 20 million?”\n\nHe thinks that they had a compatriot on the inside.\nMuseums, especially smaller ones, are good targets for theft because they rarely secure what they hold to its true value. They can’t; it would be prohibitively expensive. This makes them an attractive target.\nWe might find out soon. It looks like some people have been arrested\nNot being out of the country—out of the EU—by now was sloppy. Leaving DNA evidence was sloppy. I can hope the criminals were sloppy enough not to have disassembled the jewelry by now, but I doubt it. They were probably taken apart within hours of the theft.\nThe whole thing is sad, really. Unlike stolen paintings, those jewels have no value in their original form. They need to be taken apart and sold in pieces. But then their value drops considerably—so the end result is that most of the worth of those items disappears. It would have been much better to pay the thieves not to rob the Louvre.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html#comments",
-    "content": "<p>I assume I don&#8217;t have to explain last week&#8217;s <a href=\"https://www.nytimes.com/2025/10/19/world/europe/louvre-paris-robbery.html\">Louvre jewel heist</a>. I love a good caper, and have (like <a href=\"https://www.nytimes.com/2025/10/23/opinion/louvre-heist-internet-thrill.html\">many others</a>) eagerly followed the <a href=\"https://www.theguardian.com/world/2025/oct/20/louvre-museum-robbery-thieves-stolen-jewellery\">details</a>. An electric ladder to a second-floor window, an angle grinder to get into the room and the display cases, security guards there more to protect patrons than valuables&#8212;seven minutes, in and out.</p>\n<p>There were <a href=\"https://www.theatlantic.com/ideas/archive/2025/10/praise-louvre-heist/684677/\">security lapses</a>:</p>\n<blockquote><p>The Louvre, it turns out&#8212;at least certain nooks of the ancient former palace&#8212;is something like an anopticon: a place where no one is observed. The world now knows what the four thieves (two burglars and two accomplices) realized as recently as last week: The museum&#8217;s Apollo Gallery, which housed the stolen items, was monitored by a single outdoor camera angled away from its only exterior point of entry, a balcony. In other words, a free-roaming Roomba could have provided the world&#8217;s most famous museum with more information about the interior of this space. There is no surveillance footage of the break-in...</p></blockquote>",
-    "contentSnippet": "I assume I don’t have to explain last week’s Louvre jewel heist. I love a good caper, and have (like many others) eagerly followed the details. An electric ladder to a second-floor window, an angle grinder to get into the room and the display cases, security guards there more to protect patrons than valuables—seven minutes, in and out.\nThere were security lapses:\nThe Louvre, it turns out—at least certain nooks of the ancient former palace—is something like an anopticon: a place where no one is observed. The world now knows what the four thieves (two burglars and two accomplices) realized as recently as last week: The museum’s Apollo Gallery, which housed the stolen items, was monitored by a single outdoor camera angled away from its only exterior point of entry, a balcony. In other words, a free-roaming Roomba could have provided the world’s most famous museum with more information about the interior of this space. There is no surveillance footage of the break-in...",
-    "guid": "https://www.schneier.com/?p=71093",
-    "categories": [
-      "Uncategorized",
-      "France",
-      "operational security",
-      "theft"
-    ],
-    "isoDate": "2025-10-27T15:03:15.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
-    "link": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
-    "pubDate": "Mon, 27 Oct 2025 20:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjDfq1tN5Ap43g7G5CQgjVrSSmrbFsxBYg0A1f7lzX6fMXkdlZ_1hD2ceYP8N3dVVoftQI7gnM5XmwVi9H4Js0m1WOGaoEC8rZOxbv3pPqoKFoOgrDbMj6P-9vdd-YWEjW56MvKGICyZu8VateghhN3NyGQMqbU0SEQ0NeeXVmxh22Hv9SgMGB7KosNLJP/s1600/openai.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX",
-    "contentSnippet": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX",
-    "guid": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
-    "isoDate": "2025-10-27T14:31:00.000Z",
     "itunes": {}
   }
 ]
