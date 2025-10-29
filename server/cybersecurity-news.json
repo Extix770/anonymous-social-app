@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Kim Zetter",
+    "title": "Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm",
+    "link": "https://www.wired.com/story/peter-williams-trenchant-trade-secrets-theft-russian-firm/",
+    "pubDate": "Wed, 29 Oct 2025 17:13:16 +0000",
+    "dc:creator": "Kim Zetter",
+    "content": "Peter Williams, a former executive of Trenchant, L3Harris' cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
+    "contentSnippet": "Peter Williams, a former executive of Trenchant, L3Harris' cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
+    "guid": "69021c4a65b611a9f97823f4",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-10-29T17:13:16.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
     "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
@@ -362,23 +379,6 @@
     "contentSnippet": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in",
     "guid": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
     "isoDate": "2025-10-28T04:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
-    "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
-    "pubDate": "Mon, 27 Oct 2025 21:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOI99OQs-se9ygpm5v5mTH7o_NupseTZd2gJxEcCpVcQhEZDUqmnQK6TYa5RepYRUv5RuFhlGGefZlazteLlFIkVYDlpLIzbPot9PmqcnIi-DqqqfR3bzDiOAAAQU1btf5h1fe31-zYwiE5uDm-EzKNoQ53RySI7HyfdFsVrbWrGF58LLaMnJALkAs3HO3/s1600/x-account.jpg"
-    },
-    "content": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you",
-    "contentSnippet": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you",
-    "guid": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
-    "isoDate": "2025-10-27T16:12:00.000Z",
     "itunes": {}
   }
 ]
