@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Scott Gilbertson, Jacob Roach",
+    "title": "8 Best Password Managers (2025), Tested and Reviewed",
+    "link": "https://www.wired.com/story/best-password-managers/",
+    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
+    "dc:creator": "Scott Gilbertson, Jacob Roach",
+    "content": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+    "contentSnippet": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+    "guid": "5ce3031cfd8c3451c5008275",
+    "categories": [
+      "Gear",
+      "Security",
+      "Gear / Buying Guides",
+      "Security / Security Advice"
+    ],
+    "isoDate": "2025-10-30T12:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "The AI-Designed Bioweapon Arms Race",
     "link": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html",
@@ -358,27 +375,5 @@
     "guid": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
     "isoDate": "2025-10-28T11:55:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Social Engineering People’s Credit Card Details",
-    "link": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html",
-    "pubDate": "Tue, 28 Oct 2025 11:01:20 +0000",
-    "content:encoded": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.</p>\n<p>[&#8230;]</p>\n<p>Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.</p></blockquote>\n",
-    "content:encodedSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.\n[…]\nMaking the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html#comments",
-    "content": "<p>Good <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email\">article</a> on criminal gangs that scam people out of their credit card information:</p>\n<blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>\n<p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>\n<p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</p></blockquote>",
-    "contentSnippet": "Good Wall Street Journal article on criminal gangs that scam people out of their credit card information:\nYour highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.\nThe texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.\nCriminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...",
-    "guid": "https://www.schneier.com/?p=71053",
-    "categories": [
-      "Uncategorized",
-      "China",
-      "credit cards",
-      "fraud",
-      "scams",
-      "social engineering"
-    ],
-    "isoDate": "2025-10-28T11:01:20.000Z"
   }
 ]
