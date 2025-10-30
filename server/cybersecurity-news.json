@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Jay Bennett",
+    "title": "NASA's Quiet Supersonic Jet Takes Flight",
+    "link": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
+    "pubDate": "Thu, 30 Oct 2025 14:20:59 +0000",
+    "dc:creator": "Jay Bennett",
+    "content": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
+    "contentSnippet": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
+    "guid": "689c61c8cb2b403352b1f33d",
+    "categories": [
+      "Science",
+      "Security"
+    ],
+    "isoDate": "2025-10-30T14:20:59.000Z"
+  },
+  {
     "creator": "Scott Gilbertson, Jacob Roach",
     "title": "8 Best Password Managers (2025), Tested and Reviewed",
     "link": "https://www.wired.com/story/best-password-managers/",
@@ -357,23 +372,5 @@
     "guid": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
     "isoDate": "2025-10-28T16:12:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Dell Cameron",
-    "title": "CBP Searched a Record Number of Phones at the US Border Over the Past Year",
-    "link": "https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/",
-    "pubDate": "Tue, 28 Oct 2025 15:26:29 +0000",
-    "dc:creator": "Matt Burgess, Dell Cameron",
-    "content": "The total number of US Customs and Border Protection device searches jumped by 17 percent over the 2024 fiscal year, but more invasive forensic searches remain relatively rare.",
-    "contentSnippet": "The total number of US Customs and Border Protection device searches jumped by 17 percent over the 2024 fiscal year, but more invasive forensic searches remain relatively rare.",
-    "guid": "6900c4d6cc2301baa4889bce",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-10-28T15:26:29.000Z"
   }
 ]
