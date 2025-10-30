@@ -17,6 +17,23 @@
     "isoDate": "2025-10-30T12:00:00.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
+    "link": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
+    "pubDate": "Thu, 30 Oct 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQqrUTE7JwhaT1l8F6HjBwdP01VDLqXByApkmlLZGEhMZolJcDB0G5PH8FIAxFMRQvv3u_ZmLSL5yT1tFzPR4Bz3eqiJRmM-mbVPigm_7VKum6Fi2Ja1liklPYRHBlrhx_6VejrLCYNOwf3jnWqAs0WvbUIa7_ygdd2iDJtR-_PjPemPkqHpeaEx_tFwI/s1600/picus.jpg"
+    },
+    "content": "Security doesn’t fail at the point of breach. It fails at the point of impact.&nbsp;\nThat line set the tone for this year’s Picus Breach and Simulation (BAS) Summit, where researchers, practitioners, and CISOs all echoed the same theme: cyber defense is no longer about prediction. It's about proof.\nWhen a new exploit drops, scanners scour the internet in minutes. Once attackers gain a foothold,",
+    "contentSnippet": "Security doesn’t fail at the point of breach. It fails at the point of impact. \nThat line set the tone for this year’s Picus Breach and Simulation (BAS) Summit, where researchers, practitioners, and CISOs all echoed the same theme: cyber defense is no longer about prediction. It's about proof.\nWhen a new exploit drops, scanners scour the internet in minutes. Once attackers gain a foothold,",
+    "guid": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
+    "isoDate": "2025-10-30T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "The AI-Designed Bioweapon Arms Race",
     "link": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html",
@@ -358,22 +375,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2025-10-28T15:26:29.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
-    "link": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
-    "pubDate": "Tue, 28 Oct 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahIAFVAlDP3Fg0ZEiWhBxiZNiuovhyYDTY1yaKWFxZ3inBHxDKuycmzTZMk_vJvOKVrIYlsh6_rR_-kK1VY2bR5V-E7Nw5QWvXm3UTFCUdUJyPyBo6hS5XUE4fpoPYtSzxnMRoyxINGnZeP_qWmO_QxdG4jin0uGtzYcG0qgg2Guqv8x4x7q8yuVlWLQ/s1600/anyrun-main.jpg"
-    },
-    "content": "In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.\nCompanies that treat cybersecurity as a",
-    "contentSnippet": "In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.\nCompanies that treat cybersecurity as a",
-    "guid": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
-    "isoDate": "2025-10-28T11:55:00.000Z",
-    "itunes": {}
   }
 ]
