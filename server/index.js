@@ -11,6 +11,9 @@ const rug = require('random-username-generator');
 const Razorpay = require('razorpay');
 const crypto = require('crypto');
 
+console.log("RAZORPAY_KEY_ID:", process.env.RAZORPAY_KEY_ID);
+console.log("RAZORPAY_KEY_SECRET:", process.env.RAZORPAY_KEY_SECRET);
+
 
 
 const app = express();
