@@ -1,5 +1,6 @@
 
 import React from 'react';
+import axios from 'axios';
 
 declare global {
     interface Window {
@@ -9,16 +10,19 @@ declare global {
 
 const HackersBurp = () => {
     const displayRazorpay = async () => {
+        const apiUrl = 'https://anonymous-api-tvtx.onrender.com'; 
+        const order = await axios.post(`${apiUrl}/create-order`, { amount: 370000 });
+
         const options = {
             key: process.env.REACT_APP_RAZORPAY_KEY_ID,
-            amount: '370000', // Amount in paise (e.g., 370000 paise = 3700 INR)
+            amount: order.data.amount, 
             currency: 'INR',
             name: 'HackersBurp Tool',
             description: 'One-time payment for lifetime access',
-            handler: function (response: any) {
-                alert(response.razorpay_payment_id);
-                alert(response.razorpay_order_id);
-                alert(response.razorpay_signature);
+            order_id: order.data.id,
+            handler: async function (response: any) {
+                const verification = await axios.post(`${apiUrl}/verify-payment`, response);
+                alert(verification.data.message);
             },
             prefill: {
                 name: 'Anonymous User',
