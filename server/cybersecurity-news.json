@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
+    "link": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
+    "pubDate": "Thu, 30 Oct 2025 20:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPzPbEzMX4dgK-yQVcB_TZXkH8V42XYSGCEGgQzI6P0g0Mm4ozB-fC14LrYJw5mZfhA0swpNl5ZAs86tjzY7ayJGrewr7fH0S8rFsua_8J-C8ImR-04v88SotHPlzODcEHnMTAx_RGrpZHs0g9xYJ_bwsjnHIhDtIm105OhACGkcForfh0W9NmcurastV/s1600/brach.jpg"
+    },
+    "content": "A severe vulnerability disclosed in Chromium's Blink rendering engine can be exploited to crash many Chromium-based browsers within a few seconds.\nSecurity researcher Jose Pino, who disclosed details of the flaw, has codenamed it Brash.\n\"It allows any Chromium browser to collapse in 15-60 seconds by exploiting an architectural flaw in how certain DOM operations are managed,\" Pino said in a",
+    "contentSnippet": "A severe vulnerability disclosed in Chromium's Blink rendering engine can be exploited to crash many Chromium-based browsers within a few seconds.\nSecurity researcher Jose Pino, who disclosed details of the flaw, has codenamed it Brash.\n\"It allows any Chromium browser to collapse in 15-60 seconds by exploiting an architectural flaw in how certain DOM operations are managed,\" Pino said in a",
+    "guid": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
+    "isoDate": "2025-10-30T14:45:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Jay Bennett",
     "title": "NASA’s Quiet Supersonic Jet Takes Flight",
     "link": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
@@ -354,23 +371,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
     "guid": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
     "isoDate": "2025-10-28T16:33:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
-    "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-    "pubDate": "Tue, 28 Oct 2025 21:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMbkAsrs6YvT6hgAJ1VD5h6DLPGjqLKZoVnv-Y9DUffXGlUHJ13omcv_O1rJJDQB7y_c8akQmP99DzBy1VAWYpxqTqY2fzxZUW0j3ON2wOQGzWt1QCyvCQGg_1R_tpZaeBadjWqFsiGPaY-zLKsWtXMEJfTpWEO2kkv_lvyl_q6Hk2Lx9EcJGCxGcsFLOK/s1600/gjost-hacker.jpg"
-    },
-    "content": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
-    "contentSnippet": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
-    "guid": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-    "isoDate": "2025-10-28T16:12:00.000Z",
     "itunes": {}
   }
 ]
