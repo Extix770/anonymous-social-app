@@ -225,6 +225,98 @@ app.post('/api/subdomain-enumeration', (req, res) => {
 
 
 
+// --- Chat Room Logic ---
+const chatRooms = {};
+const chatRoomNamespace = io.of('/chat-rooms');
+
+chatRoomNamespace.on('connection', (socket) => {
+  console.log('User connected to chat rooms namespace');
+
+  const userId = socket.handshake.query.userId;
+  const user = users.find(u => u.id === userId);
+
+  if (!user) {
+    return socket.disconnect();
+  }
+
+  socket.userId = user.id;
+  socket.username = user.username;
+
+  socket.on('get-rooms', () => {
+    socket.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+  });
+
+  socket.on('create-room', ({ roomName }) => {
+    const roomId = `room-${Date.now()}`;
+    chatRooms[roomId] = {
+      id: roomId,
+      name: roomName,
+      members: [socket.userId],
+      messages: []
+    };
+    socket.join(roomId);
+    chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+    socket.emit('room-joined', { roomId });
+  });
+
+  socket.on('join-room', ({ roomId }) => {
+    const room = chatRooms[roomId];
+    if (room && room.members.length < 8 && !room.members.includes(socket.userId)) {
+      room.members.push(socket.userId);
+      socket.join(roomId);
+      chatRoomNamespace.to(roomId).emit('member-joined', { userId: socket.userId, username: socket.username });
+      chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+      socket.emit('room-joined', { roomId });
+    } else {
+      socket.emit('room-full-or-error', { message: 'Room is full or you are already in it.' });
+    }
+  });
+
+  socket.on('leave-room', ({ roomId }) => {
+    const room = chatRooms[roomId];
+    if (room && room.members.includes(socket.userId)) {
+      room.members = room.members.filter(id => id !== socket.userId);
+      socket.leave(roomId);
+      chatRoomNamespace.to(roomId).emit('member-left', { userId: socket.userId, username: socket.username });
+      chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+      if (room.members.length === 0) {
+        delete chatRooms[roomId];
+        chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+      }
+    }
+  });
+
+  socket.on('room-message', ({ roomId, text }) => {
+    const room = chatRooms[roomId];
+    if (room && room.members.includes(socket.userId)) {
+      const message = {
+        from: socket.userId,
+        fromUsername: socket.username,
+        text,
+        timestamp: new Date().toISOString(),
+      };
+      room.messages.push(message);
+      chatRoomNamespace.to(roomId).emit('new-room-message', message);
+    }
+  });
+
+  socket.on('disconnect', () => {
+    console.log('User disconnected from chat rooms namespace');
+    Object.keys(chatRooms).forEach(roomId => {
+      const room = chatRooms[roomId];
+      if (room.members.includes(socket.userId)) {
+        room.members = room.members.filter(id => id !== socket.userId);
+        chatRoomNamespace.to(roomId).emit('member-left', { userId: socket.userId, username: socket.username });
+        chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+        if (room.members.length === 0) {
+          delete chatRooms[roomId];
+          chatRoomNamespace.emit('rooms', Object.values(chatRooms).map(room => ({ id: room.id, name: room.name, memberCount: room.members.length })));
+        }
+      }
+    });
+  });
+});
+
 // --- Omegle-style Chat Logic ---
 let waitingQueue = [];
 let partners = {};

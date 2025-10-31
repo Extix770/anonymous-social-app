@@ -15,6 +15,8 @@ import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
 import Dashboard from './components/Dashboard';
+import ChatRooms from './components/ChatRooms';
+import Room from './components/Room';
 
 import './HackerTheme.css';
 
@@ -94,7 +96,7 @@ function App() {
           <nav className="nav justify-content-center">
             <Link className="nav-link" to="/">Home</Link>
             <Link className="nav-link" to="/dashboard">Dashboard</Link>
-            
+            <Link className="nav-link" to="/chat-rooms">Chat Rooms</Link>
           </nav>
         </header>
         <main>
@@ -108,7 +110,8 @@ function App() {
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
             <Route path="/search" element={<SearchResultsPage socket={socket} />} />
-            
+            <Route path="/chat-rooms" element={<ChatRooms user={user} />} />
+            <Route path="/chat-rooms/:roomId" element={<Room user={user} />} />
           </Routes>
         </main>
       </div>
