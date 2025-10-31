@@ -47,7 +47,7 @@ const CyberSecurityNews: React.FC = () => {
           {news.map((item, index) => (
             <div key={index} className="card h-100">
               <div className="card-body d-flex flex-column">
-                <h6 className="card-title"><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h6>
+                <h6 className="card-title"><a href={item.link}>{item.title}</a></h6>
                 <p><small className="text-muted">{new Date(item.pubDate).toLocaleString()}</small></p>
                 <p className="card-text flex-grow-1">{item.contentSnippet}</p>
               </div>

@@ -8,11 +8,9 @@ const helmet = require('helmet');
 const fs = require('fs');
 const path = require('path');
 const rug = require('random-username-generator');
-const Razorpay = require('razorpay');
-const crypto = require('crypto');
 
-console.log("RAZORPAY_KEY_ID:", process.env.RAZORPAY_KEY_ID);
-console.log("RAZORPAY_KEY_SECRET:", process.env.RAZORPAY_KEY_SECRET);
+
+
 
 
 
@@ -25,11 +23,7 @@ app.use(helmet());
 app.use(cors());
 app.use(express.json());
 
-// --- Razorpay Config ---
-const razorpay = new Razorpay({
-    key_id: process.env.RAZORPAY_KEY_ID,
-    key_secret: process.env.RAZORPAY_KEY_SECRET
-});
+
 app.use((req, res, next) => {
   res.setHeader("Content-Security-Policy", "frame-ancestors 'self'");
   next();
@@ -227,32 +221,7 @@ app.post('/api/subdomain-enumeration', (req, res) => {
   res.json({ message: `Starting subdomain enumeration for ${domain}` });
 });
 
-app.post('/create-order', async (req, res) => {
-    const options = {
-        amount: req.body.amount, // amount in the smallest currency unit
-        currency: "INR",
-        receipt: "order_rcptid_11"
-    };
-    try {
-        const order = await razorpay.orders.create(options);
-        res.json(order);
-    } catch (error) {
-        res.status(500).send(error);
-    }
-});
 
-app.post('/verify-payment', (req, res) => {
-    const { razorpay_order_id, razorpay_payment_id, razorpay_signature } = req.body;
-    const shasum = crypto.createHmac('sha256', process.env.RAZORPAY_KEY_SECRET);
-    shasum.update(`${razorpay_order_id}|${razorpay_payment_id}`);
-    const digest = shasum.digest('hex');
-
-    if (digest === razorpay_signature) {
-        res.json({ message: "Payment successful" });
-    } else {
-        res.status(400).json({ message: "Invalid signature" });
-    }
-});
 
 
 

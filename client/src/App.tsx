@@ -15,7 +15,6 @@ import NotificationsPage from './components/NotificationsPage';
 import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
 import Dashboard from './components/Dashboard';
-import HackersBurp from './components/HackersBurp';
 
 import './HackerTheme.css';
 
@@ -81,7 +80,7 @@ function App() {
           <nav className="nav justify-content-center">
             <Link className="nav-link" to="/">Home</Link>
             <Link className="nav-link" to="/dashboard">Dashboard</Link>
-            <Link className="nav-link" to="/hackers-burp">HackersBurp</Link>
+            
           </nav>
         </header>
         <main>
@@ -95,7 +94,7 @@ function App() {
             <Route path="/users/:userId/edit" element={<EditProfilePage />} />
             <Route path="/messages/:userId" element={<PrivateMessagePage socket={socket} user={user} />} />
             <Route path="/search" element={<SearchResultsPage socket={socket} />} />
-            <Route path="/hackers-burp" element={<HackersBurp />} />
+            
           </Routes>
         </main>
       </div>

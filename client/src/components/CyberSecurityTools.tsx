@@ -50,7 +50,7 @@ const CyberSecurityTools: React.FC = () => {
         {tools.map((tool) => (
           <div key={tool.url} className="card h-100">
             <div className="card-body d-flex flex-column">
-              <h5 className="card-title"><a href={tool.url} target="_blank" rel="noopener noreferrer">{tool.name}</a></h5>
+              <h5 className="card-title"><a href={tool.url}>{tool.name}</a></h5>
               <h6 className="card-subtitle mb-2 text-muted">{tool.owner}</h6>
               <p className="card-text flex-grow-1">{tool.description}</p>
               <div>
