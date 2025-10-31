@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
+    "link": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
+    "pubDate": "Fri, 31 Oct 2025 22:49:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qKVY4KhOkzIkeCDV1BiboPN3n7qh-ElZ2YzQyfHE2ctgVFmcv7KPDcx1Chvc3KxNeMuirmxfoFRlOb_YAPkCds2Pw9H0_dOPmrJPFfmGFglSXLIM6Ycu0nesaNh8hfTvfQ7lKTAp-GOCaRJylT-wId8Sb_urjjXxpqVgkrjUZ4VJboCJ7Fhk4yVZpOiS/s1600/flaws.jpg"
+    },
+    "content": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
+    "contentSnippet": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
+    "guid": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
+    "isoDate": "2025-10-31T17:19:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack",
     "link": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
     "pubDate": "Fri, 31 Oct 2025 21:38:00 +0530",
@@ -321,23 +338,6 @@
     "contentSnippet": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots — from spoofed messages to large-scale social engineering.\nThis week’s findings show how that shrinking margin of safety is redrawing the threat landscape. Here’s what’s",
     "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
     "isoDate": "2025-10-30T10:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-    "link": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-    "pubDate": "Thu, 30 Oct 2025 15:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31UtIt0Lur5O3mf05d1BdnLD2HsKoFcI_Vaw9588BLmRnbIc-KOZw0fu3zEOBPjuPruB5dQl5meERoueSccVt_u6jjX9Kegwb_eE9Or4tfMxksfhb66Ae8eEcesNFRMwv93aRxrZdvKtFZ1_4VdbYKyOQ7O01bOmo4KeW8y76Rp46ezeMZniD1T63D76n/s1600/github.jpg"
-    },
-    "content": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
-    "contentSnippet": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
-    "guid": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-    "isoDate": "2025-10-30T10:16:00.000Z",
     "itunes": {}
   }
 ]
