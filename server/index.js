@@ -372,6 +372,7 @@ io.on('connection', (socket) => {
   socket.on('private-message', ({ to, text }) => {
     const message = {
       from: socket.userId,
+      fromUsername: socket.username,
       to,
       text,
       timestamp: new Date().toISOString(),

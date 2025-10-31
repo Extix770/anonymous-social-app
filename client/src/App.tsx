@@ -56,6 +56,13 @@ const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
 function App() {
   const [socket, setSocket] = useState<Socket | null>(null);
   const [user, setUser] = useState<User | null>(null);
+  const [notificationPermission, setNotificationPermission] = useState(Notification.permission);
+
+  const requestNotificationPermission = () => {
+    Notification.requestPermission().then((permission) => {
+      setNotificationPermission(permission);
+    });
+  };
 
   useEffect(() => {
     const userId = localStorage.getItem('userId');
@@ -67,16 +74,24 @@ function App() {
       setUser(assignedUser);
     });
 
+    newSocket.on('private-message', (message: any) => {
+      if (notificationPermission === 'granted' && !window.location.pathname.includes(`/messages/${message.from}`)) {
+        new Notification(`New message from ${message.fromUsername}`, {
+          body: message.text,
+        });
+      }
+    });
+
     return () => {
       newSocket.disconnect();
     };
-  }, []);
+  }, [notificationPermission]);
 
   return (
     <Router>
       <div className="container mt-4 hacker-container">
         <header className="mb-4">
-          <h1 className="text-center">Anonymous Social Feed</h1>
+          <h1 className="text-center">ExAnon</h1>
           <nav className="nav justify-content-center">
             <Link className="nav-link" to="/">Home</Link>
             <Link className="nav-link" to="/dashboard">Dashboard</Link>
@@ -85,7 +100,7 @@ function App() {
         </header>
         <main>
           <Routes>
-            <Route path="/" element={<Home socket={socket} user={user} />} />
+            <Route path="/" element={<Home socket={socket} user={user} requestNotificationPermission={requestNotificationPermission} notificationPermission={notificationPermission} />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/cybersecurity-news" element={<CyberSecurityNews />} />
             <Route path="/cybersecurity-tools" element={<CyberSecurityTools />} />
@@ -105,9 +120,11 @@ function App() {
 interface HomeProps {
   socket: Socket | null;
   user: User | null;
+  requestNotificationPermission: () => void;
+  notificationPermission: string;
 }
 
-function Home({ socket, user }: HomeProps) {
+function Home({ socket, user, requestNotificationPermission, notificationPermission }: HomeProps) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [isChatting, setIsChatting] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState('All');
@@ -179,6 +196,11 @@ function Home({ socket, user }: HomeProps) {
         <div className="card-body text-center">
           <h5 className="card-title">You are: {user?.username || 'Anonymous'}</h5>
           {user && <Link to={`/users/${user.id}/edit`} className="btn btn-sm btn-outline-primary">Edit Profile</Link>}
+          {notificationPermission !== 'granted' && (
+            <button className="btn btn-sm btn-outline-info ml-2" onClick={requestNotificationPermission}>
+              Enable Notifications
+            </button>
+          )}
         </div>
       </div>
       {isChatting ? (
