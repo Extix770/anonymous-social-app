@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1717,
+    "stars": 1718,
     "forks": 339,
     "language": "Python"
   },
@@ -495,15 +495,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 10,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "Ayesha-osint-toolkit",
     "owner": "SilentProgrammer-max",
     "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
@@ -511,6 +502,15 @@
     "stars": 10,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "ocsf-tool",
@@ -702,15 +702,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -720,12 +711,12 @@
     "language": null
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
-    "forks": 1,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -735,6 +726,15 @@
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
