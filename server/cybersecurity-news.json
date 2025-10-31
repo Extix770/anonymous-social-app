@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+    "link": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+    "pubDate": "Fri, 31 Oct 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
+    },
+    "content": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
+    "contentSnippet": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
+    "guid": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+    "isoDate": "2025-10-31T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Will AI Strengthen or Undermine Democracy?",
     "link": "https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html",
@@ -319,23 +336,6 @@
     "contentSnippet": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
     "guid": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
     "isoDate": "2025-10-29T15:38:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
-    "link": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
-    "pubDate": "Wed, 29 Oct 2025 20:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Zf17lOXR_Z03iHmWh_BUjSexeLn117N0KiHTTh8NCcDhuLDju5f6EpPZDtp1uPqHTV-h6-ebxTdZOoRuYRglmJVPig9BfOx-O0k8Yz0ms1Ghk4r8k_9ZVC36xPuvvXpJsT4WFiTUBmLEw-oYCVIpXxINdhOySH0ysqaG40exTNITYuMuIxb3wLNXm71H/s1600/ai-news.jpg"
-    },
-    "content": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
-    "contentSnippet": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
-    "guid": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
-    "isoDate": "2025-10-29T14:57:00.000Z",
     "itunes": {}
   }
 ]
