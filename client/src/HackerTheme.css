@@ -1,23 +1,15 @@
-@keyframes move {
-    0% {
-        background-position: 0% 0%;
-    }
-    100% {
-        background-position: 100% 100%;
-    }
+body {
+  background: linear-gradient(270deg, #0d1b2a, #1b263b, #415a77);
+  background-size: 600% 600%;
+  animation: gradient 16s ease infinite;
+  color: #d4d4d4 !important;
+  font-family: 'Menlo', 'Monaco', 'Courier New', monospace !important;
 }
 
-body {
-    background-color: #0d0d0d;
-    background-image:
-        linear-gradient(45deg, #569cd6 25%, transparent 25%),
-        linear-gradient(-45deg, #c586c0 25%, transparent 25%),
-        linear-gradient(45deg, transparent 75%, #6a9955 75%),
-        linear-gradient(-45deg, transparent 75%, #d16969 75%);
-    background-size: 50px 50px;
-    animation: move 4s linear infinite;
-    color: #d4d4d4 !important;
-    font-family: 'Menlo', 'Monaco', 'Courier New', monospace !important;
+@keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
 
 .hacker-container h1 {
