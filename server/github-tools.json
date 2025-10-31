@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7621,
-    "forks": 1041,
+    "stars": 7640,
+    "forks": 1047,
     "language": null
   },
   {
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7088,
+    "stars": 7090,
     "forks": 816,
     "language": "HTML"
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2246,
+    "stars": 2245,
     "forks": 345,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1707,
+    "stars": 1716,
     "forks": 340,
     "language": "Python"
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1262,
+    "stars": 1263,
     "forks": 141,
     "language": null
   },
@@ -112,7 +112,7 @@
     "owner": "the0cp",
     "url": "https://github.com/the0cp/awesome-ddos-tools",
     "description": "Collection of several DDos tools.",
-    "stars": 201,
+    "stars": 202,
     "forks": 44,
     "language": "Python"
   },
@@ -148,7 +148,7 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 102,
+    "stars": 103,
     "forks": 11,
     "language": "HTML"
   },
@@ -513,6 +513,15 @@
     "language": "Python"
   },
   {
+    "name": "ocsf-tool",
+    "owner": "valllabh",
+    "url": "https://github.com/valllabh/ocsf-tool",
+    "description": "OCSF-Tool: A command-line utility for managing Open Cybersecurity Schema Framework (OCSF) schemas, Supporting Proto file generation for OCSF Schemas.",
+    "stars": 9,
+    "forks": 3,
+    "language": "Go"
+  },
+  {
     "name": "awesome-osint-toolkit",
     "owner": "shallvhack",
     "url": "https://github.com/shallvhack/awesome-osint-toolkit",
@@ -556,15 +565,6 @@
     "stars": 9,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "ocsf-tool",
-    "owner": "valllabh",
-    "url": "https://github.com/valllabh/ocsf-tool",
-    "description": "OCSF-Tool: A command-line utility for managing Open Cybersecurity Schema Framework (OCSF) schemas, Supporting Proto file generation for OCSF Schemas.",
-    "stars": 8,
-    "forks": 3,
-    "language": "Go"
   },
   {
     "name": "Spy-Tool",
@@ -765,15 +765,6 @@
     "language": "Python"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cloud-security-tools",
