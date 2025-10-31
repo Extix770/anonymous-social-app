@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Giant Squid at the Smithsonian",
+    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html",
+    "pubDate": "Fri, 31 Oct 2025 21:06:18 +0000",
+    "content:encoded": "<p>I can&#8217;t believe that I haven&#8217;t yet posted <a href=\"https://naturalhistory.si.edu/explore/giant-squid\">this picture</a> of a giant squid at the Smithsonian.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html#respond",
+    "content": "<p>I can&#8217;t believe that I haven&#8217;t yet posted <a href=\"https://naturalhistory.si.edu/explore/giant-squid\">this picture</a> of a giant squid at the Smithsonian.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71065",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2025-10-31T21:06:18.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
     "link": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
@@ -322,22 +340,5 @@
       "biological warfare"
     ],
     "isoDate": "2025-10-30T11:05:16.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-    "pubDate": "Thu, 30 Oct 2025 16:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
-    },
-    "content": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots &mdash; from spoofed messages to large-scale social engineering.\nThis week&rsquo;s findings show how that shrinking margin of safety is redrawing the threat landscape. Here&rsquo;s what&rsquo;s",
-    "contentSnippet": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots — from spoofed messages to large-scale social engineering.\nThis week’s findings show how that shrinking margin of safety is redrawing the threat landscape. Here’s what’s",
-    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-    "isoDate": "2025-10-30T10:54:00.000Z",
-    "itunes": {}
   }
 ]
