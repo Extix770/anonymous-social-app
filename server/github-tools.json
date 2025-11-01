@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7653,
+    "stars": 7654,
     "forks": 1050,
     "language": null
   },
@@ -250,6 +250,15 @@
     "stars": 40,
     "forks": 7,
     "language": null
+  },
+  {
+    "name": "RedTiger-Tools",
+    "owner": "izmirlikezzap",
+    "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
+    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
+    "stars": 39,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "security-risk-assessment-tool",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
-  },
-  {
-    "name": "File-analysis-tools",
-    "owner": "Adilnasceng",
-    "url": "https://github.com/Adilnasceng/File-analysis-tools",
-    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
-    "stars": 4,
-    "forks": 0,
-    "language": "C++"
   }
 ]
