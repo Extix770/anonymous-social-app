@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7095,
+    "stars": 7097,
     "forks": 815,
     "language": "HTML"
   },
@@ -279,6 +279,15 @@
     "language": "Python"
   },
   {
+    "name": "Hardware-Hacking-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
+    "description": "Lists various tools used in hardware hacking. ",
+    "stars": 26,
+    "forks": 4,
+    "language": null
+  },
+  {
     "name": "3TH1C4L-MultiTool",
     "owner": "RPxGoon",
     "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
@@ -286,15 +295,6 @@
     "stars": 26,
     "forks": 3,
     "language": "Python"
-  },
-  {
-    "name": "Hardware-Hacking-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
-    "description": "Lists various tools used in hardware hacking. ",
-    "stars": 25,
-    "forks": 4,
-    "language": null
   },
   {
     "name": "Haram-Tool-Hacker-Penetration-Master-",
@@ -495,15 +495,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 10,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "Ayesha-osint-toolkit",
     "owner": "SilentProgrammer-max",
     "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
@@ -511,6 +502,15 @@
     "stars": 10,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "ocsf-tool",
