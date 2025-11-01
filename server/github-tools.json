@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7654,
+    "stars": 7655,
     "forks": 1050,
     "language": null
   },
@@ -234,6 +234,15 @@
     "language": null
   },
   {
+    "name": "RedTiger-Tools",
+    "owner": "izmirlikezzap",
+    "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
+    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
+    "stars": 42,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "OPSEC-OSINT-Tools",
     "owner": "airborne-commando",
     "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
@@ -250,15 +259,6 @@
     "stars": 40,
     "forks": 7,
     "language": null
-  },
-  {
-    "name": "RedTiger-Tools",
-    "owner": "izmirlikezzap",
-    "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
-    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 39,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "security-risk-assessment-tool",
