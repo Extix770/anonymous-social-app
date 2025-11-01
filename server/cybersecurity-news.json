@@ -140,6 +140,21 @@
     "isoDate": "2025-10-31T11:08:48.000Z"
   },
   {
+    "creator": "Lauren Goode, Michael Calore, Andy Greenberg",
+    "title": "How to Hack a Poker Game",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-how-to-hack-a-poker-game/",
+    "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
+    "dc:creator": "Lauren Goode, Michael Calore, Andy Greenberg",
+    "content": "This week on Uncanny Valley, we break down how one of the most common card shufflers could be altered to cheat, and why that matters—even for those who don’t frequent the poker table.",
+    "contentSnippet": "This week on Uncanny Valley, we break down how one of the most common card shufflers could be altered to cheat, and why that matters—even for those who don’t frequent the poker table.",
+    "guid": "6901645683c4ffb306eab380",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2025-10-31T09:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
     "link": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
@@ -225,6 +240,23 @@
     "itunes": {}
   },
   {
+    "creator": "Dell Cameron",
+    "title": "ICE Wants to Build a Shadow Deportation Network in Texas",
+    "link": "https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/",
+    "pubDate": "Thu, 30 Oct 2025 16:48:24 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "A new ICE proposal outlines a 24/7 transport operation run by armed contractors—turning Texas into the logistical backbone of an industrialized deportation machine.",
+    "contentSnippet": "A new ICE proposal outlines a 24/7 transport operation run by armed contractors—turning Texas into the logistical backbone of an industrialized deportation machine.",
+    "guid": "690268b59f45e40ae292076c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-10-30T16:48:24.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks",
     "link": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
@@ -259,6 +291,38 @@
     "itunes": {}
   },
   {
+    "creator": "Jay Bennett",
+    "title": "NASA’s Quiet Supersonic Jet Takes Flight",
+    "link": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
+    "pubDate": "Thu, 30 Oct 2025 14:20:59 +0000",
+    "dc:creator": "Jay Bennett",
+    "content": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
+    "contentSnippet": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
+    "guid": "689c61c8cb2b403352b1f33d",
+    "categories": [
+      "Science",
+      "Security"
+    ],
+    "isoDate": "2025-10-30T14:20:59.000Z"
+  },
+  {
+    "creator": "Scott Gilbertson, Jacob Roach",
+    "title": "8 Best Password Managers (2025), Tested and Reviewed",
+    "link": "https://www.wired.com/story/best-password-managers/",
+    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
+    "dc:creator": "Scott Gilbertson, Jacob Roach",
+    "content": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+    "contentSnippet": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+    "guid": "5ce3031cfd8c3451c5008275",
+    "categories": [
+      "Gear",
+      "Security",
+      "Gear / Buying Guides",
+      "Security / Security Advice"
+    ],
+    "isoDate": "2025-10-30T12:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
     "link": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
@@ -273,76 +337,6 @@
     "contentSnippet": "Security doesn’t fail at the point of breach. It fails at the point of impact. \nThat line set the tone for this year’s Picus Breach and Simulation (BAS) Summit, where researchers, practitioners, and CISOs all echoed the same theme: cyber defense is no longer about prediction. It's about proof.\nWhen a new exploit drops, scanners scour the internet in minutes. Once attackers gain a foothold,",
     "guid": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
     "isoDate": "2025-10-30T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "The AI-Designed Bioweapon Arms Race",
-    "link": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html",
-    "pubDate": "Thu, 30 Oct 2025 11:05:16 +0000",
-    "content:encoded": "<p>Interesting <a href=\"https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/\">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&#8217;re created:</p>\n<blockquote><p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>\n<p>[&#8230;]</p>\n<p>Details of that original test are <a href=\"https://www.science.org/doi/10.1126/science.adu8578\">being made available today</a> as part of a much larger analysis that extends the approach to a large range of toxic proteins. Starting with 72 toxins, the researchers used three open source AI packages to generate a total of about 75,000 potential protein variants.</p>\n<p>And this is where things get a little complicated. Many of the AI-designed protein variants are going to end up being non-functional, either subtly or catastrophically failing to fold up into the correct configuration to create an active toxin.</p>\n<p>[&#8230;]</p>\n<p>In any case, DNA sequences encoding all 75,000 designs were fed into the software that screens DNA orders for potential threats. One thing that was very clear is that there were huge variations in the ability of the four screening programs to flag these variant designs as threatening. Two of them seemed to do a pretty good job, one was mixed, and another let most of them through. Three of the software packages were updated in response to this performance, which significantly improved their ability to pick out variants.</p>\n<p>There was also a clear trend in all four screening packages: The closer the variant was to the original structurally, the more likely the package (both before and after the patches) was to be able to flag it as a threat. In all cases, there was also a cluster of variant designs that were unlikely to fold into a similar structure, and these generally weren&#8217;t flagged as threats.</p></blockquote>\n<p>The research is all preliminary, and there are a lot of ways in which the experiment diverges from reality. But I am not optimistic about this particular arms race. I think that the ability of AI systems to create something deadly will advance faster than the ability of AI systems to detect its components.</p>\n",
-    "content:encodedSnippet": "Interesting article about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:\nThe team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.\n[…]\nDetails of that original test are being made available today as part of a much larger analysis that extends the approach to a large range of toxic proteins. Starting with 72 toxins, the researchers used three open source AI packages to generate a total of about 75,000 potential protein variants.\nAnd this is where things get a little complicated. Many of the AI-designed protein variants are going to end up being non-functional, either subtly or catastrophically failing to fold up into the correct configuration to create an active toxin.\n[…]\nIn any case, DNA sequences encoding all 75,000 designs were fed into the software that screens DNA orders for potential threats. One thing that was very clear is that there were huge variations in the ability of the four screening programs to flag these variant designs as threatening. Two of them seemed to do a pretty good job, one was mixed, and another let most of them through. Three of the software packages were updated in response to this performance, which significantly improved their ability to pick out variants.\nThere was also a clear trend in all four screening packages: The closer the variant was to the original structurally, the more likely the package (both before and after the patches) was to be able to flag it as a threat. In all cases, there was also a cluster of variant designs that were unlikely to fold into a similar structure, and these generally weren’t flagged as threats.\n\nThe research is all preliminary, and there are a lot of ways in which the experiment diverges from reality. But I am not optimistic about this particular arms race. I think that the ability of AI systems to create something deadly will advance faster than the ability of AI systems to detect its components.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html#comments",
-    "content": "<p>Interesting <a href=\"https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/\">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&#8217;re created:</p>\n<blockquote><p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>\n<p>[&#8230;]</p>\n<p>Details of that original test are ...</p></blockquote>",
-    "contentSnippet": "Interesting article about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:\nThe team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.\n[…]\nDetails of that original test are ...",
-    "guid": "https://www.schneier.com/?p=71059",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "biological warfare"
-    ],
-    "isoDate": "2025-10-30T11:05:16.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-    "pubDate": "Thu, 30 Oct 2025 16:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
-    },
-    "content": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots &mdash; from spoofed messages to large-scale social engineering.\nThis week&rsquo;s findings show how that shrinking margin of safety is redrawing the threat landscape. Here&rsquo;s what&rsquo;s",
-    "contentSnippet": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots — from spoofed messages to large-scale social engineering.\nThis week’s findings show how that shrinking margin of safety is redrawing the threat landscape. Here’s what’s",
-    "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-    "isoDate": "2025-10-30T10:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-    "link": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-    "pubDate": "Thu, 30 Oct 2025 15:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31UtIt0Lur5O3mf05d1BdnLD2HsKoFcI_Vaw9588BLmRnbIc-KOZw0fu3zEOBPjuPruB5dQl5meERoueSccVt_u6jjX9Kegwb_eE9Or4tfMxksfhb66Ae8eEcesNFRMwv93aRxrZdvKtFZ1_4VdbYKyOQ7O01bOmo4KeW8y76Rp46ezeMZniD1T63D76n/s1600/github.jpg"
-    },
-    "content": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
-    "contentSnippet": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
-    "guid": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-    "isoDate": "2025-10-30T10:16:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
-    "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
-    "pubDate": "Wed, 29 Oct 2025 21:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUs8CWZuMjytXCzRiRr1Njj-R-Sv2PglgPmqZCLMHd71SMJyPl8hh9RPTqhzeZm7OJ7BdDEOO0b5bODPEvOl6uOB4cA1Hobq1j_O6uIsuFSqDMp-lyswH6W3-NIkX3fmGCsvU93B9OlouN-ngLew2lqxLFpQHA5NgedY2CQcyZQ-W4-GEtj-CK01hEb9/s1600/php-site.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
-    "guid": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
-    "isoDate": "2025-10-29T15:38:00.000Z",
     "itunes": {}
   }
 ]
