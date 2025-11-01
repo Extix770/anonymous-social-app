@@ -720,15 +720,6 @@
     "language": null
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -742,6 +733,15 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
