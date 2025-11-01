@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
+    "link": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
+    "pubDate": "Sat, 01 Nov 2025 19:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjJxC82aGCds7xQg0mAqxFwkMrJCO3JdIyu5ShCl2QYOrnrJpOdBSnJdlnN1euQiL6blI-sBypwPP-nCcWSrkvxZkNGsH1yb9zE7bgLKXOpwFvit66JlEtekICCBuPxgMY6uYJaWAMyXYmAvvdsrdjoV6qzVdSyPUjzS332wVtMWxg4AaF2DTiYrfmQQM/s1600/cisco.jpg"
+    },
+    "content": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\nThe activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
+    "contentSnippet": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\nThe activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
+    "guid": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
+    "isoDate": "2025-11-01T13:43:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Giant Squid at the Smithsonian",
     "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html",
@@ -321,24 +338,5 @@
     "guid": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
     "isoDate": "2025-10-30T11:55:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "The AI-Designed Bioweapon Arms Race",
-    "link": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html",
-    "pubDate": "Thu, 30 Oct 2025 11:05:16 +0000",
-    "content:encoded": "<p>Interesting <a href=\"https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/\">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&#8217;re created:</p>\n<blockquote><p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>\n<p>[&#8230;]</p>\n<p>Details of that original test are <a href=\"https://www.science.org/doi/10.1126/science.adu8578\">being made available today</a> as part of a much larger analysis that extends the approach to a large range of toxic proteins. Starting with 72 toxins, the researchers used three open source AI packages to generate a total of about 75,000 potential protein variants.</p>\n<p>And this is where things get a little complicated. Many of the AI-designed protein variants are going to end up being non-functional, either subtly or catastrophically failing to fold up into the correct configuration to create an active toxin.</p>\n<p>[&#8230;]</p>\n<p>In any case, DNA sequences encoding all 75,000 designs were fed into the software that screens DNA orders for potential threats. One thing that was very clear is that there were huge variations in the ability of the four screening programs to flag these variant designs as threatening. Two of them seemed to do a pretty good job, one was mixed, and another let most of them through. Three of the software packages were updated in response to this performance, which significantly improved their ability to pick out variants.</p>\n<p>There was also a clear trend in all four screening packages: The closer the variant was to the original structurally, the more likely the package (both before and after the patches) was to be able to flag it as a threat. In all cases, there was also a cluster of variant designs that were unlikely to fold into a similar structure, and these generally weren&#8217;t flagged as threats.</p></blockquote>\n<p>The research is all preliminary, and there are a lot of ways in which the experiment diverges from reality. But I am not optimistic about this particular arms race. I think that the ability of AI systems to create something deadly will advance faster than the ability of AI systems to detect its components.</p>\n",
-    "content:encodedSnippet": "Interesting article about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:\nThe team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.\n[…]\nDetails of that original test are being made available today as part of a much larger analysis that extends the approach to a large range of toxic proteins. Starting with 72 toxins, the researchers used three open source AI packages to generate a total of about 75,000 potential protein variants.\nAnd this is where things get a little complicated. Many of the AI-designed protein variants are going to end up being non-functional, either subtly or catastrophically failing to fold up into the correct configuration to create an active toxin.\n[…]\nIn any case, DNA sequences encoding all 75,000 designs were fed into the software that screens DNA orders for potential threats. One thing that was very clear is that there were huge variations in the ability of the four screening programs to flag these variant designs as threatening. Two of them seemed to do a pretty good job, one was mixed, and another let most of them through. Three of the software packages were updated in response to this performance, which significantly improved their ability to pick out variants.\nThere was also a clear trend in all four screening packages: The closer the variant was to the original structurally, the more likely the package (both before and after the patches) was to be able to flag it as a threat. In all cases, there was also a cluster of variant designs that were unlikely to fold into a similar structure, and these generally weren’t flagged as threats.\n\nThe research is all preliminary, and there are a lot of ways in which the experiment diverges from reality. But I am not optimistic about this particular arms race. I think that the ability of AI systems to create something deadly will advance faster than the ability of AI systems to detect its components.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html#comments",
-    "content": "<p>Interesting <a href=\"https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/\">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&#8217;re created:</p>\n<blockquote><p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>\n<p>[&#8230;]</p>\n<p>Details of that original test are ...</p></blockquote>",
-    "contentSnippet": "Interesting article about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:\nThe team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.\n[…]\nDetails of that original test are ...",
-    "guid": "https://www.schneier.com/?p=71059",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "biological warfare"
-    ],
-    "isoDate": "2025-10-30T11:05:16.000Z"
   }
 ]
