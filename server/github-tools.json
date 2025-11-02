@@ -31,7 +31,7 @@
     "owner": "loxy0dev",
     "url": "https://github.com/loxy0dev/RedTiger-Tools",
     "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1727,
+    "stars": 1728,
     "forks": 341,
     "language": "Python"
   },
@@ -810,6 +810,15 @@
     "language": "Jupyter Notebook"
   },
   {
+    "name": "30-days-red-team-toolkit",
+    "owner": "itsmaxwellcross",
+    "url": "https://github.com/itsmaxwellcross/30-days-red-team-toolkit",
+    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
+    "stars": 4,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
     "name": "Hacker-Tools",
     "owner": "Push4ck",
     "url": "https://github.com/Push4ck/Hacker-Tools",
@@ -825,15 +834,6 @@
     "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "30-days-red-team-toolkit",
-    "owner": "itsmaxwellcross",
-    "url": "https://github.com/itsmaxwellcross/30-days-red-team-toolkit",
-    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 4,
-    "forks": 3,
     "language": "Python"
   },
   {
