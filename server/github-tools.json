@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7660,
+    "stars": 7661,
     "forks": 1051,
     "language": null
   },
@@ -85,7 +85,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 449,
+    "stars": 450,
     "forks": 102,
     "language": null
   },
@@ -504,15 +504,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 10,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -520,6 +511,15 @@
     "stars": 10,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 10,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Shifter-tool",
@@ -720,6 +720,15 @@
     "language": null
   },
   {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -733,15 +742,6 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -891,12 +891,12 @@
     "language": "Perl"
   },
   {
-    "name": "File-analysis-tools",
-    "owner": "Adilnasceng",
-    "url": "https://github.com/Adilnasceng/File-analysis-tools",
-    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
     "stars": 4,
-    "forks": 0,
-    "language": "C++"
+    "forks": 1,
+    "language": "Shell"
   }
 ]
