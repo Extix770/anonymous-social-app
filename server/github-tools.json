@@ -225,6 +225,15 @@
     "language": "Python"
   },
   {
+    "name": "RedTiger-Tools",
+    "owner": "izmirlikezzap",
+    "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
+    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
+    "stars": 44,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "OSINT-Tools",
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
@@ -232,15 +241,6 @@
     "stars": 43,
     "forks": 5,
     "language": null
-  },
-  {
-    "name": "RedTiger-Tools",
-    "owner": "izmirlikezzap",
-    "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
-    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 43,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "OPSEC-OSINT-Tools",
@@ -720,21 +720,21 @@
     "language": null
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
