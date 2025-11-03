@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Dhruv Mehrotra, Peggy Lowe",
+    "title": "Hack Exposes Kansas City’s Secret Police Misconduct List",
+    "link": "https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/",
+    "pubDate": "Mon, 03 Nov 2025 10:00:00 +0000",
+    "dc:creator": "Dhruv Mehrotra, Peggy Lowe",
+    "content": "A major breach of the Kansas City, Kansas, Police Department reveals, for the first time, a list of alleged officer misconduct including dishonesty, sexual harassment, excessive force, and false arrest.",
+    "contentSnippet": "A major breach of the Kansas City, Kansas, Police Department reveals, for the first time, a list of alleged officer misconduct including dishonesty, sexual harassment, excessive force, and false arrest.",
+    "guid": "68ffc5d01e90dfd610a2da20",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-03T10:00:00.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
     "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
@@ -340,22 +356,5 @@
       "Security"
     ],
     "isoDate": "2025-10-30T14:20:59.000Z"
-  },
-  {
-    "creator": "Scott Gilbertson, Jacob Roach",
-    "title": "8 Best Password Managers (2025), Tested and Reviewed",
-    "link": "https://www.wired.com/story/best-password-managers/",
-    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
-    "dc:creator": "Scott Gilbertson, Jacob Roach",
-    "content": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
-    "contentSnippet": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
-    "guid": "5ce3031cfd8c3451c5008275",
-    "categories": [
-      "Gear",
-      "Security",
-      "Gear / Buying Guides",
-      "Security / Security Advice"
-    ],
-    "isoDate": "2025-10-30T12:00:00.000Z"
   }
 ]
