@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
+    "pubDate": "Mon, 03 Nov 2025 18:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmxVKba9Dgqm0Z67Kl0gXQXbPMhT_CbvxnNMtnrhn5s0I5wZm8o0I3Dk60ddk0MoEngtBfkLe12knwd9jV8AV7YaVP6fYcy60zKhCu3PomuZ7ZJttgXYf4CL3db0WcIuBkrUKeQmtQNF_rPMhVDVeEYaEwo15yvQbsllKM6cPyXlu_60E2rkpauhfITDR/s1600/recap.jpg"
+    },
+    "content": "Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems—some just hours after being found. No system was fully safe.\nFrom spying and fake job scams to strong ransomware and tricky phishing, the attacks came from all sides. Even encrypted backups and secure areas were put to the test.",
+    "contentSnippet": "Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems—some just hours after being found. No system was fully safe.\nFrom spying and fake job scams to strong ransomware and tricky phishing, the attacks came from all sides. Even encrypted backups and secure areas were put to the test.",
+    "guid": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
+    "isoDate": "2025-11-03T12:56:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI Summarization Optimization",
     "link": "https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html",
@@ -18,6 +35,23 @@
       "LLM"
     ],
     "isoDate": "2025-11-03T12:05:25.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
+    "link": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
+    "pubDate": "Mon, 03 Nov 2025 17:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ9mDhJ4SDGuA35c4k39ETwA8rFT03x3IsKZM37FHB4-uz_qMA4n2BfzZk_8UqkBuL-wA6NWx3i3f3CGin1cIF2JJI6n3xbX1T_FAeMJqkHJXoPVl4OqVgvQ_9OtnEWm8dIpev6_EkLTCpddCzFb4lixW4cfZGES7vhsivpUAFn1pHT6JqilriOZDAIQ/s1600/xmcyber.png"
+    },
+    "content": "Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reactively. SOCs often lack the environmental context and relevant threat intelligence needed to quickly verify which alerts are truly malicious. As a result, analysts spend excessive time manually triaging alerts, the",
+    "contentSnippet": "Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reactively. SOCs often lack the environmental context and relevant threat intelligence needed to quickly verify which alerts are truly malicious. As a result, analysts spend excessive time manually triaging alerts, the",
+    "guid": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
+    "isoDate": "2025-11-03T11:56:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -326,40 +360,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
     "guid": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
     "isoDate": "2025-10-31T07:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-    "link": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-    "pubDate": "Fri, 31 Oct 2025 09:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpAYTsxkWCgKoj_4IbW-z4a9m9r8KWH6oc0a5N7B68vil9GiBeKNPIHE3HcJY3_VZOqcGA1tLpTkDvB2sMsNMazRRyBT0bxqAQHoojAyY5btgMibphXUZ8GGhfyuzUuvSHuDQpaEpIKNsCGvjbm6yC8E8GDex9TjHtLNLF0jLBLQlL0iXPmF5nUf7W6k/s1600/threatlocker.jpg"
-    },
-    "content": "A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway.\nOn another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It’s fast and",
-    "contentSnippet": "A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway.\nOn another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It’s fast and",
-    "guid": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-    "isoDate": "2025-10-31T03:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month",
-    "link": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
-    "pubDate": "Thu, 30 Oct 2025 22:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzNvcgKF1dzPvi41-IVyFcKKds42WP88xnqZjnxYUBHHdDLsJCHd26MwwUHs8NOi4I3-8c90rzegdXeQ283lfQiwGgy3vRZumlIEjZXf8CaVGYTgoBcAwuPArPEDJVl6eT_ioKsqdDdOsm7Vj4Bl8BLMF1xcZ5wZZa_Ga9vIcfgMVHYJLxEtK5stcFYHq/s1600/android-spam.jpg"
-    },
-    "content": "Google on Thursday revealed that the scam defenses built into Android safeguard users around the world from more than 10 billion suspected malicious calls and messages every month.\nThe tech giant also said it has blocked over 100 million suspicious numbers from using Rich Communication Services (RCS), an evolution of the SMS protocol, thereby preventing scams before they could even be sent.\nIn",
-    "contentSnippet": "Google on Thursday revealed that the scam defenses built into Android safeguard users around the world from more than 10 billion suspected malicious calls and messages every month.\nThe tech giant also said it has blocked over 100 million suspicious numbers from using Rich Communication Services (RCS), an evolution of the SMS protocol, thereby preventing scams before they could even be sent.\nIn",
-    "guid": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
-    "isoDate": "2025-10-30T17:00:00.000Z",
     "itunes": {}
   }
 ]
