@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7669,
+    "stars": 7670,
     "forks": 1051,
     "language": null
   },
@@ -351,19 +351,19 @@
     "language": "Batchfile"
   },
   {
-    "name": "securitylabs-thrunting-tools",
-    "owner": "elastic",
-    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
-    "description": "A collection of  utilities to help with analysis on the command line.",
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
     "stars": 18,
     "forks": 3,
     "language": "Python"
   },
   {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "name": "securitylabs-thrunting-tools",
+    "owner": "elastic",
+    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
+    "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
     "language": "Python"
@@ -693,15 +693,6 @@
     "language": null
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -711,13 +702,22 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "CyberSec-Toolkit",
@@ -729,6 +729,15 @@
     "language": "Python"
   },
   {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -736,15 +745,6 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
-    "forks": 1,
-    "language": null
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -855,21 +855,21 @@
     "language": "Python"
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 4,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
     "description": "Tools for National Cyber League Competition",
     "stars": 4,
     "forks": 1,
+    "language": null
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 4,
+    "forks": 0,
     "language": null
   },
   {
@@ -882,15 +882,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   }
 ]
