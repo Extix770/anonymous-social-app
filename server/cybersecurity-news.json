@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Ali Winston",
+    "title": "An Anarchist’s Conviction Offers a Grim Foreshadowing of Trump’s War on the ‘Left’",
+    "link": "https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/",
+    "pubDate": "Mon, 03 Nov 2025 10:30:00 +0000",
+    "dc:creator": "Ali Winston",
+    "content": "As the Trump administration ramps up its targeting of left-leaning people and groups, the prosecution and harsh sentencing of Casey Goonan may provide a glimpse of things to come.",
+    "contentSnippet": "As the Trump administration ramps up its targeting of left-leaning people and groups, the prosecution and harsh sentencing of Casey Goonan may provide a glimpse of things to come.",
+    "guid": "68dee6b73f8d95fc344e45c1",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Politics / Policy",
+      "Politics / Extremism"
+    ],
+    "isoDate": "2025-11-03T10:30:00.000Z"
+  },
+  {
     "creator": "Dhruv Mehrotra, Peggy Lowe",
     "title": "Hack Exposes Kansas City’s Secret Police Misconduct List",
     "link": "https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/",
@@ -341,20 +358,5 @@
     "guid": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
     "isoDate": "2025-10-30T14:45:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Jay Bennett",
-    "title": "NASA’s Quiet Supersonic Jet Takes Flight",
-    "link": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
-    "pubDate": "Thu, 30 Oct 2025 14:20:59 +0000",
-    "dc:creator": "Jay Bennett",
-    "content": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
-    "contentSnippet": "The X-59 successfully completed its inaugural flight—a step toward developing quieter supersonic jets that could one day fly customers more than twice as fast as commercial airliners.",
-    "guid": "689c61c8cb2b403352b1f33d",
-    "categories": [
-      "Science",
-      "Security"
-    ],
-    "isoDate": "2025-10-30T14:20:59.000Z"
   }
 ]
