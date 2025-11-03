@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
+    "link": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
+    "pubDate": "Mon, 03 Nov 2025 18:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbX8J0_0T47YXAz7Dd3-oMDVE4jIN0KXLb0QHkdJOWEk1wS2tdrwCXtpfTtDW1YHXbqE2HMyNm4L6QZc3cEKQDnDGBAtiZL6CUlj0G1rGy3-9MFgpov7t3u4CtYJbkk3UDi_05qp5ScoXOKcn3duBXop74yVHiPN2epcn7CpoKQOZjwtVBAjrHj79iPxx/s1600/hacking-trucks.jpg"
+    },
+    "content": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
+    "contentSnippet": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
+    "guid": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
+    "isoDate": "2025-11-03T13:18:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
     "link": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
     "pubDate": "Mon, 03 Nov 2025 18:26:00 +0530",
@@ -343,23 +360,6 @@
     "contentSnippet": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
     "guid": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
     "isoDate": "2025-10-31T08:02:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
-    "link": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-    "pubDate": "Fri, 31 Oct 2025 12:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9b0-qhv23XfDSOcojqy0VRkWHB99nq_dbwTnEfuC2Osi_-aKm2iRqK7rip6h8Gh4C4hP6ySCTTm_OoKVpLRIzNJBPcsoQlVjry-zfmX71nhF4-84Gd4D7XCPhPN8v6CkBo6PJUh5zv-hLSjXQNFi0dW5yS7Dbk03PSNEVCn8nEUGvO6NvV7cDmoYHfaF/s1600/vmware.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
-    "guid": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-    "isoDate": "2025-10-31T07:09:00.000Z",
     "itunes": {}
   }
 ]
