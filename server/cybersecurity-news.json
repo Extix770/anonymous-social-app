@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data",
+    "link": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
+    "pubDate": "Mon, 03 Nov 2025 16:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Tt56UVzOmPmMb8bx8CdK2PZTnThikELcwApmVlEElJPqMdbGur-t2k_JEGRXo_sWqNkLG6TVRUUWKlMnhS_xQ4Tpzwp-CPqaEpn_n8PIEn11MyTpBmpsDDI8nEKBAeZ_NjWQ_hVPRjJHuSsc4xoZiG9II5fpf9mWE80YZd_-5-SDbHKtgoocG8I6qiBx/s1600/android.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.\nAccording to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment",
+    "contentSnippet": "Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.\nAccording to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment",
+    "guid": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
+    "isoDate": "2025-11-03T11:14:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea",
     "link": "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html",
     "pubDate": "Mon, 03 Nov 2025 16:12:00 +0530",
@@ -341,22 +358,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2025-10-30T16:48:24.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks",
-    "link": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
-    "pubDate": "Thu, 30 Oct 2025 22:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAemb8q0dPL4UJx7V6h0octnu9dSgvaV0KNS8ctKdDRlcrt51uM9BXud3jaJ7Gkc-NGMJfTfTmShpq9ehcNjW2nh-ncTHD37MRt9iY7ThMZKxp_ULdweMDi6iI0O8m_LkZV0N8Yegr1VWMxRUviU5h8jb3z0wlcxzru3Zu48O0AojPbgLvxLOQ8pEDBlS/s1600/post-install.jpg"
-    },
-    "content": "The open-source command-and-control (C2) framework known as AdaptixC2 is being used by a growing number of threat actors, some of whom are related to Russian ransomware gangs.\nAdaptixC2 is an emerging extensible post-exploitation and adversarial emulation framework designed for penetration testing. While the server component is written in Golang, the GUI Client is written in C++ QT for",
-    "contentSnippet": "The open-source command-and-control (C2) framework known as AdaptixC2 is being used by a growing number of threat actors, some of whom are related to Russian ransomware gangs.\nAdaptixC2 is an emerging extensible post-exploitation and adversarial emulation framework designed for penetration testing. While the server component is written in Golang, the GUI Client is written in C++ QT for",
-    "guid": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
-    "isoDate": "2025-10-30T16:40:00.000Z",
-    "itunes": {}
   }
 ]
