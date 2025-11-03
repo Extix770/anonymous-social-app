@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
+    "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+    "pubDate": "Mon, 03 Nov 2025 23:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s1600/soladity.jpg"
+    },
+    "content": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
+    "contentSnippet": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
+    "guid": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+    "isoDate": "2025-11-03T18:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
     "link": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
     "pubDate": "Mon, 03 Nov 2025 18:48:00 +0530",
@@ -343,23 +360,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
     "guid": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
     "isoDate": "2025-10-31T08:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
-    "link": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-    "pubDate": "Fri, 31 Oct 2025 13:32:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAGBrh3pirqFHrsdc4kBfinnWBWhRLbAAwa39k5lyd-X941olCKyizc7VGdYORWLq6aBGn3l6f4zMwwUApVP3pfEk_dzr31Kh1eiBZjzzoqik3-9UrwJmD8eWbjd8OY7clyxw1qqOHcBCarQxd-7hvKhhiLjl6fRbBUl-UV4Dvs5KAWLbHwTNkYxAfIBC/s1600/open.jpg"
-    },
-    "content": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
-    "contentSnippet": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
-    "guid": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-    "isoDate": "2025-10-31T08:02:00.000Z",
     "itunes": {}
   }
 ]
