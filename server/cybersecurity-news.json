@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+    "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+    "pubDate": "Tue, 04 Nov 2025 22:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGoqSoqWGCpoOD7hmLTjkWzWhFLusgvTr3g3RaGZWrSs_j4LAGbruNNztuHBQy5D835G8qsA6p2Go0Mw-aSoiHC7eY4-tGNEgXffrQPOIuEiEm0-n6gZHeq156nYnq9S_jRSk22aXI3X7aXXoCJwRRKdMN20Hf4M266ZMRZEsv7NhJTuPWBT6U3OlhQBE/s1600/hackers.jpg"
+    },
+    "content": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'",
+    "contentSnippet": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'",
+    "guid": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+    "isoDate": "2025-11-04T17:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep",
     "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
     "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530",
@@ -346,22 +363,5 @@
       "ZeuS Trojan"
     ],
     "isoDate": "2025-11-02T20:37:24.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
-    "link": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
-    "pubDate": "Sat, 01 Nov 2025 19:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjJxC82aGCds7xQg0mAqxFwkMrJCO3JdIyu5ShCl2QYOrnrJpOdBSnJdlnN1euQiL6blI-sBypwPP-nCcWSrkvxZkNGsH1yb9zE7bgLKXOpwFvit66JlEtekICCBuPxgMY6uYJaWAMyXYmAvvdsrdjoV6qzVdSyPUjzS332wVtMWxg4AaF2DTiYrfmQQM/s1600/cisco.jpg"
-    },
-    "content": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\nThe activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
-    "contentSnippet": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\nThe activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
-    "guid": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
-    "isoDate": "2025-11-01T13:43:00.000Z",
-    "itunes": {}
   }
 ]
