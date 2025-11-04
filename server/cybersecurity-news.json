@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+    "link": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+    "pubDate": "Tue, 04 Nov 2025 11:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW72-Rg4bg2ntYrHhAcMLWcUMdg-0COcApiiLP4LsguHFgDgBVZmEh0EigMblA_-TZm9wKArXWY58AqupvM2vpr3anQXEGkmmAtw20_4WOO4qVL8ykulVPadSXRdZTyanhMeEKt-TPI5i5SGpUmjlNlAYEZUepDpzDujBAULaGbzuXSSzP5W6NsPofRXD/s1600/SesameOp-Malware.jpg"
+    },
+    "content": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised",
+    "contentSnippet": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised",
+    "guid": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+    "isoDate": "2025-11-04T05:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
     "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
     "pubDate": "Mon, 03 Nov 2025 23:38:00 +0530",
@@ -344,22 +361,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2025-10-31T09:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
-    "link": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
-    "pubDate": "Fri, 31 Oct 2025 14:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
-    "guid": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
-    "isoDate": "2025-10-31T08:46:00.000Z",
-    "itunes": {}
   }
 ]
