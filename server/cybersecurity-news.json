@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+    "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+    "pubDate": "Tue, 04 Nov 2025 19:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxhWGZawWeHzNGIbomWP8Nbdh5Dd6tcZRBCwh1fzvzwLRHHrOAdfio4nT7DL5Lq7_v0S8mDZ5JcWhL_B75AVaO8pYvvxHr5UbkNOaALx-O3Xj2msk9pV1vHsgTDQjCYfED7yaajgRNK5Qarl8aAWqwk6W0GYG5DwB9MGPnXdrgRhGpgIyNdu5FYPJtPF5/s1600/ms-teams.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
+    "guid": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+    "isoDate": "2025-11-04T14:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Cybercriminals Targeting Payroll Sites",
     "link": "https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html",
@@ -7,7 +24,7 @@
     "content:encoded": "<p>Microsoft is <a href=\"https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l\">warning</a> of a scam involving online payroll systems. Criminals use social engineering to steal people&#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.</p>\n<p>I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</p>\n",
     "content:encodedSnippet": "Microsoft is warning of a scam involving online payroll systems. Criminals use social engineering to steal people’s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.\nI feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html#comments",
     "content": "<p>Microsoft is <a href=\"https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l\">warning</a> of a scam involving online payroll systems. Criminals use social engineering to steal people&#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.</p>\n<p>I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</p>\n",
     "contentSnippet": "Microsoft is warning of a scam involving online payroll systems. Criminals use social engineering to steal people’s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.\nI feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.",
     "guid": "https://www.schneier.com/?p=71056",
@@ -346,23 +363,6 @@
     "contentSnippet": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
     "guid": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
     "isoDate": "2025-10-31T17:19:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack",
-    "link": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
-    "pubDate": "Fri, 31 Oct 2025 21:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s1600/cyberattack.jpg"
-    },
-    "content": "A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack.\nPalo Alto Networks Unit 42 said it's tracking the cluster under the moniker CL-STA-1009, where \"CL\" stands for cluster and \"STA\" refers to state-backed motivation.\n\"Airstalk misuses the AirWatch API for mobile device management (MDM), which is now",
-    "contentSnippet": "A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack.\nPalo Alto Networks Unit 42 said it's tracking the cluster under the moniker CL-STA-1009, where \"CL\" stands for cluster and \"STA\" refers to state-backed motivation.\n\"Airstalk misuses the AirWatch API for mobile device management (MDM), which is now",
-    "guid": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
-    "isoDate": "2025-10-31T16:08:00.000Z",
     "itunes": {}
   }
 ]
