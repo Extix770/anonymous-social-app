@@ -801,6 +801,15 @@
     "language": "Jupyter Notebook"
   },
   {
+    "name": "Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
+    "owner": "Encrypted-Everest",
+    "url": "https://github.com/Encrypted-Everest/Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
+    "description": "Phishing attacks are one of the most common cyber threats, and the tools used to conduct them have evolved to become more sophisticated. Here’s You should be aware of in 2024. From SEToolkit to PyPhisher, these tools cover a wide range of phishing attack vectors, including social engineering, email phishing, and even QR code hijacking. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
+  },
+  {
     "name": "30-days-red-team-toolkit",
     "owner": "itsmaxwellcross",
     "url": "https://github.com/itsmaxwellcross/30-days-red-team-toolkit",
@@ -888,15 +897,6 @@
     "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
     "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
-    "stars": 4,
-    "forks": 1,
     "language": "Python"
   }
 ]
