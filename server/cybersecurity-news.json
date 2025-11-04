@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+    "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+    "pubDate": "Tue, 04 Nov 2025 19:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNjN6vslUO_G4CduAbYSiA-CSV2SWczVdx8dOAdaWXrulZW9P3iJ6fkO1bN_PlrN1g7pExIbB5QdeO9h7yNQE2yVdSzg2OfbL1N6_K-bNhsguE9GHUilLuEuzpfybL2So0N9yP9J3UiTjjZhyphenhyphen571M1PCgZc4nv-woAH4Ja7q8rl8GZ3rQr4I7tPDhQu4p/s1600/code.jpg"
+    },
+    "content": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's",
+    "contentSnippet": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's",
+    "guid": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+    "isoDate": "2025-11-04T14:24:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
     "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
     "pubDate": "Tue, 04 Nov 2025 19:30:00 +0530",
@@ -347,22 +364,5 @@
       "squid"
     ],
     "isoDate": "2025-10-31T21:06:18.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
-    "link": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
-    "pubDate": "Fri, 31 Oct 2025 22:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qKVY4KhOkzIkeCDV1BiboPN3n7qh-ElZ2YzQyfHE2ctgVFmcv7KPDcx1Chvc3KxNeMuirmxfoFRlOb_YAPkCds2Pw9H0_dOPmrJPFfmGFglSXLIM6Ycu0nesaNh8hfTvfQ7lKTAp-GOCaRJylT-wId8Sb_urjjXxpqVgkrjUZ4VJboCJ7Fhk4yVZpOiS/s1600/flaws.jpg"
-    },
-    "content": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
-    "contentSnippet": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
-    "guid": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
-    "isoDate": "2025-10-31T17:19:00.000Z",
-    "itunes": {}
   }
 ]
