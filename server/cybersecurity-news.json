@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep",
+    "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+    "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWKwScZjfCjIxjAGc2zRp5CurUdQrWfIyggSAeiGwqm0lISlnUZcukvjR3paESZ4ksOr99jBcbTxgnZmmlkbfAomK_9uRWH5cWfZ1yMHpuTwe2MyrQRAJTqyRHnyq0-JHHI0BRQNRoh_YWiLwIcUolW_n1swUtCoQSkiE2Nf0CsWFXNH6FQrSML5QO7xLu/s1600/crypto-scam.jpg"
+    },
+    "content": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in",
+    "contentSnippet": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in",
+    "guid": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+    "isoDate": "2025-11-04T15:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
     "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
     "pubDate": "Tue, 04 Nov 2025 19:54:00 +0530",
@@ -346,23 +363,5 @@
     "guid": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
     "isoDate": "2025-11-01T13:43:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Giant Squid at the Smithsonian",
-    "link": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html",
-    "pubDate": "Fri, 31 Oct 2025 21:06:18 +0000",
-    "content:encoded": "<p>I can&#8217;t believe that I haven&#8217;t yet posted <a href=\"https://naturalhistory.si.edu/explore/giant-squid\">this picture</a> of a giant squid at the Smithsonian.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html#comments",
-    "content": "<p>I can&#8217;t believe that I haven&#8217;t yet posted <a href=\"https://naturalhistory.si.edu/explore/giant-squid\">this picture</a> of a giant squid at the Smithsonian.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71065",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2025-10-31T21:06:18.000Z"
   }
 ]
