@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
+    "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
+    "pubDate": "Wed, 05 Nov 2025 11:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDITEgki_ICpEMcN92xGckaqijjlvW9kC6ZtYS8v1Fmvc50kvsku_Wke0Zk6nK6a27I8kbBHK8GSnlQ8xyGQx0_2WEMTfW4NN9Y5-ANCcPI5lTs7TdQwbaDygSw6KUqCaLW_JBEH1hKyvtVKjyqUs0Uk6xzrCIEW0nVuKt1VHtYv2SqCrHBJDznZQrP84J/s1600/CISA.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to",
+    "guid": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
+    "isoDate": "2025-11-05T06:12:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron, Caroline Haskins",
     "title": "FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves",
     "link": "https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/",
@@ -35,7 +52,7 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep",
+    "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
     "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
     "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -328,21 +345,5 @@
       "Politics / Extremism"
     ],
     "isoDate": "2025-11-03T10:30:00.000Z"
-  },
-  {
-    "creator": "Dhruv Mehrotra, Peggy Lowe",
-    "title": "Hack Exposes Kansas City’s Secret Police Misconduct List",
-    "link": "https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/",
-    "pubDate": "Mon, 03 Nov 2025 10:00:00 +0000",
-    "dc:creator": "Dhruv Mehrotra, Peggy Lowe",
-    "content": "A major breach of the Kansas City, Kansas, Police Department reveals, for the first time, a list of alleged officer misconduct including dishonesty, sexual harassment, excessive force, and false arrest.",
-    "contentSnippet": "A major breach of the Kansas City, Kansas, Police Department reveals, for the first time, a list of alleged officer misconduct including dishonesty, sexual harassment, excessive force, and false arrest.",
-    "guid": "68ffc5d01e90dfd610a2da20",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-03T10:00:00.000Z"
   }
 ]
