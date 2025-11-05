@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+    "link": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+    "pubDate": "Wed, 05 Nov 2025 19:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc9u8ifBTtqcucAGtnB5BSuB4Zu2PTcSopIDhD1mxnUeFmAtb1KWyJuU3Yb8JAnJ-nQ4jltxhO5YCFzfd-VhbghvU9B8DewcX9kDZ4Wv65q-3Sqnj-tyAtaL2BNI_poMHKzeJMr93cjTv7U9lqZFSpLOgs0mYOjIA0QqYydcxGmxxqZGS-YS8hJUi8sdsJ/s1600/chatgpt-hack.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has",
+    "contentSnippet": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has",
+    "guid": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+    "isoDate": "2025-11-05T14:04:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Scientists Need a Positive Vision for AI",
     "link": "https://www.schneier.com/blog/archives/2025/11/scientists-need-a-positive-vision-for-ai.html",
@@ -326,23 +343,6 @@
     "contentSnippet": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
     "guid": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
     "isoDate": "2025-11-03T13:18:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
-    "link": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
-    "pubDate": "Mon, 03 Nov 2025 18:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmxVKba9Dgqm0Z67Kl0gXQXbPMhT_CbvxnNMtnrhn5s0I5wZm8o0I3Dk60ddk0MoEngtBfkLe12knwd9jV8AV7YaVP6fYcy60zKhCu3PomuZ7ZJttgXYf4CL3db0WcIuBkrUKeQmtQNF_rPMhVDVeEYaEwo15yvQbsllKM6cPyXlu_60E2rkpauhfITDR/s1600/recap.jpg"
-    },
-    "content": "Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems—some just hours after being found. No system was fully safe.\nFrom spying and fake job scams to strong ransomware and tricky phishing, the attacks came from all sides. Even encrypted backups and secure areas were put to the test.",
-    "contentSnippet": "Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems—some just hours after being found. No system was fully safe.\nFrom spying and fake job scams to strong ransomware and tricky phishing, the attacks came from all sides. Even encrypted backups and secure areas were put to the test.",
-    "guid": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
-    "isoDate": "2025-11-03T12:56:00.000Z",
     "itunes": {}
   }
 ]
