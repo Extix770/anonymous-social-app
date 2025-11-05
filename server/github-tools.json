@@ -27,15 +27,6 @@
     "language": null
   },
   {
-    "name": "RedTiger-Tools",
-    "owner": "loxy0dev",
-    "url": "https://github.com/loxy0dev/RedTiger-Tools",
-    "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-    "stars": 1735,
-    "forks": 343,
-    "language": "Python"
-  },
-  {
     "name": "Ransomware-Tool-Matrix",
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
@@ -445,8 +436,8 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 12,
-    "forks": 3,
+    "stars": 13,
+    "forks": 4,
     "language": "Python"
   },
   {
@@ -495,15 +486,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 10,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -511,6 +493,15 @@
     "stars": 10,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 10,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Shifter-tool",
@@ -711,21 +702,21 @@
     "language": null
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "File-analysis-tools",
+    "owner": "Adilnasceng",
+    "url": "https://github.com/Adilnasceng/File-analysis-tools",
+    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
+    "stars": 4,
+    "forks": 0,
+    "language": "C++"
   }
 ]
