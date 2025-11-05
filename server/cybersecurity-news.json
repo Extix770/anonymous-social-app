@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Ali Winston",
+    "title": "Zohran Mamdani Just Inherited the NYPD Surveillance State",
+    "link": "https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/",
+    "pubDate": "Wed, 05 Nov 2025 17:51:01 +0000",
+    "dc:creator": "Ali Winston",
+    "content": "In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations.",
+    "contentSnippet": "In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations.",
+    "guid": "690902754e544e9de926c80c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-11-05T17:51:01.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
     "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
@@ -326,23 +344,6 @@
     "contentSnippet": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised",
     "guid": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
     "isoDate": "2025-11-04T05:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
-    "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
-    "pubDate": "Mon, 03 Nov 2025 23:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s1600/soladity.jpg"
-    },
-    "content": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
-    "contentSnippet": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
-    "guid": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
-    "isoDate": "2025-11-03T18:08:00.000Z",
     "itunes": {}
   }
 ]
