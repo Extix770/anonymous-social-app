@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "name": "File-analysis-tools",
+    "owner": "Adilnasceng",
+    "url": "https://github.com/Adilnasceng/File-analysis-tools",
+    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
     "stars": 4,
-    "forks": 1,
-    "language": "Python"
+    "forks": 0,
+    "language": "C++"
   }
 ]
