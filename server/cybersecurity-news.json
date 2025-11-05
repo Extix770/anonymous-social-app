@@ -1,6 +1,57 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions",
+    "link": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
+    "pubDate": "Wed, 05 Nov 2025 16:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg"
+    },
+    "content": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
+    "contentSnippet": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
+    "guid": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
+    "isoDate": "2025-11-05T11:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
+    "link": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
+    "pubDate": "Wed, 05 Nov 2025 16:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXIMlJnqx7E3-6UYncV_kGW3LUD3e8ePPnKZ2nWmTSdjlvSMeVGwCwVaJQCYk6KCKcvnmiu1_Ujh_eqgtEJ3JYO2-FVzKTcDFiw5wmXacWEMwFhc3VtV8ZTenImisM-4talaTVCUqZHk1rxXoqY6b4kyHTh53q_OjRYj_MTznsoqhgb_0B8QAVWRc_KVV2/s1600/it-workers.jpg"
+    },
+    "content": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
+    "contentSnippet": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
+    "guid": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
+    "isoDate": "2025-11-05T10:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
+    "link": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
+    "pubDate": "Wed, 05 Nov 2025 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Typv0FhA4kzN6hRhuRsYCb7CNG7u5iId8CN_KCFj3ZCliQ0deQbIUQpJYkupf0dtKZulkLGCahDh0hfY9Ofs3PM5YCMyAnYmQH7ctyr79puTU3l6eOj6BWCt8y1bj_EI0rdT6zYrBeb_qwGuUNCBfIRtLABG51Dpr6SyxoNaV3Xj8QS-ZU01ie7jxEc/s1600/anyrun.jpg"
+    },
+    "content": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can",
+    "contentSnippet": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can",
+    "guid": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
+    "isoDate": "2025-11-05T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
     "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
     "pubDate": "Wed, 05 Nov 2025 11:42:00 +0530",
@@ -294,56 +345,5 @@
     "guid": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
     "isoDate": "2025-11-03T11:56:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data",
-    "link": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
-    "pubDate": "Mon, 03 Nov 2025 16:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Tt56UVzOmPmMb8bx8CdK2PZTnThikELcwApmVlEElJPqMdbGur-t2k_JEGRXo_sWqNkLG6TVRUUWKlMnhS_xQ4Tpzwp-CPqaEpn_n8PIEn11MyTpBmpsDDI8nEKBAeZ_NjWQ_hVPRjJHuSsc4xoZiG9II5fpf9mWE80YZd_-5-SDbHKtgoocG8I6qiBx/s1600/android.jpg"
-    },
-    "content": "Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.\nAccording to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment",
-    "contentSnippet": "Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.\nAccording to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment",
-    "guid": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
-    "isoDate": "2025-11-03T11:14:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea",
-    "link": "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html",
-    "pubDate": "Mon, 03 Nov 2025 16:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEYAYmymffrJslyjZDJpRu1vE-IbqbiurB5-rldIfgwDRWEeV8EpVqbWpZrVsKjw-LBAbl_b6Ao-TviGJigU85u3F8JI5kARLR9Vt4TL2QpJZolmnhl_v5KEKyJBzWqvGC9hVEla_UrX3YZblzOV3Ty1J4hCn3ULFJSxO3pszRKpflfwECdsSGs7Grzld/s1600/vpn-invoice.jpg"
-    },
-    "content": "The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in South Korea.\nGen Digital, which disclosed details of the activity, did not reveal any details on when the incident occurred, but noted that the phishing email contained a ZIP file (\"250908_A_HK이노션",
-    "contentSnippet": "The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in South Korea.\nGen Digital, which disclosed details of the activity, did not reveal any details on when the incident occurred, but noted that the phishing email contained a ZIP file (\"250908_A_HK이노션",
-    "guid": "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html",
-    "isoDate": "2025-11-03T10:42:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Ali Winston",
-    "title": "An Anarchist’s Conviction Offers a Grim Foreshadowing of Trump’s War on the ‘Left’",
-    "link": "https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/",
-    "pubDate": "Mon, 03 Nov 2025 10:30:00 +0000",
-    "dc:creator": "Ali Winston",
-    "content": "As the Trump administration ramps up its targeting of left-leaning people and groups, the prosecution and harsh sentencing of Casey Goonan may provide a glimpse of things to come.",
-    "contentSnippet": "As the Trump administration ramps up its targeting of left-leaning people and groups, the prosecution and harsh sentencing of Casey Goonan may provide a glimpse of things to come.",
-    "guid": "68dee6b73f8d95fc344e45c1",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Politics / Policy",
-      "Politics / Extremism"
-    ],
-    "isoDate": "2025-11-03T10:30:00.000Z"
   }
 ]
