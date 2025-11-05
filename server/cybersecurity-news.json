@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
+    "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+    "pubDate": "Wed, 05 Nov 2025 21:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv38bGYR4EsJddvrYIBdRlGLM4tSJFssQPifDWhLZFtuM0QGkNOR0HbuqK-3IkkBjlJhR0vhrxGOGMIqZYbT790fs70gtCQnNhDI5bwiozuLoj8-onQQrotBV-IVVCNmHFFBWWfJMpCQEtnYCli4lyGz9bRpMfr6T3aFHRMOrNfpuGaPihD-D3LdLn3yO_/s1600/malware-code.jpg"
+    },
+    "content": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and",
+    "contentSnippet": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and",
+    "guid": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+    "isoDate": "2025-11-05T15:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
     "link": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
     "pubDate": "Wed, 05 Nov 2025 19:34:00 +0530",
@@ -326,23 +343,6 @@
     "contentSnippet": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
     "guid": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
     "isoDate": "2025-11-03T18:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
-    "link": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
-    "pubDate": "Mon, 03 Nov 2025 18:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbX8J0_0T47YXAz7Dd3-oMDVE4jIN0KXLb0QHkdJOWEk1wS2tdrwCXtpfTtDW1YHXbqE2HMyNm4L6QZc3cEKQDnDGBAtiZL6CUlj0G1rGy3-9MFgpov7t3u4CtYJbkk3UDi_05qp5ScoXOKcn3duBXop74yVHiPN2epcn7CpoKQOZjwtVBAjrHj79iPxx/s1600/hacking-trucks.jpg"
-    },
-    "content": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
-    "contentSnippet": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
-    "guid": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
-    "isoDate": "2025-11-03T13:18:00.000Z",
     "itunes": {}
   }
 ]
