@@ -59,8 +59,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv38bGYR4EsJddvrYIBdRlGLM4tSJFssQPifDWhLZFtuM0QGkNOR0HbuqK-3IkkBjlJhR0vhrxGOGMIqZYbT790fs70gtCQnNhDI5bwiozuLoj8-onQQrotBV-IVVCNmHFFBWWfJMpCQEtnYCli4lyGz9bRpMfr6T3aFHRMOrNfpuGaPihD-D3LdLn3yO_/s1600/malware-code.jpg"
     },
-    "content": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and",
-    "contentSnippet": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and",
+    "content": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
+    "contentSnippet": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
     "guid": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
     "isoDate": "2025-11-05T15:33:00.000Z",
     "itunes": {}
