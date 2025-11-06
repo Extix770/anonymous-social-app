@@ -486,15 +486,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 10,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "Ayesha-osint-toolkit",
     "owner": "SilentProgrammer-max",
     "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
@@ -502,6 +493,15 @@
     "stars": 10,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "Shifter-tool",
@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -693,13 +684,13 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "digital-forensics-tools",
@@ -717,6 +708,15 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
