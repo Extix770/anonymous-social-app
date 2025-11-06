@@ -1,5 +1,59 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Rigged Poker Games",
+    "link": "https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html",
+    "pubDate": "Thu, 06 Nov 2025 12:02:45 +0000",
+    "content:encoded": "<p>The Department of Justice has <a href=\"https://www.wsj.com/sports/nba-illegal-gambling-poker-games-3e7988e4?st=ArwBJd&#038;reflink=article_copyURL_share&#038;utm_source=substack&#038;utm_medium=email\">indicted</a> thirty-one people over the high-tech rigging of high-stakes poker games.</p>\n<blockquote><p>In a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the &#8220;Quarterback&#8221; or &#8220;Driver.&#8221;  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. </p></blockquote>\n<p><a href=\"https://www.nytimes.com/2025/10/24/nyregion/nba-mafia-rigged-poker-games.html\">News</a> <a href=\"https://www.wired.com/story/card-shuffler-hack/\">articles</a>.</p>\n",
+    "content:encodedSnippet": "The Department of Justice has indicted thirty-one people over the high-tech rigging of high-stakes poker games.\nIn a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the “Quarterback” or “Driver.”  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. \n\nNews articles.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html#respond",
+    "content": "<p>The Department of Justice has <a href=\"https://www.wsj.com/sports/nba-illegal-gambling-poker-games-3e7988e4?st=ArwBJd&#038;reflink=article_copyURL_share&#038;utm_source=substack&#038;utm_medium=email\">indicted</a> thirty-one people over the high-tech rigging of high-stakes poker games.</p>\n<blockquote><p>In a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the &#8220;Quarterback&#8221; or &#8220;Driver.&#8221;  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. ...</p></blockquote>",
+    "contentSnippet": "The Department of Justice has indicted thirty-one people over the high-tech rigging of high-stakes poker games.\nIn a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the “Quarterback” or “Driver.”  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. ...",
+    "guid": "https://www.schneier.com/?p=71116",
+    "categories": [
+      "Uncategorized",
+      "cheating",
+      "gambling",
+      "hacking"
+    ],
+    "isoDate": "2025-11-06T12:02:45.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
+    "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
+    "pubDate": "Thu, 06 Nov 2025 17:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaJEM1FidoLhzNIrYBATCN7L9TeVdHj9VIprFLqsgTxUHm_iQChfyBlaCMZmoGonBSd1lHzUuVLOOY-tp25Ys8SdCPz_D86hBTHEOv_7LQijqkKpwRUr7AzQSlhL8KjqlKKZ1eYH-UBv6sAVfyFtyjisLixySCxpFvnHGJ6XaqWtc1EnB4_NkbnBxqTT5/s1600/lock.jpg"
+    },
+    "content": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in",
+    "contentSnippet": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in",
+    "guid": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
+    "isoDate": "2025-11-06T11:59:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
+    "pubDate": "Thu, 06 Nov 2025 17:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyQ0PFVFVKeK3ifBAYFp_8mGPq2I3Qp4ofpoaDKvrYyNeNwRk0O9XarwKrKOns6jD1W_TYqQsgzxiJ0PynmKe3sx6cUbyR29d8ERCzuPjm0LjxPimsPr2_fZW5aPbUii5SFaaqIpUHa5wUZAN75l_i5Z1JrjVrMwYWholAsVMe_2EBaN5_T2cFNTvnK2U/s1600/threatsday.jpg"
+    },
+    "content": "Cybercrime has stopped being a problem of just the internet &mdash; it&rsquo;s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political",
+    "contentSnippet": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political",
+    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
+    "isoDate": "2025-11-06T11:40:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Craig Silverman",
     "title": "Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan",
     "link": "https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/",
@@ -303,60 +357,5 @@
     "guid": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
     "isoDate": "2025-11-04T15:57:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-    "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-    "pubDate": "Tue, 04 Nov 2025 19:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNjN6vslUO_G4CduAbYSiA-CSV2SWczVdx8dOAdaWXrulZW9P3iJ6fkO1bN_PlrN1g7pExIbB5QdeO9h7yNQE2yVdSzg2OfbL1N6_K-bNhsguE9GHUilLuEuzpfybL2So0N9yP9J3UiTjjZhyphenhyphen571M1PCgZc4nv-woAH4Ja7q8rl8GZ3rQr4I7tPDhQu4p/s1600/code.jpg"
-    },
-    "content": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's",
-    "contentSnippet": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's",
-    "guid": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-    "isoDate": "2025-11-04T14:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
-    "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
-    "pubDate": "Tue, 04 Nov 2025 19:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxhWGZawWeHzNGIbomWP8Nbdh5Dd6tcZRBCwh1fzvzwLRHHrOAdfio4nT7DL5Lq7_v0S8mDZ5JcWhL_B75AVaO8pYvvxHr5UbkNOaALx-O3Xj2msk9pV1vHsgTDQjCYfED7yaajgRNK5Qarl8aAWqwk6W0GYG5DwB9MGPnXdrgRhGpgIyNdu5FYPJtPF5/s1600/ms-teams.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
-    "guid": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
-    "isoDate": "2025-11-04T14:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Cybercriminals Targeting Payroll Sites",
-    "link": "https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html",
-    "pubDate": "Tue, 04 Nov 2025 12:05:54 +0000",
-    "content:encoded": "<p>Microsoft is <a href=\"https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l\">warning</a> of a scam involving online payroll systems. Criminals use social engineering to steal people&#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.</p>\n<p>I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</p>\n",
-    "content:encodedSnippet": "Microsoft is warning of a scam involving online payroll systems. Criminals use social engineering to steal people’s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.\nI feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html#comments",
-    "content": "<p>Microsoft is <a href=\"https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l\">warning</a> of a scam involving online payroll systems. Criminals use social engineering to steal people&#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.</p>\n<p>I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</p>\n",
-    "contentSnippet": "Microsoft is warning of a scam involving online payroll systems. Criminals use social engineering to steal people’s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.\nI feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.",
-    "guid": "https://www.schneier.com/?p=71056",
-    "categories": [
-      "Uncategorized",
-      "banking",
-      "credentials",
-      "scams",
-      "social engineering"
-    ],
-    "isoDate": "2025-11-04T12:05:54.000Z"
   }
 ]
