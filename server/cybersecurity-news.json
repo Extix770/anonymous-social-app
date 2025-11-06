@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
+    "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+    "pubDate": "Thu, 06 Nov 2025 21:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgTnRaxG26x8DH7Ls4GJHR837IVsXDgmZVGVAFPSaUr0X4T1L4SW86A1IiQ5xQpq4V6K3UGzTyCMT-YsMndBRtpkPCnNJJRiT00Md8zO0SFFuaRbQjaJVguUUPHQmnQmNrpZBLVxoqPUxqLfVpmqUHXgg6G8p_w13M4wqmIPXe5izThcbXU-NE85dW7W7/s1600/software.jpg"
+    },
+    "content": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
+    "contentSnippet": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
+    "guid": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+    "isoDate": "2025-11-06T15:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
+    "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+    "pubDate": "Thu, 06 Nov 2025 20:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguQICBrIAy4egpR3_L81WB0olktrtuDgh79KCVl2zRcttl5-nCoG-RTQFBOiQdLQVK13lu-f3oklHQjhSKwQykhysf0Qr0sJdAiqVApmDSX4VtNxo_ad7SghrmSmPPm5VrR0Xsp1ChzihXguS2unwEJcpsEOKE7fFdQSmnoVuhQDJcLL-MPuh9zwmRgW0f/s1600/firewall.jpg"
+    },
+    "content": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362.\n\"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service",
+    "contentSnippet": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362.\n\"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service",
+    "guid": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+    "isoDate": "2025-11-06T14:58:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Rigged Poker Games",
     "link": "https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html",
@@ -323,39 +357,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-11-04T19:30:23.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-    "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-    "pubDate": "Tue, 04 Nov 2025 22:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGoqSoqWGCpoOD7hmLTjkWzWhFLusgvTr3g3RaGZWrSs_j4LAGbruNNztuHBQy5D835G8qsA6p2Go0Mw-aSoiHC7eY4-tGNEgXffrQPOIuEiEm0-n6gZHeq156nYnq9S_jRSk22aXI3X7aXXoCJwRRKdMN20Hf4M266ZMRZEsv7NhJTuPWBT6U3OlhQBE/s1600/hackers.jpg"
-    },
-    "content": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'",
-    "contentSnippet": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'",
-    "guid": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-    "isoDate": "2025-11-04T17:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
-    "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-    "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWKwScZjfCjIxjAGc2zRp5CurUdQrWfIyggSAeiGwqm0lISlnUZcukvjR3paESZ4ksOr99jBcbTxgnZmmlkbfAomK_9uRWH5cWfZ1yMHpuTwe2MyrQRAJTqyRHnyq0-JHHI0BRQNRoh_YWiLwIcUolW_n1swUtCoQSkiE2Nf0CsWFXNH6FQrSML5QO7xLu/s1600/crypto-scam.jpg"
-    },
-    "content": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in",
-    "contentSnippet": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in",
-    "guid": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-    "isoDate": "2025-11-04T15:57:00.000Z",
-    "itunes": {}
   }
 ]
