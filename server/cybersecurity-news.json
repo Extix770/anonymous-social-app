@@ -1,5 +1,38 @@
 [
   {
+    "creator": "Craig Silverman",
+    "title": "Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan",
+    "link": "https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/",
+    "pubDate": "Thu, 06 Nov 2025 11:30:00 +0000",
+    "dc:creator": "Craig Silverman",
+    "content": "Rob Leathern and Rob Goldman, who both worked at Meta, are launching a new nonprofit that aims to bring transparency to an increasingly opaque, scam-filled social media ecosystem.",
+    "contentSnippet": "Rob Leathern and Rob Goldman, who both worked at Meta, are launching a new nonprofit that aims to bring transparency to an increasingly opaque, scam-filled social media ecosystem.",
+    "guid": "690a7510c888c5327ef8a58e",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Business / Social Media"
+    ],
+    "isoDate": "2025-11-06T11:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response",
+    "link": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
+    "pubDate": "Thu, 06 Nov 2025 16:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzufju5hr_HLeUm1wJnO0Wac-XCbY35dncwtip0-mnLrcGP85GngoccqDhicfNyF9AKCyeKXM3DlKj9nyvmC8X-Zxx6A8ctmsiOguoZ7XjewL1btiT0ydW3EU-6PBexeXtn_6uGhy7nQXhB7eBhFTy1BH_M7sgEpA-CxxkBslSjr5amkwqOKe5y1hf_E/s1600/Bitdefender.png"
+    },
+    "content": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative",
+    "contentSnippet": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative",
+    "guid": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
+    "isoDate": "2025-11-06T10:43:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
     "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
@@ -325,39 +358,5 @@
       "social engineering"
     ],
     "isoDate": "2025-11-04T12:05:54.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Ransomware Defense Using the Wazuh Open Source Platform",
-    "link": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
-    "pubDate": "Tue, 04 Nov 2025 16:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzDGtHe9Q6e_Oawv8H4Le3i69OhWMTiJwqvdjqsp8o8oZ8gpy7R6cbsTzjncXVNJjI59pr2NENW0IycFha_hD92mziRlVuh_QhAeVo4mtyyz3iwUzD-e5UH6heYCAZGY3pwMJoWctM63QCiZAQe02F0r8KLU0_AkeGS4zxi9g-N5qiT4f5v15nJTMvFk/s1600/wazuh.jpg"
-    },
-    "content": "Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.\nA ransomware attack typically begins when the malware infiltrates a system through various vectors such as",
-    "contentSnippet": "Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.\nA ransomware attack typically begins when the malware infiltrates a system through various vectors such as",
-    "guid": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
-    "isoDate": "2025-11-04T11:06:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
-    "link": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
-    "pubDate": "Tue, 04 Nov 2025 16:19:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ok6aAygeqft712J7YEd_aBpjlL3SNlIraKZ2za1SW5EEy9HaK6k9fvrr-9WQVO3mbummfoqwbXUg-gbcXAYakGZTCjG3B1q6ur-9JEDP-krL8iq2nv53HY-DTSWSQEdQf1VO2S0msbO2Jj5ict0EjSES6j7nPpgX1Qz5nnN540Gy5EAiwBxidEff3gWe/s1600/russian.jpg"
-    },
-    "content": "Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.\nAccording to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for",
-    "contentSnippet": "Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.\nAccording to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for",
-    "guid": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
-    "isoDate": "2025-11-04T10:49:00.000Z",
-    "itunes": {}
   }
 ]
