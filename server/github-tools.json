@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
     "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
-    "stars": 740,
+    "stars": 741,
     "forks": 125,
     "language": null
   },
@@ -67,7 +67,7 @@
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
     "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
-    "stars": 503,
+    "stars": 504,
     "forks": 61,
     "language": "Python"
   },
@@ -486,15 +486,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 10,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "Ayesha-osint-toolkit",
     "owner": "SilentProgrammer-max",
     "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
@@ -502,6 +493,15 @@
     "stars": 10,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "Shifter-tool",
