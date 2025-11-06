@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
+  },
+  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -852,15 +861,6 @@
     "description": "Tools for National Cyber League Competition",
     "stars": 4,
     "forks": 1,
-    "language": null
-  },
-  {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 4,
-    "forks": 0,
     "language": null
   },
   {
