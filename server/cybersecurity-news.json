@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
+    "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
+    "pubDate": "Thu, 06 Nov 2025 12:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGBz7Fh35GCGnvq_75iKz59PN9dxPcO-sdZAGTMvQPVJ9tzq2wM8w5LzPxk1ZR8TITolw6e66VvmGhhE4Mu66MyW71fGIK1jVGkZU0TTOP01chaZWdcGzVYPwPMDz5spgt8ZajT7HOTW8cRBpFmudNWD6XIlQiZto9DdeuUPYUvGh4kOISUNI0TDt7DLq7/s1600/iwndows.jpg"
+    },
+    "content": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight",
+    "contentSnippet": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight",
+    "guid": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
+    "isoDate": "2025-11-06T07:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
     "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
     "pubDate": "Thu, 06 Nov 2025 11:10:00 +0530",
@@ -341,23 +358,6 @@
     "contentSnippet": "Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.\nAccording to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for",
     "guid": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
     "isoDate": "2025-11-04T10:49:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
-    "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
-    "pubDate": "Tue, 04 Nov 2025 13:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO90ZGqS1o8oXuQSYe44zmCBkNPE4eZDZy-NJhnRyFZ_ePcN4Tv-OOIuBKoi5Dnp0bN_HpCcxpAgMNYs6t0rCntWspx1JNRJSBbMsvzxDnSXewOvLDls6VU47KVeRxxDO4fHBO7_Ow6P9T3crzMpcwQxBofwQLcX0WKBIQYsHY64MDoazdGW_9ehXK7sXv/s1600/safari-flaw-ai.jpg"
-    },
-    "content": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow",
-    "contentSnippet": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow",
-    "guid": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
-    "isoDate": "2025-11-04T08:10:00.000Z",
     "itunes": {}
   }
 ]

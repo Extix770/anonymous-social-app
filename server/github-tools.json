@@ -873,15 +873,6 @@
     "language": "Perl"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -889,6 +880,15 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "File-analysis-tools",
