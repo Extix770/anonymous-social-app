@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
+    "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
+    "pubDate": "Thu, 06 Nov 2025 11:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCctUHc2OwM5F5Go-oWrnOzWRy5rrZrPA9u_OmYGFNNdrNxWTlUsNxHk134jH39G9AHzVVg_7R7XBXc-T4uGSZQBDiZMsIgC9M5aE3-JER0ftfAvAot8TRt499b_yFXIfYXTcF700DOwAInSqJSTdG33hgMcXrU5wXLTCg-G_q8xFNMs5WGaOeGzfQV2vK/s1600/sonicwall.jpg"
+    },
+    "content": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.\n\"The malicious activity – carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a",
+    "contentSnippet": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.\n\"The malicious activity – carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a",
+    "guid": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
+    "isoDate": "2025-11-06T05:40:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
     "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
@@ -341,23 +358,6 @@
     "contentSnippet": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow",
     "guid": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
     "isoDate": "2025-11-04T08:10:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
-    "link": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
-    "pubDate": "Tue, 04 Nov 2025 13:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mH0dvGWLCUJm63XD3luQR8ZpHCGiO_stcfyerR37pGHWLvFLC_CiXJ7j6TTTyxIJFx30P0YP2oXxFtMgAZTSfbNd7vL6Vy0lQ6ZR7wAfZIXZbND_xLM5yeejoG_uf-jhr_Wi9UZaSEvhR7XQ0ZcgZRxLQMRT1e8fvt5eVLMkX1l71OHc0jUwiDr1EnhZ/s1600/insider-ransomware.jpg"
-    },
-    "content": "Federal prosecutors in the U.S. have accused a trio of allegedly hacking the networks of five U.S. companies with BlackCat (aka ALPHV) ransomware between May and November 2023 and extorting them.\nRyan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co–conspirator (aka \"Co-Conspirator 1\") based in Florida, all U.S. nationals, are said to have used the ransomware strain against a medical",
-    "contentSnippet": "Federal prosecutors in the U.S. have accused a trio of allegedly hacking the networks of five U.S. companies with BlackCat (aka ALPHV) ransomware between May and November 2023 and extorting them.\nRyan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co–conspirator (aka \"Co-Conspirator 1\") based in Florida, all U.S. nationals, are said to have used the ransomware strain against a medical",
-    "guid": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
-    "isoDate": "2025-11-04T07:45:00.000Z",
     "itunes": {}
   }
 ]
