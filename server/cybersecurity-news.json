@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Game: The Challenge, Season Two",
+    "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html",
+    "pubDate": "Fri, 07 Nov 2025 22:01:03 +0000",
+    "content:encoded": "<p>The second season of the Netflix reality competition show <i>Squid Game: The Challenge</i> has dropped. (Too many links to pick a few&#8212;search for it.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "The second season of the Netflix reality competition show Squid Game: The Challenge has dropped. (Too many links to pick a few—search for it.)\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html#respond",
+    "content": "<p>The second season of the Netflix reality competition show <i>Squid Game: The Challenge</i> has dropped. (Too many links to pick a few&#8212;search for it.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "The second season of the Netflix reality competition show Squid Game: The Challenge has dropped. (Too many links to pick a few—search for it.)\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71143",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2025-11-07T22:01:03.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
     "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
@@ -340,22 +358,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2025-11-05T17:51:01.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
-    "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
-    "pubDate": "Wed, 05 Nov 2025 21:03:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv38bGYR4EsJddvrYIBdRlGLM4tSJFssQPifDWhLZFtuM0QGkNOR0HbuqK-3IkkBjlJhR0vhrxGOGMIqZYbT790fs70gtCQnNhDI5bwiozuLoj8-onQQrotBV-IVVCNmHFFBWWfJMpCQEtnYCli4lyGz9bRpMfr6T3aFHRMOrNfpuGaPihD-D3LdLn3yO_/s1600/malware-code.jpg"
-    },
-    "content": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
-    "contentSnippet": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
-    "guid": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
-    "isoDate": "2025-11-05T15:33:00.000Z",
-    "itunes": {}
   }
 ]
