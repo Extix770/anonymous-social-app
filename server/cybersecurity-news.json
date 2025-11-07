@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "The Government Shutdown Is a Ticking Cybersecurity Time Bomb",
+    "link": "https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/",
+    "pubDate": "Fri, 07 Nov 2025 22:34:26 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems.",
+    "contentSnippet": "Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems.",
+    "guid": "690cca9f2e32add3a4a02c8c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2025-11-07T22:34:26.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Squid Game: The Challenge, Season Two",
     "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html",
@@ -340,23 +358,5 @@
       "Renee Burton"
     ],
     "isoDate": "2025-11-06T02:04:36.000Z"
-  },
-  {
-    "creator": "Ali Winston",
-    "title": "Zohran Mamdani Just Inherited the NYPD Surveillance State",
-    "link": "https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/",
-    "pubDate": "Wed, 05 Nov 2025 17:51:01 +0000",
-    "dc:creator": "Ali Winston",
-    "content": "In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations.",
-    "contentSnippet": "In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations.",
-    "guid": "690902754e544e9de926c80c",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-11-05T17:51:01.000Z"
   }
 ]
