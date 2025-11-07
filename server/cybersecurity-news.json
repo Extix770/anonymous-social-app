@@ -1,5 +1,42 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Faking Receipts with AI",
+    "link": "https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html",
+    "pubDate": "Fri, 07 Nov 2025 12:01:46 +0000",
+    "content:encoded": "<p>Over the past few decades, it&#8217;s become easier and easier to create fake receipts. Decades ago, it required special paper and printers&#8212;I remember a company in the UK advertising its services to people trying to cover up their affairs. Then, receipts became computerized, and faking them required some artistic skills to make the page look realistic.</p>\n<p>Now, AI can <a href=\"https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/\">do it all</a>:</p>\n<blockquote><p>Several receipts shown to the FT by expense management platforms demonstrated the realistic nature of the images, which included wrinkles in paper, detailed itemization that matched real-life menus, and signatures.</p>\n<p>[&#8230;]</p>\n<p>The rise in these more realistic copies has led companies to turn to AI to help detect fake receipts, as most are too convincing to be found by human reviewers.</p>\n<p>The software works by scanning receipts to check the metadata of the image to discover whether an AI platform created it. However, this can be easily removed by users taking a photo or a screenshot of the picture.</p>\n<p>To combat this, it also considers other contextual information by examining details such as repetition in server names and times and broader information about the employee&#8217;s trip.</p></blockquote>\n<p>Yet another AI-powered security arms race.</p>\n",
+    "content:encodedSnippet": "Over the past few decades, it’s become easier and easier to create fake receipts. Decades ago, it required special paper and printers—I remember a company in the UK advertising its services to people trying to cover up their affairs. Then, receipts became computerized, and faking them required some artistic skills to make the page look realistic.\nNow, AI can do it all:\nSeveral receipts shown to the FT by expense management platforms demonstrated the realistic nature of the images, which included wrinkles in paper, detailed itemization that matched real-life menus, and signatures.\n[…]\nThe rise in these more realistic copies has led companies to turn to AI to help detect fake receipts, as most are too convincing to be found by human reviewers.\nThe software works by scanning receipts to check the metadata of the image to discover whether an AI platform created it. However, this can be easily removed by users taking a photo or a screenshot of the picture.\nTo combat this, it also considers other contextual information by examining details such as repetition in server names and times and broader information about the employee’s trip.\n\nYet another AI-powered security arms race.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html#respond",
+    "content": "<p>Over the past few decades, it&#8217;s become easier and easier to create fake receipts. Decades ago, it required special paper and printers&#8212;I remember a company in the UK advertising its services to people trying to cover up their affairs. Then, receipts became computerized, and faking them required some artistic skills to make the page look realistic.</p>\n<p>Now, AI can <a href=\"https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/\">do it all</a>:</p>\n<blockquote><p>Several receipts shown to the FT by expense management platforms demonstrated the realistic nature of the images, which included wrinkles in paper, detailed itemization that matched real-life menus, and signatures...</p></blockquote>",
+    "contentSnippet": "Over the past few decades, it’s become easier and easier to create fake receipts. Decades ago, it required special paper and printers—I remember a company in the UK advertising its services to people trying to cover up their affairs. Then, receipts became computerized, and faking them required some artistic skills to make the page look realistic.\nNow, AI can do it all:\nSeveral receipts shown to the FT by expense management platforms demonstrated the realistic nature of the images, which included wrinkles in paper, detailed itemization that matched real-life menus, and signatures...",
+    "guid": "https://www.schneier.com/?p=71119",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "forgery",
+      "fraud"
+    ],
+    "isoDate": "2025-11-07T12:01:46.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+    "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+    "pubDate": "Fri, 07 Nov 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
+    },
+    "content": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
+    "contentSnippet": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
+    "guid": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+    "isoDate": "2025-11-07T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dalila Sarabia",
     "title": "Mexico City Is the Most Video-Surveilled Metropolis in the Americas",
     "link": "https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/",
@@ -322,39 +359,5 @@
       "LLM"
     ],
     "isoDate": "2025-11-05T12:04:34.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Securing the Open Android Ecosystem with Samsung Knox",
-    "link": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
-    "pubDate": "Wed, 05 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPd1GerA19wNhABt5LKN6GfthI5rzfkRTbigEYmdoa_xBlhczavPQemf3AG5HSmjAYK3cot1kYKQuceJ90bhNnju1ZD9y_AnwuU_4cPawlBGIJtjtlIO7WnP8PVo4K0UEVJMSayB31YGm0TpferX6BetOhEDyB3v-faGFJB3ehP2Li9g7PpoIEoMLfO5Y/s1600/samsung.jpg"
-    },
-    "content": "Raise your hand if you’ve heard the myth, “Android isn’t secure.”\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security—after all, work data is critical.\nHowever, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your",
-    "contentSnippet": "Raise your hand if you’ve heard the myth, “Android isn’t secure.”\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security—after all, work data is critical.\nHowever, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your",
-    "guid": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
-    "isoDate": "2025-11-05T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions",
-    "link": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
-    "pubDate": "Wed, 05 Nov 2025 16:50:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg"
-    },
-    "content": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
-    "contentSnippet": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
-    "guid": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
-    "isoDate": "2025-11-05T11:20:00.000Z",
-    "itunes": {}
   }
 ]
