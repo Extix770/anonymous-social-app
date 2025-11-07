@@ -369,6 +369,15 @@
     "language": null
   },
   {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 16,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "Scapy-Network-Security-Tools",
     "owner": "HalilDeniz",
     "url": "https://github.com/HalilDeniz/Scapy-Network-Security-Tools",
@@ -385,15 +394,6 @@
     "stars": 16,
     "forks": 1,
     "language": "Python"
-  },
-  {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 15,
-    "forks": 3,
-    "language": null
   },
   {
     "name": "Analyst-Tool",
