@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+    "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+    "pubDate": "Fri, 07 Nov 2025 23:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdhOylrNJgPq_bzsvS2qG1AdCinAMndCQNEMDlO3VsOwA6o-VnLrygJWZjT2BQpvpfVQHxBb9yHEtPP808hVW4YtrRVCph0tRxdvxlkXvGbnavRFlic8wBUPh9lUlE5q54kCFWkf7eaLPxUoV5dcgVEvfaIwHZvGKs9xLK1jyslyqIcVuoz22Wv85ZAxLp/s1600/1000031618.jpg"
+    },
+    "content": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
+    "contentSnippet": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
+    "guid": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+    "isoDate": "2025-11-07T18:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
     "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
     "pubDate": "Fri, 07 Nov 2025 21:37:00 +0530",
@@ -339,23 +356,6 @@
     "contentSnippet": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
     "guid": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
     "isoDate": "2025-11-05T15:33:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
-    "link": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
-    "pubDate": "Wed, 05 Nov 2025 19:34:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc9u8ifBTtqcucAGtnB5BSuB4Zu2PTcSopIDhD1mxnUeFmAtb1KWyJuU3Yb8JAnJ-nQ4jltxhO5YCFzfd-VhbghvU9B8DewcX9kDZ4Wv65q-3Sqnj-tyAtaL2BNI_poMHKzeJMr93cjTv7U9lqZFSpLOgs0mYOjIA0QqYydcxGmxxqZGS-YS8hJUi8sdsJ/s1600/chatgpt-hack.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has",
-    "contentSnippet": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has",
-    "guid": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
-    "isoDate": "2025-11-05T14:04:00.000Z",
     "itunes": {}
   }
 ]
