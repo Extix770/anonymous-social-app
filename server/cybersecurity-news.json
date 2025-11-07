@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
+    "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
+    "pubDate": "Fri, 07 Nov 2025 14:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkWkPtJDt7NMpDyyxu0Dk8yD4cQupOSEtWa8Ph06Klxkm05DGxVyJqHeTD-_4jReaEKMuUp7tqz4QVLk0ZBk6cqAtTMm3idDSrunWqxh8mtFcm2kHp3Fnz73N1fT4Cp3Drx6I4SW-4S9H5OkbyM-grrLyeG6_taTh04R2sckKoe74Mzo6cmNk5DVxWWbJ/s1600/map.jpg"
+    },
+    "content": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
+    "contentSnippet": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
+    "guid": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
+    "isoDate": "2025-11-07T09:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
     "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
     "pubDate": "Fri, 07 Nov 2025 12:18:00 +0530",
@@ -98,8 +115,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyQ0PFVFVKeK3ifBAYFp_8mGPq2I3Qp4ofpoaDKvrYyNeNwRk0O9XarwKrKOns6jD1W_TYqQsgzxiJ0PynmKe3sx6cUbyR29d8ERCzuPjm0LjxPimsPr2_fZW5aPbUii5SFaaqIpUHa5wUZAN75l_i5Z1JrjVrMwYWholAsVMe_2EBaN5_T2cFNTvnK2U/s1600/threatsday.jpg"
     },
-    "content": "Cybercrime has stopped being a problem of just the internet &mdash; it&rsquo;s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political",
-    "contentSnippet": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political",
+    "content": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.",
+    "contentSnippet": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.",
     "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
     "isoDate": "2025-11-06T11:40:00.000Z",
     "itunes": {}
@@ -339,23 +356,6 @@
     "contentSnippet": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can",
     "guid": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
     "isoDate": "2025-11-05T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
-    "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
-    "pubDate": "Wed, 05 Nov 2025 11:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDITEgki_ICpEMcN92xGckaqijjlvW9kC6ZtYS8v1Fmvc50kvsku_Wke0Zk6nK6a27I8kbBHK8GSnlQ8xyGQx0_2WEMTfW4NN9Y5-ANCcPI5lTs7TdQwbaDygSw6KUqCaLW_JBEH1hKyvtVKjyqUs0Uk6xzrCIEW0nVuKt1VHtYv2SqCrHBJDznZQrP84J/s1600/CISA.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to",
-    "guid": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
-    "isoDate": "2025-11-05T06:12:00.000Z",
     "itunes": {}
   }
 ]
