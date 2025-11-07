@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Dalila Sarabia",
+    "title": "Mexico City Is the Most Video-Surveilled Metropolis in the Americas",
+    "link": "https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/",
+    "pubDate": "Fri, 07 Nov 2025 11:00:00 +0000",
+    "dc:creator": "Dalila Sarabia",
+    "content": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues.",
+    "contentSnippet": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues.",
+    "guid": "690cd7cdb950b4a61e7c40ea",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-07T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
     "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
@@ -339,23 +355,6 @@
     "contentSnippet": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
     "guid": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
     "isoDate": "2025-11-05T11:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
-    "link": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
-    "pubDate": "Wed, 05 Nov 2025 16:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXIMlJnqx7E3-6UYncV_kGW3LUD3e8ePPnKZ2nWmTSdjlvSMeVGwCwVaJQCYk6KCKcvnmiu1_Ujh_eqgtEJ3JYO2-FVzKTcDFiw5wmXacWEMwFhc3VtV8ZTenImisM-4talaTVCUqZHk1rxXoqY6b4kyHTh53q_OjRYj_MTznsoqhgb_0B8QAVWRc_KVV2/s1600/it-workers.jpg"
-    },
-    "content": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
-    "contentSnippet": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
-    "guid": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
-    "isoDate": "2025-11-05T10:55:00.000Z",
     "itunes": {}
   }
 ]
