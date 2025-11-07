@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
+    "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
+    "pubDate": "Fri, 07 Nov 2025 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd2Yv8UnFMT4Cdqiokt06WlgBfY7dC-Pni1OsXd0sK8uXMitu2HZzwAQ0Q9obp1fCJ6AobPf3pvcROa1ldIKGs8xHPNe8KDlaLI1RLlstkQ3F2-IXQJ-myIn9cNQW75qU-nHYTHRjkgArMAas97dZ7jybO6I8YeBc-_jGRzs_qJh3P2IFFEcnYZ8Hotf4/s1600/OUTPOST24.jpg"
+    },
+    "content": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization&rsquo;s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she&rsquo;s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
+    "contentSnippet": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization’s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she’s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
+    "guid": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
+    "isoDate": "2025-11-07T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
     "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
     "pubDate": "Fri, 07 Nov 2025 14:45:00 +0530",
@@ -339,23 +356,6 @@
     "contentSnippet": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
     "guid": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
     "isoDate": "2025-11-05T10:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
-    "link": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
-    "pubDate": "Wed, 05 Nov 2025 16:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Typv0FhA4kzN6hRhuRsYCb7CNG7u5iId8CN_KCFj3ZCliQ0deQbIUQpJYkupf0dtKZulkLGCahDh0hfY9Ofs3PM5YCMyAnYmQH7ctyr79puTU3l6eOj6BWCt8y1bj_EI0rdT6zYrBeb_qwGuUNCBfIRtLABG51Dpr6SyxoNaV3Xj8QS-ZU01ie7jxEc/s1600/anyrun.jpg"
-    },
-    "content": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can",
-    "contentSnippet": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can",
-    "guid": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
-    "isoDate": "2025-11-05T10:30:00.000Z",
     "itunes": {}
   }
 ]
