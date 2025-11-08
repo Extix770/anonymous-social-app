@@ -486,15 +486,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 10,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -502,6 +493,15 @@
     "stars": 10,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 10,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Shifter-tool",
@@ -882,15 +882,6 @@
     "language": "Perl"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   }
 ]
