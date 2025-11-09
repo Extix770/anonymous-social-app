@@ -216,21 +216,21 @@
     "language": "Python"
   },
   {
+    "name": "OPSEC-OSINT-Tools",
+    "owner": "airborne-commando",
+    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
+    "description": "A list of OSINT/OPSEC tools I made and or use.",
+    "stars": 44,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "OSINT-Tools",
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
     "stars": 43,
     "forks": 5,
-    "language": null
-  },
-  {
-    "name": "OPSEC-OSINT-Tools",
-    "owner": "airborne-commando",
-    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
-    "description": "A list of OSINT/OPSEC tools I made and or use.",
-    "stars": 43,
-    "forks": 2,
     "language": null
   },
   {
@@ -828,15 +828,6 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -844,6 +835,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "ipurl-tool",
