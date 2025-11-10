@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
+    "link": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+    "pubDate": "Mon, 10 Nov 2025 14:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8goc_pldbDLv5iqvwy1lPOMsFiJpxyBnaT86LqU-Cikl8RRxTJ_85lGPLG5gJvW-2xj77n-slDQ_lzrJ3AviPJUPYT4j_P1X0iQ5UHvohnr_OIVlSubxcbNN09PqQurWuIoLI9SCJ1K1hLnT9PzL5YLJEkPTyeKQYpySzXtTrlITtdSAzvBqAblnS4rX/s1600/hotel-hacks.jpg"
+    },
+    "content": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.\n\"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign",
+    "contentSnippet": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.\n\"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign",
+    "guid": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+    "isoDate": "2025-11-10T09:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
+    "link": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
+    "pubDate": "Mon, 10 Nov 2025 14:21:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9KHcsG95CDCZyquDxpW0r7mwKqS02FDVPKQJBLIZO-Xgsak_Ckjpdc3QI4i0oIU0IH9uZXTLmFqVzhUPsouw4BHMzdVsBu26TIdddQNNTx0tHeXh4xWNaT6NWo_UnmwxqRqtaIYB22kbynOZyWCutb5wAYEnhuRVm5rmasUtSq8LE2PB-Q9daDiprSyK/s1600/vscode.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem.\nThe extensions in question, which are still available for download, are listed below -\n\nai-driven-dev.ai-driven-dev (3,402 downloads)\nadhamu.history-in-sublime-merge (4,057",
+    "contentSnippet": "Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem.\nThe extensions in question, which are still available for download, are listed below -\n\nai-driven-dev.ai-driven-dev (3,402 downloads)\nadhamu.history-in-sublime-merge (4,057",
+    "guid": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
+    "isoDate": "2025-11-10T08:51:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
     "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
@@ -322,39 +356,5 @@
       "Business / Social Media"
     ],
     "isoDate": "2025-11-06T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response",
-    "link": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
-    "pubDate": "Thu, 06 Nov 2025 16:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzufju5hr_HLeUm1wJnO0Wac-XCbY35dncwtip0-mnLrcGP85GngoccqDhicfNyF9AKCyeKXM3DlKj9nyvmC8X-Zxx6A8ctmsiOguoZ7XjewL1btiT0ydW3EU-6PBexeXtn_6uGhy7nQXhB7eBhFTy1BH_M7sgEpA-CxxkBslSjr5amkwqOKe5y1hf_E/s1600/Bitdefender.png"
-    },
-    "content": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative",
-    "contentSnippet": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative",
-    "guid": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
-    "isoDate": "2025-11-06T10:43:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
-    "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-    "pubDate": "Thu, 06 Nov 2025 12:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGBz7Fh35GCGnvq_75iKz59PN9dxPcO-sdZAGTMvQPVJ9tzq2wM8w5LzPxk1ZR8TITolw6e66VvmGhhE4Mu66MyW71fGIK1jVGkZU0TTOP01chaZWdcGzVYPwPMDz5spgt8ZajT7HOTW8cRBpFmudNWD6XIlQiZto9DdeuUPYUvGh4kOISUNI0TDt7DLq7/s1600/iwndows.jpg"
-    },
-    "content": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight",
-    "contentSnippet": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight",
-    "guid": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-    "isoDate": "2025-11-06T07:22:00.000Z",
-    "itunes": {}
   }
 ]
