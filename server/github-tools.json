@@ -261,21 +261,21 @@
     "language": "Python"
   },
   {
+    "name": "3TH1C4L-MultiTool",
+    "owner": "RPxGoon",
+    "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
+    "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
+    "stars": 28,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
     "name": "Security-Event-Analysis-Automation-Tool",
     "owner": "AzharAnwar9",
     "url": "https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool",
     "description": "A SOC Analyst's tool to automate the investigation & validation of possible Indicators of Compromise (IOCs) and perform various tasks including Phishing Email Analysis & Brand Monitoring to fasten the incident response.",
     "stars": 27,
     "forks": 6,
-    "language": "Python"
-  },
-  {
-    "name": "3TH1C4L-MultiTool",
-    "owner": "RPxGoon",
-    "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
-    "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
-    "stars": 27,
-    "forks": 3,
     "language": "Python"
   },
   {
@@ -873,6 +873,15 @@
     "language": null
   },
   {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
+  },
+  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
   }
 ]
