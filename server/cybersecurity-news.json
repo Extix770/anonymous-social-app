@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
+    "pubDate": "Mon, 10 Nov 2025 18:21:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihDn-ouAjSamS6qppMqJQp0muEjFRy3-Rs2m4u6iNunhDZUPSbi9CQMC1Ub8r7CFkHVo_7B98nwiZbsLlbg2Xq_Im67d6GvqaEaq3ZILZfZVhYafqJydsDCggwkh_n3q-XDcZJ_JLFalQ7E_KK-nYa9_YrOZl62NnyglLa5vmtdWPF7K9lH07l32yv72CI/s1600/recap-nov.jpg"
+    },
+    "content": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast",
+    "contentSnippet": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast",
+    "guid": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
+    "isoDate": "2025-11-10T12:51:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "New Attacks Against Secure Enclaves",
     "link": "https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html",
@@ -19,6 +36,23 @@
       "physical security"
     ],
     "isoDate": "2025-11-10T12:04:55.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
+    "link": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
+    "pubDate": "Mon, 10 Nov 2025 17:28:06 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmfzDsP62FvRPwIyRZdDAPcaehng_GAhvSGbVAVkKWjMNyxews4CW0LRurCcsr3Wt2XCRsHWZhnOcHb3RjeKNRjsWLE_QxFNXfxEHm8LQoN5ecufFEZc-ARX6ZEl85Klpq4Z_1CsjybYHBXtUCo2kfydWn9ktUBCrTZrHHpm0aIkMX3fJAdflArlX-84/s1600/browser.jpg"
+    },
+    "content": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user’s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low.\nWhat’s emerging isn’t just a blindspot. It’s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI",
+    "contentSnippet": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user’s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low.\nWhat’s emerging isn’t just a blindspot. It’s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI",
+    "guid": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
+    "isoDate": "2025-11-10T11:58:06.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -327,39 +361,5 @@
       "hacking"
     ],
     "isoDate": "2025-11-06T12:02:45.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
-    "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
-    "pubDate": "Thu, 06 Nov 2025 17:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaJEM1FidoLhzNIrYBATCN7L9TeVdHj9VIprFLqsgTxUHm_iQChfyBlaCMZmoGonBSd1lHzUuVLOOY-tp25Ys8SdCPz_D86hBTHEOv_7LQijqkKpwRUr7AzQSlhL8KjqlKKZ1eYH-UBv6sAVfyFtyjisLixySCxpFvnHGJ6XaqWtc1EnB4_NkbnBxqTT5/s1600/lock.jpg"
-    },
-    "content": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in",
-    "contentSnippet": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in",
-    "guid": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
-    "isoDate": "2025-11-06T11:59:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
-    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
-    "pubDate": "Thu, 06 Nov 2025 17:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyQ0PFVFVKeK3ifBAYFp_8mGPq2I3Qp4ofpoaDKvrYyNeNwRk0O9XarwKrKOns6jD1W_TYqQsgzxiJ0PynmKe3sx6cUbyR29d8ERCzuPjm0LjxPimsPr2_fZW5aPbUii5SFaaqIpUHa5wUZAN75l_i5Z1JrjVrMwYWholAsVMe_2EBaN5_T2cFNTvnK2U/s1600/threatsday.jpg"
-    },
-    "content": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.",
-    "contentSnippet": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.",
-    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
-    "isoDate": "2025-11-06T11:40:00.000Z",
-    "itunes": {}
   }
 ]
