@@ -405,6 +405,15 @@
     "language": "Python"
   },
   {
+    "name": "pentest-toolkit",
+    "owner": "therealilyas",
+    "url": "https://github.com/therealilyas/pentest-toolkit",
+    "description": null,
+    "stars": 15,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
     "name": "Analyst-Tool",
     "owner": "cybersheepdog",
     "url": "https://github.com/cybersheepdog/Analyst-Tool",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
-  },
-  {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
   }
 ]
