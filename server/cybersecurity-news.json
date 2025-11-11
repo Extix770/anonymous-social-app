@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
+    "link": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
+    "pubDate": "Tue, 11 Nov 2025 21:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_gIwNxs0iD5Xi-iqyG6SM6_-T-HGSrhisOTbsd_IXIbBPhNqqQPaY-m9xeuPvh2V2CCA5qvNL2UrMZqu-LrredR1PXMg71aYeMjoMtpTQ3jExATxGIcP08cndRyNyUYQkxp0y-tlnXNDTWCC24M0X5px8Qt_zaRZumMgEejW9enncxB5Hmek2sFkAH9p/s1600/fonts.jpg"
+    },
+    "content": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\"",
+    "contentSnippet": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\"",
+    "guid": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
+    "isoDate": "2025-11-11T15:44:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Prompt Injection in AI Browsers",
     "link": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html",
@@ -346,21 +363,5 @@
     "guid": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
     "isoDate": "2025-11-07T11:55:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dalila Sarabia",
-    "title": "Mexico City Is the Most Video-Surveilled Metropolis in the Americas",
-    "link": "https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/",
-    "pubDate": "Fri, 07 Nov 2025 11:00:00 +0000",
-    "dc:creator": "Dalila Sarabia",
-    "content": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues.",
-    "contentSnippet": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues.",
-    "guid": "690cd7cdb950b4a61e7c40ea",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-07T11:00:00.000Z"
   }
 ]
