@@ -1,5 +1,77 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Prompt Injection in AI Browsers",
+    "link": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html",
+    "pubDate": "Tue, 11 Nov 2025 12:08:48 +0000",
+    "content:encoded": "<p><a href=\"https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/\">This</a> is why AIs are not ready to be personal assistants:</p>\n<blockquote><p>A new attack called &#8216;CometJacking&#8217; exploits URL parameters to pass to Perplexity&#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.</p>\n<p>In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.</p>\n<p>[&#8230;]</p>\n<p>CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &#8216;collection&#8217; parameter of the URL.</p>\n<p>LayerX researchers say that the prompt tells the agent to consult its memory and connected services instead of searching the web. As the AI tool is connected to various services, an attacker leveraging the CometJacking method could exfiltrate available data.</p>\n<p>In their tests, the connected services and accessible data include Google Calendar invites and Gmail messages and the malicious prompt included instructions to encode the sensitive data in base64 and then exfiltrate them to an external endpoint.</p>\n<p>According to the researchers, Comet followed the instructions and delivered the information to an external system controlled by the attacker, evading Perplexity&#8217;s checks.</p></blockquote>\n<p>I wrote <a href=\"https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html\">previously</a>:</p>\n<blockquote><p>Prompt injection isn&#8217;t just a minor security problem we need to deal with. It&#8217;s a fundamental property of current LLM technology. The systems have <a href=\"https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html\">no ability to separate trusted commands from untrusted data</a>, and there are an infinite number of prompt injection attacks with <a href=\"https://llm-attacks.org/\">no way to block them</a> as a class. We need some new fundamental science of LLMs before we can solve this.</p></blockquote>\n",
+    "content:encodedSnippet": "This is why AIs are not ready to be personal assistants:\nA new attack called ‘CometJacking’ exploits URL parameters to pass to Perplexity’s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.\nIn a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.\n[…]\nCometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the ‘collection’ parameter of the URL.\nLayerX researchers say that the prompt tells the agent to consult its memory and connected services instead of searching the web. As the AI tool is connected to various services, an attacker leveraging the CometJacking method could exfiltrate available data.\nIn their tests, the connected services and accessible data include Google Calendar invites and Gmail messages and the malicious prompt included instructions to encode the sensitive data in base64 and then exfiltrate them to an external endpoint.\nAccording to the researchers, Comet followed the instructions and delivered the information to an external system controlled by the attacker, evading Perplexity’s checks.\n\nI wrote previously:\nPrompt injection isn’t just a minor security problem we need to deal with. It’s a fundamental property of current LLM technology. The systems have no ability to separate trusted commands from untrusted data, and there are an infinite number of prompt injection attacks with no way to block them as a class. We need some new fundamental science of LLMs before we can solve this.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html#respond",
+    "content": "<p><a href=\"https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/\">This</a> is why AIs are not ready to be personal assistants:</p>\n<blockquote><p>A new attack called &#8216;CometJacking&#8217; exploits URL parameters to pass to Perplexity&#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.</p>\n<p>In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.</p>\n<p>[&#8230;]</p>\n<p>CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &#8216;collection&#8217; parameter of the URL...</p></blockquote>",
+    "contentSnippet": "This is why AIs are not ready to be personal assistants:\nA new attack called ‘CometJacking’ exploits URL parameters to pass to Perplexity’s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.\nIn a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.\n[…]\nCometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the ‘collection’ parameter of the URL...",
+    "guid": "https://www.schneier.com/?p=71125",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "browsers",
+      "cyberattack",
+      "LLM"
+    ],
+    "isoDate": "2025-11-11T12:08:48.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+    "pubDate": "Tue, 11 Nov 2025 17:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi237aSL-o6s_t-xtfun1CAuoHCY2XPJAUUHpQY18pfeww9bVAJ8M1Dtu1gEtk25UoLyeCOHz6k-TFkgBB2FSp_Y3VHQAYwpJNlBy48ffsfJQgA42Jvg1kNdRR6-VBxOZNk0ZFzIB3FrSylKmccKLCnY_olvsBLdOpA2MFqqDUZchxGce_loAbyFqyjHwk/s1600/reflectiz.jpg"
+    },
+    "content": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO&rsquo;s expert guide to AI Supply chain attacks here.&nbsp;\nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
+    "contentSnippet": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO’s expert guide to AI Supply chain attacks here. \nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
+    "guid": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+    "isoDate": "2025-11-11T11:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+    "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+    "pubDate": "Tue, 11 Nov 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
+    "contentSnippet": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
+    "guid": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+    "isoDate": "2025-11-11T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+    "link": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+    "pubDate": "Tue, 11 Nov 2025 17:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnztvfc0MS4mXpDjarA_dBNhWyKUYkHkdNF-kNrP6lLQ5-IlH3aQx6_xwLDyyx7qKhcry5c5t3qUNEsAgE4Qp5yxBKVVmgZWtg8F_0RX6bU29uCFoqTw1gdwPvNCdfwjVVapeiSyWW13-ESWpGPgkLiuV8hGMz4Vx5CSlm6JCk0n8CPLSikgtkUSWwn-n/s1600/android-telegram.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
+    "guid": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+    "isoDate": "2025-11-11T11:44:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
     "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
@@ -290,73 +362,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-11-07T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
-    "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-    "pubDate": "Fri, 07 Nov 2025 16:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd2Yv8UnFMT4Cdqiokt06WlgBfY7dC-Pni1OsXd0sK8uXMitu2HZzwAQ0Q9obp1fCJ6AobPf3pvcROa1ldIKGs8xHPNe8KDlaLI1RLlstkQ3F2-IXQJ-myIn9cNQW75qU-nHYTHRjkgArMAas97dZ7jybO6I8YeBc-_jGRzs_qJh3P2IFFEcnYZ8Hotf4/s1600/OUTPOST24.jpg"
-    },
-    "content": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization&rsquo;s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she&rsquo;s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
-    "contentSnippet": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization’s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she’s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
-    "guid": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-    "isoDate": "2025-11-07T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-    "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-    "pubDate": "Fri, 07 Nov 2025 14:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkWkPtJDt7NMpDyyxu0Dk8yD4cQupOSEtWa8Ph06Klxkm05DGxVyJqHeTD-_4jReaEKMuUp7tqz4QVLk0ZBk6cqAtTMm3idDSrunWqxh8mtFcm2kHp3Fnz73N1fT4Cp3Drx6I4SW-4S9H5OkbyM-grrLyeG6_taTh04R2sckKoe74Mzo6cmNk5DVxWWbJ/s1600/map.jpg"
-    },
-    "content": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
-    "contentSnippet": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
-    "guid": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-    "isoDate": "2025-11-07T09:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
-    "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-    "pubDate": "Fri, 07 Nov 2025 12:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s1600/vide-code-ransomware.jpg"
-    },
-    "content": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in other words, vibe-coded.\nSecure Annex researcher John Tuckner, who flagged the extension \"susvsex,\" said it does not attempt to hide its malicious functionality. The extension was uploaded on",
-    "contentSnippet": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in other words, vibe-coded.\nSecure Annex researcher John Tuckner, who flagged the extension \"susvsex,\" said it does not attempt to hide its malicious functionality. The extension was uploaded on",
-    "guid": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-    "isoDate": "2025-11-07T06:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
-    "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
-    "pubDate": "Thu, 06 Nov 2025 21:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgTnRaxG26x8DH7Ls4GJHR837IVsXDgmZVGVAFPSaUr0X4T1L4SW86A1IiQ5xQpq4V6K3UGzTyCMT-YsMndBRtpkPCnNJJRiT00Md8zO0SFFuaRbQjaJVguUUPHQmnQmNrpZBLVxoqPUxqLfVpmqUHXgg6G8p_w13M4wqmIPXe5izThcbXU-NE85dW7W7/s1600/software.jpg"
-    },
-    "content": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
-    "contentSnippet": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
-    "guid": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
-    "isoDate": "2025-11-06T15:31:00.000Z",
-    "itunes": {}
   }
 ]
