@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
+    "link": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
+    "pubDate": "Wed, 12 Nov 2025 00:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrlz0Rd5WFx1WGLM50k8zciZga_tvSSCACZehOgO5Kb-v0WP-PffiCulnIsUbwnvjPYtT15mAXR20xitSNUp9DlsPaN28keaeKCc1mybORUEBINDq5ptqGr5lOXht-rf_eQLckwgR2w5S4M8qx-R-kwDG6TmX3ydLfSACazclZlnIto_rB39ckAxYepJgl/s1600/whatsapp-web.jpg"
+    },
+    "content": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.\nAccording to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
+    "contentSnippet": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.\nAccording to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
+    "guid": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
+    "isoDate": "2025-11-11T18:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
     "link": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
     "pubDate": "Tue, 11 Nov 2025 21:14:00 +0530",
@@ -346,22 +363,5 @@
       "fraud"
     ],
     "isoDate": "2025-11-07T12:01:46.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
-    "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-    "pubDate": "Fri, 07 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
-    },
-    "content": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
-    "contentSnippet": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
-    "guid": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-    "isoDate": "2025-11-07T11:55:00.000Z",
-    "itunes": {}
   }
 ]
