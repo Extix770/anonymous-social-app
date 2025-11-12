@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "This Is the Platform Google Claims Is Behind a 'Staggering’ Scam Text Operation",
+    "link": "https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/",
+    "pubDate": "Wed, 12 Nov 2025 10:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "Google is suing 25 people it alleges are behind a “relentless” scam text operation that uses a phishing-as-a-service platform called Lighthouse.",
+    "contentSnippet": "Google is suing 25 people it alleges are behind a “relentless” scam text operation that uses a phishing-as-a-service platform called Lighthouse.",
+    "guid": "691346949e5a9ce509c067de",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-12T10:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Launches 'Private AI Compute' — Secure AI Processing with On-Device-Level Privacy",
     "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
@@ -342,23 +357,6 @@
     "contentSnippet": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
     "guid": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
     "isoDate": "2025-11-07T18:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
-    "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-    "pubDate": "Fri, 07 Nov 2025 21:37:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZqCg2FCyFs0KtendNTgM4kewxtAD-fYM5tkn2HDgCT7zqWB-FhYCeJWfm7eeYgQ0ip9aM7jsB1Ix3uGJqIeuJ8R96V4N7fGEOmKsPADGI_yBY5t-PdMm_troy6kaZ6NHtF4fQobzpxaMu9FqSPBvQGeZoVADWx54U9zHT5JvFHQUWdxkY73A2bEPhHg/s1600/1000031591.jpg"
-    },
-    "content": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government",
-    "contentSnippet": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government",
-    "guid": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-    "isoDate": "2025-11-07T16:07:00.000Z",
     "itunes": {}
   }
 ]
