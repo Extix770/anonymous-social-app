@@ -693,6 +693,15 @@
     "language": "Python"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -702,13 +711,13 @@
     "language": "C"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
-    "language": "TypeScript"
+    "language": "Python"
   },
   {
     "name": "qradarOffenseTools",
@@ -727,15 +736,6 @@
     "stars": 6,
     "forks": 2,
     "language": null
-  },
-  {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
   },
   {
     "name": "red_team_toolkit",
@@ -783,15 +783,6 @@
     "language": "Go"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "OSINT-TOOLS",
     "owner": "ruzgarcyber",
     "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
@@ -799,6 +790,15 @@
     "stars": 5,
     "forks": 0,
     "language": null
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cloud-security-tools",
@@ -846,15 +846,6 @@
     "language": "Python"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -862,6 +853,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "ipurl-tool",
