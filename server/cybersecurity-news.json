@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
+    "link": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
+    "pubDate": "Wed, 12 Nov 2025 16:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzohgVmJwL0IMF6xUDk-7UKhnswaBtnht8YAdjmMgnPeft_d_PwFL5ZFvm9zfO_pKg-RkmHgwEM9Uyj6lr5GnUB_Y4IM2oDsroi0pC1yYS6-zdbpiGX-gIlpFQwmBgy-4TcXvQ3NtTXheeqFVh6DL9RUjug2QhaFGFZJOtiJdPOkC1jkZWBuJIJsIHwS0/s1600/MAIN.jpg"
+    },
+    "content": "Active Directory remains the authentication backbone for&nbsp;over 90% of Fortune 1000 companies. AD's importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active",
+    "contentSnippet": "Active Directory remains the authentication backbone for over 90% of Fortune 1000 companies. AD's importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active",
+    "guid": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
+    "isoDate": "2025-11-12T11:07:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack",
+    "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
+    "pubDate": "Wed, 12 Nov 2025 15:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s1600/windows-update.jpg"
+    },
+    "content": "Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.\nOf the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three",
+    "contentSnippet": "Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.\nOf the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three",
+    "guid": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
+    "isoDate": "2025-11-12T10:21:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "This Is the Platform Google Claims Is Behind a 'Staggering’ Scam Text Operation",
     "link": "https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/",
@@ -323,40 +357,5 @@
       "Politics / Politics News"
     ],
     "isoDate": "2025-11-07T22:34:26.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Game: The Challenge, Season Two",
-    "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html",
-    "pubDate": "Fri, 07 Nov 2025 22:01:03 +0000",
-    "content:encoded": "<p>The second season of the Netflix reality competition show <i>Squid Game: The Challenge</i> has dropped. (Too many links to pick a few&#8212;search for it.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "The second season of the Netflix reality competition show Squid Game: The Challenge has dropped. (Too many links to pick a few—search for it.)\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html#comments",
-    "content": "<p>The second season of the Netflix reality competition show <i>Squid Game: The Challenge</i> has dropped. (Too many links to pick a few&#8212;search for it.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "The second season of the Netflix reality competition show Squid Game: The Challenge has dropped. (Too many links to pick a few—search for it.)\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71143",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2025-11-07T22:01:03.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
-    "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-    "pubDate": "Fri, 07 Nov 2025 23:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg"
-    },
-    "content": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
-    "contentSnippet": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
-    "guid": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-    "isoDate": "2025-11-07T18:00:00.000Z",
-    "itunes": {}
   }
 ]
