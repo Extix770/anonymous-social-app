@@ -1,5 +1,41 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "On Hacking Back",
+    "link": "https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html",
+    "pubDate": "Wed, 12 Nov 2025 12:01:53 +0000",
+    "content:encoded": "<p>Former DoJ attorney John Carlin <a href=\"https://www.aspendigital.org/blog/so-you-want-to-hack-back/\">writes</a> about hackback, which he defines thus: &#8220;A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are&#8212;­by definition­&#8212;not passive defensive measures.&#8221;</p>\n<p>His conclusion:</p>\n<blockquote><p>As the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.</p>\n<p>At the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation.</p>\n<p>As for the broad range of other hack back tactics that fall in the middle of active defense and offensive measures, private parties should continue to engage in these tactics only with government oversight or authorization. These measures exist within a legal gray area and would likely benefit from amendments to the CFAA and CISA that clarify and carve out the parameters of authorization for specific self-defense measures. But in the absence of amendments or clarification on the scope of those laws, private actors can seek governmental authorization through an array of channels, whether they be partnering with law enforcement or seeking authorization to engage in more offensive tactics from the courts in connection with private litigation.</p></blockquote>\n",
+    "content:encodedSnippet": "Former DoJ attorney John Carlin writes about hackback, which he defines thus: “A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are—­by definition­—not passive defensive measures.”\nHis conclusion:\nAs the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.\nAt the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation.\nAs for the broad range of other hack back tactics that fall in the middle of active defense and offensive measures, private parties should continue to engage in these tactics only with government oversight or authorization. These measures exist within a legal gray area and would likely benefit from amendments to the CFAA and CISA that clarify and carve out the parameters of authorization for specific self-defense measures. But in the absence of amendments or clarification on the scope of those laws, private actors can seek governmental authorization through an array of channels, whether they be partnering with law enforcement or seeking authorization to engage in more offensive tactics from the courts in connection with private litigation.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html#comments",
+    "content": "<p>Former DoJ attorney John Carlin <a href=\"https://www.aspendigital.org/blog/so-you-want-to-hack-back/\">writes</a> about hackback, which he defines thus: &#8220;A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are&#8212;­by definition­&#8212;not passive defensive measures.&#8221;</p>\n<p>His conclusion:</p>\n<blockquote><p>As the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.</p>\n<p>At the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation...</p></blockquote>",
+    "contentSnippet": "Former DoJ attorney John Carlin writes about hackback, which he defines thus: “A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are—­by definition­—not passive defensive measures.”\nHis conclusion:\nAs the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.\nAt the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation...",
+    "guid": "https://www.schneier.com/?p=71128",
+    "categories": [
+      "Uncategorized",
+      "hackback",
+      "laws"
+    ],
+    "isoDate": "2025-11-12T12:01:53.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
+    "pubDate": "Wed, 12 Nov 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb7usGljMR3vSfxxk9XeKY39fUcIRMFDq6GOy0OEA_AK7P4ybAoHwl9Ga45OJ5pZPzpDhwqZ0D6PKEI-IFFifcl-NWBM5ymJ6wcNSyL3bneCMbRbVGz1ca3MIaKDHWbNvOVzK1LinCOt0RLYF1-zb_Zy11bGddkRxowymBu754CFJDpCDIreh4iiGF4loK/s1600/cyberteams.jpg"
+    },
+    "content": "Every day, security teams face the same problem—too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you’re always one step behind.\nBut what if there was a smarter way to stay ahead—without adding more work or stress?\nJoin The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
+    "contentSnippet": "Every day, security teams face the same problem—too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you’re always one step behind.\nBut what if there was a smarter way to stay ahead—without adding more work or stress?\nJoin The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
+    "guid": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
+    "isoDate": "2025-11-12T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
     "link": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
@@ -322,40 +358,5 @@
       "wired"
     ],
     "isoDate": "2025-11-09T18:14:40.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-    "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-    "pubDate": "Sat, 08 Nov 2025 19:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg"
-    },
-    "content": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model conversation topics despite encryption protections under certain circumstances.\nThis leakage of data exchanged between humans and streaming-mode language models could pose serious risks to",
-    "contentSnippet": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model conversation topics despite encryption protections under certain circumstances.\nThis leakage of data exchanged between humans and streaming-mode language models could pose serious risks to",
-    "guid": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-    "isoDate": "2025-11-08T14:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "The Government Shutdown Is a Ticking Cybersecurity Time Bomb",
-    "link": "https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/",
-    "pubDate": "Fri, 07 Nov 2025 22:34:26 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems.",
-    "contentSnippet": "Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems.",
-    "guid": "690cca9f2e32add3a4a02c8c",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-11-07T22:34:26.000Z"
   }
 ]
