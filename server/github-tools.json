@@ -693,15 +693,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -711,13 +702,22 @@
     "language": "C"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
     "forks": 1,
-    "language": "Python"
+    "language": "TypeScript"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "qradarOffenseTools",
@@ -729,13 +729,13 @@
     "language": "Python"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
-    "forks": 2,
-    "language": null
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "red_team_toolkit",
@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -790,15 +799,6 @@
     "stars": 5,
     "forks": 0,
     "language": null
-  },
-  {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "cloud-security-tools",
@@ -846,15 +846,6 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -862,6 +853,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "ipurl-tool",
