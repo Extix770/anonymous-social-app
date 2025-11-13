@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
+    "link": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
+    "pubDate": "Thu, 13 Nov 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifX_sGMzSUW1AUV_08r1UPZTqpZXXvAv6Th97yAF1ja5P66mnLefkfQZapkXuvk0LIjdD312TqcZ3DX_ZSnMRjA3FbJSUKNSH1CcjhoGJqfwe7q6ImqOiSTKvZRNNptcqkij0KS_U-k1FmZETxV5DiQlxNjSfAwNvpcvbvrjBgsfbpGiFSt2ePmvEzGgk/s1600/MAIN-action.jpg"
+    },
+    "content": "The Race for Every New CVE\nBased on multiple 2025 industry reports: roughly 50 to 61 percent of newly disclosed vulnerabilities saw exploit code weaponized within 48 hours. Using the CISA Known Exploited Vulnerabilities Catalog as a reference, hundreds of software flaws are now confirmed as actively targeted within days of public disclosure. Each new announcement now triggers a global race",
+    "contentSnippet": "The Race for Every New CVE\nBased on multiple 2025 industry reports: roughly 50 to 61 percent of newly disclosed vulnerabilities saw exploit code weaponized within 48 hours. Using the CISA Known Exploited Vulnerabilities Catalog as a reference, hundreds of software flaws are now confirmed as actively targeted within days of public disclosure. Each new announcement now triggers a global race",
+    "guid": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
+    "isoDate": "2025-11-13T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
+    "link": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
+    "pubDate": "Thu, 13 Nov 2025 16:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY00oEG13hfnasBGraI20sE4zXV_Scyf9TwtpMtBdvk4u_OOeWIaCeiUXi-e-rBOypRqVbQP4ydMp9a95qu7LQiUv4Xt-mmGd5eJIWIFp9JGJaDGVyGbMxZ88SJLVfsw7bp2z_6QS0NHt-OL973LypZMemh_1B6kxKW0fycaGBBYU1DkMS9_0JP_0d_EKA/s1600/botnets.jpg"
+    },
+    "content": "Malware families like Rhadamanthys Stealer, Venom RAT, and the Elysium botnet have been disrupted as part of a coordinated law enforcement operation led by Europol and Eurojust.\nThe activity, which is taking place between November 10 and 13, 2025, marks the latest phase of Operation Endgame, an ongoing operation designed to take down criminal infrastructures and combat ransomware enablers",
+    "contentSnippet": "Malware families like Rhadamanthys Stealer, Venom RAT, and the Elysium botnet have been disrupted as part of a coordinated law enforcement operation led by Europol and Eurojust.\nThe activity, which is taking place between November 10 and 13, 2025, marks the latest phase of Operation Endgame, an ongoing operation designed to take down criminal infrastructures and combat ransomware enablers",
+    "guid": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
+    "isoDate": "2025-11-13T11:16:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
     "link": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
     "pubDate": "Thu, 13 Nov 2025 15:40:00 +0530",
@@ -304,40 +338,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
     "guid": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
     "isoDate": "2025-11-11T11:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
-    "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
-    "pubDate": "Tue, 11 Nov 2025 02:19:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8M2fayypp4tc7l9XXHjTnXQnhElB2WNkkdqTieUwFXlwEx60oLFnbxhHJQDW3kk7TrkYf5s3WrZEjoaRhTEfVhkehsPEgFQQTIs_KH9FgqGP_ozimhhEazGWZCDR7p5CVEyCo5cf-V5_8HlzJCIl0lGMTdArM6v9-U-BPKd5vbkaINt60uHPrqNSidg7j/s1600/hackers.png"
-    },
-    "content": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp;\nThe",
-    "contentSnippet": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads. \nThe",
-    "guid": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
-    "isoDate": "2025-11-10T20:49:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon",
-    "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-    "pubDate": "Tue, 11 Nov 2025 01:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpCQ5f-ly7CHt6FDz9ULaJDLRDxJIrT9-GScn1vGk8jXp6zSXDDAMGMMZ-LY2bolu8-7HPoW0BNzFEyouKuyHNukvjbtUF16MiYto_WUV9Ve3x7ZJZYoE0J54qzT0VPtdZ_Bs54xIN53ifzW_Kqrd5QLPAEDEjUgfpUkcLLngM1_KrJaUi44JLAcg5m-f/s1600/hub.jpg"
-    },
-    "content": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
-    "contentSnippet": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
-    "guid": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-    "isoDate": "2025-11-10T20:29:00.000Z",
     "itunes": {}
   }
 ]
