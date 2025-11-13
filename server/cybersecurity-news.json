@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
+    "pubDate": "Thu, 13 Nov 2025 15:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjcN5gUiUl1dr7wmK15gRPjL2FiB6JcudmfA1-b8FM8m4MeOGl1jiAXwihlPQrYa1nbrs6eupd6Lk5h-XiGIybMkphWiNvv3uBC1eVewDUxQ-Z2WANldO93ilR2OyUlVvXpYMlFRs15S5A6CbDZtudGXbm6sl7gnob6FLPnmO2rAqHLlu9jUWCIuXWchV4/s1600/threatsday-cover.jpg"
+    },
+    "content": "Behind every click, there’s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us.\nBut security teams are fighting back. They’re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It’s a constant race — every",
+    "contentSnippet": "Behind every click, there’s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us.\nBut security teams are fighting back. They’re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It’s a constant race — every",
+    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
+    "isoDate": "2025-11-13T10:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
     "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
     "pubDate": "Thu, 13 Nov 2025 12:53:00 +0530",
@@ -321,23 +338,6 @@
     "contentSnippet": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
     "guid": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
     "isoDate": "2025-11-10T20:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
-    "link": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
-    "pubDate": "Mon, 10 Nov 2025 18:21:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihDn-ouAjSamS6qppMqJQp0muEjFRy3-Rs2m4u6iNunhDZUPSbi9CQMC1Ub8r7CFkHVo_7B98nwiZbsLlbg2Xq_Im67d6GvqaEaq3ZILZfZVhYafqJydsDCggwkh_n3q-XDcZJ_JLFalQ7E_KK-nYa9_YrOZl62NnyglLa5vmtdWPF7K9lH07l32yv72CI/s1600/recap-nov.jpg"
-    },
-    "content": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast",
-    "contentSnippet": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast",
-    "guid": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
-    "isoDate": "2025-11-10T12:51:00.000Z",
     "itunes": {}
   }
 ]
