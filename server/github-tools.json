@@ -221,7 +221,7 @@
     "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
     "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
     "stars": 51,
-    "forks": 4,
+    "forks": 5,
     "language": "Python"
   },
   {
