@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
+    "link": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
+    "pubDate": "Thu, 13 Nov 2025 18:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-Kf6dnTbbnxktKjoq7yOuQcEZ5eAObBOOXkT5cPRRC_UZGyfDnQOrZA8yiAE-fn6mXRgzOiWxB7uFr2ofyOnoUIWRW9geQttVX95HTIeAiU2sS4osiKQiWxKIWeJcc0oKw84MabuSF0i59NpUq0YB3uIHp7OsSRDAZQFnIhjENG6xSjX6BxlDDZkMbYw/s1600/chrome-eth.png"
+    },
+    "content": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases.\nThe name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on",
+    "contentSnippet": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases.\nThe name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on",
+    "guid": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
+    "isoDate": "2025-11-13T13:04:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Book Review: The Business of Secrets",
     "link": "https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html",
@@ -325,23 +342,6 @@
     "contentSnippet": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO’s expert guide to AI Supply chain attacks here. \nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
     "guid": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
     "isoDate": "2025-11-11T11:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise",
-    "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
-    "pubDate": "Tue, 11 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
-    "contentSnippet": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
-    "guid": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
-    "isoDate": "2025-11-11T11:55:00.000Z",
     "itunes": {}
   }
 ]
