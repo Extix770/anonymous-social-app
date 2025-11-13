@@ -319,7 +319,7 @@
     "owner": "XiaomingX",
     "url": "https://github.com/XiaomingX/awesome-hacker-tools",
     "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
-    "stars": 20,
+    "stars": 21,
     "forks": 3,
     "language": "Python"
   },
@@ -378,15 +378,6 @@
     "language": null
   },
   {
-    "name": "pentest-toolkit",
-    "owner": "therealilyas",
-    "url": "https://github.com/therealilyas/pentest-toolkit",
-    "description": "Advanced penetration testing toolkit in Python & Bash for ethical hackers and security professionals. Automates reconnaissance, vulnerability scanning, and reporting.",
-    "stars": 16,
-    "forks": 4,
-    "language": "Python"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "paulveillard",
     "url": "https://github.com/paulveillard/cybersecurity-tools",
@@ -411,6 +402,15 @@
     "description": "Wi-Fi Scanner using Raspberry Pi Pico WH and SSD1306 OLED — Scan networks in STA mode, analyze signal strength, and visualize....;)",
     "stars": 16,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "pentest-toolkit",
+    "owner": "therealilyas",
+    "url": "https://github.com/therealilyas/pentest-toolkit",
+    "description": "Advanced penetration testing toolkit in Python & Bash for ethical hackers and security professionals. Automates reconnaissance, vulnerability scanning, and reporting.",
+    "stars": 15,
+    "forks": 4,
     "language": "Python"
   },
   {
@@ -648,15 +648,6 @@
     "language": null
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "GovTools",
     "owner": "DecryptaTechnologies",
     "url": "https://github.com/DecryptaTechnologies/GovTools",
@@ -664,6 +655,15 @@
     "stars": 7,
     "forks": 1,
     "language": "C#"
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -693,6 +693,15 @@
     "language": "Python"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -702,13 +711,13 @@
     "language": "C"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
-    "language": "TypeScript"
+    "language": "Python"
   },
   {
     "name": "digital-forensics-tools",
@@ -726,15 +735,6 @@
     "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
     "language": "Python"
   },
   {
@@ -774,15 +774,6 @@
     "language": "Python"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -790,6 +781,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "OSINT-TOOLS",
