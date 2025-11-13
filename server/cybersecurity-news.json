@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
+    "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
+    "pubDate": "Fri, 14 Nov 2025 01:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNhnn_FN1YzknlukZNSETlpsGEWJunJd8RntQwlE18t1lnZfUv4tbHe_CJkkLPVlZsRTU3_mz2Tfc1hsiCwmm2o-WcAz5zlXQqja_tPqI9__l8xz7MZDJC3rqW17VKFA3sy5v5Vyjd5UuqiytOPADhVEW7ZtFU2Uw7GobK91GhWnm7Bei_mTBMhLs83TQW/s1600/travel-sites.jpg"
+    },
+    "content": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
+    "contentSnippet": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
+    "guid": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
+    "isoDate": "2025-11-13T20:27:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
     "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
@@ -336,26 +353,5 @@
     "guid": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
     "isoDate": "2025-11-11T15:44:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Prompt Injection in AI Browsers",
-    "link": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html",
-    "pubDate": "Tue, 11 Nov 2025 12:08:48 +0000",
-    "content:encoded": "<p><a href=\"https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/\">This</a> is why AIs are not ready to be personal assistants:</p>\n<blockquote><p>A new attack called &#8216;CometJacking&#8217; exploits URL parameters to pass to Perplexity&#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.</p>\n<p>In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.</p>\n<p>[&#8230;]</p>\n<p>CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &#8216;collection&#8217; parameter of the URL.</p>\n<p>LayerX researchers say that the prompt tells the agent to consult its memory and connected services instead of searching the web. As the AI tool is connected to various services, an attacker leveraging the CometJacking method could exfiltrate available data.</p>\n<p>In their tests, the connected services and accessible data include Google Calendar invites and Gmail messages and the malicious prompt included instructions to encode the sensitive data in base64 and then exfiltrate them to an external endpoint.</p>\n<p>According to the researchers, Comet followed the instructions and delivered the information to an external system controlled by the attacker, evading Perplexity&#8217;s checks.</p></blockquote>\n<p>I wrote <a href=\"https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html\">previously</a>:</p>\n<blockquote><p>Prompt injection isn&#8217;t just a minor security problem we need to deal with. It&#8217;s a fundamental property of current LLM technology. The systems have <a href=\"https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html\">no ability to separate trusted commands from untrusted data</a>, and there are an infinite number of prompt injection attacks with <a href=\"https://llm-attacks.org/\">no way to block them</a> as a class. We need some new fundamental science of LLMs before we can solve this.</p></blockquote>\n",
-    "content:encodedSnippet": "This is why AIs are not ready to be personal assistants:\nA new attack called ‘CometJacking’ exploits URL parameters to pass to Perplexity’s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.\nIn a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.\n[…]\nCometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the ‘collection’ parameter of the URL.\nLayerX researchers say that the prompt tells the agent to consult its memory and connected services instead of searching the web. As the AI tool is connected to various services, an attacker leveraging the CometJacking method could exfiltrate available data.\nIn their tests, the connected services and accessible data include Google Calendar invites and Gmail messages and the malicious prompt included instructions to encode the sensitive data in base64 and then exfiltrate them to an external endpoint.\nAccording to the researchers, Comet followed the instructions and delivered the information to an external system controlled by the attacker, evading Perplexity’s checks.\n\nI wrote previously:\nPrompt injection isn’t just a minor security problem we need to deal with. It’s a fundamental property of current LLM technology. The systems have no ability to separate trusted commands from untrusted data, and there are an infinite number of prompt injection attacks with no way to block them as a class. We need some new fundamental science of LLMs before we can solve this.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html#comments",
-    "content": "<p><a href=\"https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/\">This</a> is why AIs are not ready to be personal assistants:</p>\n<blockquote><p>A new attack called &#8216;CometJacking&#8217; exploits URL parameters to pass to Perplexity&#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.</p>\n<p>In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.</p>\n<p>[&#8230;]</p>\n<p>CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &#8216;collection&#8217; parameter of the URL...</p></blockquote>",
-    "contentSnippet": "This is why AIs are not ready to be personal assistants:\nA new attack called ‘CometJacking’ exploits URL parameters to pass to Perplexity’s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.\nIn a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.\n[…]\nCometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the ‘collection’ parameter of the URL...",
-    "guid": "https://www.schneier.com/?p=71125",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "browsers",
-      "cyberattack",
-      "LLM"
-    ],
-    "isoDate": "2025-11-11T12:08:48.000Z"
   }
 ]
