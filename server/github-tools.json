@@ -378,6 +378,15 @@
     "language": null
   },
   {
+    "name": "pentest-toolkit",
+    "owner": "therealilyas",
+    "url": "https://github.com/therealilyas/pentest-toolkit",
+    "description": "Advanced penetration testing toolkit in Python & Bash for ethical hackers and security professionals. Automates reconnaissance, vulnerability scanning, and reporting.",
+    "stars": 16,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
     "name": "cybersecurity-tools",
     "owner": "paulveillard",
     "url": "https://github.com/paulveillard/cybersecurity-tools",
@@ -402,15 +411,6 @@
     "description": "Wi-Fi Scanner using Raspberry Pi Pico WH and SSD1306 OLED — Scan networks in STA mode, analyze signal strength, and visualize....;)",
     "stars": 16,
     "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "pentest-toolkit",
-    "owner": "therealilyas",
-    "url": "https://github.com/therealilyas/pentest-toolkit",
-    "description": "Advanced penetration testing toolkit in Python & Bash for ethical hackers and security professionals. Automates reconnaissance, vulnerability scanning, and reporting.",
-    "stars": 15,
-    "forks": 4,
     "language": "Python"
   },
   {
@@ -774,15 +774,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Sec_Toolbelt",
     "owner": "bacon-GIT",
     "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
@@ -790,6 +781,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "OSINT-TOOLS",
@@ -846,15 +846,6 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -862,6 +853,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "ipurl-tool",
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
-    "forks": 1,
-    "language": "Shell"
+    "forks": 0,
+    "language": "Python"
   }
 ]
