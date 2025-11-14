@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet FortiWeb Flaw Actively Exploited in the Wild Before Company's Silent Patch",
+    "link": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+    "pubDate": "Fri, 14 Nov 2025 14:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
+    },
+    "content": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb product,\" Benjamin Harris,",
+    "contentSnippet": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb product,\" Benjamin Harris,",
+    "guid": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+    "isoDate": "2025-11-14T09:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
     "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
     "pubDate": "Fri, 14 Nov 2025 01:57:00 +0530",
@@ -335,23 +352,6 @@
     "contentSnippet": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.\nAccording to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
     "guid": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
     "isoDate": "2025-11-11T18:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
-    "link": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
-    "pubDate": "Tue, 11 Nov 2025 21:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_gIwNxs0iD5Xi-iqyG6SM6_-T-HGSrhisOTbsd_IXIbBPhNqqQPaY-m9xeuPvh2V2CCA5qvNL2UrMZqu-LrredR1PXMg71aYeMjoMtpTQ3jExATxGIcP08cndRyNyUYQkxp0y-tlnXNDTWCC24M0X5px8Qt_zaRZumMgEejW9enncxB5Hmek2sFkAH9p/s1600/fonts.jpg"
-    },
-    "content": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\"",
-    "contentSnippet": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\"",
-    "guid": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
-    "isoDate": "2025-11-11T15:44:00.000Z",
     "itunes": {}
   }
 ]
