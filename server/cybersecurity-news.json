@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+    "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+    "pubDate": "Fri, 14 Nov 2025 20:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXUzfhBmTMQepFWxeCqGiCA1jeHDUVl22obOgD7DCd_E-UtUwkmZVN7j1TuQAv0P0yRwKviM36m4hNCyORyL2-NegjDYQ3Qc_RYa1DeWD9Txp3RoZfKHn4lj0ozeqYFqYlgNYhhfEHEB-invbzPGNopYWrAmzNflKp1G1qdvMZPVj_pIaocnxn_QecmU9/s1600/1000033960.jpg"
+    },
+    "content": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang.\n\"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
+    "contentSnippet": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang.\n\"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
+    "guid": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+    "isoDate": "2025-11-14T15:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
+    "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+    "pubDate": "Fri, 14 Nov 2025 20:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZy2HLaE1qe-Ab4Bld4GiRpAYh0uVDVr3zCE1p400nKomsAs0MdvK9oCnNrJALSYPVvJud59Ik0Ax90X12KX93i97AwzbnUHm262vSL-nelhZHwRQR6WIFNd_u43NOt4QR8yOpzgC9wQUabBhtxfz45S210t-Tw-hb6iJWQ7RQNIfupIRQuvWuDBu1GgWs/s1600/iran-hackers.jpg"
+    },
+    "content": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.\nThe activity, detected in early September 2025 and assessed to be ongoing, has been codenamed&nbsp;SpearSpecter by the Israel National Digital Agency (INDA).\n\"The",
+    "contentSnippet": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.\nThe activity, detected in early September 2025 and assessed to be ongoing, has been codenamed SpearSpecter by the Israel National Digital Agency (INDA).\n\"The",
+    "guid": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+    "isoDate": "2025-11-14T14:40:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "The Role of Humans in an AI-Powered World",
     "link": "https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html",
@@ -322,40 +356,6 @@
     "contentSnippet": "Every day, security teams face the same problem—too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you’re always one step behind.\nBut what if there was a smarter way to stay ahead—without adding more work or stress?\nJoin The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
     "guid": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
     "isoDate": "2025-11-12T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
-    "link": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
-    "pubDate": "Wed, 12 Nov 2025 16:37:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzohgVmJwL0IMF6xUDk-7UKhnswaBtnht8YAdjmMgnPeft_d_PwFL5ZFvm9zfO_pKg-RkmHgwEM9Uyj6lr5GnUB_Y4IM2oDsroi0pC1yYS6-zdbpiGX-gIlpFQwmBgy-4TcXvQ3NtTXheeqFVh6DL9RUjug2QhaFGFZJOtiJdPOkC1jkZWBuJIJsIHwS0/s1600/MAIN.jpg"
-    },
-    "content": "Active Directory remains the authentication backbone for&nbsp;over 90% of Fortune 1000 companies. AD's importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active",
-    "contentSnippet": "Active Directory remains the authentication backbone for over 90% of Fortune 1000 companies. AD's importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active",
-    "guid": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
-    "isoDate": "2025-11-12T11:07:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack",
-    "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
-    "pubDate": "Wed, 12 Nov 2025 15:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s1600/windows-update.jpg"
-    },
-    "content": "Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.\nOf the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three",
-    "contentSnippet": "Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.\nOf the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three",
-    "guid": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
-    "isoDate": "2025-11-12T10:21:00.000Z",
     "itunes": {}
   }
 ]
