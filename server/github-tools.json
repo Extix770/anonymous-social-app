@@ -1,48 +1,57 @@
 [
   {
-    "name": "30-days-red-team-toolkit",
-    "owner": "itsmaxwellcross",
-    "url": "https://github.com/itsmaxwellcross/30-days-red-team-toolkit",
-    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 4,
-    "forks": 4,
-    "language": "Python"
-  },
-  {
-    "name": "3TH1C4L-MultiTool",
-    "owner": "RPxGoon",
-    "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
-    "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
-    "stars": 28,
-    "forks": 3,
-    "language": "Python"
-  },
-  {
-    "name": "3num-tool",
-    "owner": "RichardAlmeyda",
-    "url": "https://github.com/RichardAlmeyda/3num-tool",
-    "description": "Enumeration Tool",
-    "stars": 9,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "API-Pentesting-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/API-Pentesting-Tools",
-    "description": "API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs). ",
-    "stars": 227,
-    "forks": 32,
+    "name": "RedTeam-Tools",
+    "owner": "A-poc",
+    "url": "https://github.com/A-poc/RedTeam-Tools",
+    "description": "Tools and Techniques for Red Team / Penetration Testing",
+    "stars": 7726,
+    "forks": 1062,
     "language": null
   },
   {
-    "name": "Analyst-Tool",
-    "owner": "cybersheepdog",
-    "url": "https://github.com/cybersheepdog/Analyst-Tool",
-    "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
-    "stars": 15,
-    "forks": 2,
-    "language": "Python"
+    "name": "osint_stuff_tool_collection",
+    "owner": "cipher387",
+    "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+    "description": "A collection of several hundred online tools for OSINT",
+    "stars": 7157,
+    "forks": 821,
+    "language": "HTML"
+  },
+  {
+    "name": "FBI-tools",
+    "owner": "danieldurnea",
+    "url": "https://github.com/danieldurnea/FBI-tools",
+    "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
+    "stars": 2260,
+    "forks": 347,
+    "language": null
+  },
+  {
+    "name": "Ransomware-Tool-Matrix",
+    "owner": "BushidoUK",
+    "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
+    "description": "A resource containing all the tools each ransomware gangs uses",
+    "stars": 1279,
+    "forks": 142,
+    "language": null
+  },
+  {
+    "name": "Open-source-tools-for-CTI",
+    "owner": "BushidoUK",
+    "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
+    "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
+    "stars": 741,
+    "forks": 126,
+    "language": null
+  },
+  {
+    "name": "osint_toolkit",
+    "owner": "dev-lu",
+    "url": "https://github.com/dev-lu/osint_toolkit",
+    "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
+    "stars": 730,
+    "forks": 122,
+    "language": "JavaScript"
   },
   {
     "name": "Awesome-Blackhat-Tools",
@@ -63,130 +72,58 @@
     "language": "Python"
   },
   {
-    "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
-    "owner": "CyberAlbSecOP",
-    "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
-    "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 87,
-    "forks": 10,
-    "language": null
-  },
-  {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 11,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "BPT_Briskinfosec_Pentest_Toolkit",
-    "owner": "briskinfosec",
-    "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
-    "description": "Briskinfosec Pentest Toolkit (BPT) is a powerful and automated security assessment toolkit. BPT is pioneering techniques that helps penetration testers to automate the attack surfaces.",
-    "stars": 5,
-    "forks": 3,
-    "language": "Shell"
-  },
-  {
-    "name": "Blue-Team-Cyber-Investigation-Tools-and-Tricks",
-    "owner": "DevVj-1",
-    "url": "https://github.com/DevVj-1/Blue-Team-Cyber-Investigation-Tools-and-Tricks",
-    "description": "Blue 🧿 Team Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This collection of resources is designed to aid cybersecurity professionals in defending and securing their networks. Whether you're a seasoned analyst or just getting started, you'll find valuable tools, techniques, and best practices here to enhance you",
-    "stars": 8,
-    "forks": 2,
-    "language": null
-  },
-  {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "CTF-Tools",
-    "owner": "Twigonometry",
-    "url": "https://github.com/Twigonometry/CTF-Tools",
-    "description": "Various scripts I've built for CTFs, hacking challenges, and for learning how various existing tools work",
-    "stars": 18,
-    "forks": 5,
-    "language": "Python"
-  },
-  {
-    "name": "Caesar-Cipher-Tool",
-    "owner": "RobCyberLab",
-    "url": "https://github.com/RobCyberLab/Caesar-Cipher-Tool",
-    "description": "🔑Caesar Cipher Tool🔐",
-    "stars": 8,
-    "forks": 1,
-    "language": "JavaScript"
-  },
-  {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "CyberSecurity-Tools",
-    "owner": "king04aman",
-    "url": "https://github.com/king04aman/CyberSecurity-Tools",
-    "description": "This repository is aimed to contain all basic tools and resources for cybersecurity. In this repository you will get all material which you must know in cybersecurity field. ",
-    "stars": 69,
-    "forks": 23,
-    "language": "Python"
-  },
-  {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 9,
-    "forks": 2,
-    "language": null
-  },
-  {
-    "name": "DFIR-Toolkit",
-    "owner": "fsfang",
-    "url": "https://github.com/fsfang/DFIR-Toolkit",
-    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
-    "stars": 18,
-    "forks": 3,
-    "language": "Batchfile"
-  },
-  {
-    "name": "DefconArsenalTools",
-    "owner": "DefconParrot",
-    "url": "https://github.com/DefconParrot/DefconArsenalTools",
-    "description": "A curation of tools presented at DEF CON conference each year, the world's largest hacker con.",
-    "stars": 40,
-    "forks": 7,
-    "language": null
-  },
-  {
-    "name": "Digital-Forensics-Tools",
+    "name": "Hacking-Tools",
     "owner": "yogsec",
-    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
-    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
-    "stars": 90,
-    "forks": 35,
+    "url": "https://github.com/yogsec/Hacking-Tools",
+    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+    "stars": 459,
+    "forks": 104,
     "language": null
+  },
+  {
+    "name": "kali-linux-tools-interface",
+    "owner": "lucasfrag",
+    "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
+    "description": "Graphical Web interface developed to facilitate the use of security information tools.",
+    "stars": 263,
+    "forks": 71,
+    "language": "PHP"
+  },
+  {
+    "name": "API-Pentesting-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/API-Pentesting-Tools",
+    "description": "API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs). ",
+    "stars": 227,
+    "forks": 32,
+    "language": null
+  },
+  {
+    "name": "awesome-ddos-tools",
+    "owner": "the0cp",
+    "url": "https://github.com/the0cp/awesome-ddos-tools",
+    "description": "Collection of several DDos tools.",
+    "stars": 203,
+    "forks": 44,
+    "language": "Python"
+  },
+  {
+    "name": "awesome-recon-tools",
+    "owner": "nateahess",
+    "url": "https://github.com/nateahess/awesome-recon-tools",
+    "description": "A compiled list of tools for reconnaissance and footprinting",
+    "stars": 147,
+    "forks": 15,
+    "language": null
+  },
+  {
+    "name": "aerospace-hacking-tools",
+    "owner": "ANG13T",
+    "url": "https://github.com/ANG13T/aerospace-hacking-tools",
+    "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
+    "stars": 116,
+    "forks": 26,
+    "language": "JavaScript"
   },
   {
     "name": "Ethical-Hacking-Tools",
@@ -198,49 +135,13 @@
     "language": null
   },
   {
-    "name": "FBI-tools",
-    "owner": "danieldurnea",
-    "url": "https://github.com/danieldurnea/FBI-tools",
-    "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2260,
-    "forks": 347,
-    "language": null
-  },
-  {
-    "name": "FuzzFindr-Web-Fuzzing-Tool",
-    "owner": "phantom0004",
-    "url": "https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool",
-    "description": "FuzzFindr is a robust web fuzzing and web scraper tool inspired by the popular \"ffuf\" tool on Kali Linux. Designed to enhance web security testing, FuzzFindr allows users to meticulously fuzz web links using customizable wordlists. ",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
-    "name": "Hacker-Tools",
-    "owner": "Push4ck",
-    "url": "https://github.com/Push4ck/Hacker-Tools",
-    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
+    "name": "ToolHunt",
+    "owner": "cyberytti",
+    "url": "https://github.com/cyberytti/ToolHunt",
+    "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
+    "stars": 105,
+    "forks": 11,
+    "language": "HTML"
   },
   {
     "name": "HackerToolkit",
@@ -252,111 +153,39 @@
     "language": "Shell"
   },
   {
-    "name": "Hacking-Tools",
+    "name": "Digital-Forensics-Tools",
     "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hacking-Tools",
-    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 459,
-    "forks": 104,
+    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
+    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
+    "stars": 90,
+    "forks": 35,
     "language": null
   },
   {
-    "name": "Haram-Tool-Hacker-Penetration-Master-",
-    "owner": "AnandaRauf",
-    "url": "https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-",
-    "description": "Haram Tool is Software Web Penetration Testing Tool.",
-    "stars": 23,
-    "forks": 7,
-    "language": "Python"
-  },
-  {
-    "name": "Hardware-Hacking-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
-    "description": "Lists various tools used in hardware hacking. ",
-    "stars": 27,
-    "forks": 4,
+    "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
+    "owner": "CyberAlbSecOP",
+    "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
+    "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
+    "stars": 87,
+    "forks": 10,
     "language": null
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
+    "name": "Wifi-Deauthentication-Tool",
+    "owner": "ezhil56x",
+    "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
+    "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
+    "stars": 80,
+    "forks": 15,
+    "language": "Shell"
   },
   {
-    "name": "OPSEC-OSINT-Tools",
-    "owner": "airborne-commando",
-    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
-    "description": "A list of OSINT/OPSEC tools I made and or use.",
-    "stars": 44,
-    "forks": 2,
-    "language": null
-  },
-  {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
-    "name": "OSINT-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/OSINT-Tools",
-    "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-    "stars": 43,
-    "forks": 5,
-    "language": null
-  },
-  {
-    "name": "Open-source-tools-for-CTI",
-    "owner": "BushidoUK",
-    "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
-    "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
-    "stars": 741,
-    "forks": 126,
-    "language": null
-  },
-  {
-    "name": "PCI-DSS-Compliance-Toolkit",
-    "owner": "praiseordu",
-    "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
-    "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
-    "stars": 18,
-    "forks": 9,
-    "language": "Python"
-  },
-  {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 6,
-    "forks": 1,
-    "language": "C"
-  },
-  {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
-    "name": "Python-Pentest-ToolKit",
-    "owner": "sectool",
-    "url": "https://github.com/sectool/Python-Pentest-ToolKit",
-    "description": "Pentest ToolKit",
-    "stars": 28,
-    "forks": 9,
+    "name": "CyberSecurity-Tools",
+    "owner": "king04aman",
+    "url": "https://github.com/king04aman/CyberSecurity-Tools",
+    "description": "This repository is aimed to contain all basic tools and resources for cybersecurity. In this repository you will get all material which you must know in cybersecurity field. ",
+    "stars": 69,
+    "forks": 23,
     "language": "Python"
   },
   {
@@ -369,30 +198,12 @@
     "language": null
   },
   {
-    "name": "Ransomware-Tool-Matrix",
-    "owner": "BushidoUK",
-    "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
-    "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1279,
-    "forks": 142,
-    "language": null
-  },
-  {
-    "name": "ReconForge-ToolKit",
-    "owner": "letchupkt",
-    "url": "https://github.com/letchupkt/ReconForge-ToolKit",
-    "description": "ReconForge is a comprehensive, web-based bug hunting and penetration testing toolkit designed for security researchers, ethical hackers, and cybersecurity professionals.",
-    "stars": 7,
-    "forks": 0,
-    "language": null
-  },
-  {
-    "name": "RedTeam-Tools",
-    "owner": "A-poc",
-    "url": "https://github.com/A-poc/RedTeam-Tools",
-    "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7726,
-    "forks": 1063,
+    "name": "Social-Engineering-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Social-Engineering-Tools",
+    "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
+    "stars": 55,
+    "forks": 6,
     "language": null
   },
   {
@@ -405,48 +216,66 @@
     "language": "Python"
   },
   {
-    "name": "Russian-propaganda-browser-flood-tool",
-    "owner": "rmellis",
-    "url": "https://github.com/rmellis/Russian-propaganda-browser-flood-tool",
-    "description": "This repo contains a set of standalone \".htm\" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day799 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)",
-    "stars": 14,
-    "forks": 0,
-    "language": "HTML"
+    "name": "google-dorks-toolkit",
+    "owner": "SalehLardhi",
+    "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
+    "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
+    "stars": 51,
+    "forks": 6,
+    "language": "Python"
   },
   {
-    "name": "SWS-Recon-Tool",
-    "owner": "ShobhitMishra-bot",
-    "url": "https://github.com/ShobhitMishra-bot/SWS-Recon-Tool",
-    "description": "SWS-Recon is a Python Tool designed to performed Reconnaissance on the given target website- Domain or SubDomain. SWS-Recon collects information such as Google Dork, DNS Information, Sub Domains, PortScan, Subdomain takeovers, Reconnaissance On Github and much more vulnerability scan.",
-    "stars": 21,
+    "name": "OPSEC-OSINT-Tools",
+    "owner": "airborne-commando",
+    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
+    "description": "A list of OSINT/OPSEC tools I made and or use.",
+    "stars": 44,
+    "forks": 2,
+    "language": null
+  },
+  {
+    "name": "OSINT-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/OSINT-Tools",
+    "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
+    "stars": 43,
     "forks": 5,
+    "language": null
+  },
+  {
+    "name": "DefconArsenalTools",
+    "owner": "DefconParrot",
+    "url": "https://github.com/DefconParrot/DefconArsenalTools",
+    "description": "A curation of tools presented at DEF CON conference each year, the world's largest hacker con.",
+    "stars": 40,
+    "forks": 7,
+    "language": null
+  },
+  {
+    "name": "security-risk-assessment-tool",
+    "owner": "ThalesGroup",
+    "url": "https://github.com/ThalesGroup/security-risk-assessment-tool",
+    "description": "The ISRA security-risk-assessment-tool project is an Electron based application used to do security risk assessments at a technical level",
+    "stars": 32,
+    "forks": 13,
+    "language": "JavaScript"
+  },
+  {
+    "name": "Python-Pentest-ToolKit",
+    "owner": "sectool",
+    "url": "https://github.com/sectool/Python-Pentest-ToolKit",
+    "description": "Pentest ToolKit",
+    "stars": 28,
+    "forks": 9,
     "language": "Python"
   },
   {
-    "name": "Scapy-Network-Security-Tools",
-    "owner": "HalilDeniz",
-    "url": "https://github.com/HalilDeniz/Scapy-Network-Security-Tools",
-    "description": "A collection of 10 network security tools using Scapy for traffic analysis, penetration testing, and network manipulation. Ideal for cybersecurity professionals and enthusiasts.",
-    "stars": 16,
+    "name": "3TH1C4L-MultiTool",
+    "owner": "RPxGoon",
+    "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
+    "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
+    "stars": 28,
     "forks": 3,
-    "language": "Python"
-  },
-  {
-    "name": "SecTools-Installer",
-    "owner": "m7medVision",
-    "url": "https://github.com/m7medVision/SecTools-Installer",
-    "description": "This is a simple powershell script that can install most important tools for cyber security researcher.",
-    "stars": 7,
-    "forks": 4,
-    "language": "PowerShell"
-  },
-  {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
     "language": "Python"
   },
   {
@@ -459,156 +288,30 @@
     "language": "Python"
   },
   {
-    "name": "Shifter-tool",
-    "owner": "SabriAmir",
-    "url": "https://github.com/SabriAmir/Shifter-tool",
-    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more)",
-    "stars": 10,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "Social-Engineering-Tools",
+    "name": "Hardware-Hacking-Tools",
     "owner": "yogsec",
-    "url": "https://github.com/yogsec/Social-Engineering-Tools",
-    "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
-    "stars": 55,
-    "forks": 6,
+    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
+    "description": "Lists various tools used in hardware hacking. ",
+    "stars": 27,
+    "forks": 4,
     "language": null
   },
   {
-    "name": "Splunk-Tools",
-    "owner": "EvolvingSysadmin",
-    "url": "https://github.com/EvolvingSysadmin/Splunk-Tools",
-    "description": "Collection of Splunking Tools, SPL Code and Resources",
-    "stars": 14,
+    "name": "Haram-Tool-Hacker-Penetration-Master-",
+    "owner": "AnandaRauf",
+    "url": "https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-",
+    "description": "Haram Tool is Software Web Penetration Testing Tool.",
+    "stars": 23,
+    "forks": 7,
+    "language": "Python"
+  },
+  {
+    "name": "SWS-Recon-Tool",
+    "owner": "ShobhitMishra-bot",
+    "url": "https://github.com/ShobhitMishra-bot/SWS-Recon-Tool",
+    "description": "SWS-Recon is a Python Tool designed to performed Reconnaissance on the given target website- Domain or SubDomain. SWS-Recon collects information such as Google Dork, DNS Information, Sub Domains, PortScan, Subdomain takeovers, Reconnaissance On Github and much more vulnerability scan.",
+    "stars": 21,
     "forks": 5,
-    "language": null
-  },
-  {
-    "name": "Spy-Tool",
-    "owner": "srimani-programmer",
-    "url": "https://github.com/srimani-programmer/Spy-Tool",
-    "description": "A Python tool to perform image spy operation on a computer.",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "ToolHunt",
-    "owner": "cyberytti",
-    "url": "https://github.com/cyberytti/ToolHunt",
-    "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 105,
-    "forks": 11,
-    "language": "HTML"
-  },
-  {
-    "name": "Tooli",
-    "owner": "realworldsec",
-    "url": "https://github.com/realworldsec/Tooli",
-    "description": "Simple tool provide you the commands of tools.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "Tools-of-the-Trade-Linux-and-SQL",
-    "owner": "sondosaabed",
-    "url": "https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL",
-    "description": " In this course, I have explored computing skills that I will use on-the-job as a cybersecurity analyst. First, I practiced using Linux OS commonly used by cybersecurity professionals. Used the Linux command line through the Bash shell to navigate, manage the file system, authenticate users. Then, I have used SQL to communicate with a database. ",
-    "stars": 5,
-    "forks": 0,
-    "language": "Jupyter Notebook"
-  },
-  {
-    "name": "ToolsBox",
-    "owner": "zidansec",
-    "url": "https://github.com/zidansec/ToolsBox",
-    "description": "This tool serves to add the kali linux repository to the ubuntu repository instantly. So that ubuntu users can install some of the tools that exist on kali linux.",
-    "stars": 19,
-    "forks": 2,
-    "language": "Shell"
-  },
-  {
-    "name": "Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
-    "owner": "Encrypted-Everest",
-    "url": "https://github.com/Encrypted-Everest/Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
-    "description": "Phishing attacks are one of the most common cyber threats, and the tools used to conduct them have evolved to become more sophisticated. Here’s You should be aware of in 2024. From SEToolkit to PyPhisher, these tools cover a wide range of phishing attack vectors, including social engineering, email phishing, and even QR code hijacking. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
-    "name": "UM-NIDS-Tool",
-    "owner": "SyedWaliAbbas",
-    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
-    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
-    "stars": 10,
-    "forks": 3,
-    "language": "Jupyter Notebook"
-  },
-  {
-    "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
-    "owner": "AUX-441",
-    "url": "https://github.com/AUX-441/Userlvel5anonymous-Toolkit-Windows-ETH",
-    "description": "A comprehensive ethical hacking tool for network and system monitoring including screenshot capture, keylogging, camera access, and user location tracking. Designed for authorized cybersecurity assessments and penetration testing.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "WEEK-TOOL",
-    "owner": "13xsa5",
-    "url": "https://github.com/13xsa5/WEEK-TOOL",
-    "description": "What is WEEK TOOL? WEEK TOOL is an osint framework, which is one-stop tool for your information gathering and reconnaissance needs It can help you gather information (such as phone numbers, ip address, domain name info, etc.) from various publicly available sources about the target",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "Wi-Fi-Cracking-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool",
-    "description": "This is a cybersecurity tool created for cracking, testing and securing wifi networks. This tool was built using python.",
-    "stars": 8,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "WiFi-Hacking-Tool",
-    "owner": "waheeb71",
-    "url": "https://github.com/waheeb71/WiFi-Hacking-Tool",
-    "description": "WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking, network analysis, and Wi-Fi penetration testing. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.",
-    "stars": 12,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "Wifi-Deauthentication-Tool",
-    "owner": "ezhil56x",
-    "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
-    "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
-    "stars": 80,
-    "forks": 15,
-    "language": "Shell"
-  },
-  {
-    "name": "aerospace-hacking-tools",
-    "owner": "ANG13T",
-    "url": "https://github.com/ANG13T/aerospace-hacking-tools",
-    "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 116,
-    "forks": 26,
-    "language": "JavaScript"
-  },
-  {
-    "name": "awesome-ddos-tools",
-    "owner": "the0cp",
-    "url": "https://github.com/the0cp/awesome-ddos-tools",
-    "description": "Collection of several DDos tools.",
-    "stars": 203,
-    "forks": 44,
     "language": "Python"
   },
   {
@@ -621,85 +324,49 @@
     "language": "Python"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 9,
-    "forks": 3,
-    "language": null
-  },
-  {
-    "name": "awesome-recon-tools",
-    "owner": "nateahess",
-    "url": "https://github.com/nateahess/awesome-recon-tools",
-    "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 147,
-    "forks": 15,
-    "language": null
-  },
-  {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 16,
-    "forks": 3,
-    "language": null
-  },
-  {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
+    "name": "ToolsBox",
+    "owner": "zidansec",
+    "url": "https://github.com/zidansec/ToolsBox",
+    "description": "This tool serves to add the kali linux repository to the ubuntu repository instantly. So that ubuntu users can install some of the tools that exist on kali linux.",
+    "stars": 19,
     "forks": 2,
-    "language": null
+    "language": "Shell"
   },
   {
-    "name": "google-dorks-toolkit",
-    "owner": "SalehLardhi",
-    "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
-    "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
-    "stars": 51,
-    "forks": 6,
+    "name": "PCI-DSS-Compliance-Toolkit",
+    "owner": "praiseordu",
+    "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
+    "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
+    "stars": 18,
+    "forks": 9,
     "language": "Python"
   },
   {
-    "name": "ipurl-tool",
-    "owner": "spapjh",
-    "url": "https://github.com/spapjh/ipurl-tool",
-    "description": "Simple tool to help SOC and other blueteamers/cybersecurity professionals.  Does simple commands like ping, nslookup, whois and reputation searches on IPs/URLs using AbuseIPDB and VirusTotal APIs",
-    "stars": 4,
-    "forks": 1,
+    "name": "CTF-Tools",
+    "owner": "Twigonometry",
+    "url": "https://github.com/Twigonometry/CTF-Tools",
+    "description": "Various scripts I've built for CTFs, hacking challenges, and for learning how various existing tools work",
+    "stars": 18,
+    "forks": 5,
     "language": "Python"
   },
   {
-    "name": "kali-linux-tools-interface",
-    "owner": "lucasfrag",
-    "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
-    "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 263,
-    "forks": 71,
-    "language": "PHP"
+    "name": "DFIR-Toolkit",
+    "owner": "fsfang",
+    "url": "https://github.com/fsfang/DFIR-Toolkit",
+    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
+    "stars": 18,
+    "forks": 3,
+    "language": "Batchfile"
+  },
+  {
+    "name": "securitylabs-thrunting-tools",
+    "owner": "elastic",
+    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
+    "description": "A collection of  utilities to help with analysis on the command line.",
+    "stars": 18,
+    "forks": 3,
+    "language": "Python"
   },
   {
     "name": "mao-Tool",
@@ -711,69 +378,6 @@
     "language": null
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 13,
-    "forks": 4,
-    "language": "Python"
-  },
-  {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 4,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "ocsf-tool",
-    "owner": "valllabh",
-    "url": "https://github.com/valllabh/ocsf-tool",
-    "description": "OCSF-Tool: A command-line utility for managing Open Cybersecurity Schema Framework (OCSF) schemas, Supporting Proto file generation for OCSF Schemas.",
-    "stars": 9,
-    "forks": 3,
-    "language": "Go"
-  },
-  {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
-    "stars": 10,
-    "forks": 2,
-    "language": null
-  },
-  {
-    "name": "osint_stuff_tool_collection",
-    "owner": "cipher387",
-    "url": "https://github.com/cipher387/osint_stuff_tool_collection",
-    "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7156,
-    "forks": 821,
-    "language": "HTML"
-  },
-  {
-    "name": "osint_toolkit",
-    "owner": "dev-lu",
-    "url": "https://github.com/dev-lu/osint_toolkit",
-    "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 730,
-    "forks": 122,
-    "language": "JavaScript"
-  },
-  {
     "name": "pentest-toolkit",
     "owner": "therealilyas",
     "url": "https://github.com/therealilyas/pentest-toolkit",
@@ -783,21 +387,21 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 16,
+    "forks": 3,
+    "language": null
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
+    "name": "Scapy-Network-Security-Tools",
+    "owner": "HalilDeniz",
+    "url": "https://github.com/HalilDeniz/Scapy-Network-Security-Tools",
+    "description": "A collection of 10 network security tools using Scapy for traffic analysis, penetration testing, and network manipulation. Ideal for cybersecurity professionals and enthusiasts.",
+    "stars": 16,
+    "forks": 3,
     "language": "Python"
   },
   {
@@ -810,40 +414,58 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "security-risk-assessment-tool",
-    "owner": "ThalesGroup",
-    "url": "https://github.com/ThalesGroup/security-risk-assessment-tool",
-    "description": "The ISRA security-risk-assessment-tool project is an Electron based application used to do security risk assessments at a technical level",
-    "stars": 32,
-    "forks": 13,
-    "language": "JavaScript"
-  },
-  {
-    "name": "security-tools-hacking",
-    "owner": "AUX-441",
-    "url": "https://github.com/AUX-441/security-tools-hacking",
-    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
-    "stars": 7,
+    "name": "Analyst-Tool",
+    "owner": "cybersheepdog",
+    "url": "https://github.com/cybersheepdog/Analyst-Tool",
+    "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
+    "stars": 15,
     "forks": 2,
     "language": "Python"
   },
   {
-    "name": "securitylabs-thrunting-tools",
-    "owner": "elastic",
-    "url": "https://github.com/elastic/securitylabs-thrunting-tools",
-    "description": "A collection of  utilities to help with analysis on the command line.",
-    "stars": 18,
-    "forks": 3,
+    "name": "Splunk-Tools",
+    "owner": "EvolvingSysadmin",
+    "url": "https://github.com/EvolvingSysadmin/Splunk-Tools",
+    "description": "Collection of Splunking Tools, SPL Code and Resources",
+    "stars": 14,
+    "forks": 5,
+    "language": null
+  },
+  {
+    "name": "Russian-propaganda-browser-flood-tool",
+    "owner": "rmellis",
+    "url": "https://github.com/rmellis/Russian-propaganda-browser-flood-tool",
+    "description": "This repo contains a set of standalone \".htm\" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day799 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)",
+    "stars": 14,
+    "forks": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "CTF-Tools",
+    "owner": "cmaixen",
+    "url": "https://github.com/cmaixen/CTF-Tools",
+    "description": "My Personal Library for CTF's",
+    "stars": 13,
+    "forks": 5,
     "language": "Python"
+  },
+  {
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 13,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
+    "name": "Hacking-Tools",
+    "owner": "Rahulgarg2206",
+    "url": "https://github.com/Rahulgarg2206/Hacking-Tools",
+    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+    "stars": 12,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "teaching-toolkit",
@@ -852,6 +474,87 @@
     "description": "collection of materials and resources I use to teach computer security classes",
     "stars": 12,
     "forks": 1,
+    "language": null
+  },
+  {
+    "name": "WiFi-Hacking-Tool",
+    "owner": "waheeb71",
+    "url": "https://github.com/waheeb71/WiFi-Hacking-Tool",
+    "description": "WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking, network analysis, and Wi-Fi penetration testing. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.",
+    "stars": 12,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "wifi-adapter-tool",
+    "owner": "Teammatriix",
+    "url": "https://github.com/Teammatriix/wifi-adapter-tool",
+    "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
+    "stars": 11,
+    "forks": 4,
+    "language": "Shell"
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 11,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "UM-NIDS-Tool",
+    "owner": "SyedWaliAbbas",
+    "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
+    "description": "The Unified Multimodal NIDS Dataset Tool performs the standardization of network intrusion detection datasets by extracting comprehensive flow, payload, and contextual features from raw PCAP files, ensuring consistency across datasets and enhancing machine learning-driven threat detection and analysis.",
+    "stars": 10,
+    "forks": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "stars": 10,
+    "forks": 2,
+    "language": null
+  },
+  {
+    "name": "Shifter-tool",
+    "owner": "SabriAmir",
+    "url": "https://github.com/SabriAmir/Shifter-tool",
+    "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more)",
+    "stars": 10,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "ocsf-tool",
+    "owner": "valllabh",
+    "url": "https://github.com/valllabh/ocsf-tool",
+    "description": "OCSF-Tool: A command-line utility for managing Open Cybersecurity Schema Framework (OCSF) schemas, Supporting Proto file generation for OCSF Schemas.",
+    "stars": 9,
+    "forks": 3,
+    "language": "Go"
+  },
+  {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "stars": 9,
+    "forks": 3,
+    "language": null
+  },
+  {
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "stars": 9,
+    "forks": 2,
     "language": null
   },
   {
@@ -864,12 +567,336 @@
     "language": null
   },
   {
-    "name": "wifi-adapter-tool",
-    "owner": "Teammatriix",
-    "url": "https://github.com/Teammatriix/wifi-adapter-tool",
-    "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
-    "stars": 11,
+    "name": "3num-tool",
+    "owner": "RichardAlmeyda",
+    "url": "https://github.com/RichardAlmeyda/3num-tool",
+    "description": "Enumeration Tool",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "Spy-Tool",
+    "owner": "srimani-programmer",
+    "url": "https://github.com/srimani-programmer/Spy-Tool",
+    "description": "A Python tool to perform image spy operation on a computer.",
+    "stars": 8,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "Blue-Team-Cyber-Investigation-Tools-and-Tricks",
+    "owner": "DevVj-1",
+    "url": "https://github.com/DevVj-1/Blue-Team-Cyber-Investigation-Tools-and-Tricks",
+    "description": "Blue 🧿 Team Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This collection of resources is designed to aid cybersecurity professionals in defending and securing their networks. Whether you're a seasoned analyst or just getting started, you'll find valuable tools, techniques, and best practices here to enhance you",
+    "stars": 8,
+    "forks": 2,
+    "language": null
+  },
+  {
+    "name": "Caesar-Cipher-Tool",
+    "owner": "RobCyberLab",
+    "url": "https://github.com/RobCyberLab/Caesar-Cipher-Tool",
+    "description": "🔑Caesar Cipher Tool🔐",
+    "stars": 8,
+    "forks": 1,
+    "language": "JavaScript"
+  },
+  {
+    "name": "Wi-Fi-Cracking-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool",
+    "description": "This is a cybersecurity tool created for cracking, testing and securing wifi networks. This tool was built using python.",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "SecTools-Installer",
+    "owner": "m7medVision",
+    "url": "https://github.com/m7medVision/SecTools-Installer",
+    "description": "This is a simple powershell script that can install most important tools for cyber security researcher.",
+    "stars": 7,
     "forks": 4,
+    "language": "PowerShell"
+  },
+  {
+    "name": "security-tools-hacking",
+    "owner": "AUX-441",
+    "url": "https://github.com/AUX-441/security-tools-hacking",
+    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
+    "stars": 7,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "FuzzFindr-Web-Fuzzing-Tool",
+    "owner": "phantom0004",
+    "url": "https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool",
+    "description": "FuzzFindr is a robust web fuzzing and web scraper tool inspired by the popular \"ffuf\" tool on Kali Linux. Designed to enhance web security testing, FuzzFindr allows users to meticulously fuzz web links using customizable wordlists. ",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "ReconForge-ToolKit",
+    "owner": "letchupkt",
+    "url": "https://github.com/letchupkt/ReconForge-ToolKit",
+    "description": "ReconForge is a comprehensive, web-based bug hunting and penetration testing toolkit designed for security researchers, ethical hackers, and cybersecurity professionals.",
+    "stars": 7,
+    "forks": 0,
+    "language": null
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
+    "owner": "AUX-441",
+    "url": "https://github.com/AUX-441/Userlvel5anonymous-Toolkit-Windows-ETH",
+    "description": "A comprehensive ethical hacking tool for network and system monitoring including screenshot capture, keylogging, camera access, and user location tracking. Designed for authorized cybersecurity assessments and penetration testing.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 6,
+    "forks": 1,
+    "language": "C"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 2,
+    "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "BPT_Briskinfosec_Pentest_Toolkit",
+    "owner": "briskinfosec",
+    "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
+    "description": "Briskinfosec Pentest Toolkit (BPT) is a powerful and automated security assessment toolkit. BPT is pioneering techniques that helps penetration testers to automate the attack surfaces.",
+    "stars": 5,
+    "forks": 3,
     "language": "Shell"
+  },
+  {
+    "name": "WEEK-TOOL",
+    "owner": "13xsa5",
+    "url": "https://github.com/13xsa5/WEEK-TOOL",
+    "description": "What is WEEK TOOL? WEEK TOOL is an osint framework, which is one-stop tool for your information gathering and reconnaissance needs It can help you gather information (such as phone numbers, ip address, domain name info, etc.) from various publicly available sources about the target",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "Tools-of-the-Trade-Linux-and-SQL",
+    "owner": "sondosaabed",
+    "url": "https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL",
+    "description": " In this course, I have explored computing skills that I will use on-the-job as a cybersecurity analyst. First, I practiced using Linux OS commonly used by cybersecurity professionals. Used the Linux command line through the Bash shell to navigate, manage the file system, authenticate users. Then, I have used SQL to communicate with a database. ",
+    "stars": 5,
+    "forks": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "name": "Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
+    "owner": "Encrypted-Everest",
+    "url": "https://github.com/Encrypted-Everest/Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
+    "description": "Phishing attacks are one of the most common cyber threats, and the tools used to conduct them have evolved to become more sophisticated. Here’s You should be aware of in 2024. From SEToolkit to PyPhisher, these tools cover a wide range of phishing attack vectors, including social engineering, email phishing, and even QR code hijacking. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
+  },
+  {
+    "name": "30-days-red-team-toolkit",
+    "owner": "itsmaxwellcross",
+    "url": "https://github.com/itsmaxwellcross/30-days-red-team-toolkit",
+    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
+    "stars": 4,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
+    "name": "Hacker-Tools",
+    "owner": "Push4ck",
+    "url": "https://github.com/Push4ck/Hacker-Tools",
+    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
+  },
+  {
+    "name": "ipurl-tool",
+    "owner": "spapjh",
+    "url": "https://github.com/spapjh/ipurl-tool",
+    "description": "Simple tool to help SOC and other blueteamers/cybersecurity professionals.  Does simple commands like ping, nslookup, whois and reputation searches on IPs/URLs using AbuseIPDB and VirusTotal APIs",
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "Tooli",
+    "owner": "realworldsec",
+    "url": "https://github.com/realworldsec/Tooli",
+    "description": "Simple tool provide you the commands of tools.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 4,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   }
 ]
