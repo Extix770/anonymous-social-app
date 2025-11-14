@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import io, { Socket } from 'socket.io-client';
 
 interface Room {
@@ -49,10 +49,12 @@ const ChatRooms: React.FC<ChatRoomsProps> = ({ user }) => {
   }, [user, navigate]);
 
   const handleCreateRoom = () => {
-    if (chatRoomSocket && newRoomName.trim()) {
-      chatRoomSocket.emit('create-room', { roomName: newRoomName });
+    const trimmedRoomName = newRoomName.trim();
+    if (chatRoomSocket && trimmedRoomName) {
+      chatRoomSocket.emit('create-room', { roomName: trimmedRoomName });
       setNewRoomName('');
-    }n  };
+    }
+  };
 
   const handleJoinRoom = (roomId: string) => {
     if (chatRoomSocket) {

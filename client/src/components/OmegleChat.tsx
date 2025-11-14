@@ -1,7 +1,11 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import io, { Socket } from 'socket.io-client';
 
 const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+
+const STUN_SERVERS = {
+  iceServers: [{ urls: 'stun:stun.l.google.com:19302' }, { urls: 'stun:stun1.l.google.com:19302' }],
+};
 
 interface OmegleChatProps {
   onLeave: () => void;
@@ -17,9 +21,58 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
   const localVideoRef = useRef<HTMLVideoElement>(null);
   const remoteVideoRef = useRef<HTMLVideoElement>(null);
 
-  const STUN_SERVERS = {
-    iceServers: [{ urls: 'stun:stun.l.google.com:19302' }, { urls: 'stun:stun1.l.google.com:19302' }],
-  };
+  const createPeerConnection = useCallback(() => {
+    const pc = new RTCPeerConnection(STUN_SERVERS);
+
+    pc.onicecandidate = event => {
+      if (event.candidate) {
+        socketRef.current?.emit('webrtc-signal', { candidate: event.candidate });
+      }
+    };
+
+    pc.ontrack = event => {
+      if (remoteVideoRef.current) remoteVideoRef.current.srcObject = event.streams[0];
+    };
+
+    localStreamRef.current?.getTracks().forEach(track => pc.addTrack(track, localStreamRef.current!));
+
+    return pc;
+  }, []);
+
+  const handleMatch = useCallback(({ isInitiator }: { isInitiator: boolean }) => {
+    setStatus('Partner found! Connecting...');
+    const pc = createPeerConnection();
+    peerConnectionRef.current = pc;
+
+    if (isInitiator) {
+      pc.createOffer()
+        .then(offer => pc.setLocalDescription(offer))
+        .then(() => socketRef.current?.emit('webrtc-signal', { offer: pc.localDescription }));
+    }
+  }, [createPeerConnection]);
+
+  const handleSignal = useCallback(async (data: any) => {
+    const pc = peerConnectionRef.current;
+    if (!pc) return;
+
+    if (data.offer) {
+      await pc.setRemoteDescription(new RTCSessionDescription(data.offer));
+      const answer = await pc.createAnswer();
+      await pc.setLocalDescription(answer);
+      socketRef.current?.emit('webrtc-signal', { answer });
+    } else if (data.answer) {
+      await pc.setRemoteDescription(new RTCSessionDescription(data.answer));
+    } else if (data.candidate) {
+      await pc.addIceCandidate(new RTCIceCandidate(data.candidate));
+    }
+  }, []);
+
+  const handlePartnerLeft = useCallback(() => {
+    setStatus('Partner disconnected. Looking for a new partner...');
+    if (peerConnectionRef.current) peerConnectionRef.current.close();
+    if (remoteVideoRef.current) remoteVideoRef.current.srcObject = null;
+    socketRef.current?.emit('find-partner'); // Automatically find a new partner
+  }, []);
 
   useEffect(() => {
     if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia || !window.RTCPeerConnection) {
@@ -58,60 +111,7 @@ const OmegleChat: React.FC<OmegleChatProps> = ({ onLeave }) => {
       if (localStreamRef.current) localStreamRef.current.getTracks().forEach(track => track.stop());
       if (peerConnectionRef.current) peerConnectionRef.current.close();
     };
-  }, [onLeave]);
-
-  const createPeerConnection = () => {
-    const pc = new RTCPeerConnection(STUN_SERVERS);
-
-    pc.onicecandidate = event => {
-      if (event.candidate) {
-        socketRef.current?.emit('webrtc-signal', { candidate: event.candidate });
-      }
-    };
-
-    pc.ontrack = event => {
-      if (remoteVideoRef.current) remoteVideoRef.current.srcObject = event.streams[0];
-    };
-
-    localStreamRef.current?.getTracks().forEach(track => pc.addTrack(track, localStreamRef.current!));
-
-    return pc;
-  };
-
-  const handleMatch = ({ isInitiator }: { isInitiator: boolean }) => {
-    setStatus('Partner found! Connecting...');
-    const pc = createPeerConnection();
-    peerConnectionRef.current = pc;
-
-    if (isInitiator) {
-      pc.createOffer()
-        .then(offer => pc.setLocalDescription(offer))
-        .then(() => socketRef.current?.emit('webrtc-signal', { offer: pc.localDescription }));
-    }
-  };
-
-  const handleSignal = async (data: any) => {
-    const pc = peerConnectionRef.current;
-    if (!pc) return;
-
-    if (data.offer) {
-      await pc.setRemoteDescription(new RTCSessionDescription(data.offer));
-      const answer = await pc.createAnswer();
-      await pc.setLocalDescription(answer);
-      socketRef.current?.emit('webrtc-signal', { answer });
-    } else if (data.answer) {
-      await pc.setRemoteDescription(new RTCSessionDescription(data.answer));
-    } else if (data.candidate) {
-      await pc.addIceCandidate(new RTCIceCandidate(data.candidate));
-    }
-  };
-
-  const handlePartnerLeft = () => {
-    setStatus('Partner disconnected. Looking for a new partner...');
-    if (peerConnectionRef.current) peerConnectionRef.current.close();
-    if (remoteVideoRef.current) remoteVideoRef.current.srcObject = null;
-    socketRef.current?.emit('find-partner'); // Automatically find a new partner
-  };
+  }, [onLeave, handleMatch, handleSignal, handlePartnerLeft]);
 
   const handleNext = () => {
     setStatus('Looking for a new partner...');

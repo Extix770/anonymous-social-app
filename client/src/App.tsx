@@ -11,7 +11,7 @@ import CyberSecurityTools from './components/CyberSecurityTools';
 import ProfilePage from './components/ProfilePage';
 import EditProfilePage from './components/EditProfilePage';
 import PrivateMessagePage from './components/PrivateMessagePage';
-import NotificationsPage from './components/NotificationsPage';
+
 import SearchResultsPage from './components/SearchResultsPage';
 import OnlinePage from './components/OnlinePage';
 import Dashboard from './components/Dashboard';
@@ -127,7 +127,7 @@ interface HomeProps {
 function Home({ socket, user }: HomeProps) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [isChatting, setIsChatting] = useState(false);
-  const [selectedCategory, setSelectedCategory] = useState('All');
+  const [selectedCategory, ] = useState('All');
 
   const fetchPosts = useCallback(async () => {
     try {

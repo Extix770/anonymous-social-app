@@ -1,7 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
-import io, { Socket } from 'socket.io-client';
-
-const apiUrl = 'https://anonymous-api-tvtx.onrender.com';
+import React from 'react';
 
 const StatsDisplay: React.FC = () => {
   return <div />;
