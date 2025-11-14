@@ -1,5 +1,19 @@
 [
   {
+    "creator": "Matt Burgess, Lily Hay Newman",
+    "title": "DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound",
+    "link": "https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/",
+    "pubDate": "Fri, 14 Nov 2025 20:30:17 +0000",
+    "dc:creator": "Matt Burgess, Lily Hay Newman",
+    "content": "A new US law enforcement initiative is aimed at crypto fraudsters targeting Americans—and now seeks to seize infrastructure it claims is crucial to notorious scam compounds.",
+    "contentSnippet": "A new US law enforcement initiative is aimed at crypto fraudsters targeting Americans—and now seeks to seize infrastructure it claims is crucial to notorious scam compounds.",
+    "guid": "691638510b089e8b8bd83624",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2025-11-14T20:30:17.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
     "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
@@ -338,23 +352,6 @@
     "contentSnippet": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries.\nThe PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to",
     "guid": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
     "isoDate": "2025-11-12T15:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
-    "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
-    "pubDate": "Wed, 12 Nov 2025 19:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sh7XL7mszgdfrNOO_BzjEXspnLIuY2VVyB1VWyIj36nuDhnUiEWJPiy2C7PaZ7Zdqb2DS_mG1NtIRRLpvNRFiPjUZDNKrQmYL9CjNsGZPPCfCK9NgsQiPrv8tvvO3Eb79uCpvdhrSAXcfCV2pwvj6QnUsVxItGQyAimmR5DukNp0aADLaV-UCH6NHRyT/s1600/cisco.jpg"
-    },
-    "content": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware.\n\"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure –",
-    "contentSnippet": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware.\n\"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure –",
-    "guid": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
-    "isoDate": "2025-11-12T14:00:00.000Z",
     "itunes": {}
   }
 ]
