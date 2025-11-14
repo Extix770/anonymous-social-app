@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
+    "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+    "pubDate": "Fri, 14 Nov 2025 23:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhezv9r6ClrAlk-BAArf2qit1LLkCBtsnc22v9EJEuoGm8ZQfYXSoQJdoTrKRMDlQMCkhtTbaHx3mCh86eh1NHLPkFQQGDQ33zkO0W44RQac1TFZhD2-kKTk4WZIEWJzYrsGHjGEzSOEvFiZGpQa35Fli1w5rqbjrOdq3QtvpUPRl28X3vv1urOJpV4s-th/s1600/json.jpg"
+    },
+    "content": "The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads.\n\"The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,\" NVISO researchers Bart Parys, Stef",
+    "contentSnippet": "The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads.\n\"The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,\" NVISO researchers Bart Parys, Stef",
+    "guid": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+    "isoDate": "2025-11-14T18:25:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Upcoming Speaking Engagements",
     "link": "https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html",
@@ -339,24 +356,5 @@
     "guid": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
     "isoDate": "2025-11-12T14:00:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "On Hacking Back",
-    "link": "https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html",
-    "pubDate": "Wed, 12 Nov 2025 12:01:53 +0000",
-    "content:encoded": "<p>Former DoJ attorney John Carlin <a href=\"https://www.aspendigital.org/blog/so-you-want-to-hack-back/\">writes</a> about hackback, which he defines thus: &#8220;A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are&#8212;­by definition­&#8212;not passive defensive measures.&#8221;</p>\n<p>His conclusion:</p>\n<blockquote><p>As the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.</p>\n<p>At the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation.</p>\n<p>As for the broad range of other hack back tactics that fall in the middle of active defense and offensive measures, private parties should continue to engage in these tactics only with government oversight or authorization. These measures exist within a legal gray area and would likely benefit from amendments to the CFAA and CISA that clarify and carve out the parameters of authorization for specific self-defense measures. But in the absence of amendments or clarification on the scope of those laws, private actors can seek governmental authorization through an array of channels, whether they be partnering with law enforcement or seeking authorization to engage in more offensive tactics from the courts in connection with private litigation.</p></blockquote>\n",
-    "content:encodedSnippet": "Former DoJ attorney John Carlin writes about hackback, which he defines thus: “A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are—­by definition­—not passive defensive measures.”\nHis conclusion:\nAs the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.\nAt the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation.\nAs for the broad range of other hack back tactics that fall in the middle of active defense and offensive measures, private parties should continue to engage in these tactics only with government oversight or authorization. These measures exist within a legal gray area and would likely benefit from amendments to the CFAA and CISA that clarify and carve out the parameters of authorization for specific self-defense measures. But in the absence of amendments or clarification on the scope of those laws, private actors can seek governmental authorization through an array of channels, whether they be partnering with law enforcement or seeking authorization to engage in more offensive tactics from the courts in connection with private litigation.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html#comments",
-    "content": "<p>Former DoJ attorney John Carlin <a href=\"https://www.aspendigital.org/blog/so-you-want-to-hack-back/\">writes</a> about hackback, which he defines thus: &#8220;A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are&#8212;­by definition­&#8212;not passive defensive measures.&#8221;</p>\n<p>His conclusion:</p>\n<blockquote><p>As the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.</p>\n<p>At the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation...</p></blockquote>",
-    "contentSnippet": "Former DoJ attorney John Carlin writes about hackback, which he defines thus: “A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are—­by definition­—not passive defensive measures.”\nHis conclusion:\nAs the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.\nAt the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation...",
-    "guid": "https://www.schneier.com/?p=71128",
-    "categories": [
-      "Uncategorized",
-      "hackback",
-      "laws"
-    ],
-    "isoDate": "2025-11-12T12:01:53.000Z"
   }
 ]
