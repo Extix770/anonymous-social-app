@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+    "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+    "pubDate": "Fri, 14 Nov 2025 16:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
+    },
+    "content": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit’s reappearance with",
+    "contentSnippet": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit’s reappearance with",
+    "guid": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+    "isoDate": "2025-11-14T10:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
     "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
     "pubDate": "Fri, 14 Nov 2025 15:23:00 +0530",
@@ -336,22 +353,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-11-12T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Launches 'Private AI Compute' — Secure AI Processing with On-Device-Level Privacy",
-    "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
-    "pubDate": "Wed, 12 Nov 2025 14:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7u0YyGlwQEZFWpce5m9bHa4DibuFf1-votoLyZ6m1wkceOdtkkpGLrjkM9tyYHVQJVZSz5KQvJ9FxxCcr7KFlWm_d9DKdDx84iYRRp7J7rQHYRlAMdhF65AYDLZT_T-FWmwdXzULM-r1oHGTPENO8-oluI3HcVTXYUG3Pu-0m4IEhC0M6PLYVxgt_JWaQ/s1600/google-ai.gif"
-    },
-    "content": "Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud.\nThe company said it has built Private AI Compute to \"unlock the full speed and power of Gemini cloud models for AI experiences, while ensuring your personal data stays private to you and is not accessible to anyone else, not",
-    "contentSnippet": "Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud.\nThe company said it has built Private AI Compute to \"unlock the full speed and power of Gemini cloud models for AI experiences, while ensuring your personal data stays private to you and is not accessible to anyone else, not",
-    "guid": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
-    "isoDate": "2025-11-12T08:35:00.000Z",
-    "itunes": {}
   }
 ]
