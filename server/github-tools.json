@@ -414,6 +414,15 @@
     "language": "Python"
   },
   {
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 14,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
     "name": "Splunk-Tools",
     "owner": "EvolvingSysadmin",
     "url": "https://github.com/EvolvingSysadmin/Splunk-Tools",
@@ -438,15 +447,6 @@
     "description": "My Personal Library for CTF's",
     "stars": 13,
     "forks": 5,
-    "language": "Python"
-  },
-  {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 13,
-    "forks": 4,
     "language": "Python"
   },
   {
@@ -702,15 +702,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -718,6 +709,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "CyberSec-Toolkit",
