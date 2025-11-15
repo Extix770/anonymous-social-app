@@ -211,7 +211,7 @@
     "owner": "SalehLardhi",
     "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
     "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
-    "stars": 52,
+    "stars": 53,
     "forks": 6,
     "language": "Python"
   },
@@ -837,15 +837,6 @@
     "language": "Python"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -853,6 +844,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
