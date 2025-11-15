@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+    "link": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+    "pubDate": "Sat, 15 Nov 2025 22:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9TCTqd165bW145DBMR-qSAvHA1l2PjOb-YZw0aprmzJb9_qRQsz0ZNFZ6zsnvEDcsv4bMnOJcAUYTiBKOrbVuXOROUZ1ZG7imQnFIp6QouU3F5gG2i_pHkCiDW2khhHHdVN2Ey-0_vDrdtB4AXyArktjeo6JLpAUowA2Lux2AHUarBJTHjcKS3lXz60e4/s1600/botnet.jpg"
+    },
+    "content": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.\nThe vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/",
+    "contentSnippet": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.\nThe vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/",
+    "guid": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+    "isoDate": "2025-11-15T16:35:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg, Lily Hay Newman",
     "title": "A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets",
     "link": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
@@ -337,23 +354,6 @@
     "contentSnippet": "Behind every click, there’s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us.\nBut security teams are fighting back. They’re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It’s a constant race — every",
     "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
     "isoDate": "2025-11-13T10:10:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
-    "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
-    "pubDate": "Thu, 13 Nov 2025 12:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj6dtQtZKcXl4TjnJfg2t7WniTYLkQ1NLwaQzVB6A-EXj3b3kn6ZGSrAi4AkjkI2HcbdmEGePORP5d1Z7b2awdGjIQD9TCCOPr0YLUUjU4Bazi9LsKY3f0XNvp343duOjEucfDaZaOlkV3tMntsNHp5ilw6Uef2D6_tt2nl3pgbVkQXwH6edgVhUuD8SQ/s1600/firewall1.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-9242 (CVSS score: 9.3), an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-9242 (CVSS score: 9.3), an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including",
-    "guid": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
-    "isoDate": "2025-11-13T07:23:00.000Z",
     "itunes": {}
   }
 ]
