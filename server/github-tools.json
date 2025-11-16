@@ -405,21 +405,21 @@
     "language": "Python"
   },
   {
+    "name": "mo-tool",
+    "owner": "arabhacking",
+    "url": "https://github.com/arabhacking/mo-tool",
+    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 15,
+    "forks": 4,
+    "language": "Python"
+  },
+  {
     "name": "Analyst-Tool",
     "owner": "cybersheepdog",
     "url": "https://github.com/cybersheepdog/Analyst-Tool",
     "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
     "stars": 15,
     "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "mo-tool",
-    "owner": "arabhacking",
-    "url": "https://github.com/arabhacking/mo-tool",
-    "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 14,
-    "forks": 4,
     "language": "Python"
   },
   {
