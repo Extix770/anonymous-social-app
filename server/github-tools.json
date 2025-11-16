@@ -774,15 +774,6 @@
     "language": "Go"
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "Sec_Toolbelt",
     "owner": "bacon-GIT",
     "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
@@ -790,6 +781,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
