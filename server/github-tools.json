@@ -13,8 +13,8 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7168,
-    "forks": 824,
+    "stars": 7170,
+    "forks": 825,
     "language": "HTML"
   },
   {
@@ -372,7 +372,7 @@
     "name": "pentest-toolkit",
     "owner": "therealilyas",
     "url": "https://github.com/therealilyas/pentest-toolkit",
-    "description": "Advanced penetration testing toolkit in Python and Bash",
+    "description": "PentestKit — Advanced penetration testing toolkit in Python & Bash for bug bounty, OWASP, and ethical hacking.",
     "stars": 16,
     "forks": 5,
     "language": "Python"
