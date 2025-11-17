@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+    "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+    "pubDate": "Mon, 17 Nov 2025 22:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjThsbRJ_lhgrHOpVNJwYWI0Xc25nNa8uJ5J41VrEz8dv-B5UVNQcMoYyddfmhabn_nHz_rfrkgJbC8KYvOSwyfgbPRuCo08qaxLraEFbe-F2KQG2YoVj_pYae0ArE0YUKcx9ysHzNSGo5XCv0tz5LDsnmJTfPPLLsf7EYv3SJPhlWw5SN0yR9plhnJPTiY/s1600/clickfix.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT.\nThe activity, observed this month, is being tracked by eSentire under the moniker EVALUSION.\nFirst spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the",
+    "contentSnippet": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT.\nThe activity, observed this month, is being tracked by eSentire under the moniker EVALUSION.\nFirst spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the",
+    "guid": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+    "isoDate": "2025-11-17T16:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
     "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
     "pubDate": "Mon, 17 Nov 2025 18:04:00 +0530",
@@ -341,23 +358,6 @@
     "contentSnippet": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet FortiWeb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
     "guid": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
     "isoDate": "2025-11-14T09:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
-    "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
-    "pubDate": "Fri, 14 Nov 2025 01:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNhnn_FN1YzknlukZNSETlpsGEWJunJd8RntQwlE18t1lnZfUv4tbHe_CJkkLPVlZsRTU3_mz2Tfc1hsiCwmm2o-WcAz5zlXQqja_tPqI9__l8xz7MZDJC3rqW17VKFA3sy5v5Vyjd5UuqiytOPADhVEW7ZtFU2Uw7GobK91GhWnm7Bei_mTBMhLs83TQW/s1600/travel-sites.jpg"
-    },
-    "content": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
-    "contentSnippet": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
-    "guid": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
-    "isoDate": "2025-11-13T20:27:00.000Z",
     "itunes": {}
   }
 ]
