@@ -337,8 +337,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
     },
-    "content": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
-    "contentSnippet": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
+    "content": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet FortiWeb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
+    "contentSnippet": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet FortiWeb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
     "guid": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
     "isoDate": "2025-11-14T09:00:00.000Z",
     "itunes": {}

@@ -369,15 +369,6 @@
     "language": null
   },
   {
-    "name": "pentest-toolkit",
-    "owner": "therealilyas",
-    "url": "https://github.com/therealilyas/pentest-toolkit",
-    "description": "Advanced penetration testing toolkit in Python and Bash",
-    "stars": 16,
-    "forks": 5,
-    "language": "Python"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "paulveillard",
     "url": "https://github.com/paulveillard/cybersecurity-tools",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "File-analysis-tools",
+    "owner": "Adilnasceng",
+    "url": "https://github.com/Adilnasceng/File-analysis-tools",
+    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
+    "stars": 4,
+    "forks": 0,
+    "language": "C++"
   }
 ]
