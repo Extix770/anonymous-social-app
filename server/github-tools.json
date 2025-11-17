@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7746,
+    "stars": 7747,
     "forks": 1065,
     "language": null
   },
@@ -58,7 +58,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 701,
+    "stars": 702,
     "forks": 68,
     "language": null
   },
@@ -367,6 +367,15 @@
     "stars": 16,
     "forks": 4,
     "language": null
+  },
+  {
+    "name": "pentest-toolkit",
+    "owner": "therealilyas",
+    "url": "https://github.com/therealilyas/pentest-toolkit",
+    "description": "Advanced penetration testing toolkit in Python and Bash",
+    "stars": 16,
+    "forks": 5,
+    "language": "Python"
   },
   {
     "name": "cybersecurity-tools",
@@ -693,15 +702,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -717,6 +717,15 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -765,15 +774,6 @@
     "language": "Go"
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "Sec_Toolbelt",
     "owner": "bacon-GIT",
     "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
@@ -781,6 +781,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
-  },
-  {
-    "name": "File-analysis-tools",
-    "owner": "Adilnasceng",
-    "url": "https://github.com/Adilnasceng/File-analysis-tools",
-    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
-    "stars": 4,
-    "forks": 0,
-    "language": "C++"
   }
 ]
