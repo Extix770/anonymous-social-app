@@ -10,8 +10,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qGZvQDuR4AG6uEiMhGDHMsSkL1TLRNfW1kBylVrG6oiDRdisUMsnMb2vjfad2_IywwPHoJsNNX4kuhs_1UPn07KCLnt_z7C0AdmNTfDNKApwOAKnjDtuNuPR84jCFyw6deU-N6D3Jj8kR-BcV9sKidAEvdTxKFZA71P8OmCpvVgekFZCTwmMzoXS9qc2/s1600/android-rust.jpg"
     },
-    "content": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was Rust's impact on",
-    "contentSnippet": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was Rust's impact on",
+    "content": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was",
+    "contentSnippet": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was",
     "guid": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
     "isoDate": "2025-11-17T06:02:00.000Z",
     "itunes": {}
