@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers",
+    "link": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
+    "pubDate": "Tue, 18 Nov 2025 14:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers” ever—along with profile photos and more.",
+    "contentSnippet": "By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers” ever—along with profile photos and more.",
+    "guid": "69138c8af757bec53ccf780a",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-11-18T14:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI and Voter Engagement",
     "link": "https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html",
@@ -343,23 +358,5 @@
     "guid": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
     "isoDate": "2025-11-14T18:25:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Upcoming Speaking Engagements",
-    "link": "https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html",
-    "pubDate": "Fri, 14 Nov 2025 17:08:57 +0000",
-    "content:encoded": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>My coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “<a href=\"https://www.popvox.org/events/ai-and-congress\">AI and Congress: Practical Steps to Govern and Prepare</a>.”</li>\n<li>I’m speaking on “Integrity and Trustworthy AI” at <a href=\"https://events.vtools.ieee.org/m/462883\">North Hennepin Community College</a> in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society.</li>\n<li>Nathan E. Sanders and I will be speaking at the <a href=\"https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/\">MIT Museum</a> in Cambridge, Massachusetts, USA, on December 1, 2025, at 6:00 pm ET.</li>\n<li>Nathan E. Sanders and I will be speaking at a <a href=\"https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/\">virtual event</a> hosted by City Lights on the Zoom platform, on December 3, 2025, at 6:00 PM PT.</li>\n<li>I’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026. Details to come.</li>\n</ul>\n<p>The list is maintained on <a href=\"https://www.schneier.com/events/\">this page</a>.</p>\n",
-    "content:encodedSnippet": "This is a current list of where and when I am scheduled to speak:\nMy coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “AI and Congress: Practical Steps to Govern and Prepare.”\nI’m speaking on “Integrity and Trustworthy AI” at North Hennepin Community College in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society.\nNathan E. Sanders and I will be speaking at the MIT Museum in Cambridge, Massachusetts, USA, on December 1, 2025, at 6:00 pm ET.\nNathan E. Sanders and I will be speaking at a virtual event hosted by City Lights on the Zoom platform, on December 3, 2025, at 6:00 PM PT.\nI’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026. Details to come.\nThe list is maintained on this page.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html#respond",
-    "content": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>My coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “<a href=\"https://www.popvox.org/events/ai-and-congress\">AI and Congress: Practical Steps to Govern and Prepare</a>.”</li>\n<li>I’m speaking on “Integrity and Trustworthy AI” at <a href=\"https://events.vtools.ieee.org/m/462883\">North Hennepin Community College</a> in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society...</li></ul>",
-    "contentSnippet": "This is a current list of where and when I am scheduled to speak:\nMy coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “AI and Congress: Practical Steps to Govern and Prepare.”\nI’m speaking on “Integrity and Trustworthy AI” at North Hennepin Community College in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society...",
-    "guid": "https://www.schneier.com/?p=71157",
-    "categories": [
-      "Uncategorized",
-      "Schneier news"
-    ],
-    "isoDate": "2025-11-14T17:08:57.000Z"
   }
 ]
