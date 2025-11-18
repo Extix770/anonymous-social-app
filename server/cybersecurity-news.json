@@ -1,7 +1,7 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet",
+    "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
     "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
     "pubDate": "Tue, 18 Nov 2025 13:47:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -10,8 +10,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s1600/ddos.jpg"
     },
-    "content": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
-    "contentSnippet": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
+    "content": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
+    "contentSnippet": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
     "guid": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
     "isoDate": "2025-11-18T08:17:00.000Z",
     "itunes": {}
