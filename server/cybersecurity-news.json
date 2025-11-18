@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+    "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+    "pubDate": "Wed, 19 Nov 2025 00:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUazxCy3vEGn8LPbdlF5itqaRkz1hHoZICRwrw6N6eOk7fxRbRx1r304KEpLd-LeevEHDIwZ0pLukHppiGlxuU5juewH86IWmXorHFekbgYxQ1R2snVoZE8tqkrFIg4HOu_EaIV5bmVYaad4wUYA2ea9tiqqKaYAfIzj2icwv50ptIREdEy1NS8jPwsLrj/s1600/browser.gif"
+    },
+    "content": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use",
+    "contentSnippet": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use",
+    "guid": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+    "isoDate": "2025-11-18T18:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
     "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
     "pubDate": "Tue, 18 Nov 2025 21:26:00 +0530",
@@ -343,22 +360,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-11-15T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
-    "link": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
-    "pubDate": "Sat, 15 Nov 2025 15:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiZLSJZYH44phyXKQDmoGmkWealYMHJ_c95Ee6EYNEGqEKPn249Xacy2yylC7XobIDqYHHJNGtBy5zTs2R_XCq6Y0kKqlfYOk4rUrMR99N1NdsOcB1prH_8KEnZr7ywk-R03KJ5sDGzKv9Wx-ICZWlU4jSLvBOpxsi_Ckv5lZBh2n_2ASjVfD8yqueEEWn/s1600/north-hackers.jpg"
-    },
-    "content": "The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea's illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions.\nThe five individuals are listed below -\n\nAudricus Phagnasay, 24\nJason Salazar, 30\nAlexander Paul Travis, 34\nOleksandr Didenko, 28, and\nErick",
-    "contentSnippet": "The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea's illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions.\nThe five individuals are listed below -\n\nAudricus Phagnasay, 24\nJason Salazar, 30\nAlexander Paul Travis, 34\nOleksandr Didenko, 28, and\nErick",
-    "guid": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
-    "isoDate": "2025-11-15T10:21:00.000Z",
-    "itunes": {}
   }
 ]
