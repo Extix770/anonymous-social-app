@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet",
+    "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+    "pubDate": "Tue, 18 Nov 2025 13:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s1600/ddos.jpg"
+    },
+    "content": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
+    "contentSnippet": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
+    "guid": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+    "isoDate": "2025-11-18T08:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
     "link": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
     "pubDate": "Tue, 18 Nov 2025 10:14:00 +0530",
@@ -341,23 +358,6 @@
     "contentSnippet": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit’s reappearance with",
     "guid": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
     "isoDate": "2025-11-14T10:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
-    "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-    "pubDate": "Fri, 14 Nov 2025 15:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
-    },
-    "content": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree – using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
-    "contentSnippet": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree – using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
-    "guid": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-    "isoDate": "2025-11-14T09:53:00.000Z",
     "itunes": {}
   }
 ]
