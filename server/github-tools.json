@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7769,
+    "stars": 7770,
     "forks": 1067,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7178,
+    "stars": 7179,
     "forks": 826,
     "language": "HTML"
   },
@@ -486,15 +486,6 @@
     "language": "Jupyter Notebook"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 10,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -502,6 +493,15 @@
     "stars": 10,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 10,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Shifter-tool",
@@ -855,15 +855,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -873,12 +864,12 @@
     "language": "Shell"
   },
   {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "C++"
+  },
+  {
+    "name": "URL-Analysis-Tool",
+    "owner": "Cybersight-Security",
+    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
+    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Zoë Schiffer, Brian Barrett",
+    "title": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/",
+    "pubDate": "Wed, 19 Nov 2025 22:09:44 +0000",
+    "dc:creator": "Zoë Schiffer, Brian Barrett",
+    "content": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for month, as well as the news of the week.",
+    "contentSnippet": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for month, as well as the news of the week.",
+    "guid": "691791d269341b3e1e516788",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-11-19T22:09:44.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)",
     "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
@@ -337,23 +352,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.\nThe malicious npm packages, published by a threat actor named \"dino_reborn\" between September and November 2025, are",
     "guid": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
     "isoDate": "2025-11-18T10:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
-    "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
-    "pubDate": "Tue, 18 Nov 2025 13:47:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s1600/ddos.jpg"
-    },
-    "content": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
-    "contentSnippet": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
-    "guid": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
-    "isoDate": "2025-11-18T08:17:00.000Z",
     "itunes": {}
   }
 ]
