@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Legal Restrictions on Vulnerability Disclosure",
+    "link": "https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html",
+    "pubDate": "Wed, 19 Nov 2025 12:04:50 +0000",
+    "content:encoded": "<p>Kendra Albert gave an <a href=\"https://www.youtube.com/watch?v=lUe3uUvIyT0\">excellent talk</a> at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities&#8212;exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.</p>\n<blockquote><p>Thirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren&#8217;t getting fixed and wouldn&#8217;t get fixed if companies that made insecure software wasn&#8217;t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We&#8217;ve lived happily ever after since.</p>\n<p>Or have we? The move towards paid bug bounties and the rise of platforms that manage bug bounty programs for security teams has changed the reality of disclosure significantly. In certain cases, these programs require agreement to contractual restrictions. Under the status quo, that means that software companies sometimes funnel vulnerabilities into bug bounty management platforms and then condition submission on confidentiality agreements that can prohibit researchers from ever sharing their findings.</p>\n<p>In this talk, I&#8217;ll explain how confidentiality requirements for managed bug bounty programs restrict the ability of those who attempt to report vulnerabilities to share their findings publicly, compromising the bargain at the center of the CVD process. I&#8217;ll discuss what contract law can tell us about how and when these restrictions are enforceable, and more importantly, when they aren&#8217;t, providing advice to hackers around how to understand their legal rights when submitting. Finally, I&#8217;ll call upon platforms and companies to adapt their practices to be more in line with the original bargain of coordinated vulnerability disclosure, including by banning agreements that require non-disclosure.</p></blockquote>\n<p>And <a href=\"https://www.schneier.com/essays/archives/2007/01/schneier_full_disclo.html\">this</a> is me from 2007, talking about &#8220;responsible disclosure&#8221;:</p>\n<blockquote><p>This was a good idea&#8212;and these days it&#8217;s normal procedure&#8212;but one that was possible only because full disclosure was the norm. And it remains a good idea only as long as full disclosure is the threat.</p></blockquote>\n",
+    "content:encodedSnippet": "Kendra Albert gave an excellent talk at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities—exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.\nThirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren’t getting fixed and wouldn’t get fixed if companies that made insecure software wasn’t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We’ve lived happily ever after since.\nOr have we? The move towards paid bug bounties and the rise of platforms that manage bug bounty programs for security teams has changed the reality of disclosure significantly. In certain cases, these programs require agreement to contractual restrictions. Under the status quo, that means that software companies sometimes funnel vulnerabilities into bug bounty management platforms and then condition submission on confidentiality agreements that can prohibit researchers from ever sharing their findings.\nIn this talk, I’ll explain how confidentiality requirements for managed bug bounty programs restrict the ability of those who attempt to report vulnerabilities to share their findings publicly, compromising the bargain at the center of the CVD process. I’ll discuss what contract law can tell us about how and when these restrictions are enforceable, and more importantly, when they aren’t, providing advice to hackers around how to understand their legal rights when submitting. Finally, I’ll call upon platforms and companies to adapt their practices to be more in line with the original bargain of coordinated vulnerability disclosure, including by banning agreements that require non-disclosure.\n\nAnd this is me from 2007, talking about “responsible disclosure”:\nThis was a good idea—and these days it’s normal procedure—but one that was possible only because full disclosure was the norm. And it remains a good idea only as long as full disclosure is the threat.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html#respond",
+    "content": "<p>Kendra Albert gave an <a href=\"https://www.youtube.com/watch?v=lUe3uUvIyT0\">excellent talk</a> at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities&#8212;exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.</p>\n<blockquote><p>Thirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren&#8217;t getting fixed and wouldn&#8217;t get fixed if companies that made insecure software wasn&#8217;t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We&#8217;ve lived happily ever after since...</p></blockquote>",
+    "contentSnippet": "Kendra Albert gave an excellent talk at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities—exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.\nThirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren’t getting fixed and wouldn’t get fixed if companies that made insecure software wasn’t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We’ve lived happily ever after since...",
+    "guid": "https://www.schneier.com/?p=71198",
+    "categories": [
+      "Uncategorized",
+      "courts",
+      "disclosure",
+      "video",
+      "vulnerabilities"
+    ],
+    "isoDate": "2025-11-19T12:04:50.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+    "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+    "pubDate": "Wed, 19 Nov 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAi0D4B697ca6xQAwAw_dQp7utPWY_RDYE_iKTlMNFUNyMGOCc7GRraPuEHW_WyQ2rg5Cdsm2MMVAhEM5B3WlZhuMDKp_OdB1luQizlSSOBmb8bxaFMoMTqO00ua8W56FcOrn8pGvhJ2IUxDgyZRH0RFJ5pXoswPe_UcIuf2c1DU6wyctCwJpBNWgOsx0/s1600/threatlocker.jpg"
+    },
+    "content": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.\nZero Trust fundamentally shifts",
+    "contentSnippet": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.\nZero Trust fundamentally shifts",
+    "guid": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+    "isoDate": "2025-11-19T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
     "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
@@ -309,39 +347,5 @@
       "videos"
     ],
     "isoDate": "2025-11-17T12:05:07.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
-    "link": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-    "pubDate": "Mon, 17 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHSBFtlHKrVs9-Dj5zayONnKJJ7px_OH6p61JdLoA-MxIckL6ZKGIgAbOHty49BGJzpxEfzt74eWhHxrE3FH4YEOojboABz-KCAVTBA6BNM0yJ8OptrXIv6nlm20mm1s9-AhiLmpz5jStLnvjoYUS43OB0Fs35CgS3U8sAj34zNy_wpIipz2KJPLc8Am4/s1600/MAIN.jpg"
-    },
-    "content": "Phishing attacks are no longer confined to the email inbox, with 1 in 3 phishing attacks now taking place over non-email channels like social media, search engines, and messaging apps.\nLinkedIn in particular has become a hotbed for phishing attacks, and for good reason. Attackers are running sophisticated spear-phishing attacks against company executives, with recent campaigns seen targeting",
-    "contentSnippet": "Phishing attacks are no longer confined to the email inbox, with 1 in 3 phishing attacks now taking place over non-email channels like social media, search engines, and messaging apps.\nLinkedIn in particular has become a hotbed for phishing attacks, and for good reason. Attackers are running sophisticated spear-phishing attacks against company executives, with recent campaigns seen targeting",
-    "guid": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-    "isoDate": "2025-11-17T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
-    "link": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
-    "pubDate": "Mon, 17 Nov 2025 16:50:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9N_SUrEcfHdyrM_8wzo21DFLFtDBZPlKPLyFLYRfQWYCS8wyhxYLj35JrSqYNFT9739fS9yXd3HSwlcTw4k3j-v96987CW9AWYoaC-BcCCnmTUJ09p7mk07aa1Cn9tYKOuUBS0GQ9oVgoKMfVCbhdWNVF4f5YdAvkAl2PeGDWEKBu1Q3BX58WfqowgUlX/s1600/malware-attack.jpg"
-    },
-    "content": "The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.\nThe campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.\n\"The",
-    "contentSnippet": "The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.\nThe campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.\n\"The",
-    "guid": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
-    "isoDate": "2025-11-17T11:20:00.000Z",
-    "itunes": {}
   }
 ]
