@@ -306,15 +306,6 @@
     "language": "Python"
   },
   {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
-    "stars": 21,
-    "forks": 3,
-    "language": "Python"
-  },
-  {
     "name": "ToolsBox",
     "owner": "zidansec",
     "url": "https://github.com/zidansec/ToolsBox",
@@ -322,6 +313,15 @@
     "stars": 19,
     "forks": 2,
     "language": "Shell"
+  },
+  {
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "stars": 19,
+    "forks": 3,
+    "language": "Python"
   },
   {
     "name": "PCI-DSS-Compliance-Toolkit",
@@ -486,15 +486,6 @@
     "language": "Shell"
   },
   {
-    "name": "Ayesha-osint-toolkit",
-    "owner": "SilentProgrammer-max",
-    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
-    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
-    "stars": 11,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "UM-NIDS-Tool",
     "owner": "SyedWaliAbbas",
     "url": "https://github.com/SyedWaliAbbas/UM-NIDS-Tool",
@@ -511,6 +502,15 @@
     "stars": 10,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "Ayesha-osint-toolkit",
+    "owner": "SilentProgrammer-max",
+    "url": "https://github.com/SilentProgrammer-max/Ayesha-osint-toolkit",
+    "description": "A laser-focused Python OSINT toolkit for instant username, email & IP intelligence—empowering you to uncover hidden digital footprints.",
+    "stars": 10,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Shifter-tool",
@@ -711,6 +711,15 @@
     "language": null
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -724,15 +733,6 @@
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
     "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -783,21 +783,21 @@
     "language": "Python"
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
     "description": "Tools for National Cyber League Competition",
     "stars": 5,
     "forks": 1,
+    "language": null
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
     "language": null
   },
   {
@@ -808,15 +808,6 @@
     "stars": 5,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "Tools-of-the-Trade-Linux-and-SQL",
-    "owner": "sondosaabed",
-    "url": "https://github.com/sondosaabed/Tools-of-the-Trade-Linux-and-SQL",
-    "description": " In this course, I have explored computing skills that I will use on-the-job as a cybersecurity analyst. First, I practiced using Linux OS commonly used by cybersecurity professionals. Used the Linux command line through the Bash shell to navigate, manage the file system, authenticate users. Then, I have used SQL to communicate with a database. ",
-    "stars": 5,
-    "forks": 0,
-    "language": "Jupyter Notebook"
   },
   {
     "name": "Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
@@ -846,15 +837,6 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -864,6 +846,15 @@
     "language": "HTML"
   },
   {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
+  },
+  {
     "name": "Tooli",
     "owner": "realworldsec",
     "url": "https://github.com/realworldsec/Tooli",
@@ -871,6 +862,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "ddos-tool-python",
