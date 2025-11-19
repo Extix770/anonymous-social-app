@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7765,
+    "stars": 7766,
     "forks": 1067,
     "language": null
   },
@@ -306,6 +306,15 @@
     "language": "Python"
   },
   {
+    "name": "awesome-hacker-tools",
+    "owner": "XiaomingX",
+    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
+    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+    "stars": 20,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
     "name": "ToolsBox",
     "owner": "zidansec",
     "url": "https://github.com/zidansec/ToolsBox",
@@ -313,15 +322,6 @@
     "stars": 19,
     "forks": 2,
     "language": "Shell"
-  },
-  {
-    "name": "awesome-hacker-tools",
-    "owner": "XiaomingX",
-    "url": "https://github.com/XiaomingX/awesome-hacker-tools",
-    "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
-    "stars": 19,
-    "forks": 3,
-    "language": "Python"
   },
   {
     "name": "PCI-DSS-Compliance-Toolkit",
