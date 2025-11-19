@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+    "pubDate": "Wed, 19 Nov 2025 09:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKdkwpYxJC7o2i7S9wnA23qyb2BohSBPoI9nZSfX-qt7bRgSwxhDKYeogidmxxGNCSI0l-l-cKj8eJsA4bDVEjsUAiQVmw8bK6ZTE7omWqq7kSP0L_DpCG23Q91NjEx-lrepVUjzwSKo2_H6Ke4I-7XOPHZAiGYhdHB3eTOCG8S_ksc1SEJU4PchDAuSM/s1600/fort.jpg"
+    },
+    "content": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a maximum of 10.0.\n\"An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiWeb may allow an authenticated attacker to execute",
+    "contentSnippet": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a maximum of 10.0.\n\"An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiWeb may allow an authenticated attacker to execute",
+    "guid": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+    "isoDate": "2025-11-19T04:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
     "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
     "pubDate": "Wed, 19 Nov 2025 00:01:00 +0530",
@@ -345,20 +362,5 @@
     "guid": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
     "isoDate": "2025-11-15T16:35:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg, Lily Hay Newman",
-    "title": "A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets",
-    "link": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
-    "pubDate": "Sat, 15 Nov 2025 11:30:00 +0000",
-    "dc:creator": "Andy Greenberg, Lily Hay Newman",
-    "content": "Plus: State-sponsored AI hacking is here, Google hosts a CBP face recognition app, and more of the week’s top security news.",
-    "contentSnippet": "Plus: State-sponsored AI hacking is here, Google hosts a CBP face recognition app, and more of the week’s top security news.",
-    "guid": "69175bd003d6b5a0bd544040",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-15T11:30:00.000Z"
   }
 ]
