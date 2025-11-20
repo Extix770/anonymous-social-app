@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
+    "link": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
+    "pubDate": "Thu, 20 Nov 2025 09:36:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdYB9Gid2loMKjZaFwuw8YNcXPNMj8a66sEY0z-p0ez7SZf1_vmAIn0fel7zK-zatmZqEc-EssuI89guGsGeOg9G1Vkw6LV7F6QU1W-N1maj6Pws1VrpKl2-sGqrvleq0VF1VTmQHwUzChvzTPcjJPtCIb1pVGT__o4iJoXXYCE0G7h4zb61Y7I-GtLGZn/s1600/software.jpg"
+    },
+    "content": "Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.\nThe end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the",
+    "contentSnippet": "Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.\nThe end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the",
+    "guid": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
+    "isoDate": "2025-11-20T04:06:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Zoë Schiffer, Brian Barrett",
     "title": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers",
     "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/",
@@ -335,23 +352,6 @@
     "contentSnippet": "Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.\nBuilding on Gartner’s definition of “identity",
     "guid": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
     "isoDate": "2025-11-18T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
-    "link": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
-    "pubDate": "Tue, 18 Nov 2025 16:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQ7iCz7VpB_JXNQKdG7MzL3-W7RzL9PSlbgktyxA2fZYJGJ8lVtKsoJeFD9LgconGlK9MhuRrWUN26eMkd44zv3ro7VmulplS_0L9BxtQCCC1d4HnmwnWjM0cAl9N8ysY9KfG1A4l-cOIiinzlHJLoDOoTeHG2XwgtVh6bw1MPdFyhSTbBUfvOIWK1BaG/s1600/crypto-scams.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.\nThe malicious npm packages, published by a threat actor named \"dino_reborn\" between September and November 2025, are",
-    "contentSnippet": "Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.\nThe malicious npm packages, published by a threat actor named \"dino_reborn\" between September and November 2025, are",
-    "guid": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
-    "isoDate": "2025-11-18T10:37:00.000Z",
     "itunes": {}
   }
 ]
