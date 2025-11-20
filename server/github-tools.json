@@ -139,7 +139,7 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 107,
+    "stars": 108,
     "forks": 11,
     "language": "HTML"
   },
@@ -693,15 +693,6 @@
     "language": "C"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -709,6 +700,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "CyberSec-Toolkit",
