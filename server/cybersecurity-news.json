@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Paresh Dave",
+    "title": "Four Indicted In Alleged Conspiracy To Smuggle Supercomputers and Nvidia Chips to China",
+    "link": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
+    "pubDate": "Thu, 20 Nov 2025 22:26:17 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "A federal prosecutor alleged one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
+    "contentSnippet": "A federal prosecutor alleged one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
+    "guid": "691f82336fb8bbfbceda08a5",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Security / National Security"
+    ],
+    "isoDate": "2025-11-20T22:26:17.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
     "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
@@ -345,22 +361,5 @@
       "Science / Health"
     ],
     "isoDate": "2025-11-19T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
-    "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-    "pubDate": "Wed, 19 Nov 2025 15:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPK3N8k6tgxGcB7a-bCV3NfNUyR_iJuH7RxJJjya0hePCXNoQDQhZvHWDcsunCpNlA9F4uhk0EzWA1sFw5rCRa6zd4hUH3SzRcDusauukG-GA-tGfmex2HFTndPiTT1LeexpWsNBfmv70tiAB04J1yTIXSdnpm2_-Q12RaCfBzkr3aG_Icv5pEe-NI-ed/s1600/ai-agents.jpg"
-    },
-    "content": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attacks.\nThe second-order prompt injection, according to AppOmni, makes use of Now Assist's agent-to-agent discovery to execute unauthorized actions, enabling attackers to copy and exfiltrate sensitive",
-    "contentSnippet": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attacks.\nThe second-order prompt injection, according to AppOmni, makes use of Now Assist's agent-to-agent discovery to execute unauthorized actions, enabling attackers to copy and exfiltrate sensitive",
-    "guid": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-    "isoDate": "2025-11-19T09:59:00.000Z",
-    "itunes": {}
   }
 ]
