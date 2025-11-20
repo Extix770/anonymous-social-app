@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
+    "link": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+    "pubDate": "Thu, 20 Nov 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH2aVkVgE_AQcR38boab-hJ6KPZrNbJ2Q12DXvADAqDV8kVqEmRnL4VzFH95VhcRrYxIo0iS-Sb_9NwtZUVm5CxCmk0q0Eywnjik5050X0JPziBgeTK9YSKhKdkOZNvOhm75YitAMspH9sZSEqRXIJurcgfRgOYbCfEqGZBHUwwW7RtOJ3Lw8sg0rX4mI/s1600/ctm360.jpg"
+    },
+    "content": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
+    "contentSnippet": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
+    "guid": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+    "isoDate": "2025-11-20T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices",
+    "link": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+    "pubDate": "Thu, 20 Nov 2025 16:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8I7UV4u8O03jdgw6jpt_ITLXyqrcwoVLRUr_84vWKRe9ctYFLOAhKGvO7poJq_5YZwb7-3a2NzF0smKc5U0KOj6dgRmw5o0jWI0xEtZMjZTZ8KByylPoes-8t_8sXq7wWEyJ_TQtjI81OS1hx-uAG5a3xVCgEd9sqr3JlCemLHuS9ui-ctH6KjH8-uQri/s1600/android-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
+    "guid": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+    "isoDate": "2025-11-20T11:04:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
     "link": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
@@ -315,38 +349,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a cyber attack targeting a major U.S.-based real-estate company that involved the use of a nascent command-and-control (C2) and red teaming framework known as Tuoni.\n\"The campaign leveraged the emerging Tuoni C2 framework, a relatively new, command-and-control (C2) tool (with a free license) that delivers stealthy, in-memory payloads,\"",
     "guid": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
     "isoDate": "2025-11-18T14:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers",
-    "link": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
-    "pubDate": "Tue, 18 Nov 2025 14:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers” ever—along with profile photos and more.",
-    "contentSnippet": "By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers” ever—along with profile photos and more.",
-    "guid": "69138c8af757bec53ccf780a",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-11-18T14:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
-    "link": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
-    "pubDate": "Tue, 18 Nov 2025 18:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANn6HS89nO5bbMqMw7uLG3adyrOqaceztN7_QFT7PAalBP3sITkB3y9z_36naCvTv5YRhgusQx6tXEB9nSmQAru_0EV5LNLyj2FWdZwcD55V4ODt_EJtB4KOipfALbQ_U1pklNh50PFR8P4A_G6D6E3ua0sTbk-JIn0ZF5RTFkY51dw5IyzsI7IJGcl3h/s1600/Aerospace-hackers.jpg"
-    },
-    "content": "Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.\nThe activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka GalaxyGato, Nimbus Manticore, or Subtle Snail), which was first documented",
-    "contentSnippet": "Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.\nThe activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka GalaxyGato, Nimbus Manticore, or Subtle Snail), which was first documented",
-    "guid": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
-    "isoDate": "2025-11-18T12:54:00.000Z",
     "itunes": {}
   }
 ]
