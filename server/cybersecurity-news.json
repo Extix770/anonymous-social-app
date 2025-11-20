@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
+    "link": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+    "pubDate": "Thu, 20 Nov 2025 13:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg"
+    },
+    "content": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
+    "contentSnippet": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
+    "guid": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+    "isoDate": "2025-11-20T07:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
     "link": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
     "pubDate": "Thu, 20 Nov 2025 09:36:00 +0530",
@@ -336,22 +353,5 @@
       "voting"
     ],
     "isoDate": "2025-11-18T12:01:44.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
-    "link": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
-    "pubDate": "Tue, 18 Nov 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn3vLGW3cKs0sXmT_QUktr7Z215KSU8vCThbvHlJBUE4N6-71iTYrw0cLUuNXDvetFmi6LXIty3NNmvIpTE8BVwIDhyphenhyphenSqbFm0CsolT7lA7I5ai92hcjLp8ew4bJUqhjsx_pY6KKzLz6_UJSSpvdVG_CW9Yau1XmZVZRYuoEIiB3KONNQsy09vhf9D3ySg/s1600/Identity-Security-Fabric.jpg"
-    },
-    "content": "Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.\nBuilding on Gartner’s definition of “identity",
-    "contentSnippet": "Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.\nBuilding on Gartner’s definition of “identity",
-    "guid": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
-    "isoDate": "2025-11-18T11:00:00.000Z",
-    "itunes": {}
   }
 ]
