@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
+    "link": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
+    "pubDate": "Thu, 20 Nov 2025 22:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT14rn9vNidJuASiqy00Z9vRhL2TJTbX0JWycjYzO4IMjRmjIUXYYKPW_F9caqm4qWn0bA9iY9h9LN8ZaKhPI-IeWf2vpei5sHpskrH2L6OW-g5GpmbomdG-aTT9gswof2O4jhQJQyVEui8OmK4nJ72lRr92-8lcikB8w9w8V7z3xpQ8qYZaNkoSV8HMNn/s1600/clusture-hacking.jpg"
+    },
+    "content": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.\nThe activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,",
+    "contentSnippet": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.\nThe activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,",
+    "guid": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
+    "isoDate": "2025-11-20T17:24:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
+    "link": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
+    "pubDate": "Thu, 20 Nov 2025 22:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWCzFuJ27zRdLiXDJLbzAKsXq1B21v769VXyN0N9wjg3aQQPMHqsiaxXi3V6LM1xbQCB0ecsOjlEEORaSeRnnFVBjK3OtrxcTS_oSQiadmLSZNDow8eeIB5QVX8q19t6MyRR5XL2CRsTy7QD-GtWn82x_HH1gcas-9NW1vDfN3QlvcpUSqRa1gnMNBD2xJ/s1600/botnet-malware-windows.jpg"
+    },
+    "content": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;",
+    "contentSnippet": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;",
+    "guid": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
+    "isoDate": "2025-11-20T16:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
     "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
     "pubDate": "Thu, 20 Nov 2025 17:59:00 +0530",
@@ -320,40 +354,6 @@
     "contentSnippet": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a maximum of 10.0.\n\"An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability [CWE-78] in FortiWeb may allow an authenticated attacker to execute",
     "guid": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
     "isoDate": "2025-11-19T04:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-    "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-    "pubDate": "Wed, 19 Nov 2025 00:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUazxCy3vEGn8LPbdlF5itqaRkz1hHoZICRwrw6N6eOk7fxRbRx1r304KEpLd-LeevEHDIwZ0pLukHppiGlxuU5juewH86IWmXorHFekbgYxQ1R2snVoZE8tqkrFIg4HOu_EaIV5bmVYaad4wUYA2ea9tiqqKaYAfIzj2icwv50ptIREdEy1NS8jPwsLrj/s1600/browser.gif"
-    },
-    "content": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use",
-    "contentSnippet": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use",
-    "guid": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-    "isoDate": "2025-11-18T18:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
-    "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-    "pubDate": "Tue, 18 Nov 2025 21:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgOl-JrSVLAI7Qi4qHDyFCjyRB3ue79utMC8yXawZU8fE17CUF-DjowrvhQV0Ke-fV3jK8YJE1H42F1c7hY_zDDIUII9ebtwbV0tqUCWMexiiQFugTyUbFh1Q9CalI5fgUUYQt6SApcAqvJ_uqWC7ZX31-XwGkrEmFOIDXfzNRGVMkPj0dklvQA1Mi1V6/s1600/whatsapp-proxy.jpg"
-    },
-    "content": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform's network protocol.\nThe idea is to make it easier to delve into WhatsApp-specific technologies as the application continues to be a lucrative attack surface for state-sponsored actors and",
-    "contentSnippet": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform's network protocol.\nThe idea is to make it easier to delve into WhatsApp-specific technologies as the application continues to be a lucrative attack surface for state-sponsored actors and",
-    "guid": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-    "isoDate": "2025-11-18T15:56:00.000Z",
     "itunes": {}
   }
 ]
