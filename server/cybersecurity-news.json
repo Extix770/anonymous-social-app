@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+    "pubDate": "Thu, 20 Nov 2025 17:59:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHftpu1bcFinhNlKIe66O-YOhqR69P1D1ZpFlYfjlxgf3VjuOBQwN0d1nhn7OmTTmSi0RhtBpxPPD2pmU9_a-t4FAadKhz38Ex4Ix3Lu9XBQMSqEwj6xhbu55QUwqmPXmQPgRJdml181QdebM1BIwrDqMvA_QNLZvwjXq61_q_LkghJ7EQWVNyFzObDgh/s1600/threatsday-main.jpg"
+    },
+    "content": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people.\nEvery day, there's a new story that shows how quickly things are",
+    "contentSnippet": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people.\nEvery day, there's a new story that shows how quickly things are",
+    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+    "isoDate": "2025-11-20T12:29:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Scam USPS and E-Z Pass Texts and Websites",
     "link": "https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html",
@@ -337,23 +354,6 @@
     "contentSnippet": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform's network protocol.\nThe idea is to make it easier to delve into WhatsApp-specific technologies as the application continues to be a lucrative attack surface for state-sponsored actors and",
     "guid": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
     "isoDate": "2025-11-18T15:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
-    "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
-    "pubDate": "Tue, 18 Nov 2025 20:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbcnxxrLCNLtK2nayB0ljqkqYjos86JEosexUyndcUIx-1Bq4QIjQ7HEsPubzDGy_ZQiwc8Otm_rOZ94X_R8mDzqhCdwjETneYetBvv54f7askg7riPyV0GEVIYA6RIo6bkbFw8g6HCJPok_liEsSirCMxE3jkrLczdpV_4Sq2vw5NMJzqU2Z8btfgyfY/s1600/webinar.jpg"
-    },
-    "content": "You’ve probably already moved some of your business to the cloud—or you’re planning to. That’s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud setup grows, it gets harder to control who can access what.\nEven one small mistake—like the wrong person getting access—can lead to big problems. We're talking data leaks, legal trouble, and serious",
-    "contentSnippet": "You’ve probably already moved some of your business to the cloud—or you’re planning to. That’s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud setup grows, it gets harder to control who can access what.\nEven one small mistake—like the wrong person getting access—can lead to big problems. We're talking data leaks, legal trouble, and serious",
-    "guid": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
-    "isoDate": "2025-11-18T15:25:00.000Z",
     "itunes": {}
   }
 ]
