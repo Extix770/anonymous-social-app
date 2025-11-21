@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Violet Blue",
+    "title": "This Hacker Conference Installed a Literal Anti-Virus Monitoring System",
+    "link": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
+    "pubDate": "Fri, 21 Nov 2025 11:00:00 +0000",
+    "dc:creator": "Violet Blue",
+    "content": "At New Zealand's Kawaiican cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
+    "contentSnippet": "At New Zealand's Kawaiican cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
+    "guid": "6914fe4924319922090560e6",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-21T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
     "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
@@ -344,22 +359,5 @@
       "vulnerabilities"
     ],
     "isoDate": "2025-11-19T12:04:50.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-    "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-    "pubDate": "Wed, 19 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAi0D4B697ca6xQAwAw_dQp7utPWY_RDYE_iKTlMNFUNyMGOCc7GRraPuEHW_WyQ2rg5Cdsm2MMVAhEM5B3WlZhuMDKp_OdB1luQizlSSOBmb8bxaFMoMTqO00ua8W56FcOrn8pGvhJ2IUxDgyZRH0RFJ5pXoswPe_UcIuf2c1DU6wyctCwJpBNWgOsx0/s1600/threatlocker.jpg"
-    },
-    "content": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.\nZero Trust fundamentally shifts",
-    "contentSnippet": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.\nZero Trust fundamentally shifts",
-    "guid": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-    "isoDate": "2025-11-19T11:55:00.000Z",
-    "itunes": {}
   }
 ]
