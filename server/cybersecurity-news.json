@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+    "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+    "pubDate": "Fri, 21 Nov 2025 18:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg"
+    },
+    "content": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
+    "contentSnippet": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
+    "guid": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+    "isoDate": "2025-11-21T13:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI as Cyberattacker",
     "link": "https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html",
@@ -330,23 +347,6 @@
     "contentSnippet": "Update: The NHS England Digital, in an updated advisory on November 20, 2025, said it has not observed in-the-wild exploitation of CVE-2025-11001, but noted that it's \"aware of a public proof-of-concept exploit.\" It has since removed what it said were \"erroneous references\" to active exploitation.The original story follows below -\n\nA recently disclosed security flaw impacting 7-Zip has come",
     "guid": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
     "isoDate": "2025-11-19T16:27:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
-    "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
-    "pubDate": "Wed, 19 Nov 2025 21:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_JS-2uc_a3c5S1eLk0Eo3HK8zCxsAijuKRwY0EFD5q19SEUDr1lwIICc_nphafxi12DafNvvqyGyGth6QWnBNKMZOSgy46Wrhpy-2KtVdj7CJbnlPcM-kHVQa6Y3zOBznsYMA2HWbel-KMoEeDyCzDvOSlQRk6ab056_7sL08HjgSCVMjRQojWCfoG6Ln/s1600/whatsapp-worm.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidade Stealer as part of attacks targeting users in Brazil.\n\"It uses Internet Message Access Protocol (IMAP) to dynamically retrieve command-and-control (C2) addresses, allowing the threat actor to",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidade Stealer as part of attacks targeting users in Brazil.\n\"It uses Internet Message Access Protocol (IMAP) to dynamically retrieve command-and-control (C2) addresses, allowing the threat actor to",
-    "guid": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
-    "isoDate": "2025-11-19T15:35:00.000Z",
     "itunes": {}
   }
 ]
