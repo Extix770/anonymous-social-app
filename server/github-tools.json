@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -691,6 +682,15 @@
     "stars": 6,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -765,15 +765,6 @@
     "language": "Go"
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "OSINT-TOOLS",
@@ -855,15 +855,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -882,12 +873,12 @@
     "language": "Shell"
   },
   {
-    "name": "URL-Analysis-Tool",
-    "owner": "Cybersight-Security",
-    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
-    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "C++"
+  },
+  {
+    "name": "URL-Analysis-Tool",
+    "owner": "Cybersight-Security",
+    "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
+    "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Python"
   }
 ]
