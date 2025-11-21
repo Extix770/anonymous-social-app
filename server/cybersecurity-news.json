@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+    "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+    "pubDate": "Fri, 21 Nov 2025 21:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
+    },
+    "content": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
+    "contentSnippet": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
+    "guid": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+    "isoDate": "2025-11-21T15:40:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
     "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
     "pubDate": "Fri, 21 Nov 2025 18:30:00 +0530",
@@ -331,22 +348,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-11-19T22:09:44.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "NHS Warns of PoC Exploit for 7-Zip Symbolic Link–Based RCE Vulnerability",
-    "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
-    "pubDate": "Wed, 19 Nov 2025 21:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivVWRvZll-uPUxEGctC2P333iOd2Fe1IQRsAAs_g4oiJVzgnqb6OQuk2UyD8yBGFxJuuwGgN8QeUluWfvr9nC6GwY6eMqB5xQCBGSu8FP8zrZjdd4yTtytllh4W8NqDAmMCUBet7I1gq1HfFSRgC5oBJGy3x_po-TzYKM3FgGu9Hcjr4WFt5nPRsY5oKMf/s1600/7-zip-exploit.jpg"
-    },
-    "content": "Update: The NHS England Digital, in an updated advisory on November 20, 2025, said it has not observed in-the-wild exploitation of CVE-2025-11001, but noted that it's \"aware of a public proof-of-concept exploit.\" It has since removed what it said were \"erroneous references\" to active exploitation.The original story follows below -\n\nA recently disclosed security flaw impacting 7-Zip has come",
-    "contentSnippet": "Update: The NHS England Digital, in an updated advisory on November 20, 2025, said it has not observed in-the-wild exploitation of CVE-2025-11001, but noted that it's \"aware of a public proof-of-concept exploit.\" It has since removed what it said were \"erroneous references\" to active exploitation.The original story follows below -\n\nA recently disclosed security flaw impacting 7-Zip has come",
-    "guid": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
-    "isoDate": "2025-11-19T16:27:00.000Z",
-    "itunes": {}
   }
 ]
