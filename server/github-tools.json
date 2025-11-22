@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7877,
-    "forks": 1076,
+    "stars": 7879,
+    "forks": 1077,
     "language": null
   },
   {
@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -693,6 +684,15 @@
     "language": "C"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -700,15 +700,6 @@
     "stars": 6,
     "forks": 2,
     "language": null
-  },
-  {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "CyberSec-Toolkit",
@@ -724,6 +715,15 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
