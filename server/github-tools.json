@@ -675,6 +675,15 @@
     "language": "Python"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -684,13 +693,13 @@
     "language": "C"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "digital-forensics-tools",
@@ -708,15 +717,6 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
     "language": "Python"
   },
   {
@@ -855,13 +855,13 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
     "stars": 4,
     "forks": 0,
-    "language": "Perl"
+    "language": "Python"
   },
   {
     "name": "cybersec-tools-installer",
@@ -873,13 +873,13 @@
     "language": "Shell"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
     "stars": 4,
     "forks": 0,
-    "language": "Python"
+    "language": "Perl"
   },
   {
     "name": "File-analysis-tools",
