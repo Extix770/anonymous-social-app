@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
+    "link": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+    "pubDate": "Sat, 22 Nov 2025 12:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
+    },
+    "content": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
+    "contentSnippet": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
+    "guid": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+    "isoDate": "2025-11-22T06:47:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
+    "link": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+    "pubDate": "Sat, 22 Nov 2025 12:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
+    "guid": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+    "isoDate": "2025-11-22T06:45:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: New “Squid” Sneaker",
     "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html",
@@ -320,39 +354,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
     "guid": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
     "isoDate": "2025-11-20T11:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
-    "link": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
-    "pubDate": "Thu, 20 Nov 2025 10:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Generative AI is making it even easier for attackers to exploit old and often forgotten network equipment. Replacing it takes investment, but Cisco is making the case that it’s worth it.",
-    "contentSnippet": "Generative AI is making it even easier for attackers to exploit old and often forgotten network equipment. Replacing it takes investment, but Cisco is making the case that it’s worth it.",
-    "guid": "691debbf3b022685bbe86eca",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-20T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
-    "link": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
-    "pubDate": "Thu, 20 Nov 2025 13:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg"
-    },
-    "content": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
-    "contentSnippet": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
-    "guid": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
-    "isoDate": "2025-11-20T07:35:00.000Z",
     "itunes": {}
   }
 ]
