@@ -161,21 +161,6 @@
     "itunes": {}
   },
   {
-    "creator": "Violet Blue",
-    "title": "This Hacker Conference Installed a Literal Anti-Virus Monitoring System",
-    "link": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
-    "pubDate": "Fri, 21 Nov 2025 11:00:00 +0000",
-    "dc:creator": "Violet Blue",
-    "content": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
-    "contentSnippet": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
-    "guid": "6914fe4924319922090560e6",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-21T11:00:00.000Z"
-  },
-  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
     "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
@@ -225,22 +210,6 @@
     "guid": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
     "isoDate": "2025-11-21T05:32:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China",
-    "link": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
-    "pubDate": "Thu, 20 Nov 2025 22:26:17 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
-    "contentSnippet": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
-    "guid": "691f82336fb8bbfbceda08a5",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Security / National Security"
-    ],
-    "isoDate": "2025-11-20T22:26:17.000Z"
   },
   {
     "creator": "BrianKrebs",
@@ -354,6 +323,40 @@
     "contentSnippet": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
     "guid": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
     "isoDate": "2025-11-20T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices",
+    "link": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+    "pubDate": "Thu, 20 Nov 2025 16:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8I7UV4u8O03jdgw6jpt_ITLXyqrcwoVLRUr_84vWKRe9ctYFLOAhKGvO7poJq_5YZwb7-3a2NzF0smKc5U0KOj6dgRmw5o0jWI0xEtZMjZTZ8KByylPoes-8t_8sXq7wWEyJ_TQtjI81OS1hx-uAG5a3xVCgEd9sqr3JlCemLHuS9ui-ctH6KjH8-uQri/s1600/android-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
+    "guid": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+    "isoDate": "2025-11-20T11:04:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
+    "link": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+    "pubDate": "Thu, 20 Nov 2025 13:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg"
+    },
+    "content": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
+    "contentSnippet": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
+    "guid": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+    "isoDate": "2025-11-20T07:35:00.000Z",
     "itunes": {}
   }
 ]
