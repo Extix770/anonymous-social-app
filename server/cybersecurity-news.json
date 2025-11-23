@@ -261,30 +261,6 @@
     "isoDate": "2025-11-20T22:26:17.000Z"
   },
   {
-    "creator": "BrianKrebs",
-    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-    "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000",
-    "content:encoded": "<p>In March 2024, <strong>Mozilla</strong> said it was winding down its collaboration with <strong>Onerep</strong> &#8212; an identity protection service offered with the <strong>Firefox</strong> web browser that promises to remove users from hundreds of people-search sites &#8212; after KrebsOnSecurity revealed Onerep&#8217;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.</p>\n<div id=\"attachment_66872\" style=\"width: 760px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-66872\" decoding=\"async\" class=\" wp-image-66872\" src=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png\" alt=\"\" width=\"750\" height=\"380\" srcset=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png 1185w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-768x389.png 768w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-782x396.png 782w\" sizes=\"(max-width: 750px) 100vw, 750px\" /><p id=\"caption-attachment-66872\" class=\"wp-caption-text\">Mozilla Monitor. Image Mozilla Monitor Plus video on Youtube.</p></div>\n<p>In <a href=\"https://support.mozilla.org/en-US/kb/monitor-plus-shutting-down\" target=\"_blank\" rel=\"noopener\">a statement</a> published Tuesday, Mozilla said it will soon discontinue <strong>Monitor Plus</strong>, which offered data broker site scans and automated personal data removal from Onerep.</p>\n<p>&#8220;We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,&#8221; the advisory reads.</p>\n<p>Mozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.</p>\n<p>&#8220;We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,&#8221; Mozilla statement reads.</p>\n<p>On March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder <strong>Dimitiri Shelest</strong> <a href=\"https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/\" target=\"_blank\" rel=\"noopener\">launched dozens of people-search services since 2010</a>, including a still-active data broker called Nuwber that sells background reports on people. Shelest released <a href=\"https://onerep.com/blog/official-onerep-update-following-article-by-krebs\" target=\"_blank\" rel=\"noopener\">a lengthy statement</a> wherein he acknowledged maintaining an ownership stake in <strong>Nuwber</strong>, a data broker he founded in 2015 — around the same time he launched Onerep.</p>\n",
-    "content:encodedSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed Onerep’s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.\n\nMozilla Monitor. Image Mozilla Monitor Plus video on Youtube.\n\nIn a statement published Tuesday, Mozilla said it will soon discontinue Monitor Plus, which offered data broker site scans and automated personal data removal from Onerep.\n“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advisory reads.\nMozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.\n“We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,” Mozilla statement reads.\nOn March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder Dimitiri Shelest launched dozens of people-search services since 2010, including a still-active data broker called Nuwber that sells background reports on people. Shelest released a lengthy statement wherein he acknowledged maintaining an ownership stake in Nuwber, a data broker he founded in 2015 — around the same time he launched Onerep.",
-    "dc:creator": "BrianKrebs",
-    "comments": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/#comments",
-    "content": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "contentSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "guid": "https://krebsonsecurity.com/?p=72687",
-    "categories": [
-      "A Little Sunshine",
-      "Ne'er-Do-Well News",
-      "Dimitiri Shelest",
-      "firefox",
-      "Monitor Plus",
-      "Mozilla",
-      "Nuwber",
-      "OneRep"
-    ],
-    "isoDate": "2025-11-20T19:06:51.000Z"
-  },
-  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
     "link": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
@@ -356,5 +332,22 @@
       "scams"
     ],
     "isoDate": "2025-11-20T12:07:38.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
+    "link": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+    "pubDate": "Thu, 20 Nov 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH2aVkVgE_AQcR38boab-hJ6KPZrNbJ2Q12DXvADAqDV8kVqEmRnL4VzFH95VhcRrYxIo0iS-Sb_9NwtZUVm5CxCmk0q0Eywnjik5050X0JPziBgeTK9YSKhKdkOZNvOhm75YitAMspH9sZSEqRXIJurcgfRgOYbCfEqGZBHUwwW7RtOJ3Lw8sg0rX4mI/s1600/ctm360.jpg"
+    },
+    "content": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
+    "contentSnippet": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
+    "guid": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+    "isoDate": "2025-11-20T11:30:00.000Z",
+    "itunes": {}
   }
 ]
