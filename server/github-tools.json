@@ -882,6 +882,15 @@
     "language": "Python"
   },
   {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 4,
+    "forks": 0,
+    "language": "PowerShell"
+  },
+  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
-  },
-  {
-    "name": "File-analysis-tools",
-    "owner": "Adilnasceng",
-    "url": "https://github.com/Adilnasceng/File-analysis-tools",
-    "description": "A collection of C++ command-line tools for basic file inspection, search operations, and PE analysis.",
-    "stars": 4,
-    "forks": 0,
-    "language": "C++"
   }
 ]
