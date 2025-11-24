@@ -80,7 +80,11 @@
     "contentSnippet": "The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to nullify an online election when trustee Moti Yung lost his decryption key.\nFor this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...",
     "guid": "https://www.schneier.com/?p=71237",
     "categories": [
-      "Uncategorized"
+      "Uncategorized",
+      "encryption",
+      "keys",
+      "operational security",
+      "voting"
     ],
     "isoDate": "2025-11-24T12:03:46.000Z"
   },
