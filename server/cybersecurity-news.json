@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
+    "link": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
+    "pubDate": "Mon, 24 Nov 2025 16:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjQ9rfA8Zp1EdwbbQFYvDatH7IMcqNuAoSBVo1iQqGJydHnGv_87nJSCjLWDtn__fr9-dkGA8qAP4GmcKUP5PcbXorNWwQu9LInQuVansUCmGFVBRD8wkpApqIxUGjlu_wUiwNsr_0dOsHtpsBlpT6J0dNUzDtuOwmu9wnxFj211ockWC6ONvRZMlJKzy/s1600/deep.jpg"
+    },
+    "content": "New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabilities in response to prompts that contain topics deemed politically sensitive by China.\n\"We found that when DeepSeek-R1 receives prompts containing topics the Chinese Communist Party (CCP) likely considers politically sensitive, the likelihood of it",
+    "contentSnippet": "New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabilities in response to prompts that contain topics deemed politically sensitive by China.\n\"We found that when DeepSeek-R1 receives prompts containing topics the Chinese Communist Party (CCP) likely considers politically sensitive, the likelihood of it",
+    "guid": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
+    "isoDate": "2025-11-24T11:07:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
     "link": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
     "pubDate": "Mon, 24 Nov 2025 12:48:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;",
     "guid": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
     "isoDate": "2025-11-20T16:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
-    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
-    "pubDate": "Thu, 20 Nov 2025 17:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHftpu1bcFinhNlKIe66O-YOhqR69P1D1ZpFlYfjlxgf3VjuOBQwN0d1nhn7OmTTmSi0RhtBpxPPD2pmU9_a-t4FAadKhz38Ex4Ix3Lu9XBQMSqEwj6xhbu55QUwqmPXmQPgRJdml181QdebM1BIwrDqMvA_QNLZvwjXq61_q_LkghJ7EQWVNyFzObDgh/s1600/threatsday-main.jpg"
-    },
-    "content": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people.\nEvery day, there's a new story that shows how quickly things are",
-    "contentSnippet": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people.\nEvery day, there's a new story that shows how quickly things are",
-    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
-    "isoDate": "2025-11-20T12:29:00.000Z",
     "itunes": {}
   }
 ]
