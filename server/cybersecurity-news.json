@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "IACR Nullifies Election Because of Lost Decryption Key",
+    "link": "https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html",
+    "pubDate": "Mon, 24 Nov 2025 12:03:46 +0000",
+    "content:encoded": "<p>The International Association of Cryptologic Research&#8212;the academic cryptography association that&#8217;s been putting conferences like Crypto (back when &#8220;crypto&#8221; meant &#8220;cryptography&#8221;) and Eurocrypt since the 1980s&#8212;had to <a href=\"https://www.iacr.org/news/item/27138\">nullify</a> an online election when trustee Moti Yung lost his decryption key.</p>\n<blockquote><p>For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares.</p>\n<p>Unfortunately, one of the three trustees has irretrievably lost their private key, an honest but unfortunate human mistake, and therefore cannot compute their decryption share. As a result, Helios is unable to complete the decryption process, and it is technically impossible for us to obtain or verify the final outcome of this election.</p></blockquote>\n<p>The group will redo the election, but this time setting a 2-of-3 threshold scheme for decrypting the results, instead of requiring all three</p>\n<p><a href=\"https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/\">News</a> <a href=\"https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html?smid=nytcore-android-share\">articles</a>.</p>\n",
+    "content:encodedSnippet": "The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to nullify an online election when trustee Moti Yung lost his decryption key.\nFor this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares.\nUnfortunately, one of the three trustees has irretrievably lost their private key, an honest but unfortunate human mistake, and therefore cannot compute their decryption share. As a result, Helios is unable to complete the decryption process, and it is technically impossible for us to obtain or verify the final outcome of this election.\n\nThe group will redo the election, but this time setting a 2-of-3 threshold scheme for decrypting the results, instead of requiring all three\nNews articles.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html#comments",
+    "content": "<p>The International Association of Cryptologic Research&#8212;the academic cryptography association that&#8217;s been putting conferences like Crypto (back when &#8220;crypto&#8221; meant &#8220;cryptography&#8221;) and Eurocrypt since the 1980s&#8212;had to <a href=\"https://www.iacr.org/news/item/27138\">nullify</a> an online election when trustee Moti Yung lost his decryption key.</p>\n<blockquote><p>For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...</p></blockquote>",
+    "contentSnippet": "The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to nullify an online election when trustee Moti Yung lost his decryption key.\nFor this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...",
+    "guid": "https://www.schneier.com/?p=71237",
+    "categories": [
+      "Uncategorized"
+    ],
+    "isoDate": "2025-11-24T12:03:46.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
     "link": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
@@ -333,23 +350,6 @@
     "contentSnippet": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.\nThe activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,",
     "guid": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
     "isoDate": "2025-11-20T17:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
-    "link": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
-    "pubDate": "Thu, 20 Nov 2025 22:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWCzFuJ27zRdLiXDJLbzAKsXq1B21v769VXyN0N9wjg3aQQPMHqsiaxXi3V6LM1xbQCB0ecsOjlEEORaSeRnnFVBjK3OtrxcTS_oSQiadmLSZNDow8eeIB5QVX8q19t6MyRR5XL2CRsTy7QD-GtWn82x_HH1gcas-9NW1vDfN3QlvcpUSqRa1gnMNBD2xJ/s1600/botnet-malware-windows.jpg"
-    },
-    "content": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;",
-    "contentSnippet": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;",
-    "guid": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
-    "isoDate": "2025-11-20T16:57:00.000Z",
     "itunes": {}
   }
 ]
