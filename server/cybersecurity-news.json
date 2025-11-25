@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
+    "link": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
+    "pubDate": "Tue, 25 Nov 2025 12:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjmpd6o7-HWK7FLfSLWXDI1Y5FeB1NBpBd4vIIk_CddP-R_hMTbVUynU6YynC6tMw-A36Q47s4bAyb7_rgYsf-V4M8gFCerUIDc4IO4tFHdyLWEMvvaaUguvfH6a3gdunla1LzgQVPdk4E9ETUTqlfH-xM-Gx9J2SKQXA2_A9l16PBY2o94m79CPEY4IZ/s1600/apps.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.\n\"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.\n\"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,",
+    "guid": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
+    "isoDate": "2025-11-25T06:42:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Is Your Android TV Streaming Box Part of a Botnet?",
     "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
@@ -357,29 +374,5 @@
     "guid": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
     "isoDate": "2025-11-21T05:32:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "BrianKrebs",
-    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-    "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000",
-    "content:encoded": "<p>In March 2024, <strong>Mozilla</strong> said it was winding down its collaboration with <strong>Onerep</strong> &#8212; an identity protection service offered with the <strong>Firefox</strong> web browser that promises to remove users from hundreds of people-search sites &#8212; after KrebsOnSecurity revealed Onerep&#8217;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.</p>\n<div id=\"attachment_66872\" style=\"width: 760px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-66872\" decoding=\"async\" loading=\"lazy\" class=\" wp-image-66872\" src=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png\" alt=\"\" width=\"750\" height=\"380\" srcset=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png 1185w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-768x389.png 768w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-782x396.png 782w\" sizes=\"(max-width: 750px) 100vw, 750px\" /><p id=\"caption-attachment-66872\" class=\"wp-caption-text\">Mozilla Monitor. Image Mozilla Monitor Plus video on Youtube.</p></div>\n<p>In <a href=\"https://support.mozilla.org/en-US/kb/monitor-plus-shutting-down\" target=\"_blank\" rel=\"noopener\">a statement</a> published Tuesday, Mozilla said it will soon discontinue <strong>Monitor Plus</strong>, which offered data broker site scans and automated personal data removal from Onerep.</p>\n<p>&#8220;We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,&#8221; the advisory reads.</p>\n<p>Mozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.</p>\n<p>&#8220;We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,&#8221; Mozilla statement reads.</p>\n<p>On March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder <strong>Dimitiri Shelest</strong> <a href=\"https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/\" target=\"_blank\" rel=\"noopener\">launched dozens of people-search services since 2010</a>, including a still-active data broker called Nuwber that sells background reports on people. Shelest released <a href=\"https://onerep.com/blog/official-onerep-update-following-article-by-krebs\" target=\"_blank\" rel=\"noopener\">a lengthy statement</a> wherein he acknowledged maintaining an ownership stake in <strong>Nuwber</strong>, a data broker he founded in 2015 — around the same time he launched Onerep.</p>\n",
-    "content:encodedSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed Onerep’s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.\n\nMozilla Monitor. Image Mozilla Monitor Plus video on Youtube.\n\nIn a statement published Tuesday, Mozilla said it will soon discontinue Monitor Plus, which offered data broker site scans and automated personal data removal from Onerep.\n“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advisory reads.\nMozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.\n“We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,” Mozilla statement reads.\nOn March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder Dimitiri Shelest launched dozens of people-search services since 2010, including a still-active data broker called Nuwber that sells background reports on people. Shelest released a lengthy statement wherein he acknowledged maintaining an ownership stake in Nuwber, a data broker he founded in 2015 — around the same time he launched Onerep.",
-    "dc:creator": "BrianKrebs",
-    "comments": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/#comments",
-    "content": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "contentSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "guid": "https://krebsonsecurity.com/?p=72687",
-    "categories": [
-      "A Little Sunshine",
-      "Ne'er-Do-Well News",
-      "Dimitiri Shelest",
-      "firefox",
-      "Monitor Plus",
-      "Mozilla",
-      "Nuwber",
-      "OneRep"
-    ],
-    "isoDate": "2025-11-20T19:06:51.000Z"
   }
 ]
