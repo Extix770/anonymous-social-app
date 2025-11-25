@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+    "link": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+    "pubDate": "Tue, 25 Nov 2025 22:19:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMOKzumRIbT28KmhxEYK7XbBCh9DFCNL3o9nhJynO8qEPufvtFSaUZ410fDSym6bQyAxTbStDCFnOjDG4QwashtUee4Cclcfu6_MQ_pcWk_cjFhnlzNy_MDFLL4vwI5LOrJnuJUzt96Cdi3E6PevLQn33zrqYBicNRERNKDJ1DYW6JIOU879I4fCSv8NQp/s1600/json.jpg"
+    },
+    "content": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of",
+    "contentSnippet": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of",
+    "guid": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+    "isoDate": "2025-11-25T16:49:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
     "link": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
     "pubDate": "Tue, 25 Nov 2025 19:48:00 +0530",
@@ -354,25 +371,5 @@
       "squid"
     ],
     "isoDate": "2025-11-21T22:08:09.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "More on Rewiring Democracy",
-    "link": "https://www.schneier.com/blog/archives/2025/11/71226.html",
-    "pubDate": "Fri, 21 Nov 2025 19:07:34 +0000",
-    "content:encoded": "<p>It&#8217;s been a month since <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i></a> was published. From what we know, sales are good.</p>\n<p>Some of the book&#8217;s forty-three chapters are available online: chapters <a href=\"https://time.com/7331883/how-ai-will-transform-democracy/\">2</a>,  <a href=\"https://pghrev.com/being-a-politician/\">12</a>, <a href=\"https://thepreamble.com/p/rewiring-democracy\">28</a>, <a href=\"https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd\">34</a>, <a href=\"https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy\">38</a>, and <a href=\"https://builtin.com/articles/principles-ai-democracy\">41</a>.</p>\n<p>We need more reviews&#8212;six on Amazon is <a href=\"https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945\">not enough</a>, and no one has yet posted a viral TikTok review. One review was <a href=\"https://www.nature.com/articles/d41586-025-03718-w\">published</a> in <i>Nature</i> and another on the RSA Conference <a href=\"https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy\">website</a>, but more would be better. If you&#8217;ve read the book, please leave a review somewhere.</p>\n<p>My coauthor and I have been doing all sort of book events, both online and in person. This <a href=\"https://www.youtube.com/watch?v=gy-w4C6vfOc\">book event</a>, with Danielle Allen at the Harvard Kennedy School Ash Center, is particularly good.  We also have been doing a ton of podcasts, both separately and together. They&#8217;re all on the book&#8217;s <a href=\"https://www.schneier.com/books/rewiring-democracy/\">homepage</a>.</p>\n<p>There are two live book events in December. If you&#8217;re in Boston, come <a href=\"https://mitmuseum.mit.edu/programs/author-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship\">see us</a> at the MIT Museum on 12/1. If you&#8217;re in Toronto, you can <a href=\"https://munkschool.utoronto.ca/event/rewiring-democracy\">see me</a> at the Munk School at the University of Toronto on 12/2.</p>\n<p>I&#8217;m also doing a live AMA on the book on the RSA Conference website on 12/16. Register <a href=\"https://rsaconference.registration.goldcast.io/events/3c67940f-c22b-4913-b6bf-1e6ba333ac5e\">here</a>.</p>\n",
-    "content:encodedSnippet": "It’s been a month since Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship was published. From what we know, sales are good.\nSome of the book’s forty-three chapters are available online: chapters 2,  12, 28, 34, 38, and 41.\nWe need more reviews—six on Amazon is not enough, and no one has yet posted a viral TikTok review. One review was published in Nature and another on the RSA Conference website, but more would be better. If you’ve read the book, please leave a review somewhere.\nMy coauthor and I have been doing all sort of book events, both online and in person. This book event, with Danielle Allen at the Harvard Kennedy School Ash Center, is particularly good.  We also have been doing a ton of podcasts, both separately and together. They’re all on the book’s homepage.\nThere are two live book events in December. If you’re in Boston, come see us at the MIT Museum on 12/1. If you’re in Toronto, you can see me at the Munk School at the University of Toronto on 12/2.\nI’m also doing a live AMA on the book on the RSA Conference website on 12/16. Register here.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/71226.html#comments",
-    "content": "<p>It&#8217;s been a month since <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i></a> was published. From what we know, sales are good.</p>\n<p>Some of the book&#8217;s forty-three chapters are available online: chapters <a href=\"https://time.com/7331883/how-ai-will-transform-democracy/\">2</a>,  <a href=\"https://pghrev.com/being-a-politician/\">12</a>, <a href=\"https://thepreamble.com/p/rewiring-democracy\">28</a>, <a href=\"https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd\">34</a>, <a href=\"https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy\">38</a>, and <a href=\"https://builtin.com/articles/principles-ai-democracy\">41</a>.</p>\n<p>We need more reviews&#8212;six on Amazon is <a href=\"https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945\">not enough</a>, and no one has yet posted a viral TikTok review. One review was <a href=\"https://www.nature.com/articles/d41586-025-03718-w\">published</a> in <i>Nature</i> and another on the RSA Conference <a href=\"https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy\">website</a>, but more would be better. If you&#8217;ve read the book, please leave a review somewhere.</p>\n<p>My coauthor and I have been doing all sort of book events, both online and in person. This ...</p>",
-    "contentSnippet": "It’s been a month since Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship was published. From what we know, sales are good.\nSome of the book’s forty-three chapters are available online: chapters 2,  12, 28, 34, 38, and 41.\nWe need more reviews—six on Amazon is not enough, and no one has yet posted a viral TikTok review. One review was published in Nature and another on the RSA Conference website, but more would be better. If you’ve read the book, please leave a review somewhere.\nMy coauthor and I have been doing all sort of book events, both online and in person. This ...",
-    "guid": "https://www.schneier.com/?p=71226",
-    "categories": [
-      "Uncategorized",
-      "books",
-      "Rewiring Democracy",
-      "Schneier news"
-    ],
-    "isoDate": "2025-11-21T19:07:34.000Z"
   }
 ]
