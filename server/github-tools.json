@@ -693,15 +693,6 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -709,6 +700,15 @@
     "stars": 6,
     "forks": 3,
     "language": null
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "CyberSec-Toolkit",
