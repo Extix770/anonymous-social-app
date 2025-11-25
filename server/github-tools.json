@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7905,
+    "stars": 7906,
     "forks": 1085,
     "language": null
   },
@@ -693,15 +693,6 @@
     "language": "C"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 6,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -709,6 +700,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 6,
+    "forks": 3,
+    "language": null
   },
   {
     "name": "CyberSec-Toolkit",
