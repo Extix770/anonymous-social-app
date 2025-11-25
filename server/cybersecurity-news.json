@@ -58,6 +58,23 @@
     "itunes": {}
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+    "link": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+    "pubDate": "Mon, 24 Nov 2025 14:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Born out of an internal hackathon, Amazon’s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company’s platforms.",
+    "contentSnippet": "Born out of an internal hackathon, Amazon’s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company’s platforms.",
+    "guid": "6920a1c0acfbaf841c45b04e",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2025-11-24T14:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
     "link": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
@@ -66,10 +83,10 @@
     "enclosure": {
       "length": "12216320",
       "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLSWDs-MFKC4LHjaGHmL2Nm8sV_Vtj1wnJdwLuaZPzdkZCGlh4iKwlgmfgLfIXl39GZoirVgW24U0kpvEi6VWllFeR7Pth08LmNAS9yRQJYVSgQhH3DQn7ocCW9q-p6dvBDiMZRhQLmjn-VHVHtCnaLOwiek4UGrOBUOw3pHeb5y2CgBF4896vDd88CVBc/s1600/git.jpg"
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMa-67ZZISIwWgUdgRgW3UYZPITPvhdI_AgvmlweAyX7XXpWIIJm316uRaadc2qlxaBlvplLhueff-sQ1SUYE1hOZTsumdMnCvwzioWb1S7pfZ6ks9sFRLXtWEMMhyb-a_w0_D1U1dqiHvwDRt3KyZZJ_mLePMMmtjR2VTRqNegyr7BQAY3D22aBeCwzfN/s1600/wiz.png"
     },
-    "content": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz.&nbsp;The trojanized npm packages were uploaded to",
-    "contentSnippet": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz. The trojanized npm packages were uploaded to",
+    "content": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, JFrog, Koi Security, ReversingLabs, SafeDep, Socket, Step Security, and Wiz.&nbsp;The trojanized",
+    "contentSnippet": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, JFrog, Koi Security, ReversingLabs, SafeDep, Socket, Step Security, and Wiz. The trojanized",
     "guid": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
     "isoDate": "2025-11-24T13:03:00.000Z",
     "itunes": {}
@@ -162,6 +179,24 @@
     "guid": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
     "isoDate": "2025-11-22T15:19:00.000Z",
     "itunes": {}
+  },
+  {
+    "creator": "Dell Cameron, Andrew Couts",
+    "title": "US Border Patrol Is Spying on Millions of American Drivers",
+    "link": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/",
+    "pubDate": "Sat, 22 Nov 2025 11:30:00 +0000",
+    "dc:creator": "Dell Cameron, Andrew Couts",
+    "content": "Plus: The SEC lets SolarWinds off the hook, Microsoft stops a historic DDoS attack, and FBI documents reveal the agency spied on an immigration activist Signal group in New York City.",
+    "contentSnippet": "Plus: The SEC lets SolarWinds off the hook, Microsoft stops a historic DDoS attack, and FBI documents reveal the agency spied on an immigration activist Signal group in New York City.",
+    "guid": "69208458c18d045cdfbc869d",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-22T11:30:00.000Z"
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -308,6 +343,21 @@
     "itunes": {}
   },
   {
+    "creator": "Violet Blue",
+    "title": "This Hacker Conference Installed a Literal Antivirus Monitoring System",
+    "link": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
+    "pubDate": "Fri, 21 Nov 2025 11:00:00 +0000",
+    "dc:creator": "Violet Blue",
+    "content": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
+    "contentSnippet": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
+    "guid": "6914fe4924319922090560e6",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-21T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
     "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
@@ -323,63 +373,5 @@
     "guid": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
     "isoDate": "2025-11-21T10:42:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
-    "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
-    "pubDate": "Fri, 21 Nov 2025 13:35:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbMvEKpOcEVwv6Ij_WSNiYkkN2wWOKLs16pD5v61b2ZqbuN2cadR1ZxO02SgX2XnVdKURTQwnC24frHCV28jknG_GC2hpjotuJIQB7ow6wCvsB-kguy5YJyr3MaTY-d3iMyIIfkWfhtYY3Re19kLkIXBXgBPtvINdqpmmtyBosGYfS9qjzmbNTSmPv2j_t/s1600/solarwinds.jpg"
-    },
-    "content": "The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security practices that led to the 2020 supply chain attack.\nIn a joint motion filed November 20, 2025, the SEC, along with SolarWinds and its CISO Timothy G. Brown, asked the court to voluntarily",
-    "contentSnippet": "The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security practices that led to the 2020 supply chain attack.\nIn a joint motion filed November 20, 2025, the SEC, along with SolarWinds and its CISO Timothy G. Brown, asked the court to voluntarily",
-    "guid": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
-    "isoDate": "2025-11-21T08:05:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
-    "link": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
-    "pubDate": "Fri, 21 Nov 2025 11:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdytMLXEXAyU2NJK6I9fULfbh3_5LHXiwqUiFrPD9dP1oEttB2sIbilhx2JTfRV70qGw9NTB4a4C3iqkAfnoR5m4lLxxKBNBWTI6DVQYP3wwHPQHFBkAec9GjKXpzFgMrne79uyQeVa31-yB4vx1nG3FDWsCj3ZHxxLUfk17qAx95t0IeqCSPVu47pILv/s1600/salesforce.jpg"
-    },
-    "content": "Salesforce has warned of detected \"unusual activity\" related to Gainsight-published applications connected to the platform.\n\"Our investigation indicates this activity may have enabled unauthorized access to certain customers’ Salesforce data through the app's connection,\" the company said in an advisory.\nThe cloud services firm said it has taken the step of revoking all active access and refresh",
-    "contentSnippet": "Salesforce has warned of detected \"unusual activity\" related to Gainsight-published applications connected to the platform.\n\"Our investigation indicates this activity may have enabled unauthorized access to certain customers’ Salesforce data through the app's connection,\" the company said in an advisory.\nThe cloud services firm said it has taken the step of revoking all active access and refresh",
-    "guid": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
-    "isoDate": "2025-11-21T05:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "BrianKrebs",
-    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-    "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000",
-    "content:encoded": "<p>In March 2024, <strong>Mozilla</strong> said it was winding down its collaboration with <strong>Onerep</strong> &#8212; an identity protection service offered with the <strong>Firefox</strong> web browser that promises to remove users from hundreds of people-search sites &#8212; after KrebsOnSecurity revealed Onerep&#8217;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.</p>\n<div id=\"attachment_66872\" style=\"width: 760px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-66872\" decoding=\"async\" loading=\"lazy\" class=\" wp-image-66872\" src=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png\" alt=\"\" width=\"750\" height=\"380\" srcset=\"https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png 1185w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-768x389.png 768w, https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor-782x396.png 782w\" sizes=\"(max-width: 750px) 100vw, 750px\" /><p id=\"caption-attachment-66872\" class=\"wp-caption-text\">Mozilla Monitor. Image Mozilla Monitor Plus video on Youtube.</p></div>\n<p>In <a href=\"https://support.mozilla.org/en-US/kb/monitor-plus-shutting-down\" target=\"_blank\" rel=\"noopener\">a statement</a> published Tuesday, Mozilla said it will soon discontinue <strong>Monitor Plus</strong>, which offered data broker site scans and automated personal data removal from Onerep.</p>\n<p>&#8220;We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,&#8221; the advisory reads.</p>\n<p>Mozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.</p>\n<p>&#8220;We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,&#8221; Mozilla statement reads.</p>\n<p>On March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder <strong>Dimitiri Shelest</strong> <a href=\"https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/\" target=\"_blank\" rel=\"noopener\">launched dozens of people-search services since 2010</a>, including a still-active data broker called Nuwber that sells background reports on people. Shelest released <a href=\"https://onerep.com/blog/official-onerep-update-following-article-by-krebs\" target=\"_blank\" rel=\"noopener\">a lengthy statement</a> wherein he acknowledged maintaining an ownership stake in <strong>Nuwber</strong>, a data broker he founded in 2015 — around the same time he launched Onerep.</p>\n",
-    "content:encodedSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed Onerep’s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.\n\nMozilla Monitor. Image Mozilla Monitor Plus video on Youtube.\n\nIn a statement published Tuesday, Mozilla said it will soon discontinue Monitor Plus, which offered data broker site scans and automated personal data removal from Onerep.\n“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advisory reads.\nMozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.\n“We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,” Mozilla statement reads.\nOn March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder Dimitiri Shelest launched dozens of people-search services since 2010, including a still-active data broker called Nuwber that sells background reports on people. Shelest released a lengthy statement wherein he acknowledged maintaining an ownership stake in Nuwber, a data broker he founded in 2015 — around the same time he launched Onerep.",
-    "dc:creator": "BrianKrebs",
-    "comments": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/#comments",
-    "content": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "contentSnippet": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "guid": "https://krebsonsecurity.com/?p=72687",
-    "categories": [
-      "A Little Sunshine",
-      "Ne'er-Do-Well News",
-      "Dimitiri Shelest",
-      "firefox",
-      "Monitor Plus",
-      "Mozilla",
-      "Nuwber",
-      "OneRep"
-    ],
-    "isoDate": "2025-11-20T19:06:51.000Z"
   }
 ]
