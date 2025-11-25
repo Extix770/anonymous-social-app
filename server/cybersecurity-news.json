@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "3 SOC Challenges You Need to Solve Before 2026",
+    "link": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
+    "pubDate": "Tue, 25 Nov 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5j2evccdjHPPJ_5xyuSjPeQIWjxX3nPprgbbjNMMJqK9mMzxniqf9v2GGOLZQ7lkUtpJo8SO4pe72S2wtOV_7XVjE5g02BJxapakZclQ79TmSN-OjtBVouay_vn7bnDebxDiRsJgvlTsP7rz5bOk0QOOji1zn9oZWMG3CFPcUG3dCBRBBhIBH_TnNVs/s1600/soc.jpg"
+    },
+    "content": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
+    "contentSnippet": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
+    "guid": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
+    "isoDate": "2025-11-25T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
+    "link": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
+    "pubDate": "Tue, 25 Nov 2025 16:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFdtqg4iFeVtSsDgOcgCshEKe9l9m9hw0uYroyMbfEttzophIslNnF67eArn2aTCcTuZ1YB_nusZyDtK43EeOftKRYLU06weYnQqUufk_UJzAN_aV_uFQqzct-TA96nNZdYC3kg8fnjghwd1IduFLjdd3hvY9ok7MZVBus6tkTKdZ5IQfdnEY0_aRLww_/s1600/system-hack.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
+    "guid": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
+    "isoDate": "2025-11-25T11:28:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
     "link": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
     "pubDate": "Tue, 25 Nov 2025 12:12:00 +0530",
@@ -341,37 +375,5 @@
       "espionage"
     ],
     "isoDate": "2025-11-21T12:01:36.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why IT Admins Choose Samsung for Mobile Security",
-    "link": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
-    "pubDate": "Fri, 21 Nov 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilI5_YDygribQzJZg5C74qlMvNYPDbhlWqrYmASyrb9-lTORJ7B0Iuw1i_7M80fHWGgB2ph_w0FoEX0ptY4pTxRNr0kB_rGoJqvp3wd3f80Fc3hjkd5W8CbU1NmXQkf8H1vR8aoJsstZdcEFq7_weKbZQqKpVDBTqRjdL9uMv8WTpkifreXt1EJ7RGDqY/s1600/samsung.jpg"
-    },
-    "content": "Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work—but with mobility comes risk. IT admins, like you, juggle protecting sensitive data while keeping teams productive. That’s why more enterprises are turning to Samsung for mobile security.\nHey—you're busy, so here's a quick-read article on what",
-    "contentSnippet": "Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work—but with mobility comes risk. IT admins, like you, juggle protecting sensitive data while keeping teams productive. That’s why more enterprises are turning to Samsung for mobile security.\nHey—you're busy, so here's a quick-read article on what",
-    "guid": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
-    "isoDate": "2025-11-21T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Violet Blue",
-    "title": "This Hacker Conference Installed a Literal Antivirus Monitoring System",
-    "link": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
-    "pubDate": "Fri, 21 Nov 2025 11:00:00 +0000",
-    "dc:creator": "Violet Blue",
-    "content": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
-    "contentSnippet": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even before they arrived.",
-    "guid": "6914fe4924319922090560e6",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-21T11:00:00.000Z"
   }
 ]
