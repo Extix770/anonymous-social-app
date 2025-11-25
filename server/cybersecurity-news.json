@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
+    "link": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
+    "pubDate": "Tue, 25 Nov 2025 19:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpwmpMC2coSECbndEHIVrYYNz9k16YYM0KkZjT69eMkozDT-LMxy920BF8Hxw34C-Vy_FCTwhZUSJQqQOzgp8UlcEBdb90C5iGVfM67fJ2gP9KNx0H0tJ_sJXcfRgpdbW-5DWKKrGEc0dHzHbnnNiVxIdZhxr_BGNclG-UFRyH1jsAxTh88zI6lc5OXId8/s1600/update-windows.jpg"
+    },
+    "content": "Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a \"critical\" Windows security update.\n\"Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,\" Acronis said in a",
+    "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a \"critical\" Windows security update.\n\"Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,\" Acronis said in a",
+    "guid": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
+    "isoDate": "2025-11-25T14:18:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Four Ways AI Is Being Used to Strengthen Democracies Worldwide",
     "link": "https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html",
@@ -357,22 +374,5 @@
       "Schneier news"
     ],
     "isoDate": "2025-11-21T19:07:34.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
-    "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
-    "pubDate": "Fri, 21 Nov 2025 21:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
-    },
-    "content": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
-    "contentSnippet": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
-    "guid": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
-    "isoDate": "2025-11-21T15:40:00.000Z",
-    "itunes": {}
   }
 ]
