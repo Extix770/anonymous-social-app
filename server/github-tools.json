@@ -5,7 +5,7 @@
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "stars": 7898,
-    "forks": 1084,
+    "forks": 1085,
     "language": null
   },
   {
@@ -77,7 +77,7 @@
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 464,
-    "forks": 104,
+    "forks": 105,
     "language": null
   },
   {
@@ -157,7 +157,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Digital-Forensics-Tools",
     "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
-    "stars": 91,
+    "stars": 92,
     "forks": 36,
     "language": null
   },
@@ -216,21 +216,21 @@
     "language": "Python"
   },
   {
+    "name": "OPSEC-OSINT-Tools",
+    "owner": "airborne-commando",
+    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
+    "description": "A list of OSINT/OPSEC tools I made and or use.",
+    "stars": 45,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "OSINT-Tools",
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
     "stars": 44,
     "forks": 5,
-    "language": null
-  },
-  {
-    "name": "OPSEC-OSINT-Tools",
-    "owner": "airborne-commando",
-    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
-    "description": "A list of OSINT/OPSEC tools I made and or use.",
-    "stars": 44,
-    "forks": 2,
     "language": null
   },
   {
@@ -711,21 +711,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
