@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
+    "link": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
+    "pubDate": "Wed, 26 Nov 2025 13:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBSFa4FVI0KsN6x79w1ISJPMe3RexBvzAM-vy-bml_tD5bSNQYb4nZxHqKLV_lugTTgkVXDdIPqM2G23NT4hCLTqYA3w_fm46xAHjsnHiwc-tXsOR7QrTz6Qw4ZQfdDKo8EGrHLhZII9YOHt4A3u_UDDFAuyM6rm0c6-_mMhY3Ac_aNyZnEDbUrR5EVNg/s1600/mythic.jpg"
+    },
+    "content": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
+    "contentSnippet": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
+    "guid": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
+    "isoDate": "2025-11-26T08:28:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams",
     "link": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
     "pubDate": "Wed, 26 Nov 2025 09:59:00 +0530",
@@ -354,22 +371,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-11-22T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
-    "link": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
-    "pubDate": "Sat, 22 Nov 2025 12:17:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
-    },
-    "content": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
-    "contentSnippet": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
-    "guid": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
-    "isoDate": "2025-11-22T06:47:00.000Z",
-    "itunes": {}
   }
 ]
