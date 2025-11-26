@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’",
+    "link": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
+    "pubDate": "Wed, 26 Nov 2025 16:33:45 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "Myanmar’s military has been blowing up parts of the KK Park scam compound. Experts say the actions are likely for show.",
+    "contentSnippet": "Myanmar’s military has been blowing up parts of the KK Park scam compound. Experts say the actions are likely for show.",
+    "guid": "692610027fe36aafbca282bd",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-11-26T16:33:45.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
     "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
@@ -351,23 +368,6 @@
     "contentSnippet": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, JFrog, Koi Security, ReversingLabs, SafeDep, Socket, Step Security, and Wiz. The trojanized",
     "guid": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
     "isoDate": "2025-11-24T13:03:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More",
-    "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
-    "pubDate": "Mon, 24 Nov 2025 18:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaY0D1uryoUbPxaE9MLeUqyN7bBUQFTLeQwTbbjA8qRoi5wp1EAeBRo-M8-hW7bQSlh3BdniZRoqYTwzBs59qMIUoPIOHmmRAVuN7ZvBE-NDljn39K9rfe513T4HBkhPVvxi0_RYOl3zC6ceUkWaf302D94QqRKuFOHe4qxSATMbIQCGD81tTpWU5mTWMR/s1600/recap.jpg"
-    },
-    "content": "This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates.\nBig firms like Microsoft, Salesforce, and Google had to react fast — stopping DDoS attacks, blocking bad links, and fixing live flaws. Reports also showed how fast fake news, AI",
-    "contentSnippet": "This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates.\nBig firms like Microsoft, Salesforce, and Google had to react fast — stopping DDoS attacks, blocking bad links, and fixing live flaws. Reports also showed how fast fake news, AI",
-    "guid": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
-    "isoDate": "2025-11-24T12:32:00.000Z",
     "itunes": {}
   }
 ]
