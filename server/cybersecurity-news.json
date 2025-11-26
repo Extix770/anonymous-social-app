@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams",
+    "link": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
+    "pubDate": "Wed, 26 Nov 2025 09:59:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifp-5U7-OH3RwkfuYRMV7dZ0xBPbvmwprx6SOtovCc17OUYWlzXcUP-uZwhh6C03vW_oNO8X_48RWVDCVMChYy27HUw_cRJ3x4em7PQv_eUxr2Jt4BOTgHBCjE4QH4hu-z4m34yLZJA1S-VfuhMXZwQH-yk9gcoekiEYL2jfGDcvRip01iaVJ41aWIlGMO/s1600/deals.jpg"
+    },
+    "content": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262",
+    "contentSnippet": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262",
+    "guid": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
+    "isoDate": "2025-11-26T04:29:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms",
     "link": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
@@ -353,23 +370,6 @@
     "contentSnippet": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
     "guid": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
     "isoDate": "2025-11-22T06:47:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
-    "link": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
-    "pubDate": "Sat, 22 Nov 2025 12:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
-    "guid": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
-    "isoDate": "2025-11-22T06:45:00.000Z",
     "itunes": {}
   }
 ]
