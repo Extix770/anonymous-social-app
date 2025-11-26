@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
+    "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
+    "pubDate": "Wed, 26 Nov 2025 20:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLFjSSfGkqSN0_JR2Bn3chbdA6ZWeRT-TPvVWvosbR8gqrvxxpndEARBl7kUES8N1hVSuPYweHiF2E3FOCb6VgM5rCmBkzWQTvFABAgr4EaFZ99Z6R9uDzJmPDhfnSCRt33hnJf8gca0PP0jIBg0mnv-Q1jTHV1HfQqQ2ScEBDqZxE4iKXguQtM_VXB77/s1600/raas.jpg"
+    },
+    "content": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
+    "contentSnippet": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
+    "guid": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
+    "isoDate": "2025-11-26T14:31:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Huawei and Chinese Surveillance",
     "link": "https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html",
@@ -352,26 +369,5 @@
     "guid": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
     "isoDate": "2025-11-24T12:32:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "IACR Nullifies Election Because of Lost Decryption Key",
-    "link": "https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html",
-    "pubDate": "Mon, 24 Nov 2025 12:03:46 +0000",
-    "content:encoded": "<p>The International Association of Cryptologic Research&#8212;the academic cryptography association that&#8217;s been putting conferences like Crypto (back when &#8220;crypto&#8221; meant &#8220;cryptography&#8221;) and Eurocrypt since the 1980s&#8212;had to <a href=\"https://www.iacr.org/news/item/27138\">nullify</a> an online election when trustee Moti Yung lost his decryption key.</p>\n<blockquote><p>For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares.</p>\n<p>Unfortunately, one of the three trustees has irretrievably lost their private key, an honest but unfortunate human mistake, and therefore cannot compute their decryption share. As a result, Helios is unable to complete the decryption process, and it is technically impossible for us to obtain or verify the final outcome of this election.</p></blockquote>\n<p>The group will redo the election, but this time setting a 2-of-3 threshold scheme for decrypting the results, instead of requiring all three</p>\n<p><a href=\"https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/\">News</a> <a href=\"https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html?smid=nytcore-android-share\">articles</a>.</p>\n",
-    "content:encodedSnippet": "The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to nullify an online election when trustee Moti Yung lost his decryption key.\nFor this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares.\nUnfortunately, one of the three trustees has irretrievably lost their private key, an honest but unfortunate human mistake, and therefore cannot compute their decryption share. As a result, Helios is unable to complete the decryption process, and it is technically impossible for us to obtain or verify the final outcome of this election.\n\nThe group will redo the election, but this time setting a 2-of-3 threshold scheme for decrypting the results, instead of requiring all three\nNews articles.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html#comments",
-    "content": "<p>The International Association of Cryptologic Research&#8212;the academic cryptography association that&#8217;s been putting conferences like Crypto (back when &#8220;crypto&#8221; meant &#8220;cryptography&#8221;) and Eurocrypt since the 1980s&#8212;had to <a href=\"https://www.iacr.org/news/item/27138\">nullify</a> an online election when trustee Moti Yung lost his decryption key.</p>\n<blockquote><p>For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...</p></blockquote>",
-    "contentSnippet": "The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to nullify an online election when trustee Moti Yung lost his decryption key.\nFor this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...",
-    "guid": "https://www.schneier.com/?p=71237",
-    "categories": [
-      "Uncategorized",
-      "encryption",
-      "keys",
-      "operational security",
-      "voting"
-    ],
-    "isoDate": "2025-11-24T12:03:46.000Z"
   }
 ]
