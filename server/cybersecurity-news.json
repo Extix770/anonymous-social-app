@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
+    },
+    "content": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
+    "contentSnippet": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
+    "guid": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "isoDate": "2025-11-26T11:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
+    "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
+    "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07kZL9gPVO6CAgydSwgWaGQyaeOYAfysQ-YnUzeYR05B9sOlvBzVUPcu4OK-idfpgitAZpvjmqWBSijJ-z0-k8SFvWBB1w9-dX5YP-B7q2R3uNB81yY__MKrdwb8NHlk2y7cJHJllwU5iNOeRxmgKS6WvRZOywql8oU2k7l7IlApYlgf5wjeLfFmA-c9S/s1600/crypto.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
+    "contentSnippet": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
+    "guid": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
+    "isoDate": "2025-11-26T11:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
     "link": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
     "pubDate": "Wed, 26 Nov 2025 13:58:00 +0530",
@@ -336,40 +370,5 @@
     "guid": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
     "isoDate": "2025-11-24T07:18:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
-    "link": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
-    "pubDate": "Sat, 22 Nov 2025 20:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ApbbGy1VeM3uMCY8dVuTIzKS2QJ1wsy4n57G1cLRnEfWcZ2UIsRx8AhTUv8lqBkZb3CQPhalZOTRXo1E8A8LR8EHjecR51E7dgfDI_mHhTYmYulkhNmv82ET56xgGl3qaT7so9t02M3e1JB9pxi_0HCX9cRYUP7qPn9wAg9Yv3JBDj8zpY7bPRuO41rc/s1600/russia.jpg"
-    },
-    "content": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time.\n\"In the period from 2024 to 2025, the Russian IT sector, especially companies working as contractors and integrators of solutions for government agencies,",
-    "contentSnippet": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time.\n\"In the period from 2024 to 2025, the Russian IT sector, especially companies working as contractors and integrators of solutions for government agencies,",
-    "guid": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
-    "isoDate": "2025-11-22T15:19:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron, Andrew Couts",
-    "title": "US Border Patrol Is Spying on Millions of American Drivers",
-    "link": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/",
-    "pubDate": "Sat, 22 Nov 2025 11:30:00 +0000",
-    "dc:creator": "Dell Cameron, Andrew Couts",
-    "content": "Plus: The SEC lets SolarWinds off the hook, Microsoft stops a historic DDoS attack, and FBI documents reveal the agency spied on an immigration activist Signal group in New York City.",
-    "contentSnippet": "Plus: The SEC lets SolarWinds off the hook, Microsoft stops a historic DDoS attack, and FBI documents reveal the agency spied on an immigration activist Signal group in New York City.",
-    "guid": "69208458c18d045cdfbc869d",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-22T11:30:00.000Z"
   }
 ]
