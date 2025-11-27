@@ -1,7 +1,7 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
+    "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
     "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
     "pubDate": "Wed, 26 Nov 2025 23:38:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -10,8 +10,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghgyXKKmEGWfIkqMuka-PLw6Jrl_bPx6Ptub1wNLhbJpyZDfQbTvmYfoV1wzIKc6af7Axp-KlbkHDgadFI6P1iWAe0g8xbyEmKAZazSUZ1aleKTfRgxF7DOs9yhNmlvQGZWvn8-ovkMv7hy0HBlWjOHFHKGOD1uvLMa-L_ZxRxyCsBrk7w0kL7uGH0idaj/s1600/marven-hack.jpg"
     },
-    "content": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\"\n\"",
-    "contentSnippet": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\"\n\"",
+    "content": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\" The",
+    "contentSnippet": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\" The",
     "guid": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
     "isoDate": "2025-11-26T18:08:00.000Z",
     "itunes": {}
