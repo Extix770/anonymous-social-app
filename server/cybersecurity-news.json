@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Jacob Roach",
+    "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
+    "link": "https://www.wired.com/gallery/best-vpn-for-iphone/",
+    "pubDate": "Thu, 27 Nov 2025 11:30:00 +0000",
+    "dc:creator": "Jacob Roach",
+    "content": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
+    "contentSnippet": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
+    "guid": "68cb21d1fa58bb73aa9626a5",
+    "categories": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Online Services",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-11-27T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
     "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
@@ -356,23 +373,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
     "guid": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
     "isoDate": "2025-11-25T11:28:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
-    "link": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
-    "pubDate": "Tue, 25 Nov 2025 12:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjmpd6o7-HWK7FLfSLWXDI1Y5FeB1NBpBd4vIIk_CddP-R_hMTbVUynU6YynC6tMw-A36Q47s4bAyb7_rgYsf-V4M8gFCerUIDc4IO4tFHdyLWEMvvaaUguvfH6a3gdunla1LzgQVPdk4E9ETUTqlfH-xM-Gx9J2SKQXA2_A9l16PBY2o94m79CPEY4IZ/s1600/apps.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.\n\"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.\n\"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,",
-    "guid": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
-    "isoDate": "2025-11-25T06:42:00.000Z",
     "itunes": {}
   }
 ]
