@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
+    "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+    "pubDate": "Thu, 27 Nov 2025 21:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbH_BZ4IWtK9XUQJlVK_lYU-KRFB6bMqJMGZUr640ws6tiDaAcew4Pf9SC_Mc3aUrTo52vkVQ2OGUXwZ1y9M0jRb0mywWeYspEWQ2QyjaRfWz1Z8jTDn1HzsNL87aEZRvaEvsuEzCx0DG4CAGMUbazLVxKSLjPpNh255KfuycID8w7BgOm445sOl4cZt0/s1600/entra-id.jpg"
+    },
+    "content": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra",
+    "contentSnippet": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra",
+    "guid": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+    "isoDate": "2025-11-27T15:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "pubDate": "Thu, 27 Nov 2025 20:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
+    },
+    "content": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
+    "contentSnippet": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
+    "guid": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "isoDate": "2025-11-27T14:59:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Jacob Roach",
     "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
     "link": "https://www.wired.com/gallery/best-vpn-for-iphone/",
@@ -187,23 +221,6 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-    "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
-    },
-    "content": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-    "contentSnippet": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-    "guid": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-    "isoDate": "2025-11-26T11:10:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
     "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
     "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530",
@@ -357,23 +374,6 @@
     "contentSnippet": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
     "guid": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
     "isoDate": "2025-11-25T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
-    "link": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
-    "pubDate": "Tue, 25 Nov 2025 16:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFdtqg4iFeVtSsDgOcgCshEKe9l9m9hw0uYroyMbfEttzophIslNnF67eArn2aTCcTuZ1YB_nusZyDtK43EeOftKRYLU06weYnQqUufk_UJzAN_aV_uFQqzct-TA96nNZdYC3kg8fnjghwd1IduFLjdd3hvY9ok7MZVBus6tkTKdZ5IQfdnEY0_aRLww_/s1600/system-hack.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
-    "guid": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
-    "isoDate": "2025-11-25T11:28:00.000Z",
     "itunes": {}
   }
 ]
