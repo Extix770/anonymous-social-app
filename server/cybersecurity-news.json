@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
+    "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
+    "pubDate": "Thu, 27 Nov 2025 23:43:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF1NjcNl0amY7zxe4zJ58EcQQ7cm-HPNA2F3qrnTLAeF1lyBNGx1SvEnmz0Ok5DUV8ZRiOZP0fDBf_tP0LIZRcShjLexQJ6nbXiQsFaBEXc8bSHuTmGjKGscfYjGahNnvbk7Vf0hmdHX5Gca9LrWUwPwIl10Q5qzaPbH6BNHIJNg1s79QJ4BMLD4z6hhN3/s1600/gib.jpg"
+    },
+    "content": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT.\nAs of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the",
+    "contentSnippet": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT.\nAs of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the",
+    "guid": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
+    "isoDate": "2025-11-27T18:13:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
     "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
     "pubDate": "Thu, 27 Nov 2025 21:07:00 +0530",
@@ -357,23 +374,6 @@
     "contentSnippet": "The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, including using a custom tool dubbed TCSectorCopy.\n\"This attack allows them to obtain tokens for the OAuth 2.0 authorization protocol using the user's browser, which can be used outside the perimeter of the compromised infrastructure to access",
     "guid": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
     "isoDate": "2025-11-25T11:36:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "3 SOC Challenges You Need to Solve Before 2026",
-    "link": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
-    "pubDate": "Tue, 25 Nov 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5j2evccdjHPPJ_5xyuSjPeQIWjxX3nPprgbbjNMMJqK9mMzxniqf9v2GGOLZQ7lkUtpJo8SO4pe72S2wtOV_7XVjE5g02BJxapakZclQ79TmSN-OjtBVouay_vn7bnDebxDiRsJgvlTsP7rz5bOk0QOOji1zn9oZWMG3CFPcUG3dCBRBBhIBH_TnNVs/s1600/soc.jpg"
-    },
-    "content": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
-    "contentSnippet": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
-    "guid": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
-    "isoDate": "2025-11-25T11:30:00.000Z",
     "itunes": {}
   }
 ]
