@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
+    "link": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
+    "pubDate": "Fri, 28 Nov 2025 14:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report",
+    "contentSnippet": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report",
+    "guid": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
+    "isoDate": "2025-11-28T08:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
     "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
     "pubDate": "Thu, 27 Nov 2025 23:43:00 +0530",
@@ -358,22 +375,5 @@
       "LLM"
     ],
     "isoDate": "2025-11-25T12:00:50.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
-    "link": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
-    "pubDate": "Tue, 25 Nov 2025 17:06:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNpga80w98u9OErGtSp29H9OnZOEqxJ6f5M0tMxrFaWffBBWGE4K8AS6vy1-WEB5f0_L-lUaQGvY_b4YVdEq9fukFedxw18lq0C8p2IsM9-cZ51Jk4fP0hyphenhyphenCIt7KmoNjqVU1CVBUcUeqy_abUgacC0aWHUaOTpKBJ2iLc3zZvhD3TMJQ5ccBBcckpsHerD/s1600/dc.jpg"
-    },
-    "content": "The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, including using a custom tool dubbed TCSectorCopy.\n\"This attack allows them to obtain tokens for the OAuth 2.0 authorization protocol using the user's browser, which can be used outside the perimeter of the compromised infrastructure to access",
-    "contentSnippet": "The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, including using a custom tool dubbed TCSectorCopy.\n\"This attack allows them to obtain tokens for the OAuth 2.0 authorization protocol using the user's browser, which can be used outside the perimeter of the compromised infrastructure to access",
-    "guid": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
-    "isoDate": "2025-11-25T11:36:00.000Z",
-    "itunes": {}
   }
 ]
