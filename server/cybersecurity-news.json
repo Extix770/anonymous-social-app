@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
+    "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+    "pubDate": "Fri, 28 Nov 2025 21:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdVHqK8sA27WWR3ySGxson4kuqmBaXHQlFm3PSmRaHV6IGdnk_zK0tUvgrFyKepL2COnnm_yiIBdTy-ho7pFKSPQP7cCxkOugoV0s_2k3dUBYC0FI5BkY2tmR3Tsbxktsq7TnQRqzDhiOHe9SjVrRq2XHt5BYU01ctj8yUA8BTv6cDT8zREtEYAdrViUn/s1600/setuptools.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.\nSoftware supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\"\n\"The",
+    "contentSnippet": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.\nSoftware supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\"\n\"The",
+    "guid": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+    "isoDate": "2025-11-28T16:27:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
+    "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+    "pubDate": "Fri, 28 Nov 2025 21:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHywoT-t7dx-yFp5L6Kj6AHPWvHYFoziGtqauAQGWvY55xCGgiw80AKaK962SgdMmomBf9EMT9cPAGPxx5GTi4lFq_ckm1Cjk3hGtRo1AnWVEjZkd89HlSOWuLuBC-whL565LElFcq2D55c9NrmQHx30eGNNugpcLqPAKDxRC5Zkwb-1lX1OC4Xu-QH13/s1600/npm-malware.jpg"
+    },
+    "content": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.\nAccording to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie.\n\nSome of the",
+    "contentSnippet": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.\nAccording to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie.\n\nSome of the",
+    "guid": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+    "isoDate": "2025-11-28T16:18:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Prompt Injection Through Poetry",
     "link": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html",
@@ -338,40 +372,5 @@
     "guid": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
     "isoDate": "2025-11-26T08:28:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams",
-    "link": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
-    "pubDate": "Wed, 26 Nov 2025 09:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifp-5U7-OH3RwkfuYRMV7dZ0xBPbvmwprx6SOtovCc17OUYWlzXcUP-uZwhh6C03vW_oNO8X_48RWVDCVMChYy27HUw_cRJ3x4em7PQv_eUxr2Jt4BOTgHBCjE4QH4hu-z4m34yLZJA1S-VfuhMXZwQH-yk9gcoekiEYL2jfGDcvRip01iaVJ41aWIlGMO/s1600/deals.jpg"
-    },
-    "content": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262",
-    "contentSnippet": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262",
-    "guid": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
-    "isoDate": "2025-11-26T04:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms",
-    "link": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
-    "pubDate": "Tue, 25 Nov 2025 19:54:15 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Immigration and Customs Enforcement lifted a $180 million cap on a proposed immigrant-tracking program while guaranteeing multimillion-dollar payouts for private surveillance firms.",
-    "contentSnippet": "Immigration and Customs Enforcement lifted a $180 million cap on a proposed immigrant-tracking program while guaranteeing multimillion-dollar payouts for private surveillance firms.",
-    "guid": "6925baf30891ceb11ba8bd49",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-11-25T19:54:15.000Z"
   }
 ]
