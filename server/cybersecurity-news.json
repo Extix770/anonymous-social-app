@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Organizations Are Turning to RPAM",
+    "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+    "pubDate": "Fri, 28 Nov 2025 16:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhusj8mwC5L9YXaH6bYVNnFLp4wM8q6RJloaKi4WKGtv4v1ys_SUlcI-q69rWXZCwhwDBdG6Uuy-2eb_1_sbK27TtKqlx37mNgxYB3kZ1lnwN9uMKnHVsrDMiEFhM3ObcANB-aSkvyVRkJn-3FAnKq0CD8F4nuZds4BlIAPT5GCCdHP7CNFG3Bwde-amUw/s1600/keeper.jpg"
+    },
+    "content": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
+    "contentSnippet": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
+    "guid": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+    "isoDate": "2025-11-28T11:09:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matthew Gault",
     "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
     "link": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
@@ -355,23 +372,6 @@
     "contentSnippet": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of",
     "guid": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
     "isoDate": "2025-11-25T16:49:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
-    "link": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
-    "pubDate": "Tue, 25 Nov 2025 19:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpwmpMC2coSECbndEHIVrYYNz9k16YYM0KkZjT69eMkozDT-LMxy920BF8Hxw34C-Vy_FCTwhZUSJQqQOzgp8UlcEBdb90C5iGVfM67fJ2gP9KNx0H0tJ_sJXcfRgpdbW-5DWKKrGEc0dHzHbnnNiVxIdZhxr_BGNclG-UFRyH1jsAxTh88zI6lc5OXId8/s1600/update-windows.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a \"critical\" Windows security update.\n\"Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,\" Acronis said in a",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a \"critical\" Windows security update.\n\"Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,\" Acronis said in a",
-    "guid": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
-    "isoDate": "2025-11-25T14:18:00.000Z",
     "itunes": {}
   }
 ]
