@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach",
+    "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html",
+    "pubDate": "Fri, 28 Nov 2025 20:56:20 +0000",
+    "content:encoded": "<p>A meter-long flying neon squid (<i>Ommastrephes bartramii</i>) was <a href=\"https://www.timesofisrael.com/meter-long-squid-washes-up-on-northern-israeli-beach/\">found dead</a> on an Israeli beach. The species is rare in the Mediterranean.</p>\n",
+    "content:encodedSnippet": "A meter-long flying neon squid (Ommastrephes bartramii) was found dead on an Israeli beach. The species is rare in the Mediterranean.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html#comments",
+    "content": "<p>A meter-long flying neon squid (<i>Ommastrephes bartramii</i>) was <a href=\"https://www.timesofisrael.com/meter-long-squid-washes-up-on-northern-israeli-beach/\">found dead</a> on an Israeli beach. The species is rare in the Mediterranean.</p>\n",
+    "contentSnippet": "A meter-long flying neon squid (Ommastrephes bartramii) was found dead on an Israeli beach. The species is rare in the Mediterranean.",
+    "guid": "https://www.schneier.com/?p=71248",
+    "categories": [
+      "Uncategorized"
+    ],
+    "isoDate": "2025-11-28T20:56:20.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
     "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
@@ -354,23 +371,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
     "guid": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
     "isoDate": "2025-11-26T11:10:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
-    "link": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
-    "pubDate": "Wed, 26 Nov 2025 13:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBSFa4FVI0KsN6x79w1ISJPMe3RexBvzAM-vy-bml_tD5bSNQYb4nZxHqKLV_lugTTgkVXDdIPqM2G23NT4hCLTqYA3w_fm46xAHjsnHiwc-tXsOR7QrTz6Qw4ZQfdDKo8EGrHLhZII9YOHt4A3u_UDDFAuyM6rm0c6-_mMhY3Ac_aNyZnEDbUrR5EVNg/s1600/mythic.jpg"
-    },
-    "content": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
-    "contentSnippet": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
-    "guid": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
-    "isoDate": "2025-11-26T08:28:00.000Z",
     "itunes": {}
   }
 ]
