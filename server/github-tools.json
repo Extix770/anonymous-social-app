@@ -531,15 +531,6 @@
     "language": null
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 9,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "uk-personal-osint-toolkit",
     "owner": "mbeardwell",
     "url": "https://github.com/mbeardwell/uk-personal-osint-toolkit",
@@ -567,10 +558,10 @@
     "language": "Python"
   },
   {
-    "name": "Blue-Team-Cyber-Investigation-Tools-and-Tricks",
-    "owner": "DevVj-1",
-    "url": "https://github.com/DevVj-1/Blue-Team-Cyber-Investigation-Tools-and-Tricks",
-    "description": "Blue 🧿 Team Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This collection of resources is designed to aid cybersecurity professionals in defending and securing their networks. Whether you're a seasoned analyst or just getting started, you'll find valuable tools, techniques, and best practices here to enhance you",
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 8,
     "forks": 2,
     "language": null
@@ -637,6 +628,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Blue-Team-Cyber-Investigation-Tools-and-Tricks",
+    "owner": "DevVj-1",
+    "url": "https://github.com/DevVj-1/Blue-Team-Cyber-Investigation-Tools-and-Tricks",
+    "description": "Blue 🧿 Team Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This collection of resources is designed to aid cybersecurity professionals in defending and securing their networks. Whether you're a seasoned analyst or just getting started, you'll find valuable tools, techniques, and best practices here to enhance you",
+    "stars": 7,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "ReconForge-ToolKit",
