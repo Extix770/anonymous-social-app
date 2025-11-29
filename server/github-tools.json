@@ -117,6 +117,15 @@
     "language": null
   },
   {
+    "name": "Ethical-Hacking-Tools",
+    "owner": "dev-angelist",
+    "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
+    "description": "List, utilize and cheatsheet of Ethical Hacking tools",
+    "stars": 117,
+    "forks": 49,
+    "language": null
+  },
+  {
     "name": "aerospace-hacking-tools",
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
@@ -124,15 +133,6 @@
     "stars": 117,
     "forks": 26,
     "language": "JavaScript"
-  },
-  {
-    "name": "Ethical-Hacking-Tools",
-    "owner": "dev-angelist",
-    "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
-    "description": "List, utilize and cheatsheet of Ethical Hacking tools",
-    "stars": 116,
-    "forks": 49,
-    "language": null
   },
   {
     "name": "ToolHunt",
