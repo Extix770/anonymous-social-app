@@ -1,5 +1,22 @@
 [
   {
+    "creator": "JP Aumasson, Lily Hay Newman",
+    "title": "The WIRED Guide to Digital Opsec for Teens",
+    "link": "https://www.wired.com/story/digital-opsec-for-teens/",
+    "pubDate": "Sat, 29 Nov 2025 12:00:00 +0000",
+    "dc:creator": "JP Aumasson, Lily Hay Newman",
+    "content": "Practicing good “operations security” is essential to staying safe online. Here's a complete guide for teenagers (and anyone else) who wants to button up their digital lives.",
+    "contentSnippet": "Practicing good “operations security” is essential to staying safe online. Here's a complete guide for teenagers (and anyone else) who wants to button up their digital lives.",
+    "guid": "6924a8efa8289fd9c7c4aa47",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security Advice"
+    ],
+    "isoDate": "2025-11-29T12:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach",
     "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html",
@@ -354,23 +371,6 @@
     "contentSnippet": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
     "guid": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
     "isoDate": "2025-11-26T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
-    "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
-    "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07kZL9gPVO6CAgydSwgWaGQyaeOYAfysQ-YnUzeYR05B9sOlvBzVUPcu4OK-idfpgitAZpvjmqWBSijJ-z0-k8SFvWBB1w9-dX5YP-B7q2R3uNB81yY__MKrdwb8NHlk2y7cJHJllwU5iNOeRxmgKS6WvRZOywql8oU2k7l7IlApYlgf5wjeLfFmA-c9S/s1600/crypto.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
-    "contentSnippet": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
-    "guid": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
-    "isoDate": "2025-11-26T11:10:00.000Z",
     "itunes": {}
   }
 ]
