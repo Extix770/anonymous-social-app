@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
+    "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+    "pubDate": "Sun, 30 Nov 2025 14:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
+    "guid": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+    "isoDate": "2025-11-30T09:23:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "JP Aumasson, Lily Hay Newman",
     "title": "The WIRED Guide to Digital Opsec for Teens",
     "link": "https://www.wired.com/story/digital-opsec-for-teens/",
@@ -355,22 +372,5 @@
       "surveillance"
     ],
     "isoDate": "2025-11-26T12:05:14.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
-    "link": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-    "pubDate": "Wed, 26 Nov 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkw0MmcqqKZNxhyucPZCx6y1I2RgOoB3X4reu6qVkLYeMWCdU4jfxo_lQTdLLwRFdA2bVjxw_0F-QyR0XXpAV-v-commkh3NcxuOr3QOEtD0zkc-fvTavnhG-gO8z7ttXhevDQU9O3hb1Id6iBSjOH4GFmhoNRWPCPpJL8kYR6U5_seYnwxQUnwLWqz48/s1600/million-dollar-soc.jpg"
-    },
-    "content": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
-    "contentSnippet": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
-    "guid": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-    "isoDate": "2025-11-26T11:55:00.000Z",
-    "itunes": {}
   }
 ]
