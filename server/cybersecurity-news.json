@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
+    "link": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+    "pubDate": "Mon, 01 Dec 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6WoJCAVDbG57kdVUufW6_tpbnIeKpemxbX50i8MocCexhL1q1yj1epN79uQ925HgHfc00QV22mK6Wz2jkqpxEP_Cnlw2XF-YyHteFuW_ppVBIHUbpcBkmCuWsGpahPBRgUfaRkEZkYWs691YRWFXb3GYij5nt6W4iaKDBVEsufvu2q_9DlPGsnh9YbIDz/s1600/layerx.jpg"
+    },
+    "content": "The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.\nFor the last two decades, whether you used Chrome, Edge, or Firefox, the fundamental paradigm remained the same: a passive window through which a human user viewed and interacted with the internet.\nThat era is over. We are currently witnessing a shift that renders the old",
+    "contentSnippet": "The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.\nFor the last two decades, whether you used Chrome, Edge, or Firefox, the fundamental paradigm remained the same: a passive window through which a human user viewed and interacted with the internet.\nThat era is over. We are currently witnessing a shift that renders the old",
+    "guid": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+    "isoDate": "2025-12-01T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
     "link": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
     "pubDate": "Mon, 01 Dec 2025 14:15:00 +0530",
@@ -352,22 +369,5 @@
       "Zaid Khader"
     ],
     "isoDate": "2025-11-26T17:22:36.000Z"
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’",
-    "link": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
-    "pubDate": "Wed, 26 Nov 2025 16:33:45 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Myanmar’s military has been blowing up parts of the KK Park scam compound. Experts say the actions are likely for show.",
-    "contentSnippet": "Myanmar’s military has been blowing up parts of the KK Park scam compound. Experts say the actions are likely for show.",
-    "guid": "692610027fe36aafbca282bd",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-11-26T16:33:45.000Z"
   }
 ]
