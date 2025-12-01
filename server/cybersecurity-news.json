@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
+    "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+    "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7sPiutSMvrqIMK5SFFM4l-nBy7iKHGTuStvLuI7A31pMoQocvyQDRqoruAs2pj8twBB4dlbzAdVgBgvF-Whwp2SgpoKaCvTX4mMKQR8NkuXcNReYPCdNTz6f7c7FXTmwWesffx6s15M3lulZXgWsap-NnPWutvSalieTm-G7uDdZfyppBvaj5xyY-RQT/s1600/sanchar-saathi-app.jpg"
+    },
+    "content": "India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report",
+    "contentSnippet": "India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report",
+    "guid": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+    "isoDate": "2025-12-01T17:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
+    "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+    "pubDate": "Mon, 01 Dec 2025 22:59:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKcr0fKdcaAiLI2df3VuAO4_N-LNwwcm7EwlF6Fc_Nhrdtc3rxujMv18inGk8B_5PwclH_eM7APWwFpdHYkm1RoKFuL9P_nFsR2Evmm80od17LBp3S6-veUG0R0rZwGbJOYfFsEDp7wWkFTR8mM97pkdLX-dphCfPj_vHYEKp4nZUzZ0Ijli_LfmBeyKAu/s1600/chrome-spyware.jpg"
+    },
+    "content": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These",
+    "contentSnippet": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These",
+    "guid": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+    "isoDate": "2025-12-01T17:29:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Joseph Cox",
     "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
     "link": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
@@ -313,40 +347,6 @@
     "contentSnippet": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
     "guid": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
     "isoDate": "2025-11-27T14:59:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Jacob Roach",
-    "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
-    "link": "https://www.wired.com/gallery/best-vpn-for-iphone/",
-    "pubDate": "Thu, 27 Nov 2025 11:30:00 +0000",
-    "dc:creator": "Jacob Roach",
-    "content": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
-    "contentSnippet": "There are dozens of iPhone VPNs at your disposal, but these are the services that will actually keep your browsing safe.",
-    "guid": "68cb21d1fa58bb73aa9626a5",
-    "categories": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Online Services",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-11-27T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
-    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-    "pubDate": "Thu, 27 Nov 2025 15:33:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6UhaJKO8B5nl8PUBMTiIxKg_F2ZG2IyUHemsnutwdvUzAoD9LKGyJje58Z40uNuSorotRXHqJPcfW40M1TIoUn9Ncv1wRhCIq5s3jpjvJcCOs-4LHwbUMjYDCLNQXYw_C9ARz65Zk6i9812SiRSL8HoCAhdJJw8H2-pMVQo0xzHPexyOkcZU4ZI59O1E/s1600/threatsday.jpg"
-    },
-    "content": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.\nCriminals are getting creative — using smart tricks to steal data, sound real, and hide in plain sight. But they’re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake",
-    "contentSnippet": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.\nCriminals are getting creative — using smart tricks to steal data, sound real, and hide in plain sight. But they’re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake",
-    "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-    "isoDate": "2025-11-27T10:03:00.000Z",
     "itunes": {}
   }
 ]
