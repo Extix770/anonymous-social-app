@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Joseph Cox",
+    "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
+    "link": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
+    "pubDate": "Mon, 01 Dec 2025 14:00:00 +0000",
+    "dc:creator": "Joseph Cox",
+    "content": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage.",
+    "contentSnippet": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage.",
+    "guid": "6925d68fa68a747602c48e8a",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-01T14:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Banning VPNs",
     "link": "https://www.schneier.com/blog/archives/2025/12/banning-vpns.html",
@@ -321,23 +338,6 @@
     "contentSnippet": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.\nCriminals are getting creative — using smart tricks to steal data, sound real, and hide in plain sight. But they’re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake",
     "guid": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
     "isoDate": "2025-11-27T10:03:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-    "link": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-    "pubDate": "Thu, 27 Nov 2025 12:33:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
-    },
-    "content": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.\nThe company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we",
-    "contentSnippet": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.\nThe company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we",
-    "guid": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-    "isoDate": "2025-11-27T07:03:00.000Z",
     "itunes": {}
   }
 ]
