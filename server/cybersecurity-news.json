@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
+    "link": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
+    "pubDate": "Mon, 01 Dec 2025 14:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s1600/android-malware-1.jpg"
+    },
+    "content": "A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, and real-time interaction with infected devices.\nThe malware embeds a hard-coded list comprising over 400 applications spanning banking, financial technology, payment processors, cryptocurrency",
+    "contentSnippet": "A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, and real-time interaction with infected devices.\nThe malware embeds a hard-coded list comprising over 400 applications spanning banking, financial technology, payment processors, cryptocurrency",
+    "guid": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
+    "isoDate": "2025-12-01T08:45:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
     "link": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
     "pubDate": "Mon, 01 Dec 2025 10:37:00 +0530",
@@ -352,22 +369,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-11-26T16:33:45.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
-    "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-    "pubDate": "Wed, 26 Nov 2025 20:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLFjSSfGkqSN0_JR2Bn3chbdA6ZWeRT-TPvVWvosbR8gqrvxxpndEARBl7kUES8N1hVSuPYweHiF2E3FOCb6VgM5rCmBkzWQTvFABAgr4EaFZ99Z6R9uDzJmPDhfnSCRt33hnJf8gca0PP0jIBg0mnv-Q1jTHV1HfQqQ2ScEBDqZxE4iKXguQtM_VXB77/s1600/raas.jpg"
-    },
-    "content": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
-    "contentSnippet": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
-    "guid": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-    "isoDate": "2025-11-26T14:31:00.000Z",
-    "itunes": {}
   }
 ]
