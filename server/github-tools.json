@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7938,
+    "stars": 7940,
     "forks": 1089,
     "language": null
   },
@@ -14,7 +14,7 @@
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
     "stars": 7229,
-    "forks": 830,
+    "forks": 829,
     "language": "HTML"
   },
   {
@@ -369,21 +369,21 @@
     "language": "Python"
   },
   {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 17,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "mao-Tool",
     "owner": "schroder-mao",
     "url": "https://github.com/schroder-mao/mao-Tool",
     "description": null,
     "stars": 16,
     "forks": 4,
-    "language": null
-  },
-  {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 16,
-    "forks": 3,
     "language": null
   },
   {
