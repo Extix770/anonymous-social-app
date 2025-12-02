@@ -603,15 +603,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 7,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "AUX-441",
     "url": "https://github.com/AUX-441/security-tools-hacking",
@@ -619,6 +610,15 @@
     "stars": 7,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 7,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "FuzzFindr-Web-Fuzzing-Tool",
@@ -783,15 +783,6 @@
     "language": null
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 5,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -799,6 +790,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 5,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -873,15 +873,6 @@
     "language": "Shell"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 4,
+    "forks": 0,
+    "language": "PowerShell"
   }
 ]
