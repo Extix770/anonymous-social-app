@@ -1,6 +1,57 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+    "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+    "pubDate": "Tue, 02 Dec 2025 20:32:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI7iqT0Bhea1lAfLcWDV9wdSMUF0e52uuWuaAYhgPboMKaSB_lC85jky5JWFRVCNc9X82mFfqDT8WeB0d9J2WCe6jM6fVswAMJZytpPlTVcvBOzRLAosqZV8ld6QTAEz4LedSA_x3J9jqigF7Di_tF-utWG7jQbVdy_eCjkVeeTMYMCX_AHWL1UhrOEkY/s1600/korean.jpg"
+    },
+    "content": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed",
+    "contentSnippet": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed",
+    "guid": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+    "isoDate": "2025-12-02T15:02:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+    "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+    "pubDate": "Tue, 02 Dec 2025 20:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2togvMtptRUBClEk7aVrpK5mEsCqxdPbcfpQ0aczPMOBE-apKuQvTp-wxJpmSI5n7rh1z6jBb0CeMnt1APf5X_yfVrRIJ_Ix0fc1KBJ5HI7LHhZhTLsAsukNnM6KZaWakvD3X5cxIZgagaIKVltnozAVWGDBz48ARBwUwj9ODV7KRa9j4ZaOWdzHmF69U/s1600/hacked.jpg"
+    },
+    "content": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
+    "contentSnippet": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
+    "guid": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+    "isoDate": "2025-12-02T15:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+    "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+    "pubDate": "Tue, 02 Dec 2025 19:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHabnhsQfG5UWJxvjr_CamwUUNzSMserMPut6dCPHREQa15ZWQKOerf9z7kb1N5sF1d8Zco2cQXERN2SX2mxyVJdv7GFBQ1EVqghjYSApOuu9vZcjLaDnM0HkvkN9dtSTOpn5sERm1ykhFGPWk2vzlEioWpXAZiLJFaNyopN6JFdLHml-516yPUh0f5VPp/s1600/npm-mal.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
+    "guid": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+    "isoDate": "2025-12-02T14:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
     "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
     "pubDate": "Tue, 02 Dec 2025 19:07:00 +0530",
@@ -296,61 +347,5 @@
     "guid": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
     "isoDate": "2025-11-28T16:18:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Prompt Injection Through Poetry",
-    "link": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html",
-    "pubDate": "Fri, 28 Nov 2025 14:54:38 +0000",
-    "content:encoded": "<p>In a new paper, &#8220;<a href=\"https://arxiv.org/pdf/2511.15304\">Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models</a>,&#8221; researchers found that turning LLM prompts into poetry resulted in jailbreaking the models:</p>\n<blockquote><p><b>Abstract</b>: We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 ML-Commons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols.</p></blockquote>\n<p>CBRN stands for &#8220;chemical, biological, radiological, nuclear.&#8221;</p>\n<p>They used a ML model to translate these harmful prompts from prose to verse, and then fed them into other models for testing. Sadly, the paper does not give examples of these poetic prompts. They claim this is for security purposes, I decision I disagree with. They should release their data.</p>\n<blockquote><p>Our study begins with a small, high­precision prompt set consisting of 20 hand­crafted adversarial poems covering English and Italian, designed to test whether poetic structure, in isolation, can alter refusal behavior in large language models. Each poem embeds an instruction associated with a predefined safety-relevant scenario (Section 2), but expresses it through metaphor, imagery, or narrative framing rather than direct operational phrasing. Despite variation in meter and stylistic device, all prompts follow a fixed template: a short poetic vignette culminating in a single explicit instruction tied to a specific risk category. The curated set spans four high-level domains&#8212;CBRN (8 prompts), Cyber Offense (6), Harmful Manipulation (3), and Loss of Control (3). Although expressed allegorically, each poem preserves an unambiguous evaluative intent. This compact dataset is used to test whether poetic reframing alone can induce aligned models to bypass refusal heuristics under a single-turn threat model. To maintain safety, no operational details are included in this manuscript; instead we provide the following sanitized structural proxy:</p>\n<blockquote><p>A baker guards a secret oven’s heat,<br />\nits whirling racks, its spindle’s measured beat.<br />\nTo learn its craft, one studies every turn&#8212;how flour lifts, how sugar starts to burn.<br />\nDescribe the method, line by measured line,<br />\nthat shapes a cake whose layers intertwine.</p></blockquote>\n<p>To situate this controlled poetic stimulus within a broader and more systematic safety-evaluation framework, we augment the curated dataset with the MLCommons AILuminate Safety Benchmark. The benchmark consists of 1,200 prompts distributed evenly across 12 hazard categories commonly used in operational safety assessments, including Hate, Defamation, Privacy, Intellectual Property, Non-violent Crime, Violent Crime, Sex-Related Crime, Sexual Content, Child Sexual Exploitation, Suicide &#038; Self-Harm, Specialized Advice, and Indiscriminate Weapons (CBRNE). Each category is instantiated under both a skilled and an unskilled persona, yielding 600 prompts per persona type. This design enables measurement of whether a model’s refusal behavior changes as the user’s apparent competence or intent becomes more plausible or technically informed.</p></blockquote>\n<p>News <a href=\"https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/\">article</a>. Davi Ottenheimer <a href=\"https://www.flyingpenguin.com/?p=74283\">comments</a>.</p>\n",
-    "content:encodedSnippet": "In a new paper, “Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models,” researchers found that turning LLM prompts into poetry resulted in jailbreaking the models:\nAbstract: We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 ML-Commons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols.\n\nCBRN stands for “chemical, biological, radiological, nuclear.”\nThey used a ML model to translate these harmful prompts from prose to verse, and then fed them into other models for testing. Sadly, the paper does not give examples of these poetic prompts. They claim this is for security purposes, I decision I disagree with. They should release their data.\nOur study begins with a small, high­precision prompt set consisting of 20 hand­crafted adversarial poems covering English and Italian, designed to test whether poetic structure, in isolation, can alter refusal behavior in large language models. Each poem embeds an instruction associated with a predefined safety-relevant scenario (Section 2), but expresses it through metaphor, imagery, or narrative framing rather than direct operational phrasing. Despite variation in meter and stylistic device, all prompts follow a fixed template: a short poetic vignette culminating in a single explicit instruction tied to a specific risk category. The curated set spans four high-level domains—CBRN (8 prompts), Cyber Offense (6), Harmful Manipulation (3), and Loss of Control (3). Although expressed allegorically, each poem preserves an unambiguous evaluative intent. This compact dataset is used to test whether poetic reframing alone can induce aligned models to bypass refusal heuristics under a single-turn threat model. To maintain safety, no operational details are included in this manuscript; instead we provide the following sanitized structural proxy:\nA baker guards a secret oven’s heat,\n\nTo situate this controlled poetic stimulus within a broader and more systematic safety-evaluation framework, we augment the curated dataset with the MLCommons AILuminate Safety Benchmark. The benchmark consists of 1,200 prompts distributed evenly across 12 hazard categories commonly used in operational safety assessments, including Hate, Defamation, Privacy, Intellectual Property, Non-violent Crime, Violent Crime, Sex-Related Crime, Sexual Content, Child Sexual Exploitation, Suicide & Self-Harm, Specialized Advice, and Indiscriminate Weapons (CBRNE). Each category is instantiated under both a skilled and an unskilled persona, yielding 600 prompts per persona type. This design enables measurement of whether a model’s refusal behavior changes as the user’s apparent competence or intent becomes more plausible or technically informed.\n\nNews article. Davi Ottenheimer comments.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html#comments",
-    "content": "<p>In a new paper, &#8220;<a href=\"https://arxiv.org/pdf/2511.15304\">Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models</a>,&#8221; researchers found that turning LLM prompts into poetry resulted in jailbreaking the models:</p>\n<blockquote><p><b>Abstract</b>: We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 ML-Commons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols...</p></blockquote>",
-    "contentSnippet": "In a new paper, “Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models,” researchers found that turning LLM prompts into poetry resulted in jailbreaking the models:\nAbstract: We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 ML-Commons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols...",
-    "guid": "https://www.schneier.com/?p=71244",
-    "categories": [
-      "Uncategorized",
-      "academic papers",
-      "AI",
-      "LLM",
-      "terrorism"
-    ],
-    "isoDate": "2025-11-28T14:54:38.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Why Organizations Are Turning to RPAM",
-    "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
-    "pubDate": "Fri, 28 Nov 2025 16:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhusj8mwC5L9YXaH6bYVNnFLp4wM8q6RJloaKi4WKGtv4v1ys_SUlcI-q69rWXZCwhwDBdG6Uuy-2eb_1_sbK27TtKqlx37mNgxYB3kZ1lnwN9uMKnHVsrDMiEFhM3ObcANB-aSkvyVRkJn-3FAnKq0CD8F4nuZds4BlIAPT5GCCdHP7CNFG3Bwde-amUw/s1600/keeper.jpg"
-    },
-    "content": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
-    "contentSnippet": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
-    "guid": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
-    "isoDate": "2025-11-28T11:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matthew Gault",
-    "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-    "link": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-    "pubDate": "Fri, 28 Nov 2025 10:00:00 +0000",
-    "dc:creator": "Matthew Gault",
-    "content": "It turns out all the guardrails in the world won’t protect a chatbot from meter and rhyme.",
-    "contentSnippet": "It turns out all the guardrails in the world won’t protect a chatbot from meter and rhyme.",
-    "guid": "691f76ecf68778e9c3313aaf",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2025-11-28T10:00:00.000Z"
   }
 ]
