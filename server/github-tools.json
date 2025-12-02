@@ -783,15 +783,6 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -799,6 +790,15 @@
     "stars": 5,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -873,6 +873,15 @@
     "language": "Shell"
   },
   {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 1,
     "language": "Python"
-  },
-  {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 4,
-    "forks": 0,
-    "language": "PowerShell"
   }
 ]
