@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
+    "pubDate": "Tue, 02 Dec 2025 12:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s1600/android-update.jpg"
+    },
+    "content": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
+    "contentSnippet": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
+    "guid": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
+    "isoDate": "2025-12-02T07:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
     "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
     "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530",
@@ -330,23 +347,6 @@
     "contentSnippet": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra",
     "guid": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
     "isoDate": "2025-11-27T15:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-    "pubDate": "Thu, 27 Nov 2025 20:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
-    },
-    "content": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-    "contentSnippet": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-    "guid": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-    "isoDate": "2025-11-27T14:59:00.000Z",
     "itunes": {}
   }
 ]
