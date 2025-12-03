@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
+    "link": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
+    "pubDate": "Wed, 03 Dec 2025 15:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg"
+    },
+    "content": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
+    "contentSnippet": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
+    "guid": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
+    "isoDate": "2025-12-03T09:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
+    "link": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
+    "pubDate": "Wed, 03 Dec 2025 14:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
+    "contentSnippet": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
+    "guid": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
+    "isoDate": "2025-12-03T08:39:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Stephen Clark, Ars Technica",
     "title": "Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing",
     "link": "https://www.wired.com/story/russia-icbm-crash-putin/",
@@ -310,39 +344,5 @@
     "guid": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
     "isoDate": "2025-12-01T05:07:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-    "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-    "pubDate": "Sun, 30 Nov 2025 14:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
-    "guid": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-    "isoDate": "2025-11-30T09:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "JP Aumasson, Lily Hay Newman",
-    "title": "The WIRED Guide to Digital Opsec for Teens",
-    "link": "https://www.wired.com/story/digital-opsec-for-teens/",
-    "pubDate": "Sat, 29 Nov 2025 12:00:00 +0000",
-    "dc:creator": "JP Aumasson, Lily Hay Newman",
-    "content": "Practicing good “operations security” is essential to staying safe online. Here's a complete guide for teenagers (and anyone else) who wants to button up their digital lives.",
-    "contentSnippet": "Practicing good “operations security” is essential to staying safe online. Here's a complete guide for teenagers (and anyone else) who wants to button up their digital lives.",
-    "guid": "6924a8efa8289fd9c7c4aa47",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security Advice"
-    ],
-    "isoDate": "2025-11-29T12:00:00.000Z"
   }
 ]
