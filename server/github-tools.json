@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7940,
+    "stars": 7941,
     "forks": 1089,
     "language": null
   },
@@ -765,15 +765,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Sec_Toolbelt",
     "owner": "bacon-GIT",
     "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "OSINT-TOOLS",
