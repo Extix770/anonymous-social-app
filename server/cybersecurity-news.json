@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Stephen Clark, Ars Technica",
+    "title": "Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing",
+    "link": "https://www.wired.com/story/russia-icbm-crash-putin/",
+    "pubDate": "Wed, 03 Dec 2025 00:00:00 +0000",
+    "dc:creator": "Stephen Clark, Ars Technica",
+    "content": "One of Vladimir Putin’s favorite sabers to rattle seems to have lost its edge.",
+    "contentSnippet": "One of Vladimir Putin’s favorite sabers to rattle seems to have lost its edge.",
+    "guid": "692f5bf661d170ea6d088041",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-03T00:00:00.000Z"
+  },
+  {
     "creator": "Maddy Varner",
     "title": "Your Data Might Determine How Much You Pay for Eggs",
     "link": "https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/",
@@ -328,23 +344,5 @@
       "Security / Security Advice"
     ],
     "isoDate": "2025-11-29T12:00:00.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach",
-    "link": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html",
-    "pubDate": "Fri, 28 Nov 2025 20:56:20 +0000",
-    "content:encoded": "<p>A meter-long flying neon squid (<i>Ommastrephes bartramii</i>) was <a href=\"https://www.timesofisrael.com/meter-long-squid-washes-up-on-northern-israeli-beach/\">found dead</a> on an Israeli beach. The species is rare in the Mediterranean.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "A meter-long flying neon squid (Ommastrephes bartramii) was found dead on an Israeli beach. The species is rare in the Mediterranean.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html#comments",
-    "content": "<p>A meter-long flying neon squid (<i>Ommastrephes bartramii</i>) was <a href=\"https://www.timesofisrael.com/meter-long-squid-washes-up-on-northern-israeli-beach/\">found dead</a> on an Israeli beach. The species is rare in the Mediterranean.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "A meter-long flying neon squid (Ommastrephes bartramii) was found dead on an Israeli beach. The species is rare in the Mediterranean.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71248",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2025-11-28T20:56:20.000Z"
   }
 ]
