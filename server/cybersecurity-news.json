@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+    "pubDate": "Wed, 03 Dec 2025 23:49:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg"
+    },
+    "content": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+    "contentSnippet": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+    "guid": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+    "isoDate": "2025-12-03T18:19:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
+    "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+    "pubDate": "Wed, 03 Dec 2025 23:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg"
+    },
+    "content": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
+    "contentSnippet": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
+    "guid": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+    "isoDate": "2025-12-03T17:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
     "link": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
     "pubDate": "Wed, 03 Dec 2025 23:16:36 +0530",
@@ -48,23 +82,6 @@
     "contentSnippet": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
     "guid": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
     "isoDate": "2025-12-03T15:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
-    "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-    "pubDate": "Wed, 03 Dec 2025 17:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg"
-    },
-    "content": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
-    "contentSnippet": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
-    "guid": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-    "isoDate": "2025-12-03T11:59:00.000Z",
     "itunes": {}
   },
   {
@@ -323,22 +340,5 @@
     "guid": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
     "isoDate": "2025-12-01T17:29:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Joseph Cox",
-    "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
-    "link": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
-    "pubDate": "Mon, 01 Dec 2025 14:00:00 +0000",
-    "dc:creator": "Joseph Cox",
-    "content": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage.",
-    "contentSnippet": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage.",
-    "guid": "6925d68fa68a747602c48e8a",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-01T14:00:00.000Z"
   }
 ]
