@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
+    "link": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+    "pubDate": "Wed, 03 Dec 2025 22:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg"
+    },
+    "content": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
+    "contentSnippet": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
+    "guid": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+    "isoDate": "2025-12-03T17:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
     "link": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
     "pubDate": "Wed, 03 Dec 2025 21:02:00 +0530",
@@ -10,8 +27,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg"
     },
-    "content": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate a worm that deploys a banking trojan via WhatsApp in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
-    "contentSnippet": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate a worm that deploys a banking trojan via WhatsApp in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
+    "content": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
+    "contentSnippet": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
     "guid": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
     "isoDate": "2025-12-03T15:32:00.000Z",
     "itunes": {}
@@ -327,22 +344,5 @@
       "VPN"
     ],
     "isoDate": "2025-12-01T12:59:47.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
-    "pubDate": "Mon, 01 Dec 2025 18:17:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq3E5v51_c0rVzjd3B8VALj_RAmWr8iM2Uy8icWvBKtPm85iW1D9oPIgVyRoNMU51ycVecBo6UBEsmOveLErPzL96cTiC-Av_jllbVpTLKqRHD6zSrim61Buwn50jxqU2I76e-MmqBTWQk9fvUH5n5y635QZ8JA-ZUNCB_O_vYy43CaF8WHgRXdfl7UAW/s1600/recap1.jpg"
-    },
-    "content": "Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.\nOne bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and",
-    "contentSnippet": "Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.\nOne bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and",
-    "guid": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
-    "isoDate": "2025-12-01T12:47:00.000Z",
-    "itunes": {}
   }
 ]
