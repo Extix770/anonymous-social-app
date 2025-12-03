@@ -603,15 +603,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "security-tools-hacking",
-    "owner": "AUX-441",
-    "url": "https://github.com/AUX-441/security-tools-hacking",
-    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
-    "stars": 7,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -619,6 +610,15 @@
     "stars": 7,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "security-tools-hacking",
+    "owner": "AUX-441",
+    "url": "https://github.com/AUX-441/security-tools-hacking",
+    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
+    "stars": 7,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "FuzzFindr-Web-Fuzzing-Tool",
@@ -684,6 +684,15 @@
     "language": "Python"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -693,13 +702,13 @@
     "language": "C"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "CyberSec-Toolkit",
@@ -715,15 +724,6 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -765,15 +765,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Sec_Toolbelt",
     "owner": "bacon-GIT",
     "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "OSINT-TOOLS",
