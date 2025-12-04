@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
+    "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+    "pubDate": "Thu, 04 Dec 2025 12:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uVFOoC-TzuWi5Bb4KrNtzUoUwXcRYquCvI_r7-6qu1622KSN6NMDm7YV17AdFd0FF7NIko4bfmivUTNFnBkvumQvYR5Qv0VX4AUVBIQb6jSEM0ARDcEpYw2DU53Ew8dx0zQjm1kfrlBoOlrBn2NWnc3oNeyEgyGC-1pEVkF5-8tmYU4gJIciT6sopGgX/s1600/massive-ddos-attack.jpg"
+    },
+    "content": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
+    "contentSnippet": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
+    "guid": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+    "isoDate": "2025-12-04T06:52:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
     "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
     "pubDate": "Wed, 03 Dec 2025 23:49:00 +0530",
@@ -322,23 +339,6 @@
     "contentSnippet": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,",
     "guid": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
     "isoDate": "2025-12-01T17:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
-    "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
-    "pubDate": "Mon, 01 Dec 2025 22:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKcr0fKdcaAiLI2df3VuAO4_N-LNwwcm7EwlF6Fc_Nhrdtc3rxujMv18inGk8B_5PwclH_eM7APWwFpdHYkm1RoKFuL9P_nFsR2Evmm80od17LBp3S6-veUG0R0rZwGbJOYfFsEDp7wWkFTR8mM97pkdLX-dphCfPj_vHYEKp4nZUzZ0Ijli_LfmBeyKAu/s1600/chrome-spyware.jpg"
-    },
-    "content": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These",
-    "contentSnippet": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These",
-    "guid": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
-    "isoDate": "2025-12-01T17:29:00.000Z",
     "itunes": {}
   }
 ]
