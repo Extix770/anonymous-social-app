@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
+    "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+    "pubDate": "Thu, 04 Dec 2025 14:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGcQU24FhOc1wko8l0tnt5dDp4T51lLr4nWnciANW8dt5IcWx6j-aj3JoRCtjs2PYSy8wjOjoeHPajxBtiEsq0rGgxcKkZwibmLjh2UXZNA07Fwf75-ArzM0Yyodf2RjHqx9rsKlQJhH5ewcXMM8srmlmIWHjbdvTnz4JGF3qNZ0p6jFOw1mapv2_6zlhG/s1600/banking-apps.jpg"
+    },
+    "content": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
+    "contentSnippet": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
+    "guid": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+    "isoDate": "2025-12-04T09:27:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
     "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
     "pubDate": "Thu, 04 Dec 2025 12:22:00 +0530",
@@ -322,23 +339,6 @@
     "contentSnippet": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
     "guid": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
     "isoDate": "2025-12-02T07:17:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
-    "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
-    "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7sPiutSMvrqIMK5SFFM4l-nBy7iKHGTuStvLuI7A31pMoQocvyQDRqoruAs2pj8twBB4dlbzAdVgBgvF-Whwp2SgpoKaCvTX4mMKQR8NkuXcNReYPCdNTz6f7c7FXTmwWesffx6s15M3lulZXgWsap-NnPWutvSalieTm-G7uDdZfyppBvaj5xyY-RQT/s1600/sanchar-saathi-app.jpg"
-    },
-    "content": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,",
-    "contentSnippet": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,",
-    "guid": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
-    "isoDate": "2025-12-01T17:55:00.000Z",
     "itunes": {}
   }
 ]
