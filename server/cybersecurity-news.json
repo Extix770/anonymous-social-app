@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
+    "link": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
+    "pubDate": "Thu, 04 Dec 2025 17:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
+    "contentSnippet": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
+    "guid": "682ccd19303b448066cf0368",
+    "categories": [
+      "The Big Story",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-12-04T17:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories",
     "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
@@ -319,23 +334,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
     "guid": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
     "isoDate": "2025-12-02T14:17:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
-    "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
-    "pubDate": "Tue, 02 Dec 2025 19:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmv3neSjAjCJrxaYBDFnfwhnBl3Q7UFBEmoYoz7mq3cUxBQ0I3VGsnSP8-YG2I11-ob50EHgLzH8jAndY6W5kgBje7MIHlizo_AhoGRZhUzarrHgyzfX9ptr2pFyd2etpcqcodWofe629NSYTi1T7PcZUxAdi7HX1BYaMT9xn4mf17E2iAoULqAJkvd3dA/s1600/iran-hacking.jpg"
-    },
-    "content": "Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper.\nThe activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango",
-    "contentSnippet": "Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper.\nThe activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango",
-    "guid": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
-    "isoDate": "2025-12-02T13:37:00.000Z",
     "itunes": {}
   }
 ]
