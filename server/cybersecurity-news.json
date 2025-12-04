@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1",
+    "link": "https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/",
+    "pubDate": "Thu, 04 Dec 2025 22:04:31 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Cloudflare CEO Matthew Prince claims the internet infrastructure company’s efforts to block AI crawlers are already seeing big results.",
+    "contentSnippet": "Cloudflare CEO Matthew Prince claims the internet infrastructure company’s efforts to block AI crawlers are already seeing big results.",
+    "guid": "691f88cb87a0d21cddc2ccb6",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-12-04T22:04:31.000Z"
+  },
+  {
     "creator": "Dell Cameron, David Gilbert",
     "title": "FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6",
     "link": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
@@ -317,23 +333,6 @@
     "contentSnippet": "India's Department of Telecommunications (DoT) has issued directions to app-based communication service providers to ensure that the platforms cannot be used without an active SIM card linked to the user's mobile number.\nTo that end, messaging apps like WhatsApp, Telegram, Snapchat, Arattai, Sharechat, Josh, JioChat, and Signal that use an Indian mobile number for uniquely identifying their",
     "guid": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
     "isoDate": "2025-12-02T17:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
-    "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
-    "pubDate": "Tue, 02 Dec 2025 20:32:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI7iqT0Bhea1lAfLcWDV9wdSMUF0e52uuWuaAYhgPboMKaSB_lC85jky5JWFRVCNc9X82mFfqDT8WeB0d9J2WCe6jM6fVswAMJZytpPlTVcvBOzRLAosqZV8ld6QTAEz4LedSA_x3J9jqigF7Di_tF-utWG7jQbVdy_eCjkVeeTMYMCX_AHWL1UhrOEkY/s1600/korean.jpg"
-    },
-    "content": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed",
-    "contentSnippet": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed",
-    "guid": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
-    "isoDate": "2025-12-02T15:02:00.000Z",
     "itunes": {}
   }
 ]
