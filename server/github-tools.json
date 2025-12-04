@@ -5,7 +5,7 @@
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "stars": 7942,
-    "forks": 1092,
+    "forks": 1091,
     "language": null
   },
   {
@@ -14,7 +14,7 @@
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
     "stars": 7238,
-    "forks": 830,
+    "forks": 829,
     "language": "HTML"
   },
   {
@@ -23,7 +23,7 @@
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
     "stars": 2292,
-    "forks": 348,
+    "forks": 347,
     "language": null
   },
   {
@@ -32,7 +32,7 @@
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
     "stars": 1291,
-    "forks": 144,
+    "forks": 143,
     "language": null
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
     "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
     "stars": 748,
-    "forks": 130,
+    "forks": 129,
     "language": null
   },
   {
@@ -59,7 +59,7 @@
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
     "stars": 717,
-    "forks": 69,
+    "forks": 68,
     "language": null
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
     "stars": 149,
-    "forks": 16,
+    "forks": 15,
     "language": null
   },
   {
@@ -455,7 +455,7 @@
     "url": "https://github.com/Rahulgarg2206/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 12,
-    "forks": 2,
+    "forks": 1,
     "language": null
   },
   {
