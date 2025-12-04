@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Dell Cameron, David Gilbert",
+    "title": "FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After Jan. 6",
+    "link": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
+    "pubDate": "Thu, 04 Dec 2025 19:42:18 +0000",
+    "dc:creator": "Dell Cameron, David Gilbert",
+    "content": "The 30-year-old Virginia resident evaded capture for years after authorities discovered pipe bombs planted near buildings in Washington, DC, the day before the January 6, 2021 Capitol attack.",
+    "contentSnippet": "The 30-year-old Virginia resident evaded capture for years after authorities discovered pipe bombs planted near buildings in Washington, DC, the day before the January 6, 2021 Capitol attack.",
+    "guid": "6931b1b388e958488fbb263d",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2025-12-04T19:42:18.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
     "link": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
@@ -317,23 +334,6 @@
     "contentSnippet": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed",
     "guid": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
     "isoDate": "2025-12-02T15:02:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
-    "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
-    "pubDate": "Tue, 02 Dec 2025 20:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2togvMtptRUBClEk7aVrpK5mEsCqxdPbcfpQ0aczPMOBE-apKuQvTp-wxJpmSI5n7rh1z6jBb0CeMnt1APf5X_yfVrRIJ_Ix0fc1KBJ5HI7LHhZhTLsAsukNnM6KZaWakvD3X5cxIZgagaIKVltnozAVWGDBz48ARBwUwj9ODV7KRa9j4ZaOWdzHmF69U/s1600/hacked.jpg"
-    },
-    "content": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
-    "contentSnippet": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
-    "guid": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
-    "isoDate": "2025-12-02T15:01:00.000Z",
     "itunes": {}
   }
 ]
