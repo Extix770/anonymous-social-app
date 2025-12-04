@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
+    "link": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
+    "pubDate": "Thu, 04 Dec 2025 22:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOGRDm-2Em-PIUKEQzdon3yjLDInkZdDnDzgWKhQ0q6QmtDagHyiGNa2KRwJsUQEPnqLnfkTdHKiGyBIx3S4RiVlZ7Y4RlSn-rRbKF9SkZFEWf-6sYNMA3NE6-0DxziItdI81lLne3G63Gy5Pmdy9dd9W9CDS7lou5SwO0GvhzzV02F61MvGeanfeQBhri/s1600/msteams.jpg"
+    },
+    "content": "The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimization (SEO) poisoning campaign leverages Microsoft Teams lures to trick unsuspecting users into downloading a malicious setup file that leads to the deployment of ValleyRAT (Winos 4.0), a known malware",
+    "contentSnippet": "The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimization (SEO) poisoning campaign leverages Microsoft Teams lures to trick unsuspecting users into downloading a malicious setup file that leads to the deployment of ValleyRAT (Winos 4.0), a known malware",
+    "guid": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
+    "isoDate": "2025-12-04T17:25:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
     "link": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
@@ -317,23 +334,6 @@
     "contentSnippet": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
     "guid": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
     "isoDate": "2025-12-02T15:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
-    "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
-    "pubDate": "Tue, 02 Dec 2025 19:47:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHabnhsQfG5UWJxvjr_CamwUUNzSMserMPut6dCPHREQa15ZWQKOerf9z7kb1N5sF1d8Zco2cQXERN2SX2mxyVJdv7GFBQ1EVqghjYSApOuu9vZcjLaDnM0HkvkN9dtSTOpn5sERm1ykhFGPWk2vzlEioWpXAZiLJFaNyopN6JFdLHml-516yPUh0f5VPp/s1600/npm-mal.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
-    "guid": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
-    "isoDate": "2025-12-02T14:17:00.000Z",
     "itunes": {}
   }
 ]
