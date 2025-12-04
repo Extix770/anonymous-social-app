@@ -1,6 +1,41 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "5 Threats That Reshaped Web Security This Year [2025]",
+    "link": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+    "pubDate": "Thu, 04 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ51hMVtHfFQ2O7pCZYfK5WkypXg1Qury_AA_VudY5f_n7u8S8M4UJAy76w7DM1aBq1faDyuaOO4VJP7bIj1L1-AgNzZjQf0-kZlhU6kH-G4qDMkZFF_7YsL3v5R6d9PkpJcTegD7H01BySWNNs-m5toA_DTqVSVs-sCeLm5n1zJuLzs1_erWdl8asq4k/s1600/reflectiz.jpg"
+    },
+    "content": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies.\nHere are the five threats that reshaped web security this year, and",
+    "contentSnippet": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies.\nHere are the five threats that reshaped web security this year, and",
+    "guid": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+    "isoDate": "2025-12-04T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Caroline Haskins",
+    "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
+    "link": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
+    "pubDate": "Thu, 04 Dec 2025 11:30:00 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "Louisiana’s hunting and wildlife authority is one of more than 1,000 state and local agencies that have partnered with US immigration authorities this year alone.",
+    "contentSnippet": "Louisiana’s hunting and wildlife authority is one of more than 1,000 state and local agencies that have partnered with US immigration authorities this year alone.",
+    "guid": "692dd4f3854fb9c6a4fd7a7f",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Science / Environment",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-12-04T11:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
     "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
     "pubDate": "Thu, 04 Dec 2025 14:57:00 +0530",
@@ -306,39 +341,5 @@
       "social media"
     ],
     "isoDate": "2025-12-02T12:03:01.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
-    "link": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
-    "pubDate": "Tue, 02 Dec 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpI7vVjgeJCTKjXbLZ6lfU0PoAuktjJT2aJh1WzS64x1_1Kj-E-9pLg3ct_4pz9iP4PMlQMwyVv9LuqlCXacECrAADinGfYHTGf5QcnU4IGygdhrqAJAMJfFDghUPG7DOnJfuKUM4ekDT59bDSOFPrvlvUv3YwXmRz5M5HKKaUFE6o-4rSy3FkzzmQyac/s1600/SecAlerts.jpg"
-    },
-    "content": "Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and keeping track of all the vulnerability alerts, notifications, and updates can be a burden on resources and often leads to missed vulnerabilities.&nbsp;\nTaking into account that nearly 10% of",
-    "contentSnippet": "Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and keeping track of all the vulnerability alerts, notifications, and updates can be a burden on resources and often leads to missed vulnerabilities. \nTaking into account that nearly 10% of",
-    "guid": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
-    "isoDate": "2025-12-02T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
-    "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
-    "pubDate": "Tue, 02 Dec 2025 12:47:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s1600/android-update.jpg"
-    },
-    "content": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
-    "contentSnippet": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
-    "guid": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
-    "isoDate": "2025-12-02T07:17:00.000Z",
-    "itunes": {}
   }
 ]
