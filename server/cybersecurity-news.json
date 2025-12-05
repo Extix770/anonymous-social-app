@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
+    "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
+    "pubDate": "Fri, 05 Dec 2025 17:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPRcWJr-rlmJf8CDeJyjjWDK0YGkFZog6zanboH4B8IfnqDW73KKktXhadTp3RRbaUTfAPYeYN_m84SaCKpHuT2p_7niwPrq6ztJaQ-PT2IepKdvcRR0Us8v8pwY0Z8jlxZ8djFCJ8VdVE0zikpPILdj_y6AO4mSlNdxZUvRuQcWbPamCP2q34y5IJf-Q3/s1600/spyware-malware.jpg"
+    },
+    "content": "A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted by Intellexa's Predator spyware, Amnesty International said in a report.\nThe link, the non-profit organization said, is a \"Predator attack attempt based on the technical behaviour of the infection",
+    "contentSnippet": "A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted by Intellexa's Predator spyware, Amnesty International said in a report.\nThe link, the non-profit organization said, is a \"Predator attack attempt based on the technical behaviour of the infection",
+    "guid": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
+    "isoDate": "2025-12-05T11:47:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs",
+    "link": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
+    "pubDate": "Fri, 05 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcO2jopbnwmh4c-ifuKr1GgTWOIEiOSZ2r1_2mke-3-3b52sRbxFwXV4S7TBtfZEUZ1hWRbMPnh5YD-CQezVz-QNKMSw6WpF_1zqFF-5Li4bBeWdu6O68_HpYT3GbI7QtvH48gqKS5y5JrQ7OjCl42wTHmpuRBGY6znxz0puQ3K9xJYsXcpOLSn2_74Lc/s1600/cynomi.jpg"
+    },
+    "content": "Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired of fear-based messaging.\nThat’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This guide helps service providers transform resistance into trust and",
+    "contentSnippet": "Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired of fear-based messaging.\nThat’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This guide helps service providers transform resistance into trust and",
+    "guid": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
+    "isoDate": "2025-12-05T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
     "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
@@ -41,7 +75,7 @@
     "content:encoded": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
     "content:encodedSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html#comments",
     "content": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
     "contentSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
     "guid": "https://www.schneier.com/?p=71270",
@@ -310,40 +344,6 @@
     "contentSnippet": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote",
     "guid": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
     "isoDate": "2025-12-03T17:46:36.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
-    "link": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
-    "pubDate": "Wed, 03 Dec 2025 22:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg"
-    },
-    "content": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
-    "contentSnippet": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
-    "guid": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
-    "isoDate": "2025-12-03T17:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
-    "link": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
-    "pubDate": "Wed, 03 Dec 2025 21:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg"
-    },
-    "content": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
-    "contentSnippet": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
-    "guid": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
-    "isoDate": "2025-12-03T15:32:00.000Z",
     "itunes": {}
   }
 ]
