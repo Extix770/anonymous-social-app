@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails",
+    "link": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
+    "pubDate": "Fri, 05 Dec 2025 23:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj013piwG0slLwLLZAd7zxcwZR9zCdbwpzxYgIyQ3Ci3g9i9_T8vuN6Plb6Xc3wb8SWOAj1mNDLeOYTaIZ_5gUx3csIID98Mw2oYn0tg8KSZ2LLz8NxaBhksTSB41QqOomsmwt2X9JY1EpCPVRz1qXSn4yLdF0VFeOyCBNstcmI1ZtyOUg-wqEEbNfEsfsL/s1600/ai-browser.jpg"
+    },
+    "content": "A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents, findings from Straiker STAR Labs show.\nThe zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them",
+    "contentSnippet": "A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents, findings from Straiker STAR Labs show.\nThe zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them",
+    "guid": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
+    "isoDate": "2025-12-05T17:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch",
     "link": "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html",
     "pubDate": "Fri, 05 Dec 2025 21:53:00 +0530",
@@ -331,23 +348,6 @@
     "contentSnippet": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
     "guid": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
     "isoDate": "2025-12-04T06:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-    "pubDate": "Wed, 03 Dec 2025 23:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg"
-    },
-    "content": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
-    "contentSnippet": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
-    "guid": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-    "isoDate": "2025-12-03T18:19:00.000Z",
     "itunes": {}
   }
 ]
