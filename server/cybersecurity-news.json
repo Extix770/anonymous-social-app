@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "New Anonymous Phone Service",
+    "link": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html",
+    "pubDate": "Fri, 05 Dec 2025 08:08:21 +0000",
+    "content:encoded": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
+    "content:encodedSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html#respond",
+    "content": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
+    "contentSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
+    "guid": "https://www.schneier.com/?p=71270",
+    "categories": [
+      "Uncategorized"
+    ],
+    "isoDate": "2025-12-05T08:08:21.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways",
     "link": "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html",
@@ -327,23 +344,6 @@
     "contentSnippet": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
     "guid": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
     "isoDate": "2025-12-03T09:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
-    "link": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
-    "pubDate": "Wed, 03 Dec 2025 14:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
-    "contentSnippet": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
-    "guid": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
-    "isoDate": "2025-12-03T08:39:00.000Z",
     "itunes": {}
   }
 ]
