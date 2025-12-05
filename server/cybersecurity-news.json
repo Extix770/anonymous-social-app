@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+    "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+    "pubDate": "Fri, 05 Dec 2025 19:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGZGO0_jakOaCSssV2crSecm7odx1bUOTqtH1Z1k96_-HkFpjQA3TTjuMIDHiGEHV_xcPfwzcRyUaPsEclLOa7fVfVu3Z2h__gR0w1rzKGBoAGGXOXFZu0q1a-mFTP-RRjbGqOg89tnq66ErYqfLUh1TgWkG2WSzkXpOnbP-D9hOAm5x6e0cYz6phoGa8/s1600/React2Shell.jpg"
+    },
+    "content": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.\nAccording",
+    "contentSnippet": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.\nAccording",
+    "guid": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+    "isoDate": "2025-12-05T14:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
     "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
     "pubDate": "Fri, 05 Dec 2025 17:17:00 +0530",
@@ -327,23 +344,6 @@
     "contentSnippet": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
     "guid": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
     "isoDate": "2025-12-03T17:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
-    "link": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-    "pubDate": "Wed, 03 Dec 2025 23:16:36 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg"
-    },
-    "content": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote",
-    "contentSnippet": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote",
-    "guid": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-    "isoDate": "2025-12-03T17:46:36.000Z",
     "itunes": {}
   }
 ]
