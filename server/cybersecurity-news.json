@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
+    "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
+    "pubDate": "Fri, 05 Dec 2025 11:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
+    "contentSnippet": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
+    "guid": "692f18581f32b6e017d94947",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2025-12-05T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems",
     "link": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
@@ -327,23 +344,6 @@
     "contentSnippet": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
     "guid": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
     "isoDate": "2025-12-03T15:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage",
-    "link": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
-    "pubDate": "Wed, 03 Dec 2025 15:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png"
-    },
-    "content": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
-    "contentSnippet": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
-    "guid": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
-    "isoDate": "2025-12-03T09:56:00.000Z",
     "itunes": {}
   }
 ]
