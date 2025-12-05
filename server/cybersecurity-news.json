@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems",
+    "link": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
+    "pubDate": "Fri, 05 Dec 2025 13:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s1600/chinese-hackers.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's Republic of China (PRC) to maintain long-term persistence on compromised systems.\n\"BRICKSTORM is a sophisticated backdoor for VMware vSphere and Windows environments,\" the agency said. \"",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's Republic of China (PRC) to maintain long-term persistence on compromised systems.\n\"BRICKSTORM is a sophisticated backdoor for VMware vSphere and Windows environments,\" the agency said. \"",
+    "guid": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
+    "isoDate": "2025-12-05T08:14:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "New Anonymous Phone Service",
     "link": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html",
@@ -327,23 +344,6 @@
     "contentSnippet": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
     "guid": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
     "isoDate": "2025-12-03T09:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
-    "link": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
-    "pubDate": "Wed, 03 Dec 2025 15:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg"
-    },
-    "content": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
-    "contentSnippet": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
-    "guid": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
-    "isoDate": "2025-12-03T09:30:00.000Z",
     "itunes": {}
   }
 ]
