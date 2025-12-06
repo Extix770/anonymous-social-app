@@ -603,15 +603,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 7,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "AUX-441",
     "url": "https://github.com/AUX-441/security-tools-hacking",
@@ -619,6 +610,15 @@
     "stars": 7,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 7,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "FuzzFindr-Web-Fuzzing-Tool",
@@ -702,21 +702,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -765,21 +765,21 @@
     "language": "Python"
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
     "description": "Tools for National Cyber League Competition",
     "stars": 5,
     "forks": 1,
+    "language": null
+  },
+  {
+    "name": "OSINT-TOOLS",
+    "owner": "ruzgarcyber",
+    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "description": "OSINT(Open-Source Intelligence) araçları. ",
+    "stars": 5,
+    "forks": 0,
     "language": null
   },
   {
@@ -828,15 +828,6 @@
     "language": "Python"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -844,6 +835,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Tooli",
@@ -862,15 +862,6 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
-  },
-  {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "PerlCodingToolkit",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   }
 ]
