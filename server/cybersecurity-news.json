@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
+    "link": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
+    "pubDate": "Sat, 06 Dec 2025 17:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remote code execution that could be triggered by an",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remote code execution that could be triggered by an",
+    "guid": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
+    "isoDate": "2025-12-06T11:40:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
     "link": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
@@ -333,23 +350,5 @@
     "guid": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
     "isoDate": "2025-12-04T11:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
-    "link": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
-    "pubDate": "Thu, 04 Dec 2025 11:30:00 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "Louisiana’s hunting and wildlife authority is one of more than 1,000 state and local agencies that have partnered with US immigration authorities this year alone.",
-    "contentSnippet": "Louisiana’s hunting and wildlife authority is one of more than 1,000 state and local agencies that have partnered with US immigration authorities this year alone.",
-    "guid": "692dd4f3854fb9c6a4fd7a7f",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Science / Environment",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-12-04T11:30:00.000Z"
   }
 ]
