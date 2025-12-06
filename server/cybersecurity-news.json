@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
+    "link": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+    "pubDate": "Sat, 06 Dec 2025 11:30:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "Plus: The Trump administration declines to issue sanctions over Salt Typhoon’s hacking spree, officials warn of a disturbingly stealthy Chinese malware specimen, and more.",
+    "contentSnippet": "Plus: The Trump administration declines to issue sanctions over Salt Typhoon’s hacking spree, officials warn of a disturbingly stealthy Chinese malware specimen, and more.",
+    "guid": "69331eb4b4f8adc609f6b38b",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-06T11:30:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Vampire Squid Genome",
     "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html",
@@ -333,22 +351,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2025-12-04T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
-    "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
-    "pubDate": "Thu, 04 Dec 2025 14:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGcQU24FhOc1wko8l0tnt5dDp4T51lLr4nWnciANW8dt5IcWx6j-aj3JoRCtjs2PYSy8wjOjoeHPajxBtiEsq0rGgxcKkZwibmLjh2UXZNA07Fwf75-ArzM0Yyodf2RjHqx9rsKlQJhH5ewcXMM8srmlmIWHjbdvTnz4JGF3qNZ0p6jFOw1mapv2_6zlhG/s1600/banking-apps.jpg"
-    },
-    "content": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
-    "contentSnippet": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
-    "guid": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
-    "isoDate": "2025-12-04T09:27:00.000Z",
-    "itunes": {}
   }
 ]
