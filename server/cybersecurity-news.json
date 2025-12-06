@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
+    "link": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
+    "pubDate": "Sat, 06 Dec 2025 20:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOpPc8ucnigXsFagXjVCnBwywXC-OOemw_QXXkGAPjAa1YKv0ViLZEPg0AtaGss65NKfl2M7gR9XwjgbFHgxPliOMkLEJ14VEXyLuuqwvqkH0Hj4aCDGKBbRtKuX3j3hmHCD05EKU1K74YgR8m4TdZu2_CZ_cqnWLZRmuvitlyjUW6wE2suxA8Y8oHGNY/s1600/ai-coding.jpg"
+    },
+    "content": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution.\nThe security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular",
+    "contentSnippet": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution.\nThe security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular",
+    "guid": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
+    "isoDate": "2025-12-06T15:24:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
     "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
@@ -354,22 +371,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-12-04T17:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories",
-    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
-    "pubDate": "Thu, 04 Dec 2025 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPB5s5jqQGNVSaQcxQlSLETTs6zenKql9P7pFg_oYPK6QrwxlV8op0hOIcKgPr_A6tUOk6MXQrrsMaiOat6BnC_5j59Zkdj3pX24xsyVwXBWgkm2oSPV-G5rkUQlQBbhZLEwHbLR9XhpTBnBeq9joxUXSnfRmXDA-6NRapquU-5VulbzhGZNfMMrIzy3ms/s1600/threatsdayd-dec.jpg"
-    },
-    "content": "Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsmart each other.\nHere’s a quick rundown of the latest cyber stories that show how fast the game keeps changing.\n\n\n\n\n\n\n\n  \n  \n    DeFi exploit drains funds\n    \n      Critical yETH Exploit Used to Steal $9M",
-    "contentSnippet": "Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsmart each other.\nHere’s a quick rundown of the latest cyber stories that show how fast the game keeps changing.\n\n\n\n\n\n\n\n  \n  \n    DeFi exploit drains funds\n    \n      Critical yETH Exploit Used to Steal $9M",
-    "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
-    "isoDate": "2025-12-04T11:58:00.000Z",
-    "itunes": {}
   }
 ]
