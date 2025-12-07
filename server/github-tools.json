@@ -189,6 +189,15 @@
     "language": "Python"
   },
   {
+    "name": "google-dorks-toolkit",
+    "owner": "SalehLardhi",
+    "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
+    "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
+    "stars": 55,
+    "forks": 6,
+    "language": "Python"
+  },
+  {
     "name": "Social-Engineering-Tools",
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Social-Engineering-Tools",
@@ -205,15 +214,6 @@
     "stars": 55,
     "forks": 5,
     "language": null
-  },
-  {
-    "name": "google-dorks-toolkit",
-    "owner": "SalehLardhi",
-    "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
-    "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
-    "stars": 54,
-    "forks": 6,
-    "language": "Python"
   },
   {
     "name": "OPSEC-OSINT-Tools",
