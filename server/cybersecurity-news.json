@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
+    "link": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
+    "pubDate": "Mon, 08 Dec 2025 12:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYXNboyf2GnxrecT0sKYR0MhunHsxtjogBIhtsNVobnT6Y5JxVFfrYcy4cGoABHSNBKDJTe4fEbi3I9uJ7Rl_HNToAsi6MiMLq53MreR2Eo25VrjlEIxyFz7wbmA2ZXkP-xkTlsEmtA5MTFl1sf_zMOoACofqqbq5pqDA4R0ssFb8b6sEmmaHDoGJ7pEvS/s1600/cyberattack.jpg"
+    },
+    "content": "The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs.\n\"This malware enables remote control of compromised systems by allowing",
+    "contentSnippet": "The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs.\n\"This malware enables remote control of compromised systems by allowing",
+    "guid": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
+    "isoDate": "2025-12-08T06:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
     "link": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
     "pubDate": "Sat, 06 Dec 2025 20:54:00 +0530",
@@ -358,20 +375,5 @@
     "guid": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
     "isoDate": "2025-12-04T17:25:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
-    "link": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
-    "pubDate": "Thu, 04 Dec 2025 17:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
-    "contentSnippet": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
-    "guid": "682ccd19303b448066cf0368",
-    "categories": [
-      "The Big Story",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-12-04T17:00:00.000Z"
   }
 ]
