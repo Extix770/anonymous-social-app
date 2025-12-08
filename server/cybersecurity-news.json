@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
+    "link": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
+    "pubDate": "Mon, 08 Dec 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZELdaHTFQVkYr0Kyc_yx3kw6Nv6koGQwFisUkrKbPwk3IqNSmbz1ozCRktQ5xW1Ou1b5ZxjjVWcAF8rahSu23xn9UboPllWofT7elGGF6hZCZHzLpBWlXdH2fLpcTRfouUSR66iBFqHdkiu5WMdD5dLD7lyeP0y8zBUVXxXEBkPC8Jz2YVwEuvAiWGbMF/s1600/android-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of two new Android malware families dubbed FvncBot and SeedSnatcher, as another upgraded version of ClayRat has been spotted in the wild.\nThe findings come from Intel 471, CYFIRMA, and Zimperium, respectively.\nFvncBot, which masquerades as a security app developed by mBank, targets mobile banking users in Poland. What's notable about the malware",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of two new Android malware families dubbed FvncBot and SeedSnatcher, as another upgraded version of ClayRat has been spotted in the wild.\nThe findings come from Intel 471, CYFIRMA, and Zimperium, respectively.\nFvncBot, which masquerades as a security app developed by mBank, targets mobile banking users in Poland. What's notable about the malware",
+    "guid": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
+    "isoDate": "2025-12-08T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
     "link": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
     "pubDate": "Mon, 08 Dec 2025 14:45:00 +0530",
@@ -358,22 +375,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-12-04T22:04:31.000Z"
-  },
-  {
-    "creator": "Dell Cameron, David Gilbert",
-    "title": "FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6",
-    "link": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
-    "pubDate": "Thu, 04 Dec 2025 19:42:18 +0000",
-    "dc:creator": "Dell Cameron, David Gilbert",
-    "content": "The 30-year-old Virginia resident evaded capture for years after authorities discovered pipe bombs planted near buildings in Washington, DC, the day before the January 6, 2021, Capitol attack.",
-    "contentSnippet": "The 30-year-old Virginia resident evaded capture for years after authorities discovered pipe bombs planted near buildings in Washington, DC, the day before the January 6, 2021, Capitol attack.",
-    "guid": "6931b1b388e958488fbb263d",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-12-04T19:42:18.000Z"
   }
 ]
