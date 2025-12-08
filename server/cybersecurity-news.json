@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Substitution Cipher Based on The Voynich Manuscript",
+    "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
+    "pubDate": "Mon, 08 Dec 2025 12:04:11 +0000",
+    "content:encoded": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.</p></blockquote>\n",
+    "content:encodedSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html#respond",
+    "content": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...</p></blockquote>",
+    "contentSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...",
+    "guid": "https://www.schneier.com/?p=71287",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "encryption",
+      "history of cryptography"
+    ],
+    "isoDate": "2025-12-08T12:04:11.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
     "link": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
@@ -359,21 +379,5 @@
       "urlscan.io"
     ],
     "isoDate": "2025-12-04T23:02:34.000Z"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1",
-    "link": "https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/",
-    "pubDate": "Thu, 04 Dec 2025 22:04:31 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Cloudflare CEO Matthew Prince claims the internet infrastructure company’s efforts to block AI crawlers are already seeing big results.",
-    "contentSnippet": "Cloudflare CEO Matthew Prince claims the internet infrastructure company’s efforts to block AI crawlers are already seeing big results.",
-    "guid": "691f88cb87a0d21cddc2ccb6",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-12-04T22:04:31.000Z"
   }
 ]
