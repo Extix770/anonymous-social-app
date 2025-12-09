@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+    "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+    "pubDate": "Tue, 09 Dec 2025 23:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2xn4WZGj7Hz0ytsNA_HTCauNnazfL5nrJbU04wGz3hruY26ILPYM06s8_XfRqyXUCTSgIlOyQAoqKzXfCkcptNiFkCgY3qlSaCXN6msd3niU0PzzHMstagrXTIl6vMwQJiBjVGLO6oMnsT2dDvSmYr5Irx5o3FUIfxmO_pRip-bQgFVIy6Awjek_wmD9_/s1600/northkorea.jpg"
+    },
+    "content": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+    "contentSnippet": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+    "guid": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+    "isoDate": "2025-12-09T18:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
     "link": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
     "pubDate": "Tue, 09 Dec 2025 21:31:00 +0530",
@@ -352,22 +369,5 @@
       "squid"
     ],
     "isoDate": "2025-12-05T22:06:14.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails",
-    "link": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
-    "pubDate": "Fri, 05 Dec 2025 23:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj013piwG0slLwLLZAd7zxcwZR9zCdbwpzxYgIyQ3Ci3g9i9_T8vuN6Plb6Xc3wb8SWOAj1mNDLeOYTaIZ_5gUx3csIID98Mw2oYn0tg8KSZ2LLz8NxaBhksTSB41QqOomsmwt2X9JY1EpCPVRz1qXSn4yLdF0VFeOyCBNstcmI1ZtyOUg-wqEEbNfEsfsL/s1600/ai-browser.jpg"
-    },
-    "content": "A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents, findings from Straiker STAR Labs show.\nThe zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them",
-    "contentSnippet": "A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents, findings from Straiker STAR Labs show.\nThe zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them",
-    "guid": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
-    "isoDate": "2025-12-05T17:53:00.000Z",
-    "itunes": {}
   }
 ]
