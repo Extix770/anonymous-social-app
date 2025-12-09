@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
+    "link": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
+    "pubDate": "Tue, 09 Dec 2025 13:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8tVeCj4jvHcVJWmXP6jxvW38aUyE_3XFLbB_0g-DluSuxqf0PN5g9TIWTsiAeeBYm99_RsY9Bi_lpQnOZWtfECGdtKZ36-0oVSNHgjwWIAia6bo_3_oFdMkMLWbyu7MknPOkBQ_vafKrLGCQEfbyh66vg7bIhFAUgZ9eaz_-IQSmR0uc-wqr71aDa5zD/s1600/software-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
+    "contentSnippet": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
+    "guid": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
+    "isoDate": "2025-12-09T08:07:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
     "link": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
     "pubDate": "Mon, 08 Dec 2025 23:07:00 +0530",
@@ -349,26 +366,5 @@
     "guid": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
     "isoDate": "2025-12-05T08:14:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "New Anonymous Phone Service",
-    "link": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html",
-    "pubDate": "Fri, 05 Dec 2025 08:08:21 +0000",
-    "content:encoded": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
-    "content:encodedSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html#comments",
-    "content": "<p>A new <a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">anonymous phone service</a> allows you to sign up with just a zip code.</p>\n",
-    "contentSnippet": "A new anonymous phone service allows you to sign up with just a zip code.",
-    "guid": "https://www.schneier.com/?p=71270",
-    "categories": [
-      "Uncategorized",
-      "cell phones",
-      "encryption",
-      "privacy",
-      "surveillance"
-    ],
-    "isoDate": "2025-12-05T08:08:21.000Z"
   }
 ]
