@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
+    "link": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+    "pubDate": "Tue, 09 Dec 2025 19:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixBoX8Y_4rL0Vkj6ibnS6h71Grbik0y4PIQVzLfAbqQPi5Ll8mmgg8pMunKvbZq6hJOX1QHmr5r26EwYkgXl7uSFNmMFVgtBYnv45zgwUuTKu25OQJtFKHgvovBnfVf2O6j9FOjYonoc6aFEaWLhnVW65D3RC2XRIWgPrGQwC3Kzr50v43QxYOpQx6Tx1c/s1600/ransomware-attack.jpg"
+    },
+    "content": "The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless PowerShell execution to facilitate ransomware attacks.\n\"These methods allow them to bypass defenses, infiltrate networks, maintain persistence, and operate undetected, raising serious concerns for",
+    "contentSnippet": "The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless PowerShell execution to facilitate ransomware attacks.\n\"These methods allow them to bypass defenses, infiltrate networks, maintain persistence, and operate undetected, raising serious concerns for",
+    "guid": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+    "isoDate": "2025-12-09T13:37:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI vs. Human Drivers",
     "link": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html",
@@ -351,23 +368,6 @@
     "contentSnippet": "A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.\nThe vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS scoring scale, indicating maximum severity.\n\"Critical XXE in Apache Tika tika-core (1.13-3.2.1), tika-pdf-module (2.0.0-3.2.1) and tika-parsers (1.13-1.28.5) modules on all platforms allows an",
     "guid": "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html",
     "isoDate": "2025-12-05T16:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
-    "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
-    "pubDate": "Fri, 05 Dec 2025 19:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGZGO0_jakOaCSssV2crSecm7odx1bUOTqtH1Z1k96_-HkFpjQA3TTjuMIDHiGEHV_xcPfwzcRyUaPsEclLOa7fVfVu3Z2h__gR0w1rzKGBoAGGXOXFZu0q1a-mFTP-RRjbGqOg89tnq66ErYqfLUh1TgWkG2WSzkXpOnbP-D9hOAm5x6e0cYz6phoGa8/s1600/React2Shell.jpg"
-    },
-    "content": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.\nAccording",
-    "contentSnippet": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.\nAccording",
-    "guid": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
-    "isoDate": "2025-12-05T14:10:00.000Z",
     "itunes": {}
   }
 ]
