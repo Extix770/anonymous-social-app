@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware",
+    "link": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
+    "pubDate": "Tue, 09 Dec 2025 15:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphpAuB7upf9tTuLU23nSlTYUqCjWgSf4MeO2-6_3Ktq-AqmWskEd31kIUG0A0YPzS5vJS-PjURT9Zhqen4IK_yVdMhI21GIPXXjGfAuT2JAbP29DAN1hUDhMv42hqAvCEoCv6hL0xbvY9V9DltewHFuH7XxhH4fWR_c8cmelUSv9LgkA4hFmniQ0ZhZ1N/s1600/ransomware.jpg"
+    },
+    "content": "Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.\nCybersecurity company Sophos said it investigated almost 40 intrusions linked to the threat actor between February 2024 and August 2025. The campaign is assessed with high confidence to share overlaps with a hacking group known as Gold Blade, which is also",
+    "contentSnippet": "Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.\nCybersecurity company Sophos said it investigated almost 40 intrusions linked to the threat actor between February 2024 and August 2025. The campaign is assessed with high confidence to share overlaps with a hacking group known as Gold Blade, which is also",
+    "guid": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
+    "isoDate": "2025-12-09T09:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
     "link": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
     "pubDate": "Tue, 09 Dec 2025 13:37:00 +0530",
@@ -349,22 +366,5 @@
       "Business / Artificial Intelligence"
     ],
     "isoDate": "2025-12-05T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems",
-    "link": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
-    "pubDate": "Fri, 05 Dec 2025 13:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s1600/chinese-hackers.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's Republic of China (PRC) to maintain long-term persistence on compromised systems.\n\"BRICKSTORM is a sophisticated backdoor for VMware vSphere and Windows environments,\" the agency said. \"",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's Republic of China (PRC) to maintain long-term persistence on compromised systems.\n\"BRICKSTORM is a sophisticated backdoor for VMware vSphere and Windows environments,\" the agency said. \"",
-    "guid": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
-    "isoDate": "2025-12-05T08:14:00.000Z",
-    "itunes": {}
   }
 ]
