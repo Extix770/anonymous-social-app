@@ -1,5 +1,59 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "AI vs. Human Drivers",
+    "link": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html",
+    "pubDate": "Tue, 09 Dec 2025 12:07:53 +0000",
+    "content:encoded": "<p>Two competing arguments are making the rounds. The first is by a neurosurgeon in the <i>New York Times</i>. In <a href=\"https://archive.is/YDBDz\">an op-ed</a> that honestly sounds like it was paid for by Waymo, the author calls driverless cars a &#8220;public health breakthrough&#8221;:</p>\n<blockquote><p>In medical research, there’s a practice of ending a study early when the results are too striking to ignore. We stop when there is unexpected harm. We also stop for overwhelming benefit, when a treatment is working so well that it would be unethical to continue giving anyone a placebo. When an intervention works this clearly, you change what you do.</p>\n<p>There’s a public health imperative to quickly expand the adoption of autonomous vehicles. More than <a href=\"https://www.nhtsa.gov/press-releases/nhtsa-estimates-39345-traffic-fatalities-2024\">39,000 Americans died</a> in motor vehicle crashes last year, more than homicide, plane crashes and natural disasters combined. Crashes are the No. 2 cause of death for children and young adults. But death is only part of the story. These crashes are also the leading cause of spinal cord injury. We surgeons see the aftermath of the 10,000 crash victims who come to emergency rooms every day.</p></blockquote>\n<p>The other is a soon-to-be-published book: <i><a href=\"https://www.amazon.com/Driving-Intelligence-Green-Routes-Autonomy/dp/1032911220\">Driving Intelligence: The Green Book</a></i>. The authors, a computer scientist and a management consultant with experience in the industry, make the opposite argument. Here&#8217;s one of the authors:</p>\n<blockquote><p>There is something very disturbing going on around trials with autonomous vehicles worldwide, where, sadly, there have now been many deaths and injuries both to other road users and pedestrians. Although I am well aware that there is not, <i>senso stricto</i>, a legal and functional parallel between a &#8220;drug trial&#8221; and &#8220;AV testing,&#8221; it seems odd to me that if a trial of a new drug had resulted in so many deaths, it would surely have been halted and major forensic investigations carried out and yet, AV manufacturers continue to test their products on public roads unabated.</p>\n<p>I am not convinced that it is good enough to argue from statistics that, to a greater or lesser degree, fatalities and injuries would have occurred anyway had the AVs had been replaced by human-driven cars: a pharmaceutical company, following death or injury, cannot simply sidestep regulations around the trial of, say, a new cancer drug, by arguing that, whilst the trial is underway, people would die from cancer anyway&#8230;.</p></blockquote>\n<p>Both arguments are compelling, and it&#8217;s going to be hard to figure out what public policy should be.</p>\n<p>This paper, from 2016, argues that we&#8217;re going to need other metrics than side-by-side comparisons: <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0965856416302129\">Driving to safety: How many miles of driving would it take to demonstrate autonomous vehicle reliability?</a>&#8220;:</p>\n<blockquote><p><b>Abstract</b>: How safe are autonomous vehicles? The answer is critical for determining how autonomous vehicles may shape motor vehicle safety and public health, and for developing sound policies to govern their deployment. One proposed way to assess safety is to test drive autonomous vehicles in real traffic, observe their performance, and make statistical comparisons to human driver performance. This approach is logical, but it is practical? In this paper, we calculate the number of miles of driving that would be needed to provide clear statistical evidence of autonomous vehicle safety. Given that current traffic fatalities and injuries are rare events compared to vehicle miles traveled, we show that fully autonomous vehicles would have to be driven hundreds of millions of miles and sometimes hundreds of billions of miles to demonstrate their reliability in terms of fatalities and injuries. Under even aggressive testing assumptions, existing fleets would take tens and sometimes hundreds of years to drive these miles&#8212;­an impossible proposition if the aim is to demonstrate their performance prior to releasing them on the roads for consumer use. These findings demonstrate that developers of this technology and third-party testers cannot simply drive their way to safety. Instead, they will need to develop innovative methods of demonstrating safety and reliability. And yet, the possibility remains that it will not be possible to establish with certainty the safety of autonomous vehicles. Uncertainty will remain. Therefore, it is imperative that autonomous vehicle regulations are adaptive­&#8212;designed from the outset to evolve with the technology so that society can better harness the benefits and manage the risks of these rapidly evolving and potentially transformative technologies.</p></blockquote>\n<p>One problem, of course, is that we treat death by human driver differently than we do death by autonomous computer driver. This is likely to change as we get more experience with AI accidents&#8212;and AI-caused deaths.</p>\n",
+    "content:encodedSnippet": "Two competing arguments are making the rounds. The first is by a neurosurgeon in the New York Times. In an op-ed that honestly sounds like it was paid for by Waymo, the author calls driverless cars a “public health breakthrough”:\nIn medical research, there’s a practice of ending a study early when the results are too striking to ignore. We stop when there is unexpected harm. We also stop for overwhelming benefit, when a treatment is working so well that it would be unethical to continue giving anyone a placebo. When an intervention works this clearly, you change what you do.\nThere’s a public health imperative to quickly expand the adoption of autonomous vehicles. More than 39,000 Americans died in motor vehicle crashes last year, more than homicide, plane crashes and natural disasters combined. Crashes are the No. 2 cause of death for children and young adults. But death is only part of the story. These crashes are also the leading cause of spinal cord injury. We surgeons see the aftermath of the 10,000 crash victims who come to emergency rooms every day.\n\nThe other is a soon-to-be-published book: Driving Intelligence: The Green Book. The authors, a computer scientist and a management consultant with experience in the industry, make the opposite argument. Here’s one of the authors:\nThere is something very disturbing going on around trials with autonomous vehicles worldwide, where, sadly, there have now been many deaths and injuries both to other road users and pedestrians. Although I am well aware that there is not, senso stricto, a legal and functional parallel between a “drug trial” and “AV testing,” it seems odd to me that if a trial of a new drug had resulted in so many deaths, it would surely have been halted and major forensic investigations carried out and yet, AV manufacturers continue to test their products on public roads unabated.\nI am not convinced that it is good enough to argue from statistics that, to a greater or lesser degree, fatalities and injuries would have occurred anyway had the AVs had been replaced by human-driven cars: a pharmaceutical company, following death or injury, cannot simply sidestep regulations around the trial of, say, a new cancer drug, by arguing that, whilst the trial is underway, people would die from cancer anyway….\n\nBoth arguments are compelling, and it’s going to be hard to figure out what public policy should be.\nThis paper, from 2016, argues that we’re going to need other metrics than side-by-side comparisons: Driving to safety: How many miles of driving would it take to demonstrate autonomous vehicle reliability?“:\nAbstract: How safe are autonomous vehicles? The answer is critical for determining how autonomous vehicles may shape motor vehicle safety and public health, and for developing sound policies to govern their deployment. One proposed way to assess safety is to test drive autonomous vehicles in real traffic, observe their performance, and make statistical comparisons to human driver performance. This approach is logical, but it is practical? In this paper, we calculate the number of miles of driving that would be needed to provide clear statistical evidence of autonomous vehicle safety. Given that current traffic fatalities and injuries are rare events compared to vehicle miles traveled, we show that fully autonomous vehicles would have to be driven hundreds of millions of miles and sometimes hundreds of billions of miles to demonstrate their reliability in terms of fatalities and injuries. Under even aggressive testing assumptions, existing fleets would take tens and sometimes hundreds of years to drive these miles—­an impossible proposition if the aim is to demonstrate their performance prior to releasing them on the roads for consumer use. These findings demonstrate that developers of this technology and third-party testers cannot simply drive their way to safety. Instead, they will need to develop innovative methods of demonstrating safety and reliability. And yet, the possibility remains that it will not be possible to establish with certainty the safety of autonomous vehicles. Uncertainty will remain. Therefore, it is imperative that autonomous vehicle regulations are adaptive­—designed from the outset to evolve with the technology so that society can better harness the benefits and manage the risks of these rapidly evolving and potentially transformative technologies.\n\nOne problem, of course, is that we treat death by human driver differently than we do death by autonomous computer driver. This is likely to change as we get more experience with AI accidents—and AI-caused deaths.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html#respond",
+    "content": "<p>Two competing arguments are making the rounds. The first is by a neurosurgeon in the <i>New York Times</i>. In <a href=\"https://archive.is/YDBDz\">an op-ed</a> that honestly sounds like it was paid for by Waymo, the author calls driverless cars a &#8220;public health breakthrough&#8221;:</p>\n<blockquote><p>In medical research, there’s a practice of ending a study early when the results are too striking to ignore. We stop when there is unexpected harm. We also stop for overwhelming benefit, when a treatment is working so well that it would be unethical to continue giving anyone a placebo. When an intervention works this clearly, you change what you do...</p></blockquote>",
+    "contentSnippet": "Two competing arguments are making the rounds. The first is by a neurosurgeon in the New York Times. In an op-ed that honestly sounds like it was paid for by Waymo, the author calls driverless cars a “public health breakthrough”:\nIn medical research, there’s a practice of ending a study early when the results are too striking to ignore. We stop when there is unexpected harm. We also stop for overwhelming benefit, when a treatment is working so well that it would be unethical to continue giving anyone a placebo. When an intervention works this clearly, you change what you do...",
+    "guid": "https://www.schneier.com/?p=71293",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "AI",
+      "cars"
+    ],
+    "isoDate": "2025-12-09T12:07:53.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
+    "link": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
+    "pubDate": "Tue, 09 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2Vp1tGLWh8MZqrb8A89wnY6EiB7tOnSURBp8iBE-pmJOwkrBSOUU1ixEDZjfWbEEv3Vp5KjxLS6qKJHLRJ2R2diF4aAC43LxRwN4nTlnJIXGGhA0V4O9ny-KSUh3__yMn1rA01CjTAKQqaQFQPvSBgTcfL0t0xN6N_3v_wlo1pwJaVm5Qz_TTn4dAeM/s1600/tines.jpg"
+    },
+    "content": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don’t share signals reliably. 88% of organizations admit they’ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can’t communicate, real-time access decisions break down.\nThe",
+    "contentSnippet": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don’t share signals reliably. 88% of organizations admit they’ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can’t communicate, real-time access decisions break down.\nThe",
+    "guid": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
+    "isoDate": "2025-12-09T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
+    "link": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
+    "pubDate": "Tue, 09 Dec 2025 16:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzTTpUhFNugGRa1jc7w-4LTjvLeZ-OaYTZ9C_zymrAnY-oQP-X_hyphenhyphenE8zVTX6KJTp7B6nrbrptzuDPClEEODKyC757npjyoRrIVIGUOkCw-5m-wx7jiFVeGXm5PlLuAq4D1rrSWDgAErrpGCdMLnrQHREtMLhl13arje9O0uWsQEu2VSNacaU7AJ0qb1_e/s1600/chrome-browser.jpg"
+    },
+    "content": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.\nTo that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.\nChief",
+    "contentSnippet": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.\nTo that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.\nChief",
+    "guid": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
+    "isoDate": "2025-12-09T11:14:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware",
     "link": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
@@ -315,56 +369,5 @@
     "guid": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
     "isoDate": "2025-12-05T14:10:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
-    "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
-    "pubDate": "Fri, 05 Dec 2025 17:17:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPRcWJr-rlmJf8CDeJyjjWDK0YGkFZog6zanboH4B8IfnqDW73KKktXhadTp3RRbaUTfAPYeYN_m84SaCKpHuT2p_7niwPrq6ztJaQ-PT2IepKdvcRR0Us8v8pwY0Z8jlxZ8djFCJ8VdVE0zikpPILdj_y6AO4mSlNdxZUvRuQcWbPamCP2q34y5IJf-Q3/s1600/spyware-malware.jpg"
-    },
-    "content": "A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted by Intellexa's Predator spyware, Amnesty International said in a report.\nThe link, the non-profit organization said, is a \"Predator attack attempt based on the technical behaviour of the infection",
-    "contentSnippet": "A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted by Intellexa's Predator spyware, Amnesty International said in a report.\nThe link, the non-profit organization said, is a \"Predator attack attempt based on the technical behaviour of the infection",
-    "guid": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
-    "isoDate": "2025-12-05T11:47:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs",
-    "link": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
-    "pubDate": "Fri, 05 Dec 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcO2jopbnwmh4c-ifuKr1GgTWOIEiOSZ2r1_2mke-3-3b52sRbxFwXV4S7TBtfZEUZ1hWRbMPnh5YD-CQezVz-QNKMSw6WpF_1zqFF-5Li4bBeWdu6O68_HpYT3GbI7QtvH48gqKS5y5JrQ7OjCl42wTHmpuRBGY6znxz0puQ3K9xJYsXcpOLSn2_74Lc/s1600/cynomi.jpg"
-    },
-    "content": "Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired of fear-based messaging.\nThat’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This guide helps service providers transform resistance into trust and",
-    "contentSnippet": "Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired of fear-based messaging.\nThat’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This guide helps service providers transform resistance into trust and",
-    "guid": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
-    "isoDate": "2025-12-05T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
-    "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
-    "pubDate": "Fri, 05 Dec 2025 11:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
-    "contentSnippet": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
-    "guid": "692f18581f32b6e017d94947",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2025-12-05T11:00:00.000Z"
   }
 ]
