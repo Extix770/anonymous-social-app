@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7962,
+    "stars": 7963,
     "forks": 1093,
     "language": null
   },
@@ -432,21 +432,21 @@
     "language": "HTML"
   },
   {
-    "name": "CTF-Tools",
-    "owner": "cmaixen",
-    "url": "https://github.com/cmaixen/CTF-Tools",
-    "description": "My Personal Library for CTF's",
-    "stars": 13,
-    "forks": 5,
-    "language": "Python"
-  },
-  {
     "name": "WiFi-Hacking-Tool",
     "owner": "waheeb71",
     "url": "https://github.com/waheeb71/WiFi-Hacking-Tool",
     "description": "WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking, network analysis, and Wi-Fi penetration testing. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.",
     "stars": 13,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "CTF-Tools",
+    "owner": "cmaixen",
+    "url": "https://github.com/cmaixen/CTF-Tools",
+    "description": "My Personal Library for CTF's",
+    "stars": 12,
+    "forks": 5,
     "language": "Python"
   },
   {
@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -693,13 +684,13 @@
     "language": "C"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "CyberSec-Toolkit",
@@ -708,6 +699,15 @@
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -855,15 +855,6 @@
     "language": "Python"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "ddos-tool-python",
+    "owner": "ArthurDeveloper",
+    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
+    "description": "Uma ferramenta ddos escrita em python.",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "URL-Analysis-Tool",
