@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 7963,
+    "stars": 7964,
     "forks": 1093,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7262,
+    "stars": 7261,
     "forks": 832,
     "language": "HTML"
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
     "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
-    "stars": 750,
+    "stars": 749,
     "forks": 130,
     "language": null
   },
@@ -85,7 +85,7 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 265,
+    "stars": 264,
     "forks": 71,
     "language": "PHP"
   },
@@ -103,7 +103,7 @@
     "owner": "the0cp",
     "url": "https://github.com/the0cp/awesome-ddos-tools",
     "description": "Collection of several DDos tools.",
-    "stars": 203,
+    "stars": 202,
     "forks": 44,
     "language": "Python"
   },
@@ -333,15 +333,6 @@
     "language": "Python"
   },
   {
-    "name": "CTF-Tools",
-    "owner": "Twigonometry",
-    "url": "https://github.com/Twigonometry/CTF-Tools",
-    "description": "Various scripts I've built for CTFs, hacking challenges, and for learning how various existing tools work",
-    "stars": 18,
-    "forks": 5,
-    "language": "Python"
-  },
-  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -364,6 +355,15 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
+    "stars": 17,
+    "forks": 5,
+    "language": "Python"
+  },
+  {
+    "name": "CTF-Tools",
+    "owner": "Twigonometry",
+    "url": "https://github.com/Twigonometry/CTF-Tools",
+    "description": "Various scripts I've built for CTFs, hacking challenges, and for learning how various existing tools work",
     "stars": 17,
     "forks": 5,
     "language": "Python"
@@ -558,15 +558,6 @@
     "language": "JavaScript"
   },
   {
-    "name": "Spy-Tool",
-    "owner": "srimani-programmer",
-    "url": "https://github.com/srimani-programmer/Spy-Tool",
-    "description": "A Python tool to perform image spy operation on a computer.",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -610,6 +601,15 @@
     "stars": 7,
     "forks": 4,
     "language": "PowerShell"
+  },
+  {
+    "name": "Spy-Tool",
+    "owner": "srimani-programmer",
+    "url": "https://github.com/srimani-programmer/Spy-Tool",
+    "description": "A Python tool to perform image spy operation on a computer.",
+    "stars": 7,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "security-tools-hacking",
@@ -675,15 +675,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 6,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -693,21 +684,21 @@
     "language": "TypeScript"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
     "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -774,13 +765,13 @@
     "language": null
   },
   {
-    "name": "Sec_Toolbelt",
-    "owner": "bacon-GIT",
-    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
-    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
     "stars": 5,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "OSINT-TOOLS",
@@ -855,6 +846,15 @@
     "language": "Python"
   },
   {
+    "name": "Sec_Toolbelt",
+    "owner": "bacon-GIT",
+    "url": "https://github.com/bacon-GIT/Sec_Toolbelt",
+    "description": "Tools for recon and enumeration, feel free to alter them to your will",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -873,15 +873,6 @@
     "language": "Perl"
   },
   {
-    "name": "ddos-tool-python",
-    "owner": "ArthurDeveloper",
-    "url": "https://github.com/ArthurDeveloper/ddos-tool-python",
-    "description": "Uma ferramenta ddos escrita em python.",
-    "stars": 4,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "URL-Analysis-Tool",
     "owner": "Cybersight-Security",
     "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
+    "stars": 4,
+    "forks": 0,
+    "language": "Python"
   }
 ]
