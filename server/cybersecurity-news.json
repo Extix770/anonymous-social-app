@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+    "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+    "pubDate": "Thu, 11 Dec 2025 00:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
+    },
+    "content": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
+    "contentSnippet": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
+    "guid": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+    "isoDate": "2025-12-10T19:21:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
     "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
@@ -353,25 +370,5 @@
     "guid": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
     "isoDate": "2025-12-08T12:44:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Substitution Cipher Based on The Voynich Manuscript",
-    "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
-    "pubDate": "Mon, 08 Dec 2025 12:04:11 +0000",
-    "content:encoded": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.</p></blockquote>\n",
-    "content:encodedSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html#comments",
-    "content": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...</p></blockquote>",
-    "contentSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...",
-    "guid": "https://www.schneier.com/?p=71287",
-    "categories": [
-      "Uncategorized",
-      "academic papers",
-      "encryption",
-      "history of cryptography"
-    ],
-    "isoDate": "2025-12-08T12:04:11.000Z"
   }
 ]
