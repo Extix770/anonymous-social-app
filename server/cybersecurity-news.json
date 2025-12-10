@@ -69,8 +69,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2xn4WZGj7Hz0ytsNA_HTCauNnazfL5nrJbU04wGz3hruY26ILPYM06s8_XfRqyXUCTSgIlOyQAoqKzXfCkcptNiFkCgY3qlSaCXN6msd3niU0PzzHMstagrXTIl6vMwQJiBjVGLO6oMnsT2dDvSmYr5Irx5o3FUIfxmO_pRip-bQgFVIy6Awjek_wmD9_/s1600/northkorea.jpg"
     },
-    "content": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
-    "contentSnippet": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+    "content": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+    "contentSnippet": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
     "guid": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
     "isoDate": "2025-12-09T18:25:00.000Z",
     "itunes": {}
@@ -86,8 +86,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBh7KylazNBYsv5mZPtLYNjsBCVGx6YXHcbNdNtcjVvN-c8qCAgk07ZSLRLu3NiDACYAODmlsJSrmKhP3pndO8iPH0Y_dSObtl1BvrpqUrzQb23LNdjhgpm96F0jPXiv1Chp0TguGftoL3lgn05VQfdrozCKR4UUegoTHhd3ZqoZd_yo3uZzcX4UNBNRyi/s1600/gray.jpg"
     },
-    "content": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150.",
-    "contentSnippet": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150.",
+    "content": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150. The",
+    "contentSnippet": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150. The",
     "guid": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
     "isoDate": "2025-12-09T16:01:00.000Z",
     "itunes": {}
