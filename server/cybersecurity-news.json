@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
+    "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
+    "pubDate": "Wed, 10 Dec 2025 17:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
+    "contentSnippet": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
+    "guid": "692735021d6586ddd6c4134e",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-10T17:00:00.000Z"
+  },
+  {
     "creator": "Maddy Varner",
     "title": "A Complete Guide to the Jeffrey Epstein Document Dumps",
     "link": "https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/",
@@ -356,22 +373,5 @@
       "history of cryptography"
     ],
     "isoDate": "2025-12-08T12:04:11.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
-    "link": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
-    "pubDate": "Mon, 08 Dec 2025 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDxveHueXDA8-Ohc7xTXUprQp3I8XmIBUww4KWSId9wT1Ma6hAyjD62zHFhmSKC_TDAwNTKe4ohWUBJqYttE_1TnuyFZ5pRj5Dyrt744jF6-OTltbW0i3Edm9orBzBY5o2pSenHKtEqXY6-C_BT8WEX0WIkKE717B5Bh-VvfuhVsmjIxfReL8sJIxj4ck/s1600/password.jpg"
-    },
-    "content": "The holiday season compresses risk into a short, high-stakes window. Systems run hot, teams run lean, and attackers time automated campaigns to get maximum return. Multiple industry threat reports show that bot-driven fraud, credential stuffing and account takeover attempts intensify around peak shopping events, especially the weeks around Black Friday and Christmas.&nbsp;\nWhy holiday peaks",
-    "contentSnippet": "The holiday season compresses risk into a short, high-stakes window. Systems run hot, teams run lean, and attackers time automated campaigns to get maximum return. Multiple industry threat reports show that bot-driven fraud, credential stuffing and account takeover attempts intensify around peak shopping events, especially the weeks around Black Friday and Christmas. \nWhy holiday peaks",
-    "guid": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
-    "isoDate": "2025-12-08T11:58:00.000Z",
-    "itunes": {}
   }
 ]
