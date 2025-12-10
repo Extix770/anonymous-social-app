@@ -34,39 +34,6 @@
     "itunes": {}
   },
   {
-    "creator": "Andy Greenberg",
-    "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
-    "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
-    "pubDate": "Wed, 10 Dec 2025 17:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
-    "contentSnippet": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
-    "guid": "692735021d6586ddd6c4134e",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-10T17:00:00.000Z"
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "A Complete Guide to the Jeffrey Epstein Document Dumps",
-    "link": "https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/",
-    "pubDate": "Wed, 10 Dec 2025 15:26:18 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "New records about the infamous sex offender are released seemingly every week. Here’s a quick rundown of who’s releasing the Epstein documents, what they contain—and what they’re releasing next.",
-    "contentSnippet": "New records about the infamous sex offender are released seemingly every week. Here’s a quick rundown of who’s releasing the Epstein documents, what they contain—and what they’re releasing next.",
-    "guid": "692dbfa3aef8af9af9dea1ca",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2025-12-10T15:26:18.000Z"
-  },
-  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
     "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
@@ -370,5 +337,42 @@
     "guid": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
     "isoDate": "2025-12-08T17:37:00.000Z",
     "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
+    "pubDate": "Mon, 08 Dec 2025 18:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw9wcOYBGPYdrtvxTGveUK8K-q57nUkvAE5iG75-i-guZK-dU8V0pX8R8Eq3cyNjmLfffsTjYjV-0-F58wtiD0fzXLGuDIsBm-y0uze879-yzNrTBLaLWnDFx9pFuNVka7MdcdBnov6-ake3ddnw595pXmgmOFDouAPbhxzTHqhPSkxKxb7P229h8XwnR2/s1600/recap-main.jpg"
+    },
+    "content": "It’s been a week of chaos in code and calm in headlines. A bug that broke the internet’s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks — all within days. If you blink, you’ll miss how fast the threat map is changing.\nNew flaws are being found, published, and exploited in hours instead of weeks. AI-powered tools meant to help developers",
+    "contentSnippet": "It’s been a week of chaos in code and calm in headlines. A bug that broke the internet’s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks — all within days. If you blink, you’ll miss how fast the threat map is changing.\nNew flaws are being found, published, and exploited in hours instead of weeks. AI-powered tools meant to help developers",
+    "guid": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
+    "isoDate": "2025-12-08T12:44:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "Substitution Cipher Based on The Voynich Manuscript",
+    "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
+    "pubDate": "Mon, 08 Dec 2025 12:04:11 +0000",
+    "content:encoded": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.</p></blockquote>\n",
+    "content:encodedSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html#comments",
+    "content": "<p>Here&#8217;s a fun paper: &#8220;<a href=\"https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408\">The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called &#8220;ciphertext hypothesis&#8221; for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...</p></blockquote>",
+    "contentSnippet": "Here’s a fun paper: “The Naibbe cipher: a substitution cipher that encrypts Latin and Italian as Voynich Manuscript-like ciphertext“:\nAbstract: In this article, I investigate the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke Library) is compatible with being a ciphertext by attempting to develop a historically plausible cipher that can replicate the manuscript’s unusual properties. The resulting cipher­a verbose homophonic substitution cipher I call the Naibbe cipher­can be done entirely by hand with 15th-century materials, and when it encrypts a wide range of Latin and Italian plaintexts, the resulting ciphertexts remain fully decipherable and also reliably reproduce many key statistical properties of the Voynich Manuscript at once. My results suggest that the so-called “ciphertext hypothesis” for the Voynich Manuscript remains viable, while also placing constraints on plausible substitution cipher structures...",
+    "guid": "https://www.schneier.com/?p=71287",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "encryption",
+      "history of cryptography"
+    ],
+    "isoDate": "2025-12-08T12:04:11.000Z"
   }
 ]
