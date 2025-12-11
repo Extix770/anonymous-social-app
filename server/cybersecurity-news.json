@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+    "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+    "pubDate": "Thu, 11 Dec 2025 12:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg"
+    },
+    "content": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
+    "contentSnippet": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
+    "guid": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+    "isoDate": "2025-12-11T07:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
     "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
     "pubDate": "Thu, 11 Dec 2025 11:26:00 +0530",
@@ -352,23 +369,6 @@
     "contentSnippet": "Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.\nCybersecurity company Sophos said it investigated almost 40 intrusions linked to the threat actor between February 2024 and August 2025. The campaign is assessed with high confidence to share overlaps with a hacking group known as Gold Blade, which is also",
     "guid": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
     "isoDate": "2025-12-09T09:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
-    "link": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
-    "pubDate": "Tue, 09 Dec 2025 13:37:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8tVeCj4jvHcVJWmXP6jxvW38aUyE_3XFLbB_0g-DluSuxqf0PN5g9TIWTsiAeeBYm99_RsY9Bi_lpQnOZWtfECGdtKZ36-0oVSNHgjwWIAia6bo_3_oFdMkMLWbyu7MknPOkBQ_vafKrLGCQEfbyh66vg7bIhFAUgZ9eaz_-IQSmR0uc-wqr71aDa5zD/s1600/software-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
-    "contentSnippet": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
-    "guid": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
-    "isoDate": "2025-12-09T08:07:00.000Z",
     "itunes": {}
   }
 ]
