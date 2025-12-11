@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+    "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+    "pubDate": "Thu, 11 Dec 2025 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg"
+    },
+    "content": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its sights",
+    "contentSnippet": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its sights",
+    "guid": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+    "isoDate": "2025-12-11T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
     "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
     "pubDate": "Thu, 11 Dec 2025 16:00:00 +0530",
@@ -352,23 +369,6 @@
     "contentSnippet": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don’t share signals reliably. 88% of organizations admit they’ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can’t communicate, real-time access decisions break down.\nThe",
     "guid": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
     "isoDate": "2025-12-09T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
-    "link": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-    "pubDate": "Tue, 09 Dec 2025 16:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzTTpUhFNugGRa1jc7w-4LTjvLeZ-OaYTZ9C_zymrAnY-oQP-X_hyphenhyphenE8zVTX6KJTp7B6nrbrptzuDPClEEODKyC757npjyoRrIVIGUOkCw-5m-wx7jiFVeGXm5PlLuAq4D1rrSWDgAErrpGCdMLnrQHREtMLhl13arje9O0uWsQEu2VSNacaU7AJ0qb1_e/s1600/chrome-browser.jpg"
-    },
-    "content": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.\nTo that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.\nChief",
-    "contentSnippet": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.\nTo that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.\nChief",
-    "guid": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-    "isoDate": "2025-12-09T11:14:00.000Z",
     "itunes": {}
   }
 ]
