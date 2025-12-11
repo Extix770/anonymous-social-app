@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+    "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+    "pubDate": "Thu, 11 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg"
+    },
+    "content": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
+    "contentSnippet": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
+    "guid": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+    "isoDate": "2025-12-11T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
     "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
     "pubDate": "Thu, 11 Dec 2025 16:30:00 +0530",
@@ -353,22 +370,5 @@
       "cars"
     ],
     "isoDate": "2025-12-09T12:07:53.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
-    "link": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
-    "pubDate": "Tue, 09 Dec 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2Vp1tGLWh8MZqrb8A89wnY6EiB7tOnSURBp8iBE-pmJOwkrBSOUU1ixEDZjfWbEEv3Vp5KjxLS6qKJHLRJ2R2diF4aAC43LxRwN4nTlnJIXGGhA0V4O9ny-KSUh3__yMn1rA01CjTAKQqaQFQPvSBgTcfL0t0xN6N_3v_wlo1pwJaVm5Qz_TTn4dAeM/s1600/tines.jpg"
-    },
-    "content": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don’t share signals reliably. 88% of organizations admit they’ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can’t communicate, real-time access decisions break down.\nThe",
-    "contentSnippet": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don’t share signals reliably. 88% of organizations admit they’ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can’t communicate, real-time access decisions break down.\nThe",
-    "guid": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
-    "isoDate": "2025-12-09T11:30:00.000Z",
-    "itunes": {}
   }
 ]
