@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
+    "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
+    "pubDate": "Thu, 11 Dec 2025 11:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
+    },
+    "content": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
+    "contentSnippet": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
+    "guid": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
+    "isoDate": "2025-12-11T05:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
     "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
     "pubDate": "Thu, 11 Dec 2025 01:49:00 +0530",
@@ -352,23 +369,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
     "guid": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
     "isoDate": "2025-12-09T08:07:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
-    "link": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
-    "pubDate": "Mon, 08 Dec 2025 23:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCgAhdt5sz3PXhLRrV59c310Qk-9hJwShYKfrpg9cq5fdx7FH4hzseiqnNqE8X0_skZaT476KMf0GzbvSRJjQeO15Ra468a4l5C71u-nXGm3IrRQXlDzgf-_lYNldneG0WwsR81AK7jSvkeaO49RZlYoWTbATFVSAFDIl1NOogHhOUpzyc3IXTsQz6WyMv/s1600/hacked-website.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT.\nThe attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT.\nThe attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted",
-    "guid": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
-    "isoDate": "2025-12-08T17:37:00.000Z",
     "itunes": {}
   }
 ]
