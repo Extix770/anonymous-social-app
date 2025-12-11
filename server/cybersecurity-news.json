@@ -1,5 +1,21 @@
 [
   {
+    "creator": "David Gilbert",
+    "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People's Private Data",
+    "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
+    "pubDate": "Thu, 11 Dec 2025 18:54:50 +0000",
+    "dc:creator": "David Gilbert",
+    "content": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "contentSnippet": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "guid": "692ddce5259b04d366e07261",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-11T18:54:50.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AIs Exploiting Smart Contracts",
     "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
@@ -354,22 +370,5 @@
       "Windows Powershell"
     ],
     "isoDate": "2025-12-09T23:18:29.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
-    "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
-    "pubDate": "Tue, 09 Dec 2025 23:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2xn4WZGj7Hz0ytsNA_HTCauNnazfL5nrJbU04wGz3hruY26ILPYM06s8_XfRqyXUCTSgIlOyQAoqKzXfCkcptNiFkCgY3qlSaCXN6msd3niU0PzzHMstagrXTIl6vMwQJiBjVGLO6oMnsT2dDvSmYr5Irx5o3FUIfxmO_pRip-bQgFVIy6Awjek_wmD9_/s1600/northkorea.jpg"
-    },
-    "content": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
-    "contentSnippet": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
-    "guid": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
-    "isoDate": "2025-12-09T18:25:00.000Z",
-    "itunes": {}
   }
 ]
