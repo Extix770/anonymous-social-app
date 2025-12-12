@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+    "pubDate": "Fri, 12 Dec 2025 10:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
+    "guid": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+    "isoDate": "2025-12-12T05:01:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "Warnings Mount in Congress Over Expanded US Wiretap Powers",
     "link": "https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/",
@@ -328,23 +345,6 @@
     "contentSnippet": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
     "guid": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
     "isoDate": "2025-12-10T08:50:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-    "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-    "pubDate": "Wed, 10 Dec 2025 10:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0R-QzlGdiLRGA3gSZBJ0bMFvDgCeIgaL7lrq_FTLjhBMQUG6WN0Br_556xWrtqsM1U3814t28KYCkYXcp9CJS4P_jaFPJrLkcku0G1w2N44ocsawmjWgwqog3Uz3ef4kfG6z7F9J56F-O9ReNGWJlVnizYgI-i9PC_GTo2FCnajwj9CBc_-zoaEWwaz-/s1600/sap.jpg"
-    },
-    "content": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
-    "contentSnippet": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
-    "guid": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-    "isoDate": "2025-12-10T04:50:00.000Z",
     "itunes": {}
   }
 ]
