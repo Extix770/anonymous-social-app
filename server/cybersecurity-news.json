@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Giant Squid Eating a Diamondback Squid",
+    "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html",
+    "pubDate": "Fri, 12 Dec 2025 22:00:30 +0000",
+    "content:encoded": "<p>I have no context for <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\">this video</a>&#8212;it&#8217;s from Reddit&#8212;but one of the commenters adds some context:</p>\n<blockquote><p>Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.</p>\n<p>With so many people carrying around cameras, we&#8217;re getting more videos of giant squid at the surface than in previous decades. We&#8217;re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don&#8217;t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it&#8217;s awesome).</p>\n<p>When we see big (giant or colossal) healthy squid like this, it&#8217;s often because a fisher caught something else (either another squid or sometimes an antarctic toothfish). The squid is attracted to whatever was caught and they hop on the hook and go along for the ride when the target species is reeled in. There are a few colossal squid sightings similar to this from the southern ocean (but fewer people are down there, so fewer cameras, fewer videos). On the original instagram video, a bunch of people are like &#8220;Put it back! Release him!&#8221; etc, but he&#8217;s just enjoying dinner (obviously as the squid swims away at the end).</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "I have no context for this video—it’s from Reddit—but one of the commenters adds some context:\nHey everyone, squid biologist here! Wanted to add some stuff you might find interesting.\nWith so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome).\nWhen we see big (giant or colossal) healthy squid like this, it’s often because a fisher caught something else (either another squid or sometimes an antarctic toothfish). The squid is attracted to whatever was caught and they hop on the hook and go along for the ride when the target species is reeled in. There are a few colossal squid sightings similar to this from the southern ocean (but fewer people are down there, so fewer cameras, fewer videos). On the original instagram video, a bunch of people are like “Put it back! Release him!” etc, but he’s just enjoying dinner (obviously as the squid swims away at the end).\n\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html#respond",
+    "content": "<p>I have no context for <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\">this video</a>&#8212;it&#8217;s from Reddit&#8212;but one of the commenters adds some context:</p>\n<blockquote><p>Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.</p>\n<p>With so many people carrying around cameras, we&#8217;re getting more videos of giant squid at the surface than in previous decades. We&#8217;re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don&#8217;t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it&#8217;s awesome)...</p></blockquote>",
+    "contentSnippet": "I have no context for this video—it’s from Reddit—but one of the commenters adds some context:\nHey everyone, squid biologist here! Wanted to add some stuff you might find interesting.\nWith so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome)...",
+    "guid": "https://www.schneier.com/?p=71311",
+    "categories": [
+      "Uncategorized",
+      "squid",
+      "video"
+    ],
+    "isoDate": "2025-12-12T22:00:30.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
     "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
@@ -330,22 +349,5 @@
     "guid": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
     "isoDate": "2025-12-10T19:21:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
-    "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
-    "pubDate": "Wed, 10 Dec 2025 17:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
-    "contentSnippet": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
-    "guid": "692735021d6586ddd6c4134e",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-10T17:00:00.000Z"
   }
 ]
