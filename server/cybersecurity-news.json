@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+    "link": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+    "pubDate": "Fri, 12 Dec 2025 14:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
+    },
+    "content": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
+    "contentSnippet": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
+    "guid": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+    "isoDate": "2025-12-12T08:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+    "link": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+    "pubDate": "Fri, 12 Dec 2025 14:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
+    "guid": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+    "isoDate": "2025-12-12T08:41:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
     "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
     "pubDate": "Fri, 12 Dec 2025 10:31:00 +0530",
@@ -311,40 +345,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
     "guid": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
     "isoDate": "2025-12-10T11:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
-    "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-    "pubDate": "Wed, 10 Dec 2025 17:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
-    },
-    "content": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks",
-    "contentSnippet": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks",
-    "guid": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-    "isoDate": "2025-12-10T11:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
-    "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-    "pubDate": "Wed, 10 Dec 2025 14:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
-    },
-    "content": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
-    "contentSnippet": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
-    "guid": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-    "isoDate": "2025-12-10T08:50:00.000Z",
     "itunes": {}
   }
 ]
