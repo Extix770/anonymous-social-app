@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
+    "link": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
+    "pubDate": "Sat, 13 Dec 2025 18:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8ZMStOlyoSh88jViO8HEQmAAac6HNtoVoR-ufVglteBHxv-YilKP9B3sA-BJRw19H_Bflza7JA59RvM0gq34FzgFeagwBFQeuh5OfQqBbXzRbP5cXA4NRhO8ybwpIJDQEmL1rF7TIPG5xHPhFZBxKfbI4Lr5jhllzl0AbElbRUTUypn89gpVj-esiu7Q/s1600/routers.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
+    "guid": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
+    "isoDate": "2025-12-13T12:33:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda",
     "link": "https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/",
@@ -332,23 +349,6 @@
     "contentSnippet": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
     "guid": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
     "isoDate": "2025-12-11T07:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-    "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-    "pubDate": "Thu, 11 Dec 2025 11:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
-    },
-    "content": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-    "contentSnippet": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-    "guid": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-    "isoDate": "2025-12-11T05:56:00.000Z",
     "itunes": {}
   }
 ]
