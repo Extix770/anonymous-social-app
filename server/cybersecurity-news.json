@@ -160,6 +160,40 @@
     "itunes": {}
   },
   {
+    "creator": "Dell Cameron",
+    "title": "Warnings Mount in Congress Over Expanded US Wiretap Powers",
+    "link": "https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/",
+    "pubDate": "Thu, 11 Dec 2025 22:15:56 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
+    "contentSnippet": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
+    "guid": "693adec55885de020c5e2195",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-12-11T22:15:56.000Z"
+  },
+  {
+    "creator": "David Gilbert",
+    "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
+    "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
+    "pubDate": "Thu, 11 Dec 2025 18:54:50 +0000",
+    "dc:creator": "David Gilbert",
+    "content": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "contentSnippet": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "guid": "692ddce5259b04d366e07261",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-11T18:54:50.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AIs Exploiting Smart Contracts",
     "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
@@ -314,40 +348,6 @@
     "contentSnippet": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
     "guid": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
     "isoDate": "2025-12-10T20:19:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-    "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-    "pubDate": "Thu, 11 Dec 2025 00:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
-    },
-    "content": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
-    "contentSnippet": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
-    "guid": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-    "isoDate": "2025-12-10T19:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
-    "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-    "pubDate": "Wed, 10 Dec 2025 19:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
-    },
-    "content": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
-    "contentSnippet": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
-    "guid": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-    "isoDate": "2025-12-10T13:32:00.000Z",
     "itunes": {}
   }
 ]
