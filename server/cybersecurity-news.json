@@ -143,40 +143,6 @@
     "itunes": {}
   },
   {
-    "creator": "Dell Cameron",
-    "title": "Warnings Mount in Congress Over Expanded US Wiretap Powers",
-    "link": "https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/",
-    "pubDate": "Thu, 11 Dec 2025 22:15:56 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
-    "contentSnippet": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
-    "guid": "693adec55885de020c5e2195",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2025-12-11T22:15:56.000Z"
-  },
-  {
-    "creator": "David Gilbert",
-    "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
-    "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
-    "pubDate": "Thu, 11 Dec 2025 18:54:50 +0000",
-    "dc:creator": "David Gilbert",
-    "content": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
-    "contentSnippet": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
-    "guid": "692ddce5259b04d366e07261",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-11T18:54:50.000Z"
-  },
-  {
     "creator": "Bruce Schneier",
     "title": "AIs Exploiting Smart Contracts",
     "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
@@ -349,5 +315,44 @@
     "guid": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
     "isoDate": "2025-12-10T19:21:00.000Z",
     "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+    "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+    "pubDate": "Wed, 10 Dec 2025 19:02:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
+    },
+    "content": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
+    "contentSnippet": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
+    "guid": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+    "isoDate": "2025-12-10T13:32:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "FBI Warns of Fake Video Scams",
+    "link": "https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html",
+    "pubDate": "Wed, 10 Dec 2025 12:05:37 +0000",
+    "content:encoded": "<p>The FBI is <a href=\"https://www.ic3.gov/PSA/2025/PSA251205\">warning</a> of  AI-assisted fake kidnapping scams:</p>\n<blockquote><p>Criminal actors typically will contact their victims through text message claiming they have kidnapped their loved one and demand a ransom be paid for their release. Oftentimes, the criminal actor will express significant claims of violence towards the loved one if the ransom is not paid immediately. The criminal actor will then send what appears to be a genuine photo or video of the victim&#8217;s loved one, which upon close inspection often reveals inaccuracies when compared to confirmed photos of the loved one. Examples of these inaccuracies include missing tattoos or scars and inaccurate body proportions. Criminal actors will sometimes purposefully send these photos using timed message features to limit the amount of time victims have to analyze the images.</p></blockquote>\n<p>Images, videos, audio: It can all be faked with AI. My guess is that this scam has a low probability of success, so criminals will be figuring out how to automate it.</p>\n",
+    "content:encodedSnippet": "The FBI is warning of  AI-assisted fake kidnapping scams:\nCriminal actors typically will contact their victims through text message claiming they have kidnapped their loved one and demand a ransom be paid for their release. Oftentimes, the criminal actor will express significant claims of violence towards the loved one if the ransom is not paid immediately. The criminal actor will then send what appears to be a genuine photo or video of the victim’s loved one, which upon close inspection often reveals inaccuracies when compared to confirmed photos of the loved one. Examples of these inaccuracies include missing tattoos or scars and inaccurate body proportions. Criminal actors will sometimes purposefully send these photos using timed message features to limit the amount of time victims have to analyze the images.\n\nImages, videos, audio: It can all be faked with AI. My guess is that this scam has a low probability of success, so criminals will be figuring out how to automate it.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html#comments",
+    "content": "<p>The FBI is <a href=\"https://www.ic3.gov/PSA/2025/PSA251205\">warning</a> of  AI-assisted fake kidnapping scams:</p>\n<blockquote><p>Criminal actors typically will contact their victims through text message claiming they have kidnapped their loved one and demand a ransom be paid for their release. Oftentimes, the criminal actor will express significant claims of violence towards the loved one if the ransom is not paid immediately. The criminal actor will then send what appears to be a genuine photo or video of the victim&#8217;s loved one, which upon close inspection often reveals inaccuracies when compared to confirmed photos of the loved one. Examples of these inaccuracies include missing tattoos or scars and inaccurate body proportions. Criminal actors will sometimes purposefully send these photos using timed message features to limit the amount of time victims have to analyze the images...</p></blockquote>",
+    "contentSnippet": "The FBI is warning of  AI-assisted fake kidnapping scams:\nCriminal actors typically will contact their victims through text message claiming they have kidnapped their loved one and demand a ransom be paid for their release. Oftentimes, the criminal actor will express significant claims of violence towards the loved one if the ransom is not paid immediately. The criminal actor will then send what appears to be a genuine photo or video of the victim’s loved one, which upon close inspection often reveals inaccuracies when compared to confirmed photos of the loved one. Examples of these inaccuracies include missing tattoos or scars and inaccurate body proportions. Criminal actors will sometimes purposefully send these photos using timed message features to limit the amount of time victims have to analyze the images...",
+    "guid": "https://www.schneier.com/?p=71301",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "deepfake",
+      "FBI",
+      "kidnapping",
+      "scams"
+    ],
+    "isoDate": "2025-12-10T12:05:37.000Z"
   }
 ]
