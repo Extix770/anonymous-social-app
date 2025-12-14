@@ -319,7 +319,7 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 19,
+    "stars": 20,
     "forks": 5,
     "language": "Python"
   },
