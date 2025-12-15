@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
+    "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
+    "pubDate": "Mon, 15 Dec 2025 14:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglC802fHbjYDV11Y3NmxnCVUJfKSNEDRXAtOM722x09s0GmNQF11fP-r7betDJE1NOMAXe9DcIyEGYlWLMFf8S2B3pMRcLtLuGqqYovFNSGfnruQbydlAzRhpYQgKTZrYR68RcpYTJRjUEHTBDLDANrBWUx2zYhtcm28f7njmIuqHXI36W9omWtuD8AeFC/s1600/email.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
+    "guid": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
+    "isoDate": "2025-12-15T09:24:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
     "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
     "pubDate": "Mon, 15 Dec 2025 11:03:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
     "guid": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
     "isoDate": "2025-12-11T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
-    "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
-    "pubDate": "Thu, 11 Dec 2025 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg"
-    },
-    "content": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
-    "contentSnippet": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
-    "guid": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
-    "isoDate": "2025-12-11T11:00:00.000Z",
     "itunes": {}
   }
 ]
