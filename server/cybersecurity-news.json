@@ -35,6 +35,24 @@
     "itunes": {}
   },
   {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda",
+    "link": "https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/",
+    "pubDate": "Sat, 13 Dec 2025 11:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Plus: Travelers to the US may have to hand over five years of social media history, South Korean CEOs are resigning due to cyberattacks, and more.",
+    "contentSnippet": "Plus: Travelers to the US may have to hand over five years of social media history, South Korean CEOs are resigning due to cyberattacks, and more.",
+    "guid": "693c2880540dad19016a9558",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-13T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
     "link": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
@@ -195,6 +213,40 @@
     "itunes": {}
   },
   {
+    "creator": "Dell Cameron",
+    "title": "Warnings Mount in Congress Over Expanded US Wiretap Powers",
+    "link": "https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/",
+    "pubDate": "Thu, 11 Dec 2025 22:15:56 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
+    "contentSnippet": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
+    "guid": "693adec55885de020c5e2195",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2025-12-11T22:15:56.000Z"
+  },
+  {
+    "creator": "David Gilbert",
+    "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
+    "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
+    "pubDate": "Thu, 11 Dec 2025 18:54:50 +0000",
+    "dc:creator": "David Gilbert",
+    "content": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "contentSnippet": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
+    "guid": "692ddce5259b04d366e07261",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-11T18:54:50.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AIs Exploiting Smart Contracts",
     "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
@@ -298,57 +350,6 @@
     "contentSnippet": "A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the",
     "guid": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
     "isoDate": "2025-12-11T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
-    "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
-    "pubDate": "Thu, 11 Dec 2025 12:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg"
-    },
-    "content": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
-    "contentSnippet": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
-    "guid": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
-    "isoDate": "2025-12-11T07:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-    "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-    "pubDate": "Thu, 11 Dec 2025 11:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
-    },
-    "content": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-    "contentSnippet": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-    "guid": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-    "isoDate": "2025-12-11T05:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
-    "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-    "pubDate": "Thu, 11 Dec 2025 01:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
-    },
-    "content": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
-    "contentSnippet": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
-    "guid": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-    "isoDate": "2025-12-10T20:19:00.000Z",
     "itunes": {}
   }
 ]
