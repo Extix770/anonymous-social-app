@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+    "link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+    "pubDate": "Mon, 15 Dec 2025 23:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s1600/chat-stealer.jpg"
+    },
+    "content": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
+    "contentSnippet": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
+    "guid": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+    "isoDate": "2025-12-15T17:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
     "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
     "pubDate": "Mon, 15 Dec 2025 20:02:00 +0530",
@@ -335,21 +352,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2025-12-11T22:15:56.000Z"
-  },
-  {
-    "creator": "David Gilbert",
-    "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
-    "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
-    "pubDate": "Thu, 11 Dec 2025 18:54:50 +0000",
-    "dc:creator": "David Gilbert",
-    "content": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
-    "contentSnippet": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
-    "guid": "692ddce5259b04d366e07261",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-11T18:54:50.000Z"
   }
 ]
