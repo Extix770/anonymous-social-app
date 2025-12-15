@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+    "pubDate": "Mon, 15 Dec 2025 17:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s1600/recapp.jpg"
+    },
+    "content": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and",
+    "contentSnippet": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and",
+    "guid": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+    "isoDate": "2025-12-15T12:24:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Against the Federal Moratorium on State-Level Regulation of AI",
     "link": "https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html",
@@ -19,6 +36,23 @@
       "regulation"
     ],
     "isoDate": "2025-12-15T12:02:15.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+    "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+    "pubDate": "Mon, 15 Dec 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAAYMfLInHfns5nX7hk3SOBwCvMca-7usfovrOLFewfHgZtx0972jWlVx8u1MVE0_WqJCnczK6ZFXTZ-ir-grtXiWZcXJw6eGWzTX7supbbmuFOPY2fxfgdqcRAP_dpIW4fGawNEFOdY1wfUVlhaL4lx3_HjP20Ql7NEsL3oVu6s2xceDq0DHz_JyQU2Y/s1600/reco.jpg"
+    },
+    "content": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
+    "contentSnippet": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
+    "guid": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+    "isoDate": "2025-12-15T11:55:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -321,39 +355,5 @@
       "exploits"
     ],
     "isoDate": "2025-12-11T17:06:05.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
-    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
-    "pubDate": "Thu, 11 Dec 2025 19:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBEIOMDHFHbMxpqG8wwxxLRZJ4TavL-Z4AoU09ldjKg_8LpfxabE_BKPBfWUHK8GClxPJ2r3BRs078HZ8KwPrMHVHS1m5ZcCdPNR9mtUD5SZfz6WE3FLp6KnoT6HY2UhC-uV7CxqoFYiPyJw_4V0r0A5-vgSI0Znq74OKWlQxr6morZEwQUBaZd89AVg9/s1600/threatsday.jpg"
-    },
-    "content": "This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin",
-    "contentSnippet": "This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin",
-    "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
-    "isoDate": "2025-12-11T13:40:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
-    "link": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
-    "pubDate": "Thu, 11 Dec 2025 18:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKOtWgjKbDTJ_bQIFriTn7SS-6j1OkejHAL8qQ8rAg03gXgLRrv0-qYN2W_QQI8BqUBcmOxNFqni0N9fU5QpzCQdVFPybji0uX397JN_RP1BeefHSJr5Z5LcAhT15toz_P7LJLhz2T7U_xsTG0yzGsUdA4NaJnLvk7gyPjPw8lEFgKu87aGj8cIt_1xyy/s1600/gdrive.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a",
-    "guid": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
-    "isoDate": "2025-12-11T13:16:00.000Z",
-    "itunes": {}
   }
 ]
