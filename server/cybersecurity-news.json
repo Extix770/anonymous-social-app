@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+    "pubDate": "Mon, 15 Dec 2025 20:02:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv01p712eomGjpG3imw4Fow3C_gFqZq2RwuHvosDk7WWN08kcB3sVc9ZCeOyic9zqqYml63fAppF-DF0gDBXnwMBbtFE7mr81Trn8IQVOmCn4Msnx5pL87XopJicEYXlyFchV5u0hToNbvtRYR0rhG0y5S0cK06UGK8_7HFAbNJylUxYV4BDG3ZupUNh7b/s1600/zeroday.jpg"
+    },
+    "content": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
+    "contentSnippet": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
+    "guid": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+    "isoDate": "2025-12-15T14:32:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
     "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
     "pubDate": "Mon, 15 Dec 2025 17:54:00 +0530",
@@ -334,26 +351,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-11T18:54:50.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "AIs Exploiting Smart Contracts",
-    "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
-    "pubDate": "Thu, 11 Dec 2025 17:06:05 +0000",
-    "content:encoded": "<p>I have long maintained that smart contracts are a dumb idea: that a human process is actually a security feature.</p>\n<p>Here&#8217;s some <a href=\"https://red.anthropic.com/2025/smart-contracts/\">interesting research</a> on training AIs to automatically exploit smart contracts:</p>\n<blockquote><p>AI models are increasingly good at cyber tasks, as we&#8217;ve <a href=\"https://red.anthropic.com/2025/ai-for-cyber-defenders/\">written about before</a>. But what is the economic impact of these capabilities? In a recent <a href=\"https://www.matsprogram.org/\">MATS</a> and Anthropic Fellows project, our scholars investigated this question by evaluating AI agents&#8217; ability to exploit smart contracts on <a href=\"https://github.com/safety-research/SmartContract-bench\">Smart CONtracts Exploitation benchmark (SCONE-bench)</a>­a new benchmark they built comprising 405 contracts that were actually exploited between 2020 and 2025. On contracts exploited after the latest knowledge cutoffs (June 2025 for Opus 4.5 and March 2025 for other models), Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 developed exploits collectively worth $4.6 million, establishing a concrete lower bound for the economic harm these capabilities could enable. Going beyond retrospective analysis, we evaluated both Sonnet 4.5 and GPT-5 in simulation against 2,849 recently deployed contracts without any known vulnerabilities. Both agents uncovered two novel zero-day vulnerabilities and produced exploits worth $3,694, with GPT-5 doing so at an API cost of $3,476. This demonstrates as a proof-of-concept that profitable, real-world autonomous exploitation is technically feasible, a finding that underscores the need for proactive adoption of AI for defense.</p></blockquote>\n",
-    "content:encodedSnippet": "I have long maintained that smart contracts are a dumb idea: that a human process is actually a security feature.\nHere’s some interesting research on training AIs to automatically exploit smart contracts:\nAI models are increasingly good at cyber tasks, as we’ve written about before. But what is the economic impact of these capabilities? In a recent MATS and Anthropic Fellows project, our scholars investigated this question by evaluating AI agents’ ability to exploit smart contracts on Smart CONtracts Exploitation benchmark (SCONE-bench)­a new benchmark they built comprising 405 contracts that were actually exploited between 2020 and 2025. On contracts exploited after the latest knowledge cutoffs (June 2025 for Opus 4.5 and March 2025 for other models), Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 developed exploits collectively worth $4.6 million, establishing a concrete lower bound for the economic harm these capabilities could enable. Going beyond retrospective analysis, we evaluated both Sonnet 4.5 and GPT-5 in simulation against 2,849 recently deployed contracts without any known vulnerabilities. Both agents uncovered two novel zero-day vulnerabilities and produced exploits worth $3,694, with GPT-5 doing so at an API cost of $3,476. This demonstrates as a proof-of-concept that profitable, real-world autonomous exploitation is technically feasible, a finding that underscores the need for proactive adoption of AI for defense.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html#comments",
-    "content": "<p>I have long maintained that smart contracts are a dumb idea: that a human process is actually a security feature.</p>\n<p>Here&#8217;s some <a href=\"https://red.anthropic.com/2025/smart-contracts/\">interesting research</a> on training AIs to automatically exploit smart contracts:</p>\n<blockquote><p>AI models are increasingly good at cyber tasks, as we&#8217;ve <a href=\"https://red.anthropic.com/2025/ai-for-cyber-defenders/\">written about before</a>. But what is the economic impact of these capabilities? In a recent <a href=\"https://www.matsprogram.org/\">MATS</a> and Anthropic Fellows project, our scholars investigated this question by evaluating AI agents&#8217; ability to exploit smart contracts on <a href=\"https://github.com/safety-research/SmartContract-bench\">Smart CONtracts Exploitation benchmark (SCONE-bench)</a>­a new benchmark they built comprising 405 contracts that were actually exploited between 2020 and 2025. On contracts exploited after the latest knowledge cutoffs (June 2025 for Opus 4.5 and March 2025 for other models), Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 developed exploits collectively worth $4.6 million, establishing a concrete lower bound for the economic harm these capabilities could enable. Going beyond retrospective analysis, we evaluated both Sonnet 4.5 and GPT-5 in simulation against 2,849 recently deployed contracts without any known vulnerabilities. Both agents uncovered two novel zero-day vulnerabilities and produced exploits worth $3,694, with GPT-5 doing so at an API cost of $3,476. This demonstrates as a proof-of-concept that profitable, real-world autonomous exploitation is technically feasible, a finding that underscores the need for proactive adoption of AI for defense...</p></blockquote>",
-    "contentSnippet": "I have long maintained that smart contracts are a dumb idea: that a human process is actually a security feature.\nHere’s some interesting research on training AIs to automatically exploit smart contracts:\nAI models are increasingly good at cyber tasks, as we’ve written about before. But what is the economic impact of these capabilities? In a recent MATS and Anthropic Fellows project, our scholars investigated this question by evaluating AI agents’ ability to exploit smart contracts on Smart CONtracts Exploitation benchmark (SCONE-bench)­a new benchmark they built comprising 405 contracts that were actually exploited between 2020 and 2025. On contracts exploited after the latest knowledge cutoffs (June 2025 for Opus 4.5 and March 2025 for other models), Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 developed exploits collectively worth $4.6 million, establishing a concrete lower bound for the economic harm these capabilities could enable. Going beyond retrospective analysis, we evaluated both Sonnet 4.5 and GPT-5 in simulation against 2,849 recently deployed contracts without any known vulnerabilities. Both agents uncovered two novel zero-day vulnerabilities and produced exploits worth $3,694, with GPT-5 doing so at an API cost of $3,476. This demonstrates as a proof-of-concept that profitable, real-world autonomous exploitation is technically feasible, a finding that underscores the need for proactive adoption of AI for defense...",
-    "guid": "https://www.schneier.com/?p=71315",
-    "categories": [
-      "Uncategorized",
-      "academic papers",
-      "AI",
-      "blockchain",
-      "exploits"
-    ],
-    "isoDate": "2025-12-11T17:06:05.000Z"
   }
 ]
