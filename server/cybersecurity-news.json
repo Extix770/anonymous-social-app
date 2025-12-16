@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+    "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+    "pubDate": "Tue, 16 Dec 2025 22:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidILz5c0w2u5MowpqpDcKaSi80yphNWTH5E6d3P9RbsKmrW49tTXLVGax2PmBg1tqbV05p_KchUWn15gqUmKNvzGPFUTa8QpmLO5zAAdT91Gcs0SbpZlMLPrf7cRmAoA_zULMCb1nIVGPp1w_yLPRclMOLJUQgH-safnADcwg3SkHT_Qfn3xbcKlDkOiub/s1600/aws.jpg"
+    },
+    "content": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
+    "contentSnippet": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
+    "guid": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+    "isoDate": "2025-12-16T16:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
     "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
     "pubDate": "Tue, 16 Dec 2025 21:09:00 +0530",
@@ -344,24 +361,5 @@
     "guid": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
     "isoDate": "2025-12-13T05:32:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Giant Squid Eating a Diamondback Squid",
-    "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html",
-    "pubDate": "Fri, 12 Dec 2025 22:00:30 +0000",
-    "content:encoded": "<p>I have no context for <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\">this video</a>&#8212;it&#8217;s from Reddit&#8212;but one of the commenters adds some context:</p>\n<blockquote><p>Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.</p>\n<p>With so many people carrying around cameras, we&#8217;re getting more videos of giant squid at the surface than in previous decades. We&#8217;re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don&#8217;t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it&#8217;s awesome).</p>\n<p>When we see big (giant or colossal) healthy squid like this, it&#8217;s often because a fisher caught something else (either another squid or sometimes an antarctic toothfish). The squid is attracted to whatever was caught and they hop on the hook and go along for the ride when the target species is reeled in. There are a few colossal squid sightings similar to this from the southern ocean (but fewer people are down there, so fewer cameras, fewer videos). On the original instagram video, a bunch of people are like &#8220;Put it back! Release him!&#8221; etc, but he&#8217;s just enjoying dinner (obviously as the squid swims away at the end).</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "I have no context for this video—it’s from Reddit—but one of the commenters adds some context:\nHey everyone, squid biologist here! Wanted to add some stuff you might find interesting.\nWith so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome).\nWhen we see big (giant or colossal) healthy squid like this, it’s often because a fisher caught something else (either another squid or sometimes an antarctic toothfish). The squid is attracted to whatever was caught and they hop on the hook and go along for the ride when the target species is reeled in. There are a few colossal squid sightings similar to this from the southern ocean (but fewer people are down there, so fewer cameras, fewer videos). On the original instagram video, a bunch of people are like “Put it back! Release him!” etc, but he’s just enjoying dinner (obviously as the squid swims away at the end).\n\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html#comments",
-    "content": "<p>I have no context for <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\">this video</a>&#8212;it&#8217;s from Reddit&#8212;but one of the commenters adds some context:</p>\n<blockquote><p>Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.</p>\n<p>With so many people carrying around cameras, we&#8217;re getting more videos of giant squid at the surface than in previous decades. We&#8217;re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don&#8217;t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it&#8217;s awesome)...</p></blockquote>",
-    "contentSnippet": "I have no context for this video—it’s from Reddit—but one of the commenters adds some context:\nHey everyone, squid biologist here! Wanted to add some stuff you might find interesting.\nWith so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome)...",
-    "guid": "https://www.schneier.com/?p=71311",
-    "categories": [
-      "Uncategorized",
-      "squid",
-      "video"
-    ],
-    "isoDate": "2025-12-12T22:00:30.000Z"
   }
 ]
