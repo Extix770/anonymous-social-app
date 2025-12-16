@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
+    "link": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+    "pubDate": "Tue, 16 Dec 2025 13:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqg2tvd82cFFoP9fNpNuDszfardhiBBzcifDtDUT_i9drL-KsIC4EbSpgVNLI4HSZX6ZVfWVFzLybe34ZDzRwAnz7YSDhmr8YshApqbBV3pJhLGr2EhW-_2ygh5s80-Tpq9v8uFrPQk9ZZpZCjYqiIsY1ev-nG4YTMsHl-uF4SGEo7v5UjIkUoHp6miC4X/s1600/linux-react.jpg"
+    },
+    "content": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.\n\"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
+    "contentSnippet": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.\n\"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
+    "guid": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+    "isoDate": "2025-12-16T08:21:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
     "link": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
     "pubDate": "Tue, 16 Dec 2025 11:32:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
     "guid": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
     "isoDate": "2025-12-12T08:41:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-    "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-    "pubDate": "Fri, 12 Dec 2025 10:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
-    "guid": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-    "isoDate": "2025-12-12T05:01:00.000Z",
     "itunes": {}
   }
 ]
