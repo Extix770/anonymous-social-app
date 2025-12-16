@@ -1,5 +1,29 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Chinese Surveillance and AI",
+    "link": "https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html",
+    "pubDate": "Tue, 16 Dec 2025 12:02:32 +0000",
+    "content:encoded": "<p>New report: &#8220;<a href=\"https://aspi.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2025/11/27122307/The-partys-AI-How-Chinas-new-AI-systems-are-reshaping-human-rights.pdf\">The Party&#8217;s AI: How China&#8217;s New AI Systems are Reshaping Human Rights</a>.&#8221; From a <a href=\"https://www.aspi.org.au/report/the-partys-ai-how-chinas-new-ai-systems-are-reshaping-human-rights/\">summary article</a>:</p>\n<blockquote><p>China is already the world&#8217;s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China&#8217;s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China&#8217;s growing efforts to project that repression beyond its borders.</p>\n<p>The report focuses on four areas where the CCP has expanded its use of advanced AI systems most rapidly between 2023 and 2025: multimodal censorship of politically sensitive images; AI&#8217;s integration into the criminal justice pipeline; the industrialisation of online information control; and the use of AI enabled platforms by Chinese companies operating abroad. Examined together, those cases show how new AI capabilities are being embedded across domains that strengthen the CCP&#8217;s ability to shape information, behaviour and economic outcomes at home and overseas.</p>\n<p>Because China&#8217;s AI ecosystem is evolving rapidly and unevenly across sectors, we have focused on domains where significant changes took place between 2023 and 2025, where new evidence became available, or where human rights risks accelerated. Those areas do not represent the full range of AI applications in China but are the most revealing of how the CCP is integrating AI technologies into its political control apparatus.</p></blockquote>\n<p>News <a href=\"https://edition.cnn.com/2025/12/04/china/china-ai-censorship-surveillance-report-intl-hnk\">article</a>.</p>\n",
+    "content:encodedSnippet": "New report: “The Party’s AI: How China’s New AI Systems are Reshaping Human Rights.” From a summary article:\nChina is already the world’s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China’s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China’s growing efforts to project that repression beyond its borders.\nThe report focuses on four areas where the CCP has expanded its use of advanced AI systems most rapidly between 2023 and 2025: multimodal censorship of politically sensitive images; AI’s integration into the criminal justice pipeline; the industrialisation of online information control; and the use of AI enabled platforms by Chinese companies operating abroad. Examined together, those cases show how new AI capabilities are being embedded across domains that strengthen the CCP’s ability to shape information, behaviour and economic outcomes at home and overseas.\nBecause China’s AI ecosystem is evolving rapidly and unevenly across sectors, we have focused on domains where significant changes took place between 2023 and 2025, where new evidence became available, or where human rights risks accelerated. Those areas do not represent the full range of AI applications in China but are the most revealing of how the CCP is integrating AI technologies into its political control apparatus.\n\nNews article.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html#respond",
+    "content": "<p>New report: &#8220;<a href=\"https://aspi.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2025/11/27122307/The-partys-AI-How-Chinas-new-AI-systems-are-reshaping-human-rights.pdf\">The Party&#8217;s AI: How China&#8217;s New AI Systems are Reshaping Human Rights</a>.&#8221; From a <a href=\"https://www.aspi.org.au/report/the-partys-ai-how-chinas-new-ai-systems-are-reshaping-human-rights/\">summary article</a>:</p>\n<blockquote><p>China is already the world&#8217;s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China&#8217;s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China&#8217;s growing efforts to project that repression beyond its borders...</p></blockquote>",
+    "contentSnippet": "New report: “The Party’s AI: How China’s New AI Systems are Reshaping Human Rights.” From a summary article:\nChina is already the world’s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China’s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China’s growing efforts to project that repression beyond its borders...",
+    "guid": "https://www.schneier.com/?p=71330",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "censorship",
+      "China",
+      "human rights",
+      "privacy",
+      "reports",
+      "surveillance"
+    ],
+    "isoDate": "2025-12-16T12:02:32.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Why Data Security and Privacy Need to Start in Code",
     "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
@@ -334,22 +358,5 @@
       "trust"
     ],
     "isoDate": "2025-12-12T12:00:47.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
-    "link": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-    "pubDate": "Fri, 12 Dec 2025 15:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDv3XARtOUivvjEnErljioTinVDnawx7b3HwjUiP4I_0_JvCPo8jro-fI8ZJHESGp8sG0SMYH4BgfZqMQMeGA95kuzhe3z3m6GgMCtBdqRtLJ1WRKUHTJv8XoRLh8H7UXi3wMH0O9BhfsBsLyRFdsv53qh-TYgOwFr3PzpdsKcZ4QryozVIoGGJhVKP_c/s1600/ai.jpg"
-    },
-    "content": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files.&nbsp;\nTraditional",
-    "contentSnippet": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files. \nTraditional",
-    "guid": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-    "isoDate": "2025-12-12T10:18:00.000Z",
-    "itunes": {}
   }
 ]
