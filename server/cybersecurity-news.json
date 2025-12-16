@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+    "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+    "pubDate": "Tue, 16 Dec 2025 21:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
+    "contentSnippet": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
+    "guid": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+    "isoDate": "2025-12-16T15:39:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Most Parked Domains Now Serving Malicious Content",
     "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
@@ -346,22 +363,5 @@
       "video"
     ],
     "isoDate": "2025-12-12T22:00:30.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
-    "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-    "pubDate": "Sat, 13 Dec 2025 00:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing",
-    "guid": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-    "isoDate": "2025-12-12T18:50:00.000Z",
-    "itunes": {}
   }
 ]
