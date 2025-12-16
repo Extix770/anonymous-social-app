@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Data Security and Privacy Need to Start in Code",
+    "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
+    "pubDate": "Tue, 16 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheLe0xus43fBC5WVlloIHxChsFoGH2XkRBVCinnA2bHl3CWBF3dSk16c_8SwEnq0I4PTXEn9ddR4c2zSpbtCDlvVrV4_cfw3YHZPi53COc7qWcispxF1AQ8UXYh4CPh1oRkoTg1KH6UPZjKc_Pa-C4MB3BGsqhemVAteYmXrMpp8mUlbCUxcjnt4adsdE/s1600/shift.jpg"
+    },
+    "content": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applications. Security and privacy teams are under significant pressure as the surface area they must cover is expanding quickly while their staffing levels remain largely",
+    "contentSnippet": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applications. Security and privacy teams are under significant pressure as the surface area they must cover is expanding quickly while their staffing levels remain largely",
+    "guid": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
+    "isoDate": "2025-12-16T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
     "link": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
     "pubDate": "Tue, 16 Dec 2025 16:28:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files. \nTraditional",
     "guid": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
     "isoDate": "2025-12-12T10:18:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
-    "link": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-    "pubDate": "Fri, 12 Dec 2025 14:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
-    },
-    "content": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
-    "contentSnippet": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
-    "guid": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-    "isoDate": "2025-12-12T08:55:00.000Z",
     "itunes": {}
   }
 ]
