@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+    "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+    "pubDate": "Wed, 17 Dec 2025 21:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLzd6YnWyQ56Xbt_HlhI75xek4Jz48-N00eU2I6DGqA6KBmlo-vE932Zz6ASRHE9KetD1kl8j4_5BoGhhYRNWFFyamUMFWugIxQ9YIAx1ZLsXqqqYz7-tiAcSIAz1H5mmzZtqnCRlSB4aksTWjZ_jWIVBp9F4J60tOrVZyKBr1DHILd5o7y8DLmINuWHO/s1600/action.jpg"
+    },
+    "content": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.\nThe activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
+    "contentSnippet": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.\nThe activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
+    "guid": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+    "isoDate": "2025-12-17T15:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+    "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+    "pubDate": "Wed, 17 Dec 2025 20:24:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiov02Hir3n9ONPKRPyGJ5w_YYyqS6kxqhe2VXSqr3ygQOj5xZn8llZI9YbUgM1ups321geaVj2vlJ6wolU0byZi5XzE1E38f8x42ZjzlcRfLsixdFin2PVWGxleHHa_ESlMNo7Zhq11PVraCIkAylXOhVV_Ez2eZSSx6sfkZ0iZK2nx0J_ERgOkuHbHFY4/s1600/ops.jpg"
+    },
+    "content": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.\nThe Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown.\n\"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
+    "contentSnippet": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.\nThe Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown.\n\"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
+    "guid": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+    "isoDate": "2025-12-17T14:54:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Deliberate Internet Shutdowns",
     "link": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
@@ -326,39 +360,5 @@
       "regulation"
     ],
     "isoDate": "2025-12-15T12:02:15.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
-    "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
-    "pubDate": "Mon, 15 Dec 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAAYMfLInHfns5nX7hk3SOBwCvMca-7usfovrOLFewfHgZtx0972jWlVx8u1MVE0_WqJCnczK6ZFXTZ-ir-grtXiWZcXJw6eGWzTX7supbbmuFOPY2fxfgdqcRAP_dpIW4fGawNEFOdY1wfUVlhaL4lx3_HjP20Ql7NEsL3oVu6s2xceDq0DHz_JyQU2Y/s1600/reco.jpg"
-    },
-    "content": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
-    "contentSnippet": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
-    "guid": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
-    "isoDate": "2025-12-15T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
-    "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
-    "pubDate": "Mon, 15 Dec 2025 14:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglC802fHbjYDV11Y3NmxnCVUJfKSNEDRXAtOM722x09s0GmNQF11fP-r7betDJE1NOMAXe9DcIyEGYlWLMFf8S2B3pMRcLtLuGqqYovFNSGfnruQbydlAzRhpYQgKTZrYR68RcpYTJRjUEHTBDLDANrBWUx2zYhtcm28f7njmIuqHXI36W9omWtuD8AeFC/s1600/email.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
-    "guid": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
-    "isoDate": "2025-12-15T09:24:00.000Z",
-    "itunes": {}
   }
 ]
