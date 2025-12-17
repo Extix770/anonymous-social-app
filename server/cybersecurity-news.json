@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+    "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+    "pubDate": "Wed, 17 Dec 2025 23:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyrg8g1G4OnVQ36TFxAz4aVSNLSYRl241I2Ai7LGLTf0mkviQL2ZhBpoQRKS-lb3lRuwQJKKEeAfNVzzujNLnZzQEseWLaeoiSmUfbmUCdhaw6w4tJXr2uFCtvqgptfsQ7THnLXNvcIBz94pa0ge6SEKZ3WuOL18fufKJKRKTKP0Xt8YjDugU6930oPg4/s1600/sonicwall.jpg"
+    },
+    "content": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following",
+    "contentSnippet": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following",
+    "guid": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+    "isoDate": "2025-12-17T18:17:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "Border Patrol Bets on Small Drones to Expand US Surveillance Reach",
     "link": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
@@ -15,6 +32,23 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-17T18:12:24.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+    "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+    "pubDate": "Wed, 17 Dec 2025 23:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-q5Xa6KgWXYqaE_Gb7hCK-lfm5MRlkicK1xFVL8HwS5-jHv0MAY5YYAyTmuRfITo4hEjKmhAnfXMpWLSpqS5jQkSMFVw2DSPnu_CvTCpwTrFBUwN_wWoPF8NqrPJo7GR7cUYEQ4AIz339JY4MqyGx6OZk7GQih_fGBPu9S5RrYPXSMRbnRHuJnhNEQa5/s1600/android-tvs.jpg"
+    },
+    "content": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
+    "contentSnippet": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
+    "guid": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+    "isoDate": "2025-12-17T18:09:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -321,40 +355,6 @@
     "contentSnippet": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
     "guid": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
     "isoDate": "2025-12-15T17:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
-    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
-    "pubDate": "Mon, 15 Dec 2025 20:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv01p712eomGjpG3imw4Fow3C_gFqZq2RwuHvosDk7WWN08kcB3sVc9ZCeOyic9zqqYml63fAppF-DF0gDBXnwMBbtFE7mr81Trn8IQVOmCn4Msnx5pL87XopJicEYXlyFchV5u0hToNbvtRYR0rhG0y5S0cK06UGK8_7HFAbNJylUxYV4BDG3ZupUNh7b/s1600/zeroday.jpg"
-    },
-    "content": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
-    "contentSnippet": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
-    "guid": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
-    "isoDate": "2025-12-15T14:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
-    "pubDate": "Mon, 15 Dec 2025 17:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s1600/recapp.jpg"
-    },
-    "content": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and",
-    "contentSnippet": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and",
-    "guid": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
-    "isoDate": "2025-12-15T12:24:00.000Z",
     "itunes": {}
   }
 ]
