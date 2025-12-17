@@ -747,15 +747,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -765,13 +756,13 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
     "stars": 5,
     "forks": 1,
-    "language": null
+    "language": "C"
   },
   {
     "name": "OSINT-TOOLS",
@@ -780,6 +771,15 @@
     "description": "OSINT(Open-Source Intelligence) araçları. ",
     "stars": 5,
     "forks": 0,
+    "language": null
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
     "language": null
   },
   {
@@ -819,15 +819,6 @@
     "language": "Python"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
@@ -855,15 +855,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -871,6 +862,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "obsidian-soc-toolkit",
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "language": "Python"
   }
 ]
