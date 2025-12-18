@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+    "pubDate": "Thu, 18 Dec 2025 20:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH806nHTdXt51O7PVip7PNV2XCDB4KCOygYB69A4vwOOjVyK1B_3cNesAvljNSzuj-lAmCe8AgIgrwQtK7fuOckkB4hj1QQ-tYq4OI8lrvsz30cNzfjrOF8b5qiT_wEpAlsvEGa68zHG0dtl2CZK6hz7MpW-W6ZlPRgj7PGMIa-n38VlwbOhHfip4cTTrY/s1600/hpe.jpg"
+    },
+    "content": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
+    "contentSnippet": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
+    "guid": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+    "isoDate": "2025-12-18T14:39:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
     "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
     "pubDate": "Thu, 18 Dec 2025 18:40:00 +0530",
@@ -332,22 +349,5 @@
       "typosquatting"
     ],
     "isoDate": "2025-12-16T14:14:48.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-    "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-    "pubDate": "Tue, 16 Dec 2025 17:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmP5wc4kQ_fstR7DVyxpp7nwoP36IRuDO6oBSyghPEx9VCjLCy2LPOoIYBHvfUELKpnhUQTWFtfCW8RiceJj5qgDVJpptVCfGNA9eeOi0vvbPCX9FFxF-kcTRnZN49Gqw0x71mloL7e2gN-I0lW0pFIkttwupJhJp5LMWc94ozebd-Yu9k-b8CUpJvFDpY/s1600/russian.gif"
-    },
-    "content": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
-    "contentSnippet": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
-    "guid": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-    "isoDate": "2025-12-16T12:27:00.000Z",
-    "itunes": {}
   }
 ]
