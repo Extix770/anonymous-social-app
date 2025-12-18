@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+    "pubDate": "Thu, 18 Dec 2025 10:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictGhjT_9OZJTuEYOqE7telpBLN4MwLPN-_JQ47nzM7kRB30tNAxJZTj9G4_et941pBqOhHYsMelUkkFuHr4YpaSePmF2yI9HlFtjucfPOrUBLygp2yn9Si1RTNOhFOwXOD1i4R1pn7tF5wF5tTWCt6yOHKOzogpgTJKsnLqPMZeqSei3woebqNCrukUTm/s1600/asus-update.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise",
+    "guid": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+    "isoDate": "2025-12-18T05:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
     "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
     "pubDate": "Thu, 18 Dec 2025 09:40:00 +0530",
@@ -10,8 +27,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjMjZETJCJzsn3zNMvhFcueq4Jg-O7GD4cD5JoRzRRlP5TeeoxTkjVNrFJsNM1AGDrsTu6cTS21FhA5IeCIFA8lv1T7T2tzKp7gax2Iqkuw2NQ62cIdlsRPoRuLZLieDm1CvaNg688pPbY0k50cG2RbDWWtv_GvAGfAFtJwJ_r43qsp42vNdJ8YPvrmL-/s1600/cisco.jpg"
     },
-    "content": "Cisco has alerted users of a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
-    "contentSnippet": "Cisco has alerted users of a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+    "content": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+    "contentSnippet": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
     "guid": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
     "isoDate": "2025-12-18T04:10:00.000Z",
     "itunes": {}
@@ -338,23 +355,6 @@
     "contentSnippet": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.\n\"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
     "guid": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
     "isoDate": "2025-12-16T08:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
-    "link": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-    "pubDate": "Tue, 16 Dec 2025 11:32:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxSi6VCX3WC9AjpLsvCFSakbkppzzCdUxTD_4mLbyuC3Bo9ru4rNrN9oh8gEOjf5ePq4506p7I-P8J5oKnHQnF9cOIVSSSjEJVC5llgbgHJXRbdD1qu91gxFG3RttggzfGhwEI6syBjgvDLAD9jEXV-TmDQ_R4ICvEqdbuKn3cfM6RKbshA4Up-3yKVGs/s1600/darkweb.jpg"
-    },
-    "content": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo that end, scans for new dark web breaches will be stopped on January 15, 2026, and the feature will cease to exist effective February 16, 2026.\n\"While the report offered general",
-    "contentSnippet": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo that end, scans for new dark web breaches will be stopped on January 15, 2026, and the feature will cease to exist effective February 16, 2026.\n\"While the report offered general",
-    "guid": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-    "isoDate": "2025-12-16T06:02:00.000Z",
     "itunes": {}
   }
 ]
