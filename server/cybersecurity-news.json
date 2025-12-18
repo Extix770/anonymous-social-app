@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+    "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+    "pubDate": "Thu, 18 Dec 2025 09:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjMjZETJCJzsn3zNMvhFcueq4Jg-O7GD4cD5JoRzRRlP5TeeoxTkjVNrFJsNM1AGDrsTu6cTS21FhA5IeCIFA8lv1T7T2tzKp7gax2Iqkuw2NQ62cIdlsRPoRuLZLieDm1CvaNg688pPbY0k50cG2RbDWWtv_GvAGfAFtJwJ_r43qsp42vNdJ8YPvrmL-/s1600/cisco.jpg"
+    },
+    "content": "Cisco has alerted users of a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+    "contentSnippet": "Cisco has alerted users of a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+    "guid": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+    "isoDate": "2025-12-18T04:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
     "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
     "pubDate": "Wed, 17 Dec 2025 23:47:00 +0530",
@@ -338,23 +355,6 @@
     "contentSnippet": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo that end, scans for new dark web breaches will be stopped on January 15, 2026, and the feature will cease to exist effective February 16, 2026.\n\"While the report offered general",
     "guid": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
     "isoDate": "2025-12-16T06:02:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
-    "link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
-    "pubDate": "Mon, 15 Dec 2025 23:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s1600/chat-stealer.jpg"
-    },
-    "content": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
-    "contentSnippet": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
-    "guid": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
-    "isoDate": "2025-12-15T17:46:00.000Z",
     "itunes": {}
   }
 ]
