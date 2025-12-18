@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
+    "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
+    "link": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
+    "pubDate": "Thu, 18 Dec 2025 17:45:46 +0000",
+    "dc:creator": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
+    "content": "Capable of creating “nearly perfect” face swaps during live video chats, Hoatian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
+    "contentSnippet": "Capable of creating “nearly perfect” face swaps during live video chats, Hoatian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
+    "guid": "67d9b883d699e181128c195e",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-18T17:45:46.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Someone Boarded a Plane at Heathrow Without a Ticket or Passport",
     "link": "https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html",
@@ -323,23 +338,6 @@
     "contentSnippet": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
     "guid": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
     "isoDate": "2025-12-16T16:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-    "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-    "pubDate": "Tue, 16 Dec 2025 21:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
-    "contentSnippet": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
-    "guid": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-    "isoDate": "2025-12-16T15:39:00.000Z",
     "itunes": {}
   }
 ]
