@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
+    "link": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
+    "pubDate": "Thu, 18 Dec 2025 19:14:50 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
+    "contentSnippet": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
+    "guid": "6944158f17f8230f56a84949",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Security / National Security"
+    ],
+    "isoDate": "2025-12-18T19:14:50.000Z"
+  },
+  {
     "creator": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
     "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
     "link": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
@@ -322,22 +339,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-17T10:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-    "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-    "pubDate": "Wed, 17 Dec 2025 13:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvPHdkrpjZsxg3pztc2gN7T9O0W5B1C3B6v7G-ep4OPWtLats1XsDkFfgorwPpwIwHAanQiLirNnsFMYVh0BrLu8Y_c6LjGbTHefFNAHFgDJ9hM-Iv7LI81eXSxjO8mz1tmAny6Bif9UNwSQaFrBvIGGPDFmB1Eon3nW1NYYvwaD5tY15ItYCa0RmMZs-/s1600/firefox.jpg"
-    },
-    "content": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
-    "contentSnippet": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
-    "guid": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-    "isoDate": "2025-12-17T08:14:00.000Z",
-    "itunes": {}
   }
 ]
