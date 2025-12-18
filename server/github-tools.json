@@ -684,21 +684,21 @@
     "language": "TypeScript"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -819,15 +819,6 @@
     "language": "Python"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
@@ -855,15 +855,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "PerlCodingToolkit",
     "owner": "Cizr",
     "url": "https://github.com/Cizr/PerlCodingToolkit",
@@ -871,6 +862,15 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "obsidian-soc-toolkit",
