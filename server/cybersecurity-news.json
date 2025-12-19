@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+    "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+    "pubDate": "Fri, 19 Dec 2025 15:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi81CadfhaxxTeFQDfM8un9wrg4Vx3saV5ZZ5-L3l1FN8aB1RtNMctdkOzKQaTD4ZnfXrzUtTCY7Hhc2TB9Z3wafJ0JbTFRt0rxUPQwRaQjLt68qmzjDlEgutKjMt4RMAI6ziNjwa1tG-Yfv_T_prPgyuqxuvfdkRMdJ3Cwm5nSXh2JXqkS87YROdWZ3jxH/s1600/hacker-arrested.jpg"
+    },
+    "content": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
+    "contentSnippet": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
+    "guid": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+    "isoDate": "2025-12-19T10:26:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
     "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
     "pubDate": "Fri, 19 Dec 2025 13:55:00 +0530",
@@ -322,23 +339,6 @@
     "contentSnippet": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
     "guid": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
     "isoDate": "2025-12-17T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
-    "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-    "pubDate": "Wed, 17 Dec 2025 16:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg"
-    },
-    "content": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
-    "contentSnippet": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
-    "guid": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-    "isoDate": "2025-12-17T11:12:00.000Z",
     "itunes": {}
   }
 ]
