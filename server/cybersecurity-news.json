@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+    "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+    "pubDate": "Fri, 19 Dec 2025 16:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwTg7kTeuQORUcne_nRd81FBUZhq23jpa3MWAlljTHtPVTIRdA7VHw-j7xnc1nOqq5c2Zvz2sr8bO7rrhaUsXAxTAJKudyNugxcmD0oDX3buOXTDb2apFV99fEii14gDwpnVm5-Vi4GMG_nWYrkTn_s4mjPYFAXqShWw8dKa8-ZiMTHkfzea1LQDys4yj/s1600/watchgaurd.jpg"
+    },
+    "content": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
+    "contentSnippet": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
+    "guid": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+    "isoDate": "2025-12-19T11:23:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
     "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
     "pubDate": "Fri, 19 Dec 2025 15:56:00 +0530",
@@ -323,22 +340,5 @@
       "Internet"
     ],
     "isoDate": "2025-12-17T12:02:01.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-    "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-    "pubDate": "Wed, 17 Dec 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAo-MBBYaWayNY0Hzg8QFcOCw_ylI8JM8RcOED0_buLBNU32LM_ftRfE_rS9VknflDViF5hMZsAI4jzWvAemNsTcL71ICA1dAneg-gBrrb3j98XsCSyuLFFCU2QScf0Uw6WhhdQHntSHOnscMG4bXidDQiU4lq0Nv5zlvnHSyctJqHOFCARwGjPXuHk/s1600/anyrun.jpg"
-    },
-    "content": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
-    "contentSnippet": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
-    "guid": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-    "isoDate": "2025-12-17T11:30:00.000Z",
-    "itunes": {}
   }
 ]
