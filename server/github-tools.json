@@ -31,7 +31,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1297,
+    "stars": 1298,
     "forks": 147,
     "language": null
   },
@@ -85,8 +85,8 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 263,
-    "forks": 71,
+    "stars": 264,
+    "forks": 72,
     "language": "PHP"
   },
   {
@@ -684,6 +684,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -699,15 +708,6 @@
     "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 6,
-    "forks": 1,
     "language": "Python"
   },
   {
