@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Petting a Squid",
+    "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html",
+    "pubDate": "Fri, 19 Dec 2025 22:06:59 +0000",
+    "content:encoded": "<p><a href=\"https://www.reddit.com/r/Whatcouldgowrong/comments/1mn9c9c/petting_a_squid/\">Video</a> from Reddit shows what could go wrong when you try to pet a&#8212;looks like a Humboldt&#8212;squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Video from Reddit shows what could go wrong when you try to pet a—looks like a Humboldt—squid.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html#respond",
+    "content": "<p><a href=\"https://www.reddit.com/r/Whatcouldgowrong/comments/1mn9c9c/petting_a_squid/\">Video</a> from Reddit shows what could go wrong when you try to pet a&#8212;looks like a Humboldt&#8212;squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Video from Reddit shows what could go wrong when you try to pet a—looks like a Humboldt—squid.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71304",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2025-12-19T22:06:59.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
     "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
@@ -328,22 +346,5 @@
     "guid": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
     "isoDate": "2025-12-17T18:17:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "Border Patrol Bets on Small Drones to Expand US Surveillance Reach",
-    "link": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
-    "pubDate": "Wed, 17 Dec 2025 18:12:24 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Federal records show CBP is moving from testing small drones to making them standard surveillance tools, expanding a network that can follow activity in real time and extend well beyond the border.",
-    "contentSnippet": "Federal records show CBP is moving from testing small drones to making them standard surveillance tools, expanding a network that can follow activity in real time and extend well beyond the border.",
-    "guid": "6941a9ca898599d8134eb0d0",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-17T18:12:24.000Z"
   }
 ]
