@@ -855,6 +855,15 @@
     "language": "Python"
   },
   {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 4,
+    "forks": 0,
+    "language": "TypeScript"
+  },
+  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -871,15 +880,6 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
-  },
-  {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 4,
-    "forks": 0,
-    "language": "TypeScript"
   },
   {
     "name": "URL-Analysis-Tool",
