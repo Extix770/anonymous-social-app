@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7285,
+    "stars": 7286,
     "forks": 834,
     "language": "HTML"
   },
@@ -77,7 +77,7 @@
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 478,
-    "forks": 104,
+    "forks": 105,
     "language": null
   },
   {
@@ -112,7 +112,7 @@
     "owner": "nateahess",
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 155,
+    "stars": 156,
     "forks": 17,
     "language": null
   },
