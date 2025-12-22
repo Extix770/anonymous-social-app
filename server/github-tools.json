@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8001,
+    "stars": 8000,
     "forks": 1097,
     "language": null
   },
@@ -549,21 +549,21 @@
     "language": null
   },
   {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 8,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
     "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
     "stars": 8,
     "forks": 2,
+    "language": null
+  },
+  {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 8,
+    "forks": 3,
     "language": null
   },
   {
@@ -693,21 +693,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -864,15 +864,6 @@
     "language": "Perl"
   },
   {
-    "name": "cybersec-tools-installer",
-    "owner": "whitehathackerpr",
-    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
-    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "cybersec-tools-installer",
+    "owner": "whitehathackerpr",
+    "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
+    "description": "A comprehensive installer for cybersecurity and penetration testing tools on Ubuntu. This project provides a streamlined way to set up a powerful pentesting environment with a single command.",
+    "stars": 4,
+    "forks": 1,
+    "language": "Shell"
   },
   {
     "name": "URL-Analysis-Tool",
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
     "stars": 4,
     "forks": 1,
-    "language": null
+    "language": "Python"
   }
 ]
