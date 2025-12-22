@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Brian Barrett, Maddy Varner, Dell Cameron",
+    "title": "The Justice Department Just Released More Epstein Files",
+    "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
+    "pubDate": "Mon, 22 Dec 2025 19:43:34 +0000",
+    "dc:creator": "Brian Barrett, Maddy Varner, Dell Cameron",
+    "content": "The latest Epstein Files release appears to contain hundreds of photographs along with court records and other materials.",
+    "contentSnippet": "The latest Epstein Files release appears to contain hundreds of photographs along with court records and other materials.",
+    "guid": "694594efd2ae1c7afe304d3d",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-22T19:43:34.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Microsoft Is Finally Killing RC4",
     "link": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
@@ -333,22 +348,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-18T17:45:46.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
-    "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-    "pubDate": "Thu, 18 Dec 2025 23:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJfevEjiw45l8FjqjN4eMMwYTeqYN2gxYbOh_-KfWdfb01nRTY2z1Qa0FQkQr6wLEeHJIvzIeqTKjynV1U01qxNNV3XhJbxkMYJnQflKTRgkdFsRezoOlVq_XVGOCq1aIh57xMt8xSUQeVLx3Mvyn0fZORpICrNdkRDbbmgVmqXnMMHzIw9_WsAM4MO_As/s1600/chinese-hackers.jpg"
-    },
-    "content": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023.\n\"",
-    "contentSnippet": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023.\n\"",
-    "guid": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-    "isoDate": "2025-12-18T17:34:00.000Z",
-    "itunes": {}
   }
 ]
