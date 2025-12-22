@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2321,
+    "stars": 2322,
     "forks": 347,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1297,
+    "stars": 1298,
     "forks": 147,
     "language": null
   },
@@ -122,7 +122,7 @@
     "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
     "description": "List, utilize and cheatsheet of Ethical Hacking tools",
     "stars": 118,
-    "forks": 50,
+    "forks": 49,
     "language": null
   },
   {
@@ -630,15 +630,6 @@
     "language": null
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "LuciTools",
     "owner": "IamLucif3r",
     "url": "https://github.com/IamLucif3r/LuciTools",
@@ -646,6 +637,15 @@
     "stars": 7,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
+    "stars": 7,
+    "forks": 1,
+    "language": "C#"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -756,15 +756,6 @@
     "language": "Python"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "OSINT-TOOLS",
@@ -855,6 +855,15 @@
     "language": "Python"
   },
   {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 4,
+    "forks": 0,
+    "language": "TypeScript"
+  },
+  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -871,15 +880,6 @@
     "stars": 4,
     "forks": 0,
     "language": "Perl"
-  },
-  {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 4,
-    "forks": 0,
-    "language": "TypeScript"
   },
   {
     "name": "URL-Analysis-Tool",
