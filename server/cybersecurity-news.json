@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Maddy Varner, Brian Barrett",
+    "title": "The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems",
+    "link": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
+    "pubDate": "Mon, 22 Dec 2025 23:34:45 +0000",
+    "dc:creator": "Maddy Varner, Brian Barrett",
+    "content": "Here's how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump.",
+    "contentSnippet": "Here's how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump.",
+    "guid": "6945953ec3d8aea5531094e0",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-22T23:34:45.000Z"
+  },
+  {
     "creator": "Brian Barrett, Maddy Varner",
     "title": "The Justice Department Released More Epstein Files—but Not the Ones Survivors Want",
     "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
@@ -333,20 +348,5 @@
       "Security / National Security"
     ],
     "isoDate": "2025-12-18T19:14:50.000Z"
-  },
-  {
-    "creator": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
-    "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-    "link": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-    "pubDate": "Thu, 18 Dec 2025 17:45:46 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
-    "content": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-    "contentSnippet": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-    "guid": "67d9b883d699e181128c195e",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-18T17:45:46.000Z"
   }
 ]
