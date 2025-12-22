@@ -1,5 +1,45 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Microsoft Is Finally Killing RC4",
+    "link": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
+    "pubDate": "Mon, 22 Dec 2025 17:05:09 +0000",
+    "content:encoded": "<p>After twenty-six years, Microsoft is <a href=\"https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/\">finally upgrading</a> the last remaining instance of the encryption algorithm RC4 in Windows.</p>\n<blockquote><p>of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a <a href=\"https://arstechnica.com/security/2025/09/how-weak-passwords-and-other-failings-led-to-catastrophic-breach-of-ascension/\">key role</a> in last year&#8217;s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) <a href=\"https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting\">in September</a> called on the Federal Trade Commission to investigate Microsoft for &#8220;gross cybersecurity negligence,&#8221; citing the continued default support for RC4.</p>\n<p>Last week, Microsoft <a href=\"https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication\">said</a> it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension&#8217;s network.</p></blockquote>\n<p>Fun fact: RC4 was a trade secret until I published the algorithm in the second edition of <i><a href=\"https://www.schneier.com/books/applied-cryptography/\">Applied Cryptography</a></i> in 1995.</p>\n",
+    "content:encodedSnippet": "After twenty-six years, Microsoft is finally upgrading the last remaining instance of the encryption algorithm RC4 in Windows.\nof the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a key role in last year’s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) in September called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the continued default support for RC4.\nLast week, Microsoft said it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension’s network.\n\nFun fact: RC4 was a trade secret until I published the algorithm in the second edition of Applied Cryptography in 1995.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html#respond",
+    "content": "<p>After twenty-six years, Microsoft is <a href=\"https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/\">finally upgrading</a> the last remaining instance of the encryption algorithm RC4 in Windows.</p>\n<blockquote><p>of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a ...</p></blockquote>",
+    "contentSnippet": "After twenty-six years, Microsoft is finally upgrading the last remaining instance of the encryption algorithm RC4 in Windows.\nof the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a ...",
+    "guid": "https://www.schneier.com/?p=71371",
+    "categories": [
+      "Uncategorized",
+      "algorithms",
+      "Applied Cryptography",
+      "encryption",
+      "Microsoft",
+      "RC4",
+      "Windows"
+    ],
+    "isoDate": "2025-12-22T17:05:09.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+    "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
+    "pubDate": "Mon, 22 Dec 2025 21:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmlgJ1Ik_0R32UVEqmVu8yRjzKyNEMijqN7ox6JMNp9RQFOtpeBhDHEcgQH6eL6SgRRF3z6pH4YHh2fanPXGIIyrMJIUZ72Nm4JOWYycoqFnvzyFcbuufQHdjxdde1_MIZ0SiSsG8EyrzC0KpF-pO4Nvzpg2OtpApM_F0pZizo46YpYmU6Jj0dA1YvHiz/s1600/whatsapp-api.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
+    "guid": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
+    "isoDate": "2025-12-22T16:28:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
     "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
@@ -309,42 +349,6 @@
     "contentSnippet": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023.\n\"",
     "guid": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
     "isoDate": "2025-12-18T17:34:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Someone Boarded a Plane at Heathrow Without a Ticket or Passport",
-    "link": "https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html",
-    "pubDate": "Thu, 18 Dec 2025 16:41:14 +0000",
-    "content:encoded": "<p>I&#8217;m sure there&#8217;s a <a href=\"https://ca.news.yahoo.com/man-boards-heathrow-flight-without-081243825.html\">story here</a>:</p>\n<blockquote><p>Sources say the man had tailgated his way <https://uk.news.yahoo.com/fury-passengers-major-london-aiport-152235291.html>through to security screening and passed security, meaning he was not detected carrying any banned items.</p>\n<p>The man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.</p></blockquote>\n",
-    "content:encodedSnippet": "I’m sure there’s a story here:\nSources say the man had tailgated his way \nthrough to security screening and passed security, meaning he was not detected carrying any banned items.\nThe man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html#comments",
-    "content": "<p>I&#8217;m sure there&#8217;s a <a href=\"https://ca.news.yahoo.com/man-boards-heathrow-flight-without-081243825.html\">story here</a>:</p>\n<blockquote><p>Sources say the man had tailgated his way through to security screening and passed security, meaning he was not detected carrying any banned items.</p>\n<p>The man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.</p></blockquote>\n",
-    "contentSnippet": "I’m sure there’s a story here:\nSources say the man had tailgated his way through to security screening and passed security, meaning he was not detected carrying any banned items.\nThe man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.",
-    "guid": "https://www.schneier.com/?p=71358",
-    "categories": [
-      "Uncategorized",
-      "air travel",
-      "social engineering"
-    ],
-    "isoDate": "2025-12-18T16:41:14.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-    "pubDate": "Thu, 18 Dec 2025 20:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH806nHTdXt51O7PVip7PNV2XCDB4KCOygYB69A4vwOOjVyK1B_3cNesAvljNSzuj-lAmCe8AgIgrwQtK7fuOckkB4hj1QQ-tYq4OI8lrvsz30cNzfjrOF8b5qiT_wEpAlsvEGa68zHG0dtl2CZK6hz7MpW-W6ZlPRgj7PGMIa-n38VlwbOhHfip4cTTrY/s1600/hpe.jpg"
-    },
-    "content": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
-    "contentSnippet": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
-    "guid": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-    "isoDate": "2025-12-18T14:39:00.000Z",
     "itunes": {}
   }
 ]
