@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+    "pubDate": "Mon, 22 Dec 2025 17:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s1600/recap.jpg"
+    },
+    "content": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
+    "contentSnippet": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
+    "guid": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+    "isoDate": "2025-12-22T12:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How to Browse the Web More Sustainably With a Green Browser",
+    "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+    "pubDate": "Mon, 22 Dec 2025 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDqayh8eTBNeu3P7DDfaRLyYy7oXoTFadgcbgmSHwjlUYyGh8ZxACjv52OqcE-BjUZkFVjd8Fj-Vo49W4o6b2uXa4OkNR1vAB3LOCsrp5SptD9HhO_9dNvOfxH2Zp-QUBUFz94h9mKNDB_lIUvdDMu1v2Pf_ETEGWvYNqfetmTIN0Jppl_QU1M7ycBUAI/s1600/1.jpg"
+    },
+    "content": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;\nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
+    "contentSnippet": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. \nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
+    "guid": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+    "isoDate": "2025-12-22T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
     "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
     "pubDate": "Mon, 22 Dec 2025 11:41:00 +0530",
@@ -311,40 +345,6 @@
     "contentSnippet": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
     "guid": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
     "isoDate": "2025-12-18T14:39:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
-    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
-    "pubDate": "Thu, 18 Dec 2025 18:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeJtuRy-gjytN_j0MAXAb1xvnGYRgQ0DDQnZzdAo5jaT8C8zPIYpYrEBrJykOsYixevHoF4rfux8jhSgmKdO0_URETDCJwbVdLzdyj2tsOVobmrROO8OUZb9UGqThi3ah-T1tqvl-EsIInns9yOxYA-PJzupTJlRne0bAIqDS8PA6EJjzG8qQf1vYOpsI/s1600/threatsday-main.jpg"
-    },
-    "content": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become.\nHere’s the full rundown of what",
-    "contentSnippet": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become.\nHere’s the full rundown of what",
-    "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
-    "isoDate": "2025-12-18T13:10:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
-    "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-    "pubDate": "Thu, 18 Dec 2025 18:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHTdmzsADACELwHA_CbIZVsam4MNGitGEgbHD2jOysPFLnZerWmRSZtTJzSkOJagPS8pmFni0SE8Jp63CEMJFDTjnNx51ND6Px3RCC5W37i61m_PrgB7T5KoghRqtVCvy6A0Bx4LVnZFEm8CijNS2RxOlxeC_3roMiJRqe9bWn2N92dj77mjYsGptVWUS/s1600/north-korean-hackers.jpg"
-    },
-    "content": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
-    "contentSnippet": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
-    "guid": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-    "isoDate": "2025-12-18T13:00:00.000Z",
     "itunes": {}
   }
 ]
