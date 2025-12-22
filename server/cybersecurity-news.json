@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+    "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+    "pubDate": "Mon, 22 Dec 2025 11:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
+    },
+    "content": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
+    "contentSnippet": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
+    "guid": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+    "isoDate": "2025-12-22T06:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
     "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
     "pubDate": "Sun, 21 Dec 2025 09:52:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
     "guid": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
     "isoDate": "2025-12-18T13:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-    "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-    "pubDate": "Thu, 18 Dec 2025 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAVPr4nxCDAf4euDWVcFXtlRMe6lkY8T4OCHznoMF2p0khf6nxt_vCRd6ucmLfQ1mNk4DbL1AFBWwtJLyAKTtBrHGq7klKPhXr34anEfsJI54GfilYo01uu7hIV3RBYNTL7_nsvxxY1yUv1gxZUZamoHEqmBK_Z4Mfbx2aljfv5-oj7Kj0BTuKn7atUi_/s1600/reco-main.jpg"
-    },
-    "content": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings.\nThe result is an explosion of AI capabilities across",
-    "contentSnippet": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings.\nThe result is an explosion of AI capabilities across",
-    "guid": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-    "isoDate": "2025-12-18T11:30:00.000Z",
     "itunes": {}
   }
 ]

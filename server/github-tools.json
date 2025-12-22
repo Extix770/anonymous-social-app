@@ -819,15 +819,6 @@
     "language": null
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -835,6 +826,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Tooli",
@@ -855,13 +855,13 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 4,
     "forks": 0,
-    "language": "Perl"
+    "language": "TypeScript"
   },
   {
     "name": "cybersec-tools-installer",
@@ -873,13 +873,13 @@
     "language": "Shell"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
     "stars": 4,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Perl"
   },
   {
     "name": "URL-Analysis-Tool",
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
+    "name": "Mobile-Penetration-Testing-Tool",
+    "owner": "4xyy",
+    "url": "https://github.com/4xyy/Mobile-Penetration-Testing-Tool",
+    "description": "AI-Powered Mobile Application Penetration Testing Tool",
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "language": "Python"
   }
 ]
