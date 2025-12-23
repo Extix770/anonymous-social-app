@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
+    "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
+    "pubDate": "Tue, 23 Dec 2025 13:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
+    },
+    "content": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
+    "contentSnippet": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
+    "guid": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
+    "isoDate": "2025-12-23T08:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
     "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
     "pubDate": "Tue, 23 Dec 2025 13:04:00 +0530",
@@ -330,23 +347,6 @@
     "contentSnippet": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
     "guid": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
     "isoDate": "2025-12-19T11:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-    "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-    "pubDate": "Fri, 19 Dec 2025 15:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi81CadfhaxxTeFQDfM8un9wrg4Vx3saV5ZZ5-L3l1FN8aB1RtNMctdkOzKQaTD4ZnfXrzUtTCY7Hhc2TB9Z3wafJ0JbTFRt0rxUPQwRaQjLt68qmzjDlEgutKjMt4RMAI6ziNjwa1tG-Yfv_T_prPgyuqxuvfdkRMdJ3Cwm5nSXh2JXqkS87YROdWZ3jxH/s1600/hacker-arrested.jpg"
-    },
-    "content": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
-    "contentSnippet": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
-    "guid": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-    "isoDate": "2025-12-19T10:26:00.000Z",
     "itunes": {}
   }
 ]
