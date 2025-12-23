@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
+    "link": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
+    "pubDate": "Tue, 23 Dec 2025 11:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "Online black markets once lurked in the shadows of the dark web. Today, they’ve moved onto public platforms like Telegram—and are racking up historic illicit fortunes.",
+    "contentSnippet": "Online black markets once lurked in the shadows of the dark web. Today, they’ve moved onto public platforms like Telegram—and are racking up historic illicit fortunes.",
+    "guid": "691ba344c05ad68f076f4074",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2025-12-23T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
     "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
@@ -331,22 +346,5 @@
       "phones"
     ],
     "isoDate": "2025-12-19T12:02:43.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
-    "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-    "pubDate": "Fri, 19 Dec 2025 16:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwTg7kTeuQORUcne_nRd81FBUZhq23jpa3MWAlljTHtPVTIRdA7VHw-j7xnc1nOqq5c2Zvz2sr8bO7rrhaUsXAxTAJKudyNugxcmD0oDX3buOXTDb2apFV99fEii14gDwpnVm5-Vi4GMG_nWYrkTn_s4mjPYFAXqShWw8dKa8-ZiMTHkfzea1LQDys4yj/s1600/watchgaurd.jpg"
-    },
-    "content": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
-    "contentSnippet": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
-    "guid": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-    "isoDate": "2025-12-19T11:23:00.000Z",
-    "itunes": {}
   }
 ]
