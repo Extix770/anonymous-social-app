@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+    "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
+    "pubDate": "Tue, 23 Dec 2025 20:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__5ctB3AEUyx20JMtYNXVZZluGKRNFfjiUFh6x6DKegzNVsYHnd5W0aB_Khw7lDQRw5TzJak2NX5GyMwiCfOuvWMREsEwfnSrqgYnheHYUMamMNgJANAZWCKbkjlozi1ARLOWxjGOEAxaUo8_k5V2EweQQy8MBnxrSoNUGigeg5HOoPBWSSN5jHGfem5/s1600/chrome-passwords.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
+    "contentSnippet": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
+    "guid": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
+    "isoDate": "2025-12-23T14:42:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Denmark Accuses Russia of Conducting Two Cyberattacks",
     "link": "https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html",
@@ -328,22 +345,5 @@
       "squid"
     ],
     "isoDate": "2025-12-19T22:06:59.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
-    "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
-    "pubDate": "Fri, 19 Dec 2025 23:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6rG0It4YgDaraGdYMUeGqu11YGd_aORJs3sbrIhK3Xe1FaMag0ELM5dA_B5eSsPxFKWOd0HKBV1GzjQBUlS6sEundoKDqXUawbWkJgEg8GHlpSxDa2XE96vxccNI6Zi3OqxCKZL33azUFgZXsL3mHyORT0fd-BS0hnpsg9xNvJCCrvb9gUHEVKnzmiKej/s1600/ms.jpg"
-    },
-    "content": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks.\nThe activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare.\nThe attacks involve using compromised email addresses belonging to government",
-    "contentSnippet": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks.\nThe activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare.\nThe attacks involve using compromised email addresses belonging to government",
-    "guid": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
-    "isoDate": "2025-12-19T17:54:00.000Z",
-    "itunes": {}
   }
 ]
