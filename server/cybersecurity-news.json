@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Denmark Accuses Russia of Conducting Two Cyberattacks",
+    "link": "https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html",
+    "pubDate": "Tue, 23 Dec 2025 12:02:32 +0000",
+    "content:encoded": "<p><a href=\"https://www.theguardian.com/world/2025/dec/18/denmark-says-russia-was-behind-two-destructive-and-disruptive-cyber-attacks\">News</a>:</p>\n<blockquote><p>The Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November.</p>\n<p>The first, it said, was carried out by the pro-Russian group known as Z-Pentest and the second by NoName057(16), which has links to the Russian state.</p></blockquote>\n<p>Slashdot <a href=\"https://news.slashdot.org/story/25/12/19/1356239/denmark-says-russia-was-behind-two-destructive-and-disruptive-cyberattacks\">thread</a>.</p>\n",
+    "content:encodedSnippet": "News:\nThe Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November.\nThe first, it said, was carried out by the pro-Russian group known as Z-Pentest and the second by NoName057(16), which has links to the Russian state.\n\nSlashdot thread.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html#comments",
+    "content": "<p><a href=\"https://www.theguardian.com/world/2025/dec/18/denmark-says-russia-was-behind-two-destructive-and-disruptive-cyber-attacks\">News</a>:</p>\n<blockquote><p>The Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November.</p>\n<p>The first, it said, was carried out by the pro-Russian group known as Z-Pentest and the second by NoName057(16), which has links to the Russian state.</p></blockquote>\n<p>Slashdot <a href=\"https://news.slashdot.org/story/25/12/19/1356239/denmark-says-russia-was-behind-two-destructive-and-disruptive-cyberattacks\">thread</a>.</p>\n",
+    "contentSnippet": "News:\nThe Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November.\nThe first, it said, was carried out by the pro-Russian group known as Z-Pentest and the second by NoName057(16), which has links to the Russian state.\n\nSlashdot thread.",
+    "guid": "https://www.schneier.com/?p=71373",
+    "categories": [
+      "Uncategorized",
+      "cyberattack",
+      "denial of service",
+      "Denmark",
+      "hacking",
+      "infrastructure",
+      "Russia"
+    ],
+    "isoDate": "2025-12-23T12:02:32.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
     "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
@@ -321,23 +344,6 @@
     "contentSnippet": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks.\nThe activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare.\nThe attacks involve using compromised email addresses belonging to government",
     "guid": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
     "isoDate": "2025-12-19T17:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
-    "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
-    "pubDate": "Fri, 19 Dec 2025 21:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicPzq0o0uHOZdPJOFPje25gUDCZ9NIF3JziC7YLTl2aCUqRKNDQ0M3iOVI4b4B4oUE7ulYTWEPDS2NbNeH-NEgS8vOaADyMBYNzsns2uKE1KgsWrSCPtRieBLvsii6hGKfqSD_3K_LFso4qz1uddlWLhKD5LQjuHX2VOR_F4wjhHFKM35Rxqe_4uq282Zg/s1600/youtube-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader.\nThe campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader.\nThe campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence",
-    "guid": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
-    "isoDate": "2025-12-19T15:34:00.000Z",
     "itunes": {}
   }
 ]
