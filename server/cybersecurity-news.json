@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
+    "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
+    "pubDate": "Tue, 23 Dec 2025 13:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
+    },
+    "content": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
+    "contentSnippet": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
+    "guid": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
+    "isoDate": "2025-12-23T07:34:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
     "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
     "pubDate": "Tue, 23 Dec 2025 12:28:00 +0530",
@@ -330,23 +347,6 @@
     "contentSnippet": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
     "guid": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
     "isoDate": "2025-12-19T10:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-    "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-    "pubDate": "Fri, 19 Dec 2025 13:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMb3AWaGGzuDhZZM0WBk_eEwbCg8zBxsM7-vESRDoizM7NngGTmZZuGjnl_ig_GzqAlVZVJF5r4bJH-1B7zQwrjKnSZuTPW0xsebT3dj_ygVTpS3aFfEwBKVh01Y7H-rJB-3netyZjaGV3vZ5Mg3Sh34mIMMD6NoowEsci4GrcDEeYIus7XPCu58Z_gZ9T/s1600/motherboard.jpg"
-    },
-    "content": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU).\nUEFI and IOMMU are designed to enforce a security",
-    "contentSnippet": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU).\nUEFI and IOMMU are designed to enforce a security",
-    "guid": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-    "isoDate": "2025-12-19T08:25:00.000Z",
     "itunes": {}
   }
 ]
