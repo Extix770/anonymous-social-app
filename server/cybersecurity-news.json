@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
+    "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
+    "pubDate": "Tue, 23 Dec 2025 12:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
+    },
+    "content": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.\nTo that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
+    "contentSnippet": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.\nTo that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
+    "guid": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
+    "isoDate": "2025-12-23T06:58:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Maddy Varner, Brian Barrett",
     "title": "The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems",
     "link": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
@@ -331,22 +348,5 @@
     "guid": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
     "isoDate": "2025-12-19T08:25:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
-    "link": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
-    "pubDate": "Thu, 18 Dec 2025 19:14:50 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
-    "contentSnippet": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
-    "guid": "6944158f17f8230f56a84949",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Security / National Security"
-    ],
-    "isoDate": "2025-12-18T19:14:50.000Z"
   }
 ]
