@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
+    "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
+    "pubDate": "Wed, 24 Dec 2025 18:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
+    },
+    "content": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
+    "contentSnippet": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
+    "guid": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
+    "isoDate": "2025-12-24T13:08:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Urban VPN Proxy Surreptitiously Intercepts AI Chats",
     "link": "https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html",
@@ -328,23 +345,6 @@
     "contentSnippet": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
     "guid": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
     "isoDate": "2025-12-22T12:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How to Browse the Web More Sustainably With a Green Browser",
-    "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-    "pubDate": "Mon, 22 Dec 2025 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDqayh8eTBNeu3P7DDfaRLyYy7oXoTFadgcbgmSHwjlUYyGh8ZxACjv52OqcE-BjUZkFVjd8Fj-Vo49W4o6b2uXa4OkNR1vAB3LOCsrp5SptD9HhO_9dNvOfxH2Zp-QUBUFz94h9mKNDB_lIUvdDMu1v2Pf_ETEGWvYNqfetmTIN0Jppl_QU1M7ycBUAI/s1600/1.jpg"
-    },
-    "content": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;\nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
-    "contentSnippet": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. \nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
-    "guid": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-    "isoDate": "2025-12-22T11:55:00.000Z",
     "itunes": {}
   }
 ]
