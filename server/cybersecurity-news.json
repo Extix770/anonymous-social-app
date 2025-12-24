@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
+    "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+    "pubDate": "Wed, 24 Dec 2025 21:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_PuMhZ0HFVFeZcWU-pTmZixk1HyEXwA1hMDHRyhd3_vUKfniwEMpjAW60vTPiDnzD9yNm9zITdAQswlvy0Uc2MyvAmjJHkTuEe1n_hAvfyrUD_1KUGcGVS2jyV_gH90K8Ji1dvIe6zMvY4zdMZASLUZRSP-WyILYIah2n3peSJpumHgOx9YnSo00gTeD/s1600/apple-macos.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
+    "contentSnippet": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
+    "guid": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+    "isoDate": "2025-12-24T16:23:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
     "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
     "pubDate": "Wed, 24 Dec 2025 18:38:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
     "guid": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
     "isoDate": "2025-12-22T16:28:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-    "pubDate": "Mon, 22 Dec 2025 17:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s1600/recap.jpg"
-    },
-    "content": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
-    "contentSnippet": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
-    "guid": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-    "isoDate": "2025-12-22T12:00:00.000Z",
     "itunes": {}
   }
 ]
