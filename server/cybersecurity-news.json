@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
+    "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
+    "pubDate": "Wed, 24 Dec 2025 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifLygs87unIWWh3Rkm21IaoiG7U39r9CLXQkb5f6zeuT19oC6lApHoLbM9WXzJhhhcmsH1dTsiCIi4pDO25KSU_zW7_5Erc9bhOprlF_q1ZW-np8mlXCSv5Y5KJO5Q5zuI5dJx6cVnmecgSFzTImJ9rP2YnmUQSRknzLHHDnRpYkla6_W2xRYvT4BWsPk/s1600/proton.jpg"
+    },
+    "content": "Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday.&nbsp;\nBut in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.&nbsp",
+    "contentSnippet": "Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday. \nBut in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.",
+    "guid": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
+    "isoDate": "2025-12-24T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "The Age of the All-Access AI Agent Is Here",
     "link": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
@@ -324,23 +341,6 @@
     "contentSnippet": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
     "guid": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
     "isoDate": "2025-12-22T06:11:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-    "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-    "pubDate": "Sun, 21 Dec 2025 09:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHegtv-omZYW79shLsEk_Vh8OqZ0lziJ2eEH1ADUh6S26O4zAQVpJ0RPi4Y8sOn1QCZNMVMwJoz8_9KxEGiDsef2EUlIPqPEakq3DA5gNpJGlqRHspRCVBRtZM-9ur6CtAPdwtj57Acs2U3HXg2IV6RWyK51gp-L6VZywbKe3GHWqSyeXzi8UZSkFkmtd6/s1600/desk.jpg"
-    },
-    "content": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
-    "contentSnippet": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
-    "guid": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-    "isoDate": "2025-12-21T04:22:00.000Z",
     "itunes": {}
   }
 ]
