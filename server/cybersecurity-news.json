@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Urban VPN Proxy Surreptitiously Intercepts AI Chats",
+    "link": "https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html",
+    "pubDate": "Wed, 24 Dec 2025 12:03:03 +0000",
+    "content:encoded": "<p>This is <a href=\"https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection\">pretty scary</a>:</p>\n<blockquote><p>Urban VPN Proxy targets conversations across ten AI platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), Meta AI.</p>\n<p>For each platform, the extension includes a dedicated &#8220;executor&#8221; script designed to intercept and capture conversations. The harvesting is enabled by default through hardcoded flags in the extension&#8217;s configuration.</p>\n<p>There is no user-facing toggle to disable this. The only way to stop the data collection is to uninstall the extension entirely.</p>\n<p>[&#8230;]</p>\n<p>The data collection operates independently of the VPN functionality. Whether the VPN is connected or not, the harvesting runs continuously in the background.</p>\n<p>[&#8230;]</p>\n<p>What gets captured:</p>\n<ul>\n<li>Every prompt you send to the AI<br />\nEvery response you receive</p>\n<li>Conversation identifiers and timestamps\n<li>Session metadata\n<li>The specific AI platform and model used\n<ul></blockquote>\n<p>Boing Boing <a href=\"https://boingboing.net/2025/12/19/this-free-vpn-is-a-massive-security-risk.html\">post</a>.</p>\n",
+    "content:encodedSnippet": "This is pretty scary:\nUrban VPN Proxy targets conversations across ten AI platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), Meta AI.\nFor each platform, the extension includes a dedicated “executor” script designed to intercept and capture conversations. The harvesting is enabled by default through hardcoded flags in the extension’s configuration.\nThere is no user-facing toggle to disable this. The only way to stop the data collection is to uninstall the extension entirely.\n[…]\nThe data collection operates independently of the VPN functionality. Whether the VPN is connected or not, the harvesting runs continuously in the background.\n[…]\nWhat gets captured:\nEvery prompt you send to the AI\nConversation identifiers and timestamps\nSession metadata\nThe specific AI platform and model used\n\nBoing Boing post.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html#comments",
+    "content": "<p>This is <a href=\"https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection\">pretty scary</a>:</p>\n<blockquote><p>Urban VPN Proxy targets conversations across ten AI platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), Meta AI.</p>\n<p>For each platform, the extension includes a dedicated &#8220;executor&#8221; script designed to intercept and capture conversations. The harvesting is enabled by default through hardcoded flags in the extension&#8217;s configuration.</p>\n<p>There is no user-facing toggle to disable this. The only way to stop the data collection is to uninstall the extension entirely.</p>\n<p>[&#8230;]</p>\n<p>The data collection operates independently of the VPN functionality. Whether the VPN is connected or not, the harvesting runs continuously in the background...</p></blockquote>",
+    "contentSnippet": "This is pretty scary:\nUrban VPN Proxy targets conversations across ten AI platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), Meta AI.\nFor each platform, the extension includes a dedicated “executor” script designed to intercept and capture conversations. The harvesting is enabled by default through hardcoded flags in the extension’s configuration.\nThere is no user-facing toggle to disable this. The only way to stop the data collection is to uninstall the extension entirely.\n[…]\nThe data collection operates independently of the VPN functionality. Whether the VPN is connected or not, the harvesting runs continuously in the background...",
+    "guid": "https://www.schneier.com/?p=71375",
+    "categories": [
+      "Uncategorized",
+      "eavesdropping",
+      "privacy",
+      "surveillance",
+      "VPN"
+    ],
+    "isoDate": "2025-12-24T12:03:03.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
     "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
@@ -324,23 +345,6 @@
     "contentSnippet": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. \nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
     "guid": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
     "isoDate": "2025-12-22T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-    "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-    "pubDate": "Mon, 22 Dec 2025 11:41:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
-    },
-    "content": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
-    "contentSnippet": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
-    "guid": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-    "isoDate": "2025-12-22T06:11:00.000Z",
     "itunes": {}
   }
 ]
