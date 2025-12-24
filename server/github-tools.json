@@ -630,15 +630,6 @@
     "language": null
   },
   {
-    "name": "LuciTools",
-    "owner": "IamLucif3r",
-    "url": "https://github.com/IamLucif3r/LuciTools",
-    "description": "These are Cybersecurity tools built with Python",
-    "stars": 7,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "GovTools",
     "owner": "DecryptaTechnologies",
     "url": "https://github.com/DecryptaTechnologies/GovTools",
@@ -646,6 +637,15 @@
     "stars": 7,
     "forks": 1,
     "language": "C#"
+  },
+  {
+    "name": "LuciTools",
+    "owner": "IamLucif3r",
+    "url": "https://github.com/IamLucif3r/LuciTools",
+    "description": "These are Cybersecurity tools built with Python",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Bug-Bounty-Tools",
@@ -693,21 +693,21 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
     "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
     "stars": 6,
     "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -765,15 +765,6 @@
     "language": "Go"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "OSINT-TOOLS",
@@ -891,12 +891,12 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "linux-network-win-tools",
+    "owner": "s3bu7i",
+    "url": "https://github.com/s3bu7i/linux-network-win-tools",
+    "description": null,
     "stars": 4,
     "forks": 1,
-    "language": null
+    "language": "Python"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition",
+    "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
+    "pubDate": "Wed, 24 Dec 2025 11:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-yTMxyqhDKJOHubGmtYjNDzRluX2F22WXjaSmLgJwG6j0Yna4sk9hTY5HWBTix2_9Zv31mOWkqmP7OlAWR8taN8deV6TJFLG6yYU1Tex4FOx4NQv13_WY0rOWCwDCjYZRI300g0407UzkLZ4uoNX_0EsTE5BnQ-WqCv2CWnpxyNMOSDqic4rCcRtUr9I4/s1600/apple.jpg"
+    },
+    "content": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
+    "contentSnippet": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
+    "guid": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
+    "isoDate": "2025-12-24T06:15:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Ali Winston",
     "title": "NYPD Sued Over Possible Records Collected Through Muslim Spying Program",
     "link": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
@@ -116,8 +133,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
     },
-    "content": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
-    "contentSnippet": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
+    "content": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
+    "contentSnippet": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
     "guid": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
     "isoDate": "2025-12-23T08:15:00.000Z",
     "itunes": {}
@@ -133,8 +150,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
     },
-    "content": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
-    "contentSnippet": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
+    "content": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih Çelik has been credited with discovering and reporting the flaw. The package",
+    "contentSnippet": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih Çelik has been credited with discovering and reporting the flaw. The package",
     "guid": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
     "isoDate": "2025-12-23T07:34:00.000Z",
     "itunes": {}
@@ -328,21 +345,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-20T11:30:00.000Z"
-  },
-  {
-    "creator": "Maddy Varner, Dell Cameron, Caroline Haskins",
-    "title": "Here’s What’s in the DOJ’s Epstein Files Release—and What’s Missing",
-    "link": "https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/",
-    "pubDate": "Sat, 20 Dec 2025 00:34:28 +0000",
-    "dc:creator": "Maddy Varner, Dell Cameron, Caroline Haskins",
-    "content": "From photos of former president Bill Clinton to images of strange scrapbooks, the Justice Department’s release is curious but far from revelatory.",
-    "contentSnippet": "From photos of former president Bill Clinton to images of strange scrapbooks, the Justice Department’s release is curious but far from revelatory.",
-    "guid": "69459498e1786614c923cb6a",
-    "categories": [
-      "Politics",
-      "Politics / Politics News",
-      "Security"
-    ],
-    "isoDate": "2025-12-20T00:34:28.000Z"
   }
 ]
