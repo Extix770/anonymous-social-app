@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8005,
+    "stars": 8006,
     "forks": 1098,
     "language": null
   },
@@ -756,15 +756,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
@@ -772,6 +763,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "Pentesting-Toolkit",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "PerlCodingToolkit",
-    "owner": "Cizr",
-    "url": "https://github.com/Cizr/PerlCodingToolkit",
-    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
-    "stars": 4,
-    "forks": 0,
-    "language": "Perl"
-  },
-  {
     "name": "cybersec-tools-installer",
     "owner": "whitehathackerpr",
     "url": "https://github.com/whitehathackerpr/cybersec-tools-installer",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 1,
     "language": "Shell"
+  },
+  {
+    "name": "PerlCodingToolkit",
+    "owner": "Cizr",
+    "url": "https://github.com/Cizr/PerlCodingToolkit",
+    "description": "This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. ",
+    "stars": 4,
+    "forks": 0,
+    "language": "Perl"
   },
   {
     "name": "URL-Analysis-Tool",
