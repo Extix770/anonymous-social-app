@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "The Age of the All-Access AI Agent Is Here",
+    "link": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
+    "pubDate": "Wed, 24 Dec 2025 11:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
+    "contentSnippet": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
+    "guid": "691ba2c1b7fd79c030021015",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-12-24T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
     "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
@@ -326,23 +341,6 @@
     "contentSnippet": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
     "guid": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
     "isoDate": "2025-12-21T04:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
-    "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
-    "pubDate": "Sat, 20 Dec 2025 19:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2cP9lHpEiLS7JATicmiwWuw1qs3WctK2ZALMrG43Z51JnhNcBG2QyRtbyIAsN032vYBZh7-GFDQ-d5R92xrf3hTBuU2cuSUpB0bPD8lnytywyG1harMel1KgOneMliCPammT3TNDZL7mvqpqkdQiFddGGX65iGzM0SLcaPNBQyeSKgK-7P6Bf5XAFIzb/s1600/atm.jpg"
-    },
-    "content": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for",
-    "contentSnippet": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for",
-    "guid": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
-    "isoDate": "2025-12-20T13:48:00.000Z",
     "itunes": {}
   }
 ]
