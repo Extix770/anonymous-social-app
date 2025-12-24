@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8006,
+    "stars": 8007,
     "forks": 1098,
     "language": null
   },
@@ -94,7 +94,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/API-Pentesting-Tools",
     "description": "API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs). ",
-    "stars": 226,
+    "stars": 227,
     "forks": 33,
     "language": null
   },
@@ -166,7 +166,7 @@
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
     "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 88,
+    "stars": 89,
     "forks": 11,
     "language": null
   },
@@ -229,7 +229,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-    "stars": 43,
+    "stars": 44,
     "forks": 5,
     "language": null
   },
@@ -549,6 +549,15 @@
     "language": null
   },
   {
+    "name": "Caesar-Cipher-Tool",
+    "owner": "RobCyberLab",
+    "url": "https://github.com/RobCyberLab/Caesar-Cipher-Tool",
+    "description": "🔑Caesar Cipher Tool🔐",
+    "stars": 9,
+    "forks": 1,
+    "language": "JavaScript"
+  },
+  {
     "name": "digital-forensics-tools",
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
@@ -567,13 +576,13 @@
     "language": null
   },
   {
-    "name": "Caesar-Cipher-Tool",
-    "owner": "RobCyberLab",
-    "url": "https://github.com/RobCyberLab/Caesar-Cipher-Tool",
-    "description": "🔑Caesar Cipher Tool🔐",
+    "name": "GovTools",
+    "owner": "DecryptaTechnologies",
+    "url": "https://github.com/DecryptaTechnologies/GovTools",
+    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
     "stars": 8,
     "forks": 1,
-    "language": "JavaScript"
+    "language": "C#"
   },
   {
     "name": "Wi-Fi-Cracking-Tool",
@@ -639,15 +648,6 @@
     "language": "Python"
   },
   {
-    "name": "GovTools",
-    "owner": "DecryptaTechnologies",
-    "url": "https://github.com/DecryptaTechnologies/GovTools",
-    "description": "GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.",
-    "stars": 7,
-    "forks": 1,
-    "language": "C#"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -693,6 +693,15 @@
     "language": "Python"
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -702,13 +711,13 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game",
@@ -765,15 +774,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -781,6 +781,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "OSINT-TOOLS",
@@ -819,10 +828,10 @@
     "language": "PowerShell"
   },
   {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -886,15 +895,6 @@
     "owner": "Cybersight-Security",
     "url": "https://github.com/Cybersight-Security/URL-Analysis-Tool",
     "description": "Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.",
-    "stars": 4,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "linux-network-win-tools",
-    "owner": "s3bu7i",
-    "url": "https://github.com/s3bu7i/linux-network-win-tools",
-    "description": null,
     "stars": 4,
     "forks": 1,
     "language": "Python"
