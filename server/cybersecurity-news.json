@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
+    "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
+    "pubDate": "Thu, 25 Dec 2025 18:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPo1Nkc3YmPhTvA9OPV5_RDokzlpE21PlIAMbT-8lz9peQpzT9LFWm59cX18EDEtnh2ecJD6iOzVl3-vxmNEsmXs77r32k0Xmjrqv2HlVnIIyE4VU76I6a79deBG7Fe-Bpdb3TdLNLqoN2vIsEf_iuqSpb4LXXhpCTHroURBkzXAghUD3RKEXPjE7CemD/s1600/passwords.jpg"
+    },
+    "content": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
+    "contentSnippet": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
+    "guid": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
+    "isoDate": "2025-12-25T12:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
     "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
     "pubDate": "Thu, 25 Dec 2025 13:52:00 +0530",
@@ -325,20 +342,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-22T23:34:45.000Z"
-  },
-  {
-    "creator": "Brian Barrett, Maddy Varner",
-    "title": "The Justice Department Released More Epstein Files—but Not the Ones Survivors Want",
-    "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
-    "pubDate": "Mon, 22 Dec 2025 19:43:34 +0000",
-    "dc:creator": "Brian Barrett, Maddy Varner",
-    "content": "The DOJ says it still has “hundreds of thousands” of pages to review, as the latest Epstein files release spurred more pushback from Democratic lawmakers and other critics of the administration.",
-    "contentSnippet": "The DOJ says it still has “hundreds of thousands” of pages to review, as the latest Epstein files release spurred more pushback from Democratic lawmakers and other critics of the administration.",
-    "guid": "694594efd2ae1c7afe304d3d",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-22T19:43:34.000Z"
   }
 ]
