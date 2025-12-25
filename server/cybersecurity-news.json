@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+    "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+    "pubDate": "Thu, 25 Dec 2025 13:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
+    },
+    "content": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
+    "contentSnippet": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
+    "guid": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+    "isoDate": "2025-12-25T08:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+    "pubDate": "Thu, 25 Dec 2025 13:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1j0ppiPjhfsUfYcYQ36krQ1Jgau1SvfX5zWM4gmFxvKhVhMOxhDQIfz5nBtExAH9NBv6bv2XJAs0SJJdvXlg-bIWNibSo8kHvtDTPOxTU5B8eqPt2NlI4FtA0-0ri2T3ueDhQbyiJ_TS7IZALghzlOckTrk8zOuZhPPu3nRT4EiAvr65exPrrbmtui0x/s1600/digiever.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
+    "guid": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+    "isoDate": "2025-12-25T08:07:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
     "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
     "pubDate": "Wed, 24 Dec 2025 21:53:00 +0530",
@@ -306,45 +340,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-22T19:43:34.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Microsoft Is Finally Killing RC4",
-    "link": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
-    "pubDate": "Mon, 22 Dec 2025 17:05:09 +0000",
-    "content:encoded": "<p>After twenty-six years, Microsoft is <a href=\"https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/\">finally upgrading</a> the last remaining instance of the encryption algorithm RC4 in Windows.</p>\n<blockquote><p>of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a <a href=\"https://arstechnica.com/security/2025/09/how-weak-passwords-and-other-failings-led-to-catastrophic-breach-of-ascension/\">key role</a> in last year&#8217;s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) <a href=\"https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting\">in September</a> called on the Federal Trade Commission to investigate Microsoft for &#8220;gross cybersecurity negligence,&#8221; citing the continued default support for RC4.</p>\n<p>Last week, Microsoft <a href=\"https://www.microsoft.com/en-us/windows-server/blog/2025/12/03/beyond-rc4-for-windows-authentication\">said</a> it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension&#8217;s network.</p></blockquote>\n<p>Fun fact: RC4 was a trade secret until I published the algorithm in the second edition of <i><a href=\"https://www.schneier.com/books/applied-cryptography/\">Applied Cryptography</a></i> in 1995.</p>\n",
-    "content:encodedSnippet": "After twenty-six years, Microsoft is finally upgrading the last remaining instance of the encryption algorithm RC4 in Windows.\nof the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a key role in last year’s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) in September called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the continued default support for RC4.\nLast week, Microsoft said it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension’s network.\n\nFun fact: RC4 was a trade secret until I published the algorithm in the second edition of Applied Cryptography in 1995.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html#comments",
-    "content": "<p>After twenty-six years, Microsoft is <a href=\"https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/\">finally upgrading</a> the last remaining instance of the encryption algorithm RC4 in Windows.</p>\n<blockquote><p>of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a ...</p></blockquote>",
-    "contentSnippet": "After twenty-six years, Microsoft is finally upgrading the last remaining instance of the encryption algorithm RC4 in Windows.\nof the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a ...",
-    "guid": "https://www.schneier.com/?p=71371",
-    "categories": [
-      "Uncategorized",
-      "algorithms",
-      "Applied Cryptography",
-      "encryption",
-      "Microsoft",
-      "RC4",
-      "Windows"
-    ],
-    "isoDate": "2025-12-22T17:05:09.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
-    "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-    "pubDate": "Mon, 22 Dec 2025 21:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmlgJ1Ik_0R32UVEqmVu8yRjzKyNEMijqN7ox6JMNp9RQFOtpeBhDHEcgQH6eL6SgRRF3z6pH4YHh2fanPXGIIyrMJIUZ72Nm4JOWYycoqFnvzyFcbuufQHdjxdde1_MIZ0SiSsG8EyrzC0KpF-pO4Nvzpg2OtpApM_F0pZizo46YpYmU6Jj0dA1YvHiz/s1600/whatsapp-api.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
-    "guid": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-    "isoDate": "2025-12-22T16:28:00.000Z",
-    "itunes": {}
   }
 ]
