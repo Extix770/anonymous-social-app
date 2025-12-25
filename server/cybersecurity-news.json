@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
+    "pubDate": "Thu, 25 Dec 2025 19:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s1600/threatsday.jpg"
+    },
+    "content": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
+    "contentSnippet": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
+    "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
+    "isoDate": "2025-12-25T14:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
     "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
     "pubDate": "Thu, 25 Dec 2025 18:16:00 +0530",
@@ -327,20 +344,5 @@
     "guid": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
     "isoDate": "2025-12-23T06:58:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Maddy Varner, Brian Barrett",
-    "title": "The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems",
-    "link": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
-    "pubDate": "Mon, 22 Dec 2025 23:34:45 +0000",
-    "dc:creator": "Maddy Varner, Brian Barrett",
-    "content": "Here’s how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump.",
-    "contentSnippet": "Here’s how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump.",
-    "guid": "6945953ec3d8aea5531094e0",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-22T23:34:45.000Z"
   }
 ]
