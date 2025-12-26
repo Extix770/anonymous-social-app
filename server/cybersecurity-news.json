@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+    "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+    "pubDate": "Fri, 26 Dec 2025 20:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmeV5PfAQxa3moMNy2q6r9JQI7f7qz2UhiadScjFIQ3Xuu3wqawsOshL20QzFig4PDashlUjR-giwptUDCChwuYNsUci5GMWA0ErX4HMNZ0TMIkaVYQ11zIw8MKLQqXa5tGER3kLsSFZYux0B8WM8RtWb9-oJN_ZhN7xLWKIBH16bkppORQoJwmW-q5VK/s1600/chinese-hackers.jpg"
+    },
+    "content": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India.\nThe activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
+    "contentSnippet": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India.\nThe activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
+    "guid": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+    "isoDate": "2025-12-26T14:44:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "IoT Hack",
     "link": "https://www.schneier.com/blog/archives/2025/12/iot-hack.html",
@@ -331,22 +348,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2025-12-23T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-    "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-    "pubDate": "Tue, 23 Dec 2025 13:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
-    },
-    "content": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
-    "contentSnippet": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
-    "guid": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-    "isoDate": "2025-12-23T08:15:00.000Z",
-    "itunes": {}
   }
 ]
