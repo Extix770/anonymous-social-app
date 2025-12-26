@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "IoT Hack",
+    "link": "https://www.schneier.com/blog/archives/2025/12/iot-hack.html",
+    "pubDate": "Fri, 26 Dec 2025 12:02:54 +0000",
+    "content:encoded": "<p>Someone hacked an Italian <a href=\"https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/\">ferry</a>.</p>\n<p>It looks like the malware was installed by someone on the ferry, and not remotely.</p>\n",
+    "content:encodedSnippet": "Someone hacked an Italian ferry.\nIt looks like the malware was installed by someone on the ferry, and not remotely.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/iot-hack.html#respond",
+    "content": "<p>Someone hacked an Italian <a href=\"https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/\">ferry</a>.</p>\n<p>It looks like the malware was installed by someone on the ferry, and not remotely.</p>\n",
+    "contentSnippet": "Someone hacked an Italian ferry.\nIt looks like the malware was installed by someone on the ferry, and not remotely.",
+    "guid": "https://www.schneier.com/?p=71380",
+    "categories": [
+      "Uncategorized",
+      "France",
+      "hacking",
+      "Internet of Things",
+      "malware"
+    ],
+    "isoDate": "2025-12-26T12:02:54.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
     "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
@@ -326,23 +347,6 @@
     "contentSnippet": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
     "guid": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
     "isoDate": "2025-12-23T08:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-    "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-    "pubDate": "Tue, 23 Dec 2025 13:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
-    },
-    "content": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih Çelik has been credited with discovering and reporting the flaw. The package",
-    "contentSnippet": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih Çelik has been credited with discovering and reporting the flaw. The package",
-    "guid": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-    "isoDate": "2025-12-23T07:34:00.000Z",
     "itunes": {}
   }
 ]
