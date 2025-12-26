@@ -828,15 +828,6 @@
     "language": null
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
-  },
-  {
     "name": "EthicalHackingTools",
     "owner": "nafis548",
     "url": "https://github.com/nafis548/EthicalHackingTools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 5,
+    "forks": 0,
+    "language": "PowerShell"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
