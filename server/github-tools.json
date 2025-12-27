@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8012,
+    "stars": 8013,
     "forks": 1099,
     "language": null
   },
@@ -810,15 +810,6 @@
     "language": null
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "BEC-Detection-Toolkit",
