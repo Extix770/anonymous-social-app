@@ -802,8 +802,8 @@
   },
   {
     "name": "OSINT-TOOLS",
-    "owner": "ruzgarcyber",
-    "url": "https://github.com/ruzgarcyber/OSINT-TOOLS",
+    "owner": "rzgr-dev",
+    "url": "https://github.com/rzgr-dev/OSINT-TOOLS",
     "description": "OSINT(Open-Source Intelligence) araçları. ",
     "stars": 5,
     "forks": 0,
