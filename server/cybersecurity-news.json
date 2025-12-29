@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+    "pubDate": "Mon, 29 Dec 2025 19:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrlyxi5CiR5jY-vAJtPcjpGz_L8q6_hbThbQ6ZRXd0HLNpNxG4_KNwle_7EXt_ecUGABpDmjxO2bLwLPfjUmWKfTwuP0Lh910lNr4TE6q2MAm44XQzS2k0b9RJTr1aA74Q_aNkz9frFFNZjlGuafhIChvMiOpQhzD7OfEpXZZhh_GRntRLqmRtmsdrW1NX/s1600/recap.jpg"
+    },
+    "content": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
+    "contentSnippet": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
+    "guid": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+    "isoDate": "2025-12-29T13:38:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Are We Ready to Be Governed by Artificial Intelligence?",
     "link": "https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html",
@@ -322,23 +339,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
     "guid": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
     "isoDate": "2025-12-24T16:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-    "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-    "pubDate": "Wed, 24 Dec 2025 18:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
-    },
-    "content": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
-    "contentSnippet": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
-    "guid": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-    "isoDate": "2025-12-24T13:08:00.000Z",
     "itunes": {}
   }
 ]
