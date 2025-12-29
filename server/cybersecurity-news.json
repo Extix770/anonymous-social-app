@@ -1,5 +1,20 @@
 [
   {
+    "creator": "WIRED Staff",
+    "title": "The Most Dangerous People on the Internet in 2025",
+    "link": "https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/",
+    "pubDate": "Mon, 29 Dec 2025 10:30:00 +0000",
+    "dc:creator": "WIRED Staff",
+    "content": "From Donald Trump to DOGE to Chinese hackers, this year the internet's chaos caused outsized real-world harm.",
+    "contentSnippet": "From Donald Trump to DOGE to Chinese hackers, this year the internet's chaos caused outsized real-world harm.",
+    "guid": "69405d85ccaf9f64c5d1c4b7",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2025-12-29T10:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
     "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
@@ -327,22 +342,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-12-24T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-    "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
-    "pubDate": "Wed, 24 Dec 2025 14:49:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rxN2olFlFlcGsNMy3As2bk-d-rLBC3NwCMPnRM4r5J_zZ2eRFO_XIoavtIONaORSVczKz8bzZP_4bjw_I9qPUvo-bek_ggNDECUHk4kE6Irf26TEjsmuRzWR5b6XvDwRov96e-tXvdTQfTM4Y_-sVi41EAaaOqZ_DchnLSMGWqWfcq4ULi-yznDe2ane/s1600/farud.jpg"
-    },
-    "content": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors.\nThe complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
-    "contentSnippet": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors.\nThe complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
-    "guid": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
-    "isoDate": "2025-12-24T09:19:00.000Z",
-    "itunes": {}
   }
 ]
