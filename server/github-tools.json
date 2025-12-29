@@ -828,15 +828,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
-    "stars": 5,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -873,6 +873,15 @@
     "language": "Python"
   },
   {
+    "name": "awesome-cyber-security-tools",
+    "owner": "0xh3xa",
+    "url": "https://github.com/0xh3xa/awesome-cyber-security-tools",
+    "description": "🛡️ A curated list of commonly used tools for cybersecurity",
+    "stars": 4,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "Tooli",
     "owner": "realworldsec",
     "url": "https://github.com/realworldsec/Tooli",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 4,
-    "forks": 1,
-    "language": "Shell"
   }
 ]
