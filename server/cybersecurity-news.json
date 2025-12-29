@@ -3,7 +3,7 @@
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
     "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-    "pubDate": "Mon, 29 Dec 2025 13:19:00 +0530",
+    "pubDate": "Mon, 29 Dec 2025 15:16:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
     "enclosure": {
       "length": "12216320",
@@ -13,7 +13,24 @@
     "content": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
     "contentSnippet": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
     "guid": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-    "isoDate": "2025-12-29T07:49:00.000Z",
+    "isoDate": "2025-12-29T09:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+    "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+    "pubDate": "Mon, 29 Dec 2025 15:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbarqmk-H0SfVP8X3eR-wcY-UAzQs4vgDfk6mZCaOhgsKNAmf1pLBT_CfB6bMSHARl1UMwvkmd1SL9INOF4KyHSMr7eCO4lWF6745uHql2CwA4iWIGik-6yynnmPNOjdNi9FMXD6pCx3GIJ8T8em0Y6kvg-98a8AuatSM9Ql4zgApKEPOP1pySjfOrblmd/s1600/npm-login.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
+    "guid": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+    "isoDate": "2025-12-29T09:44:00.000Z",
     "itunes": {}
   },
   {
@@ -326,23 +343,6 @@
     "contentSnippet": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors.\nThe complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
     "guid": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
     "isoDate": "2025-12-24T09:19:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition",
-    "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-    "pubDate": "Wed, 24 Dec 2025 11:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-yTMxyqhDKJOHubGmtYjNDzRluX2F22WXjaSmLgJwG6j0Yna4sk9hTY5HWBTix2_9Zv31mOWkqmP7OlAWR8taN8deV6TJFLG6yYU1Tex4FOx4NQv13_WY0rOWCwDCjYZRI300g0407UzkLZ4uoNX_0EsTE5BnQ-WqCv2CWnpxyNMOSDqic4rCcRtUr9I4/s1600/apple.jpg"
-    },
-    "content": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
-    "contentSnippet": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
-    "guid": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-    "isoDate": "2025-12-24T06:15:00.000Z",
     "itunes": {}
   }
 ]
