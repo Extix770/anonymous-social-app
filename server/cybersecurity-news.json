@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+    "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+    "pubDate": "Mon, 29 Dec 2025 13:19:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
+    },
+    "content": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
+    "contentSnippet": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
+    "guid": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+    "isoDate": "2025-12-29T07:49:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+    "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+    "pubDate": "Mon, 29 Dec 2025 12:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
+    },
+    "content": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
+    "contentSnippet": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
+    "guid": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+    "isoDate": "2025-12-29T06:34:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Raj Shah and Christopher Kirchhoff",
     "title": "The US Must Stop Underestimating Drone Warfare",
     "link": "https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/",
@@ -309,40 +343,6 @@
     "contentSnippet": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
     "guid": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
     "isoDate": "2025-12-24T06:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Ali Winston",
-    "title": "NYPD Sued Over Possible Records Collected Through Muslim Spying Program",
-    "link": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
-    "pubDate": "Tue, 23 Dec 2025 17:33:26 +0000",
-    "dc:creator": "Ali Winston",
-    "content": "The New York Police Department's “mosque-raking” program targeted Muslim communities across NYC. Now, as the city's first Muslim mayor takes office, one man is fighting—again—to fully expose it.",
-    "contentSnippet": "The New York Police Department's “mosque-raking” program targeted Muslim communities across NYC. Now, as the city's first Muslim mayor takes office, one man is fighting—again—to fully expose it.",
-    "guid": "6944294ad6fcf13e94fd61ab",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-23T17:33:26.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-    "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-    "pubDate": "Tue, 23 Dec 2025 20:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__5ctB3AEUyx20JMtYNXVZZluGKRNFfjiUFh6x6DKegzNVsYHnd5W0aB_Khw7lDQRw5TzJak2NX5GyMwiCfOuvWMREsEwfnSrqgYnheHYUMamMNgJANAZWCKbkjlozi1ARLOWxjGOEAxaUo8_k5V2EweQQy8MBnxrSoNUGigeg5HOoPBWSSN5jHGfem5/s1600/chrome-passwords.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-    "contentSnippet": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-    "guid": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-    "isoDate": "2025-12-23T14:42:00.000Z",
     "itunes": {}
   }
 ]
