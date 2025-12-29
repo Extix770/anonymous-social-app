@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Andrew Couts",
+    "title": "The New Surveillance State Is You",
+    "link": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
+    "pubDate": "Mon, 29 Dec 2025 11:00:00 +0000",
+    "dc:creator": "Andrew Couts",
+    "content": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
+    "contentSnippet": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
+    "guid": "691ba3cfa5d5636ff2e7189a",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-12-29T11:00:00.000Z"
+  },
+  {
     "creator": "WIRED Staff",
     "title": "The Most Dangerous People on the Internet in 2025",
     "link": "https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/",
@@ -327,20 +343,5 @@
     "guid": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
     "isoDate": "2025-12-24T11:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "The Age of the All-Access AI Agent Is Here",
-    "link": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
-    "pubDate": "Wed, 24 Dec 2025 11:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
-    "contentSnippet": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
-    "guid": "691ba2c1b7fd79c030021015",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-12-24T11:00:00.000Z"
   }
 ]
