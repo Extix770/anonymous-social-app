@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How to Integrate AI into Modern SOC Workflows",
+    "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+    "pubDate": "Tue, 30 Dec 2025 15:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg"
+    },
+    "content": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
+    "contentSnippet": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
+    "guid": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+    "isoDate": "2025-12-30T09:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
     "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
     "pubDate": "Tue, 30 Dec 2025 14:05:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
     "guid": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
     "isoDate": "2025-12-25T12:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
-    "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
-    "pubDate": "Thu, 25 Dec 2025 13:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
-    },
-    "content": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
-    "contentSnippet": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
-    "guid": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
-    "isoDate": "2025-12-25T08:22:00.000Z",
     "itunes": {}
   }
 ]
