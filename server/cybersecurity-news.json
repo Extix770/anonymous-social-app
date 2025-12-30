@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+    "pubDate": "Tue, 30 Dec 2025 21:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
+    },
+    "content": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
+    "contentSnippet": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
+    "guid": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+    "isoDate": "2025-12-30T16:28:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Using AI-Generated Images to Get Refunds",
     "link": "https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html",
@@ -332,22 +349,5 @@
       "malware"
     ],
     "isoDate": "2025-12-26T12:02:54.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-    "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-    "pubDate": "Fri, 26 Dec 2025 14:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg"
-    },
-    "content": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
-    "contentSnippet": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
-    "guid": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-    "isoDate": "2025-12-26T09:27:00.000Z",
-    "itunes": {}
   }
 ]
