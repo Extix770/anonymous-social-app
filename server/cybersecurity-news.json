@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+    "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+    "pubDate": "Tue, 30 Dec 2025 16:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
+    },
+    "content": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
+    "contentSnippet": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
+    "guid": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+    "isoDate": "2025-12-30T10:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How to Integrate AI into Modern SOC Workflows",
     "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
     "pubDate": "Tue, 30 Dec 2025 15:00:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
     "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
     "isoDate": "2025-12-25T14:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
-    "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
-    "pubDate": "Thu, 25 Dec 2025 18:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPo1Nkc3YmPhTvA9OPV5_RDokzlpE21PlIAMbT-8lz9peQpzT9LFWm59cX18EDEtnh2ecJD6iOzVl3-vxmNEsmXs77r32k0Xmjrqv2HlVnIIyE4VU76I6a79deBG7Fe-Bpdb3TdLNLqoN2vIsEf_iuqSpb4LXXhpCTHroURBkzXAghUD3RKEXPjE7CemD/s1600/passwords.jpg"
-    },
-    "content": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
-    "contentSnippet": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
-    "guid": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
-    "isoDate": "2025-12-25T12:46:00.000Z",
     "itunes": {}
   }
 ]
