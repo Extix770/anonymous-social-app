@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Using AI-Generated Images to Get Refunds",
+    "link": "https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html",
+    "pubDate": "Tue, 30 Dec 2025 12:02:01 +0000",
+    "content:encoded": "<p>Scammers are <a href=\"https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/\">generating</a> images of broken merchandise in order to apply for refunds.</p>\n",
+    "content:encodedSnippet": "Scammers are generating images of broken merchandise in order to apply for refunds.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html#respond",
+    "content": "<p>Scammers are <a href=\"https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/\">generating</a> images of broken merchandise in order to apply for refunds.</p>\n",
+    "contentSnippet": "Scammers are generating images of broken merchandise in order to apply for refunds.",
+    "guid": "https://www.schneier.com/?p=71390",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "China",
+      "scams"
+    ],
+    "isoDate": "2025-12-30T12:02:01.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
     "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
@@ -328,23 +348,6 @@
     "contentSnippet": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
     "guid": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
     "isoDate": "2025-12-26T09:27:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
-    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
-    "pubDate": "Thu, 25 Dec 2025 19:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s1600/threatsday.jpg"
-    },
-    "content": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
-    "contentSnippet": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
-    "guid": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
-    "isoDate": "2025-12-25T14:01:00.000Z",
     "itunes": {}
   }
 ]
