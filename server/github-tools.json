@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8029,
+    "stars": 8030,
     "forks": 1100,
     "language": null
   },
@@ -112,7 +112,7 @@
     "owner": "the0cp",
     "url": "https://github.com/the0cp/awesome-ddos-tools",
     "description": "Collection of several DDos tools.",
-    "stars": 204,
+    "stars": 205,
     "forks": 45,
     "language": "Python"
   },
