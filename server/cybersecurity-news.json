@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse",
+    "link": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
+    "pubDate": "Wed, 31 Dec 2025 11:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Government staffing cuts and instability, including this year’s prolonged shutdown, could be hindering US digital defense and creating vulnerabilities.",
+    "contentSnippet": "Government staffing cuts and instability, including this year’s prolonged shutdown, could be hindering US digital defense and creating vulnerabilities.",
+    "guid": "691ba508981359ffe511ae45",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2025-12-31T11:00:00.000Z"
+  },
+  {
     "creator": "Michael McFaul",
     "title": "Discovering the Dimensions of a New Cold War",
     "link": "https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/",
@@ -326,22 +342,5 @@
       "squid"
     ],
     "isoDate": "2025-12-26T22:08:17.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
-    "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
-    "pubDate": "Fri, 26 Dec 2025 21:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZP9hON3n-2zsl52VbVSUoLRU7lEedvIxRzhLddqpu6jJM7etcQZ9Mm0ojVv8614DKB7JFs8TuCtjJ5MLdfTeanXrXv5NO1WgOvjG3TuUjobHaUo6i8KNxQMD5XBTDczYKHBT-xTCb25utln7UkGwywmXvQC7joQHPv2HVJVrSug-r3S-KCOvbcifxBe1s/s1600/apps.jpg"
-    },
-    "content": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to",
-    "contentSnippet": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to",
-    "guid": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
-    "isoDate": "2025-12-26T15:31:00.000Z",
-    "itunes": {}
   }
 ]
