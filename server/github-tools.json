@@ -270,15 +270,6 @@
     "language": "Python"
   },
   {
-    "name": "Python-Pentest-ToolKit",
-    "owner": "sectool",
-    "url": "https://github.com/sectool/Python-Pentest-ToolKit",
-    "description": "Pentest ToolKit",
-    "stars": 28,
-    "forks": 9,
-    "language": "Python"
-  },
-  {
     "name": "Security-Event-Analysis-Automation-Tool",
     "owner": "AzharAnwar9",
     "url": "https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 4,
+    "forks": 2,
+    "language": "Shell"
   }
 ]
