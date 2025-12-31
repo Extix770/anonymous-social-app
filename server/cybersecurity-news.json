@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+    "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+    "pubDate": "Wed, 31 Dec 2025 21:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BlrabuZMmyZXh7mVD8BfgxW1K7DaJwh4FqMKyPBod0SCwsR2L24g7oYk4e4hJnScEHlg4HMWEZ2041ZzwMnbs9gEQ0bNcCIu38ZhNtum_YNF01PEJBOI-O_qd4wSLxmYvrAvlnLugMGX9uolGrhsRvWT5uYX1p2z8YgwbY6qdgmJZcp5yPn6RlAhIMe2/s1600/browser.jpg"
+    },
+    "content": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
+    "contentSnippet": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
+    "guid": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+    "isoDate": "2025-12-31T16:14:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
     "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
     "pubDate": "Wed, 31 Dec 2025 19:07:00 +0530",
@@ -327,23 +344,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
     "guid": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
     "isoDate": "2025-12-29T09:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
-    "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
-    "pubDate": "Mon, 29 Dec 2025 12:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
-    },
-    "content": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
-    "contentSnippet": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
-    "guid": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
-    "isoDate": "2025-12-29T06:34:00.000Z",
     "itunes": {}
   }
 ]
