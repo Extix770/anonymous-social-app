@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7334,
+    "stars": 7335,
     "forks": 842,
     "language": "HTML"
   },
@@ -175,7 +175,7 @@
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
     "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 90,
+    "stars": 91,
     "forks": 11,
     "language": null
   },
