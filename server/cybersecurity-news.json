@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+    "pubDate": "Thu, 01 Jan 2026 21:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg"
+    },
+    "content": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
+    "contentSnippet": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
+    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+    "isoDate": "2026-01-01T15:52:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
     "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
     "pubDate": "Thu, 01 Jan 2026 14:49:00 +0530",
@@ -331,21 +348,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2025-12-29T12:00:00.000Z"
-  },
-  {
-    "creator": "Andrew Couts",
-    "title": "The New Surveillance State Is You",
-    "link": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
-    "pubDate": "Mon, 29 Dec 2025 11:00:00 +0000",
-    "dc:creator": "Andrew Couts",
-    "content": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
-    "contentSnippet": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
-    "guid": "691ba3cfa5d5636ff2e7189a",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-12-29T11:00:00.000Z"
   }
 ]

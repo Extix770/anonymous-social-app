@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7337,
+    "stars": 7338,
     "forks": 842,
     "language": "HTML"
   },
@@ -121,8 +121,8 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 161,
-    "forks": 19,
+    "stars": 165,
+    "forks": 20,
     "language": "HTML"
   },
   {
