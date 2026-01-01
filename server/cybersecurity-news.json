@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
+    "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
+    "pubDate": "Thu, 01 Jan 2026 14:49:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
+    "guid": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
+    "isoDate": "2026-01-01T09:19:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
     "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
     "pubDate": "Wed, 31 Dec 2025 21:59:00 +0530",
@@ -328,22 +345,5 @@
       "Security / Security News"
     ],
     "isoDate": "2025-12-29T10:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
-    "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-    "pubDate": "Mon, 29 Dec 2025 15:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
-    },
-    "content": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
-    "contentSnippet": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
-    "guid": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-    "isoDate": "2025-12-29T09:46:00.000Z",
-    "itunes": {}
   }
 ]
