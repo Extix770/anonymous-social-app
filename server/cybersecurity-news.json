@@ -18,6 +18,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+    "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+    "pubDate": "Thu, 01 Jan 2026 11:17:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv_KQxQETJOGQo3bnCQJDl_q0JjioroSN5Jrh3NWhbSoQ0b5VbaBBfodYWplOfTNRyR-s08yD5yjWX0STJVTSjQIS-2iGk9fWae2WsFdFi7BgVVgBKMoeFc-5wSTHrmAV3XQ_201aIGRqiZROKfo0gzePyHDmBV3Y_SEMsJIx2id4Lc9Dg1oOb7VCvyXk/s1600/Adapt-Browser-1.jpg"
+    },
+    "content": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer.&nbsp;\nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
+    "contentSnippet": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer. \nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
+    "guid": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+    "isoDate": "2026-01-01T05:47:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
     "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
     "pubDate": "Wed, 31 Dec 2025 21:59:00 +0530",
@@ -330,20 +347,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-12-29T11:00:00.000Z"
-  },
-  {
-    "creator": "WIRED Staff",
-    "title": "The Most Dangerous People on the Internet in 2025",
-    "link": "https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/",
-    "pubDate": "Mon, 29 Dec 2025 10:30:00 +0000",
-    "dc:creator": "WIRED Staff",
-    "content": "From Donald Trump to DOGE to Chinese hackers, this year the internet’s chaos caused outsize real-world harm.",
-    "contentSnippet": "From Donald Trump to DOGE to Chinese hackers, this year the internet’s chaos caused outsize real-world harm.",
-    "guid": "69405d85ccaf9f64c5d1c4b7",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2025-12-29T10:30:00.000Z"
   }
 ]
