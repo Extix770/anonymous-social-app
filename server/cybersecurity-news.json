@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+    "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+    "pubDate": "Fri, 02 Jan 2026 14:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
+    "guid": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+    "isoDate": "2026-01-02T09:14:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
     "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
     "pubDate": "Thu, 01 Jan 2026 21:22:00 +0530",
@@ -333,20 +350,5 @@
       "LLM"
     ],
     "isoDate": "2025-12-29T12:07:15.000Z"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "The Worst Hacks of 2025",
-    "link": "https://www.wired.com/story/worst-hacks-of-2025/",
-    "pubDate": "Mon, 29 Dec 2025 12:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "From university breaches to cyberattacks that shut down whole supply chains, these were the worst cybersecurity incidents of the year.",
-    "contentSnippet": "From university breaches to cyberattacks that shut down whole supply chains, these were the worst cybersecurity incidents of the year.",
-    "guid": "69401e7fb1544ff47e62b620",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2025-12-29T12:00:00.000Z"
   }
 ]
