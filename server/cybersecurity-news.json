@@ -268,8 +268,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
     },
-    "content": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
-    "contentSnippet": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
+    "content": "The Chinese hacking group known as Mustang Panda (aka HoneyMyte) has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group",
+    "contentSnippet": "The Chinese hacking group known as Mustang Panda (aka HoneyMyte) has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group",
     "guid": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
     "isoDate": "2025-12-30T08:35:00.000Z",
     "itunes": {}
