@@ -31,7 +31,7 @@
     "owner": "0Chencc",
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
-    "stars": 2048,
+    "stars": 2049,
     "forks": 301,
     "language": "Rust"
   },
@@ -774,15 +774,6 @@
     "language": "Go"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "ncl-tools",
     "owner": "Lydia-England",
     "url": "https://github.com/Lydia-England/ncl-tools",
@@ -790,6 +781,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "OSINT-TOOLS",
