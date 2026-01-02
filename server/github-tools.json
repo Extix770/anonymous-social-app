@@ -122,7 +122,7 @@
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
     "stars": 187,
-    "forks": 21,
+    "forks": 22,
     "language": "HTML"
   },
   {
@@ -675,6 +675,15 @@
     "language": "Python"
   },
   {
+    "name": "bug-hunting-toolkit",
+    "owner": "mhdgning131",
+    "url": "https://github.com/mhdgning131/bug-hunting-toolkit",
+    "description": "Sleek command generator and resource hub for bug bounty hunters. Enter your target, get instant commands for recon, fuzzing, XSS, SQLi & more.",
+    "stars": 6,
+    "forks": 3,
+    "language": "TypeScript"
+  },
+  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 4,
-    "forks": 2,
-    "language": "Shell"
   }
 ]
