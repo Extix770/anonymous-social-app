@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Found in Light Fixture",
+    "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html",
+    "pubDate": "Fri, 02 Jan 2026 22:04:04 +0000",
+    "content:encoded": "<p>Probably a <a href=\"https://mustangnews.net/squid-light-fixture-red-bricks/\">college  prank</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Probably a college  prank.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html#respond",
+    "content": "<p>Probably a <a href=\"https://mustangnews.net/squid-light-fixture-red-bricks/\">college  prank</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Probably a college  prank.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71309",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-01-02T22:04:04.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -353,22 +371,5 @@
       "scams"
     ],
     "isoDate": "2025-12-30T12:02:01.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-    "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-    "pubDate": "Tue, 30 Dec 2025 16:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
-    },
-    "content": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-    "contentSnippet": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-    "guid": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-    "isoDate": "2025-12-30T10:46:00.000Z",
-    "itunes": {}
   }
 ]
