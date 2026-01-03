@@ -648,15 +648,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -664,6 +655,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -801,15 +801,6 @@
     "language": null
   },
   {
-    "name": "OSINT-TOOLS",
-    "owner": "rzgr-dev",
-    "url": "https://github.com/rzgr-dev/OSINT-TOOLS",
-    "description": "OSINT(Open-Source Intelligence) araçları. ",
-    "stars": 5,
-    "forks": 0,
-    "language": null
-  },
-  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -898,5 +889,14 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 4,
+    "forks": 2,
+    "language": "Shell"
   }
 ]
