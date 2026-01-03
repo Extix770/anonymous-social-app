@@ -184,7 +184,7 @@
     "owner": "ezhil56x",
     "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
     "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
-    "stars": 86,
+    "stars": 87,
     "forks": 16,
     "language": "Shell"
   },
@@ -211,7 +211,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Social-Engineering-Tools",
     "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
-    "stars": 55,
+    "stars": 56,
     "forks": 5,
     "language": null
   },
@@ -783,15 +783,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -799,6 +790,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
