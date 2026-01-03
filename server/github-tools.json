@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8036,
+    "stars": 8037,
     "forks": 1101,
     "language": null
   },
@@ -648,15 +648,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -664,6 +655,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
