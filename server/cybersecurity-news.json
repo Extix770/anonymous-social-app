@@ -1,6 +1,21 @@
 [
   {
     "creator": "Kate O'Flaherty",
+    "title": "8 WhatsApp Features to Boost Your Security and Privacy",
+    "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
+    "pubDate": "Sun, 04 Jan 2026 11:00:00 +0000",
+    "dc:creator": "Kate O'Flaherty",
+    "content": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
+    "contentSnippet": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
+    "guid": "693b0a542ab7d8c6c2038831",
+    "categories": [
+      "Security",
+      "Security / Security Advice"
+    ],
+    "isoDate": "2026-01-04T11:00:00.000Z"
+  },
+  {
+    "creator": "Kate O'Flaherty",
     "title": "How to Protect Your iPhone or Android Device From Spyware",
     "link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
     "pubDate": "Sat, 03 Jan 2026 10:00:00 +0000",
@@ -349,23 +364,6 @@
     "contentSnippet": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
     "guid": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
     "isoDate": "2025-12-31T05:17:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-    "pubDate": "Tue, 30 Dec 2025 21:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
-    },
-    "content": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-    "contentSnippet": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-    "guid": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-    "isoDate": "2025-12-30T16:28:00.000Z",
     "itunes": {}
   }
 ]
