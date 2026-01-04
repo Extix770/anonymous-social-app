@@ -76,7 +76,7 @@
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
     "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
-    "stars": 511,
+    "stars": 512,
     "forks": 61,
     "language": "Python"
   },
@@ -270,6 +270,15 @@
     "language": "Python"
   },
   {
+    "name": "Hardware-Hacking-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
+    "description": "Lists various tools used in hardware hacking. ",
+    "stars": 29,
+    "forks": 4,
+    "language": null
+  },
+  {
     "name": "Security-Event-Analysis-Automation-Tool",
     "owner": "AzharAnwar9",
     "url": "https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool",
@@ -277,15 +286,6 @@
     "stars": 28,
     "forks": 6,
     "language": "Python"
-  },
-  {
-    "name": "Hardware-Hacking-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
-    "description": "Lists various tools used in hardware hacking. ",
-    "stars": 28,
-    "forks": 4,
-    "language": null
   },
   {
     "name": "Haram-Tool-Hacker-Penetration-Master-",
@@ -648,15 +648,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -664,6 +655,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
