@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
+    "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+    "pubDate": "Mon, 05 Jan 2026 13:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoSUYkZi1PnR7_XDnEwu_ZZaBhpLuCssykwEM8x8vGGWRH6fHkwyCqaMNWJ7DzZ5zi_fyabPUC8a8gszAcaSPncbhTOmmKZfZy8M-qTFjdU6Jlz87nV2oalablLAZENIsFU7MIleVfDgi_yYxqB1c3QpXlEyPW89xIwVmInLThmIrDdQosJR2iatZGhDr/s1600/discord-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
+    "guid": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+    "isoDate": "2026-01-05T07:48:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Kate O'Flaherty",
     "title": "8 WhatsApp Features to Boost Your Security and Privacy",
     "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
@@ -348,22 +365,5 @@
       "Security / National Security"
     ],
     "isoDate": "2025-12-31T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
-    "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-    "pubDate": "Wed, 31 Dec 2025 10:47:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9iYApTtWG0KxgphidiTj5byahP3v542tKMm1cMrVGsc4_KDJKA41BBDM0BbaiusYU-zCVytBp99VDpal0qJpvdyWinLrCLitoGYeMQ4FI1Bb-kJppiAUPSBMeMFNRre-m0NZ-ZFSjCIiPbo2DVFBa7K8qJnsRAl7eZ37tAhVmKLb7B5YLUdyLJgJDE8S/s1600/spy.jpg"
-    },
-    "content": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
-    "contentSnippet": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
-    "guid": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-    "isoDate": "2025-12-31T05:17:00.000Z",
-    "itunes": {}
   }
 ]
