@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+    "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+    "pubDate": "Mon, 05 Jan 2026 23:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZrzpzm3kgY91cQhzyrpbgxomzkri4gsv_GeaFpDMVVj3faZ9_CQAm2c5DvxBbZ15708nW3eJrmSxS9AZBABszXboS-IVyik_4TTrni4xTOJERzoSSF5l7ixY_7n4hIydsBXGozBBS0rF89sIpgxRMHPZbEVe6n2j-nWxP15Y8fsvt7-_KQO-Zjwu_19h2/s1600/viber.jpg"
+    },
+    "content": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
+    "contentSnippet": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
+    "guid": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+    "isoDate": "2026-01-05T17:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
     "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
     "pubDate": "Mon, 05 Jan 2026 22:11:00 +0530",
@@ -351,23 +368,6 @@
     "contentSnippet": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
     "guid": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
     "isoDate": "2025-12-31T16:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-    "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-    "pubDate": "Wed, 31 Dec 2025 21:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BlrabuZMmyZXh7mVD8BfgxW1K7DaJwh4FqMKyPBod0SCwsR2L24g7oYk4e4hJnScEHlg4HMWEZ2041ZzwMnbs9gEQ0bNcCIu38ZhNtum_YNF01PEJBOI-O_qd4wSLxmYvrAvlnLugMGX9uolGrhsRvWT5uYX1p2z8YgwbY6qdgmJZcp5yPn6RlAhIMe2/s1600/browser.jpg"
-    },
-    "content": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
-    "contentSnippet": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
-    "guid": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-    "isoDate": "2025-12-31T16:14:00.000Z",
     "itunes": {}
   }
 ]
