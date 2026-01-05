@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+    "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+    "pubDate": "Mon, 05 Jan 2026 22:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeV0itvv125PlLqvGK97v34m6fdEcSIwgagUCSvL0Z2hcuBWhc-Va5zUjeF3_CgbFojPUcu-Sx2byaI00B67aw49WjKuTDH7zrW7f2Z3lbAt4HLkfA1-k2Vo2sGbrOO9XGCGGjCYQKfdCiUee_aL_UwgcFfxM2jZJxQQkFAtF9P2_raILtD7Orm01ixpE/s1600/android-malware.jpg"
+    },
+    "content": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf",
+    "contentSnippet": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf",
+    "guid": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+    "isoDate": "2026-01-05T16:41:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
     "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
     "pubDate": "Mon, 05 Jan 2026 18:23:00 +0530",
@@ -351,23 +368,6 @@
     "contentSnippet": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
     "guid": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
     "isoDate": "2025-12-31T16:14:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
-    "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-    "pubDate": "Wed, 31 Dec 2025 19:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6aF_LtBQsxfp7ziJZ57TatgdnnjgWwDKQRdgCbPqj8o5Fk-wS94TV1LNcXqTTAr6sgpty7xjiZ58uFabTBr7az46u52ETTgROTfakpeYBSRAXMjrNkyWdCtJehPjCZGGFalG59NRL8VPfQbe-F9R8ZLmGQ0EBXw0bgh0XStROWKpyIio2-3MOK3qH1Z2/s1600/ibm.jpg"
-    },
-    "content": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
-    "contentSnippet": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
-    "guid": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-    "isoDate": "2025-12-31T13:37:00.000Z",
     "itunes": {}
   }
 ]
