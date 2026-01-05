@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+    "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+    "pubDate": "Mon, 05 Jan 2026 15:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg"
+    },
+    "content": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
+    "contentSnippet": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
+    "guid": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+    "isoDate": "2026-01-05T09:42:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
     "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
     "pubDate": "Mon, 05 Jan 2026 13:18:00 +0530",
@@ -350,20 +367,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2025-12-31T11:00:00.000Z"
-  },
-  {
-    "creator": "Michael McFaul",
-    "title": "Discovering the Dimensions of a New Cold War",
-    "link": "https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/",
-    "pubDate": "Wed, 31 Dec 2025 10:00:00 +0000",
-    "dc:creator": "Michael McFaul",
-    "content": "The United States’ plan for dealing with Putin’s Russia and Xi’s China remains ill-defined among a shifting global order. That must change.",
-    "contentSnippet": "The United States’ plan for dealing with Putin’s Russia and Xi’s China remains ill-defined among a shifting global order. That must change.",
-    "guid": "69403e274b15b457ebac8228",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2025-12-31T10:00:00.000Z"
   }
 ]
