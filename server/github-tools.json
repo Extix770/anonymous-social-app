@@ -5,7 +5,7 @@
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "stars": 8047,
-    "forks": 1104,
+    "forks": 1105,
     "language": null
   },
   {
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7349,
+    "stars": 7350,
     "forks": 844,
     "language": "HTML"
   },
@@ -324,6 +324,15 @@
     "language": "Python"
   },
   {
+    "name": "PCI-DSS-Compliance-Toolkit",
+    "owner": "praiseordu",
+    "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
+    "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
+    "stars": 19,
+    "forks": 9,
+    "language": "Python"
+  },
+  {
     "name": "ToolsBox",
     "owner": "zidansec",
     "url": "https://github.com/zidansec/ToolsBox",
@@ -331,15 +340,6 @@
     "stars": 19,
     "forks": 2,
     "language": "Shell"
-  },
-  {
-    "name": "PCI-DSS-Compliance-Toolkit",
-    "owner": "praiseordu",
-    "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
-    "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
-    "stars": 18,
-    "forks": 9,
-    "language": "Python"
   },
   {
     "name": "DFIR-Toolkit",

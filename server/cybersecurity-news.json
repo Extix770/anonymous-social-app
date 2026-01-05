@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Telegram Hosting World’s Largest Darknet Market",
+    "link": "https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html",
+    "pubDate": "Mon, 05 Jan 2026 12:01:16 +0000",
+    "content:encoded": "<p>Wired is <a href=\"https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/\">reporting</a> on Chinese darknet markets on Telegram.</p>\n<blockquote><p>The ecosystem of marketplaces for Chinese-speaking crypto scammers hosted on the messaging service Telegram have now grown to be bigger than ever before, according to a new analysis from the crypto tracing firm Elliptic. <a href=\"https://www.elliptic.co/blog/telegram-dark-markets-expand-to-fill-the-gap-left-by-huione-guarantee\">Despite a brief drop</a> after Telegram banned two of the biggest such markets in early 2025, the two current top markets, known as Tudou Guarantee and Xinbi Guarantee, are together enabling close to $2 billion a month in money-laundering transactions, sales of scam tools like stolen data, fake investment websites, and AI deepfake tools, as well as other black market services as varied as <a href=\"https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/\">pregnancy surrogacy</a> and teen prostitution.</p>\n<p>The crypto romance and investment scams <a href=\"https://www.wired.com/story/interpol-pig-butchering-scams-rename/\">regrettably known as &#8220;pig butchering&#8221;</a>&#8212;carried out largely from compounds in Southeast Asia staffed with thousands of human trafficking victims&#8212;have grown to become the world&#8217;s most lucrative form of cybercrime. They pull in around $10 billion annually from US victims alone, <a href=\"https://www.justice.gov/usao-dc/pr/new-scam-center-strike-force-battles-southeast-asian-crypto-investment-fraud-targeting\">according to the FBI</a>. By selling money-laundering services and other scam-related offerings to those operations, markets like Tudou Guarantee and Xinbi Guarantee have grown in parallel to an immense scale.</p></blockquote>\n",
+    "content:encodedSnippet": "Wired is reporting on Chinese darknet markets on Telegram.\nThe ecosystem of marketplaces for Chinese-speaking crypto scammers hosted on the messaging service Telegram have now grown to be bigger than ever before, according to a new analysis from the crypto tracing firm Elliptic. Despite a brief drop after Telegram banned two of the biggest such markets in early 2025, the two current top markets, known as Tudou Guarantee and Xinbi Guarantee, are together enabling close to $2 billion a month in money-laundering transactions, sales of scam tools like stolen data, fake investment websites, and AI deepfake tools, as well as other black market services as varied as pregnancy surrogacy and teen prostitution.\nThe crypto romance and investment scams regrettably known as “pig butchering”—carried out largely from compounds in Southeast Asia staffed with thousands of human trafficking victims—have grown to become the world’s most lucrative form of cybercrime. They pull in around $10 billion annually from US victims alone, according to the FBI. By selling money-laundering services and other scam-related offerings to those operations, markets like Tudou Guarantee and Xinbi Guarantee have grown in parallel to an immense scale.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html#respond",
+    "content": "<p>Wired is <a href=\"https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/\">reporting</a> on Chinese darknet markets on Telegram.</p>\n<blockquote><p>The ecosystem of marketplaces for Chinese-speaking crypto scammers hosted on the messaging service Telegram have now grown to be bigger than ever before, according to a new analysis from the crypto tracing firm Elliptic. <a href=\"https://www.elliptic.co/blog/telegram-dark-markets-expand-to-fill-the-gap-left-by-huione-guarantee\">Despite a brief drop</a> after Telegram banned two of the biggest such markets in early 2025, the two current top markets, known as Tudou Guarantee and Xinbi Guarantee, are together enabling close to $2 billion a month in money-laundering transactions, sales of scam tools like stolen data, fake investment websites, and AI deepfake tools, as well as other black market services as varied as ...</p></blockquote>",
+    "contentSnippet": "Wired is reporting on Chinese darknet markets on Telegram.\nThe ecosystem of marketplaces for Chinese-speaking crypto scammers hosted on the messaging service Telegram have now grown to be bigger than ever before, according to a new analysis from the crypto tracing firm Elliptic. Despite a brief drop after Telegram banned two of the biggest such markets in early 2025, the two current top markets, known as Tudou Guarantee and Xinbi Guarantee, are together enabling close to $2 billion a month in money-laundering transactions, sales of scam tools like stolen data, fake investment websites, and AI deepfake tools, as well as other black market services as varied as ...",
+    "guid": "https://www.schneier.com/?p=71406",
+    "categories": [
+      "Uncategorized",
+      "China",
+      "dark web",
+      "scams",
+      "Telegram"
+    ],
+    "isoDate": "2026-01-05T12:01:16.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations ",
+    "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+    "pubDate": "Mon, 05 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA8x4yWhFnltxystR8dz6wTJZo-s-V59gxVDdhogzQnCBOGTU8Rl8SzY-Qa9q83pzJfuShODB0oiNiImplzMoWmBgY754RhzQLWWutipMGuqbhZMyGTQKGsHQEqAOsdiZ2F6FHASN947iuZczpw47T46GJy6juP0qa4739u4U_1-S9yahO6ma6VI_ttIM/s1600/papryon.jpg"
+    },
+    "content": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
+    "contentSnippet": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
+    "guid": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+    "isoDate": "2026-01-05T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
     "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
@@ -331,41 +369,5 @@
     "guid": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
     "isoDate": "2025-12-31T13:29:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "LinkedIn Job Scams",
-    "link": "https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html",
-    "pubDate": "Wed, 31 Dec 2025 12:03:40 +0000",
-    "content:encoded": "<p>Interesting <a href=\"https://restofworld.org/2025/linkedin-job-scams/\">article</a> on the variety of LinkedIn job scams around the world:</p>\n<blockquote><p>In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis.</p></blockquote>\n<p>These are scams involving fraudulent employers convincing prospective employees to send them money for various fees. There is an entirely different set of scams involving fraudulent employees getting hired for remote jobs.</p>\n",
-    "content:encodedSnippet": "Interesting article on the variety of LinkedIn job scams around the world:\nIn India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis.\n\nThese are scams involving fraudulent employers convincing prospective employees to send them money for various fees. There is an entirely different set of scams involving fraudulent employees getting hired for remote jobs.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html#comments",
-    "content": "<p>Interesting <a href=\"https://restofworld.org/2025/linkedin-job-scams/\">article</a> on the variety of LinkedIn job scams around the world:</p>\n<blockquote><p>In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...</p></blockquote>",
-    "contentSnippet": "Interesting article on the variety of LinkedIn job scams around the world:\nIn India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...",
-    "guid": "https://www.schneier.com/?p=71401",
-    "categories": [
-      "Uncategorized",
-      "fraud",
-      "LinkedIn",
-      "scams"
-    ],
-    "isoDate": "2025-12-31T12:03:40.000Z"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse",
-    "link": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
-    "pubDate": "Wed, 31 Dec 2025 11:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Government staffing cuts and instability, including this year’s prolonged shutdown, could be hindering US digital defense and creating vulnerabilities.",
-    "contentSnippet": "Government staffing cuts and instability, including this year’s prolonged shutdown, could be hindering US digital defense and creating vulnerabilities.",
-    "guid": "691ba508981359ffe511ae45",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2025-12-31T11:00:00.000Z"
   }
 ]
