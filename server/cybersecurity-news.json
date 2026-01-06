@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+    "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+    "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
+    },
+    "content": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+    "contentSnippet": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+    "guid": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+    "isoDate": "2026-01-06T05:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
     "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
     "pubDate": "Mon, 05 Jan 2026 23:26:00 +0530",
@@ -351,23 +368,6 @@
     "contentSnippet": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer. \nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
     "guid": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
     "isoDate": "2026-01-01T05:47:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-    "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-    "pubDate": "Wed, 31 Dec 2025 21:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbGd5gZt4LivTf91n0rkIqb96QTFiXAPUGZIjWetmK58EeBHuQNFM6PQ1WHeNdTsg5GmtM9qWLoNz1jXn9S1t_zbP02pp62aPKYqruzZ81_fqujiRFvpj1MTxKP9VA6jeNk2Xw4Szx1UJ3ndXXEaV9-T9e0uFqieAuvHlmLRiU2RjTEkDf-Ft9YL6pyx-/s1600/crypto.jpg"
-    },
-    "content": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
-    "contentSnippet": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
-    "guid": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-    "isoDate": "2025-12-31T16:29:00.000Z",
     "itunes": {}
   }
 ]
