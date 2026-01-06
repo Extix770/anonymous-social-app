@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+    "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+    "pubDate": "Tue, 06 Jan 2026 17:43:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg"
+    },
+    "content": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
+    "contentSnippet": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
+    "guid": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+    "isoDate": "2026-01-06T12:13:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "What is Identity Dark Matter?",
     "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
     "pubDate": "Tue, 06 Jan 2026 17:00:00 +0530",
@@ -18,6 +35,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+    "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+    "pubDate": "Tue, 06 Jan 2026 16:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg"
+    },
+    "content": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these",
+    "contentSnippet": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these",
+    "guid": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+    "isoDate": "2026-01-06T11:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
     "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
     "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530",
@@ -27,8 +61,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
     },
-    "content": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
-    "contentSnippet": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+    "content": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
+    "contentSnippet": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
     "guid": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
     "isoDate": "2026-01-06T05:08:00.000Z",
     "itunes": {}
@@ -335,39 +369,5 @@
       "Security / Privacy"
     ],
     "isoDate": "2026-01-02T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
-    "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
-    "pubDate": "Fri, 02 Jan 2026 14:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
-    "guid": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
-    "isoDate": "2026-01-02T09:14:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-    "pubDate": "Thu, 01 Jan 2026 21:22:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg"
-    },
-    "content": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
-    "contentSnippet": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
-    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-    "isoDate": "2026-01-01T15:52:00.000Z",
-    "itunes": {}
   }
 ]
