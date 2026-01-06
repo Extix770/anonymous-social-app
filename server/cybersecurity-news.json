@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "A Cyberattack Was Part of the US Assault on Venezuela",
+    "link": "https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html",
+    "pubDate": "Tue, 06 Jan 2026 16:08:22 +0000",
+    "content:encoded": "<p>We don&#8217;t have many <a href=\"https://www.politico.com/news/2026/01/03/trump-venezuela-cyber-operation-maduro-00709816\">details</a>:</p>\n<blockquote><p>President Donald Trump suggested Saturday that the U.S. used cyberattacks or other technical capabilities to cut power off in Caracas during strikes on the Venezuelan capital that led to the capture of Venezuelan President Nicolás Maduro.</p>\n<p>If true, it would mark one of the most public uses of U.S. cyber power against another nation in recent memory. These operations are typically highly classified, and the U.S. is considered one of the most advanced nations in cyberspace operations globally.</p></blockquote>\n",
+    "content:encodedSnippet": "We don’t have many details:\nPresident Donald Trump suggested Saturday that the U.S. used cyberattacks or other technical capabilities to cut power off in Caracas during strikes on the Venezuelan capital that led to the capture of Venezuelan President Nicolás Maduro.\nIf true, it would mark one of the most public uses of U.S. cyber power against another nation in recent memory. These operations are typically highly classified, and the U.S. is considered one of the most advanced nations in cyberspace operations globally.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html#respond",
+    "content": "<p>We don&#8217;t have many <a href=\"https://www.politico.com/news/2026/01/03/trump-venezuela-cyber-operation-maduro-00709816\">details</a>:</p>\n<blockquote><p>President Donald Trump suggested Saturday that the U.S. used cyberattacks or other technical capabilities to cut power off in Caracas during strikes on the Venezuelan capital that led to the capture of Venezuelan President Nicolás Maduro.</p>\n<p>If true, it would mark one of the most public uses of U.S. cyber power against another nation in recent memory. These operations are typically highly classified, and the U.S. is considered one of the most advanced nations in cyberspace operations globally.</p></blockquote>\n",
+    "contentSnippet": "We don’t have many details:\nPresident Donald Trump suggested Saturday that the U.S. used cyberattacks or other technical capabilities to cut power off in Caracas during strikes on the Venezuelan capital that led to the capture of Venezuelan President Nicolás Maduro.\nIf true, it would mark one of the most public uses of U.S. cyber power against another nation in recent memory. These operations are typically highly classified, and the U.S. is considered one of the most advanced nations in cyberspace operations globally.",
+    "guid": "https://www.schneier.com/?p=71410",
+    "categories": [
+      "Uncategorized",
+      "cyberattack",
+      "infrastructure",
+      "kidnapping",
+      "national security policy"
+    ],
+    "isoDate": "2026-01-06T16:08:22.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
     "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
@@ -354,20 +375,5 @@
     "guid": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
     "isoDate": "2026-01-02T11:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "How Protesters Became Content for the Cops",
-    "link": "https://www.wired.com/story/expired-tired-wired-protest-surveillance/",
-    "pubDate": "Fri, 02 Jan 2026 11:00:00 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "The tactics behind protest policing are changing—from one of cooperation to intentional antagonism for political marketing purposes.",
-    "contentSnippet": "The tactics behind protest policing are changing—from one of cooperation to intentional antagonism for political marketing purposes.",
-    "guid": "691ba464a85ddc95bbb595fc",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-01-02T11:00:00.000Z"
   }
 ]
