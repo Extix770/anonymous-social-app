@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess, Maddy Varner",
+    "title": "Grok Is Pushing AI ‘Undressing’ Mainstream",
+    "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+    "pubDate": "Tue, 06 Jan 2026 22:20:08 +0000",
+    "dc:creator": "Matt Burgess, Maddy Varner",
+    "content": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk's X is now removing barriers to entry—and making the results public.",
+    "contentSnippet": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk's X is now removing barriers to entry—and making the results public.",
+    "guid": "695d30e7a225d53752746fb1",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-01-06T22:20:08.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
     "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
@@ -353,22 +368,5 @@
       "XLab"
     ],
     "isoDate": "2026-01-02T14:20:10.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
-    "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
-    "pubDate": "Fri, 02 Jan 2026 19:22:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFyRmyuVgO_C0sj1T6dS6xOHtQzLfUUckXuj31BDmfIdvD6xMza5hxryu06NflKvAWIOrqiIl5qZRQRuiTXiRoGkzSSCmfffHmkoW6w1yu7wWkXbk3YnnPQojFwLfDhnCvmjU063dxagQoIPFtiyxLoBP-V36reDJ7__kmAZQ5UD4Ybva-cvjDryruo2W/s1600/india.jpg"
-    },
-    "content": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts.\n\"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
-    "contentSnippet": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts.\n\"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
-    "guid": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
-    "isoDate": "2026-01-02T13:52:00.000Z",
-    "itunes": {}
   }
 ]
