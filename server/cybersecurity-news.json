@@ -1,5 +1,94 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "The Wegman’s Supermarket Chain Is Probably Using Facial Recognition",
+    "link": "https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html",
+    "pubDate": "Wed, 07 Jan 2026 12:03:33 +0000",
+    "content:encoded": "<p>The New York City Wegman&#8217;s is <a href=\"https://www.aol.com/articles/popular-grocery-store-chain-uses-130056099.html?_guc_consent_skip=1767738511\">collecting</a> biometric information about customers.</p>\n",
+    "content:encodedSnippet": "The New York City Wegman’s is collecting biometric information about customers.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html#respond",
+    "content": "<p>The New York City Wegman&#8217;s is <a href=\"https://www.aol.com/articles/popular-grocery-store-chain-uses-130056099.html?_guc_consent_skip=1767738511\">collecting</a> biometric information about customers.</p>\n",
+    "contentSnippet": "The New York City Wegman’s is collecting biometric information about customers.",
+    "guid": "https://www.schneier.com/?p=71412",
+    "categories": [
+      "Uncategorized",
+      "biometrics",
+      "face recognition",
+      "privacy",
+      "surveillance"
+    ],
+    "isoDate": "2026-01-07T12:03:33.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+    "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "pubDate": "Wed, 07 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9E2QJsYrvm3dqEopONz5kjVfdtq2x9G7xmpCyYyijQ9R0NbcGLLX4GJypIXBWFVLBIflmcF47QObTpLJxoqP-cE20PgR9v9Of_BhpD9tEVBkuF_RpiAufDanr3ClW-ivhdfr1oh7a8r2gO-N8m7M1Mv3ztVK6cjQD_ARlJKdDjBV30C7v9x4QMa4uolg/s1600/cyberthreat.jpg"
+    },
+    "content": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
+    "contentSnippet": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
+    "guid": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "isoDate": "2026-01-07T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+    "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+    "pubDate": "Wed, 07 Jan 2026 16:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafpcLSwwnkKivk1KL4R92i5R3wIeXrHe7OiXMYG6qyx9YZAxl74FH1pnaNUgjwJZ-XUHw4fCoDufnEbb9B_dMNH4qsjmDAe9afDJc_YpTi-vKpxcbnwVWtadtkoJL_Dtqg_piby9p9LULtjk3jrgZTYunG5D5_mQuAJQa1SHPHnP5zgGMOIPa7vg005c7/s1600/n8n.jpg"
+    },
+    "content": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
+    "contentSnippet": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
+    "guid": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+    "isoDate": "2026-01-07T11:26:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Future of Cybersecurity Includes Non-Human Employees",
+    "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+    "pubDate": "Wed, 07 Jan 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg"
+    },
+    "content": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
+    "contentSnippet": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
+    "guid": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+    "isoDate": "2026-01-07T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+    "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+    "pubDate": "Wed, 07 Jan 2026 16:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYNBaEaqMpnYMFHKFEedrGcP4HSZ_2-sa5EjqnE0U1Hh_9-d2iu_UtCTxHavvjHYZq54fIa9Q3lyaXdHSH25-vn5kLz97muKX6Y8k8U4PG4Wer42axNEzxMsOeRq_1x4SUKvZCRQ4fBAmx7zWu2z2IkE5RTD8oW69YnKwn_K8AtXuC1eK2juaOVxg5QqeV/s1600/veeam.jpg"
+    },
+    "content": "Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
+    "contentSnippet": "Veeam has released security updates to address multiple flaws in its Backup & Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
+    "guid": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+    "isoDate": "2026-01-07T10:41:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
     "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
@@ -259,87 +348,5 @@
       "Telegram"
     ],
     "isoDate": "2026-01-05T12:01:16.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations ",
-    "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
-    "pubDate": "Mon, 05 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA8x4yWhFnltxystR8dz6wTJZo-s-V59gxVDdhogzQnCBOGTU8Rl8SzY-Qa9q83pzJfuShODB0oiNiImplzMoWmBgY754RhzQLWWutipMGuqbhZMyGTQKGsHQEqAOsdiZ2F6FHASN947iuZczpw47T46GJy6juP0qa4739u4U_1-S9yahO6ma6VI_ttIM/s1600/papryon.jpg"
-    },
-    "content": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
-    "contentSnippet": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
-    "guid": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
-    "isoDate": "2026-01-05T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
-    "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-    "pubDate": "Mon, 05 Jan 2026 15:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg"
-    },
-    "content": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
-    "contentSnippet": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
-    "guid": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-    "isoDate": "2026-01-05T09:42:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
-    "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-    "pubDate": "Mon, 05 Jan 2026 13:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoSUYkZi1PnR7_XDnEwu_ZZaBhpLuCssykwEM8x8vGGWRH6fHkwyCqaMNWJ7DzZ5zi_fyabPUC8a8gszAcaSPncbhTOmmKZfZy8M-qTFjdU6Jlz87nV2oalablLAZENIsFU7MIleVfDgi_yYxqB1c3QpXlEyPW89xIwVmInLThmIrDdQosJR2iatZGhDr/s1600/discord-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
-    "guid": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-    "isoDate": "2026-01-05T07:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Kate O'Flaherty",
-    "title": "8 WhatsApp Features to Boost Your Security and Privacy",
-    "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
-    "pubDate": "Sun, 04 Jan 2026 11:00:00 +0000",
-    "dc:creator": "Kate O'Flaherty",
-    "content": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
-    "contentSnippet": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
-    "guid": "693b0a542ab7d8c6c2038831",
-    "categories": [
-      "Security",
-      "Security / Security Advice"
-    ],
-    "isoDate": "2026-01-04T11:00:00.000Z"
-  },
-  {
-    "creator": "Kate O'Flaherty",
-    "title": "How to Protect Your iPhone or Android Device From Spyware",
-    "link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
-    "pubDate": "Sat, 03 Jan 2026 10:00:00 +0000",
-    "dc:creator": "Kate O'Flaherty",
-    "content": "Being targeted by sophisticated spyware is relatively rare, but experts say that everyone needs to stay vigilant as this dangerous malware continues to proliferate worldwide.",
-    "contentSnippet": "Being targeted by sophisticated spyware is relatively rare, but experts say that everyone needs to stay vigilant as this dangerous malware continues to proliferate worldwide.",
-    "guid": "693b09f747be3ac40e057fb2",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security Advice"
-    ],
-    "isoDate": "2026-01-03T10:00:00.000Z"
   }
 ]
