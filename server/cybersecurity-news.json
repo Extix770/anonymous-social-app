@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
+    "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+    "pubDate": "Wed, 07 Jan 2026 15:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZJ_x-tDf2JaX7jVZDlS1KTcw7PnwLR03qRgpIHRBtIvLNIybJd8Gw058LyQyjV73UUJy39rcTziPgH9B1cqkTeOMF5zn7GstRSXG-MV1kWEfbnsACIM7VDbodevFXrvnYQjZjQMmicjj16dM6nb1tUEhsoDSQ5UOFAGpaG3P0XCpR5s5nazAf9npmgge/s1600/email-phishing.jpg"
+    },
+    "content": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally.\n\"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the",
+    "contentSnippet": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally.\n\"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the",
+    "guid": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+    "isoDate": "2026-01-07T09:42:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
     "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
     "pubDate": "Wed, 07 Jan 2026 10:01:00 +0530",
@@ -324,23 +341,5 @@
       "Security / Security Advice"
     ],
     "isoDate": "2026-01-03T10:00:00.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Found in Light Fixture",
-    "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html",
-    "pubDate": "Fri, 02 Jan 2026 22:04:04 +0000",
-    "content:encoded": "<p>Probably a <a href=\"https://mustangnews.net/squid-light-fixture-red-bricks/\">college  prank</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "Probably a college  prank.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html#comments",
-    "content": "<p>Probably a <a href=\"https://mustangnews.net/squid-light-fixture-red-bricks/\">college  prank</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "Probably a college  prank.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71309",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2026-01-02T22:04:04.000Z"
   }
 ]
