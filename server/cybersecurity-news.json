@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+    "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "pubDate": "Wed, 07 Jan 2026 22:49:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9E2QJsYrvm3dqEopONz5kjVfdtq2x9G7xmpCyYyijQ9R0NbcGLLX4GJypIXBWFVLBIflmcF47QObTpLJxoqP-cE20PgR9v9Of_BhpD9tEVBkuF_RpiAufDanr3ClW-ivhdfr1oh7a8r2gO-N8m7M1Mv3ztVK6cjQD_ARlJKdDjBV30C7v9x4QMa4uolg/s1600/cyberthreat.jpg"
+    },
+    "content": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
+    "contentSnippet": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
+    "guid": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "isoDate": "2026-01-07T17:19:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+    "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+    "pubDate": "Wed, 07 Jan 2026 22:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPPKJS6BE2or-jGvE7W-v-Fsie9HZAZYKAqyBv1c97ZycU7mV1adA8edY8RwqcUAjM2Q1ut1l-Qcwjyv9X1BCh9u3TMR1l0tukZUi7rGkNNJgepwUtRkBcdxXOdFKk7C4D6GXv0CtSl3RiPSkmVwJtxZoWq8SuQIEWBqNorc3imhtz7-eg2akMQwRJNuu/s1600/notepad-malware.jpg"
+    },
+    "content": "A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data.\nAccording to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and",
+    "contentSnippet": "A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data.\nAccording to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and",
+    "guid": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+    "isoDate": "2026-01-07T17:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
     "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
     "pubDate": "Wed, 07 Jan 2026 19:18:00 +0530",
@@ -36,23 +70,6 @@
       "surveillance"
     ],
     "isoDate": "2026-01-07T12:03:33.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
-    "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-    "pubDate": "Wed, 07 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9E2QJsYrvm3dqEopONz5kjVfdtq2x9G7xmpCyYyijQ9R0NbcGLLX4GJypIXBWFVLBIflmcF47QObTpLJxoqP-cE20PgR9v9Of_BhpD9tEVBkuF_RpiAufDanr3ClW-ivhdfr1oh7a8r2gO-N8m7M1Mv3ztVK6cjQD_ARlJKdDjBV30C7v9x4QMa4uolg/s1600/cyberthreat.jpg"
-    },
-    "content": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
-    "contentSnippet": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
-    "guid": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-    "isoDate": "2026-01-07T11:55:00.000Z",
-    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -326,23 +343,6 @@
     "contentSnippet": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf",
     "guid": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
     "isoDate": "2026-01-05T16:41:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
-    "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
-    "pubDate": "Mon, 05 Jan 2026 18:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEUDAXLw6oaBwuDDWjb5LC1ARsZq2fg3GJ-qKhdAf-FchvPbjbdME9JLzX1Z2R8OKWYbYAg7BEVYf0LumhvXR0EFs2t8Okw9sXB4-aw-7orrIS93AuWlPnFGV5wfzCux97MCn8N2o7VXbeo5O5ph5m4hJHpunYmbw7Lvv16SnIlos6ZVjtboqT12lIqkk/s1600/recaps.jpg"
-    },
-    "content": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit.\nThis week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,",
-    "contentSnippet": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit.\nThis week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,",
-    "guid": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
-    "isoDate": "2026-01-05T12:53:00.000Z",
     "itunes": {}
   }
 ]
