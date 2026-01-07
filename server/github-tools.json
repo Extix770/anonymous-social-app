@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8056,
+    "stars": 8055,
     "forks": 1106,
     "language": null
   },
@@ -265,7 +265,7 @@
     "owner": "RPxGoon",
     "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
     "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
-    "stars": 31,
+    "stars": 32,
     "forks": 3,
     "language": "Python"
   },
