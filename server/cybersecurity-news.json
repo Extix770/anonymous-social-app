@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+    "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+    "pubDate": "Thu, 08 Jan 2026 12:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4JjVzaUBhtnt0VrEKyVRib_UrgTLXJAKDFh5laNkMyFhaeJl8PqEHGpBEh34MW4YwNxIDbftlhHFHI56gxVW2RWWYnT9f9dlRpKsuWNFIqV4Xgn9xZegMmow-NFkNUPye8J0iT1nN1QikfsAuSbA2Qi3ZqPEdcEL6sFKl1cgRrxbhWB-Jm9XLAwwwtmy/s1600/chatgpt-health.jpg"
+    },
+    "content": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
+    "contentSnippet": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
+    "guid": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+    "isoDate": "2026-01-08T06:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
     "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
     "pubDate": "Thu, 08 Jan 2026 10:22:00 +0530",
@@ -323,23 +340,6 @@
     "contentSnippet": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
     "guid": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
     "isoDate": "2026-01-06T05:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
-    "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
-    "pubDate": "Tue, 06 Jan 2026 09:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg"
-    },
-    "content": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
-    "contentSnippet": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
-    "guid": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
-    "isoDate": "2026-01-06T03:30:00.000Z",
     "itunes": {}
   }
 ]
