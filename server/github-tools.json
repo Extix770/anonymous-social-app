@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8054,
+    "stars": 8055,
     "forks": 1106,
     "language": null
   },
@@ -549,6 +549,15 @@
     "language": "Python"
   },
   {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 9,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "uk-personal-osint-toolkit",
     "owner": "mbeardwell",
     "url": "https://github.com/mbeardwell/uk-personal-osint-toolkit",
@@ -565,15 +574,6 @@
     "stars": 9,
     "forks": 1,
     "language": "JavaScript"
-  },
-  {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 8,
-    "forks": 3,
-    "language": null
   },
   {
     "name": "Cybersecurity-Web-Tools",
@@ -711,6 +711,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -724,15 +733,6 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -855,15 +855,6 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -871,6 +862,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "awesome-cyber-security-tools",
