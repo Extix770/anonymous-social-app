@@ -1,6 +1,57 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+    "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+    "pubDate": "Thu, 08 Jan 2026 16:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybuSkMzO3sPyC2aweCyQ7gBCiWeZ0MKZORj98gSkWfOtEBpzOFHt7hqNsdT1eqWpHyhQfiHHUw9U6sMvAI5Nj7JYfXd-BbxZYhV7AFPY6orjs-g0asPZceU4bBweF1odEupcmfSvxXx8Jsci1v8alq87jE0FJPaE6uYHy39KIBaoYd97VqDPQELznEpwJ/s1600/cisco.jpg"
+    },
+    "content": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
+    "contentSnippet": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
+    "guid": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+    "isoDate": "2026-01-08T10:44:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+    "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+    "pubDate": "Thu, 08 Jan 2026 16:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexcKpvH8t1IN9Taxc25I-ykg1l98ahAsVYMYGLTw9Yy7W9ULsjlRNgMG0yUOpKRueTn5N36hOYSrgYP_-vZBuUYCzGgVleyQk0bZULbbIPYrfJxLPsZkJBQDjwooYWOllT3ifqBb5_T-JW6WywfZFvtKB2LQPySRO2kmhIfTQgxUSshZwyBNoC1J2nNv/s1600/npm-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
+    "contentSnippet": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
+    "guid": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+    "isoDate": "2026-01-08T10:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+    "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+    "pubDate": "Thu, 08 Jan 2026 15:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiTPlT13VFHh6Gnrmg0ozwHRlYaVFKySt-BBjowr5Az7KwqG4PXVrH9n_1YTLZpuJHf02fu1TJBTeHKLnDJ3UTzhZR_8ldCYcHRoSoUaqhmj1vrBqDGn3StC_LYhVzLI5S-iFELOqLhnet3zlgB91h5KehCfvyoQ9IQc_MZt_bE-Y3SJ0fvVUAkLVqx6zw/s1600/coolify.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
+    "guid": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+    "isoDate": "2026-01-08T09:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
     "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
     "pubDate": "Thu, 08 Jan 2026 12:27:00 +0530",
@@ -289,57 +340,6 @@
     "contentSnippet": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
     "guid": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
     "isoDate": "2026-01-06T12:13:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "What is Identity Dark Matter?",
-    "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
-    "pubDate": "Tue, 06 Jan 2026 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif"
-    },
-    "content": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly",
-    "contentSnippet": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly",
-    "guid": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
-    "isoDate": "2026-01-06T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
-    "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
-    "pubDate": "Tue, 06 Jan 2026 16:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg"
-    },
-    "content": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these",
-    "contentSnippet": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these",
-    "guid": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
-    "isoDate": "2026-01-06T11:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-    "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-    "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
-    },
-    "content": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
-    "contentSnippet": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
-    "guid": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-    "isoDate": "2026-01-06T05:08:00.000Z",
     "itunes": {}
   }
 ]

@@ -72,6 +72,15 @@
     "language": null
   },
   {
+    "name": "BCHackTool",
+    "owner": "ByCh4n",
+    "url": "https://github.com/ByCh4n/BCHackTool",
+    "description": "🔥 Professional Penetration Testing Framework v4.0 - Automated subdomain enumeration, vulnerability scanning with Nuclei, port scanning, and comprehensive HTML reports. Features parallel scanning, resume capability, and real-time progress tracking.",
+    "stars": 516,
+    "forks": 88,
+    "language": "Shell"
+  },
+  {
     "name": "Awesome-hacking-tools",
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 4,
-    "forks": 2,
-    "language": "Shell"
   }
 ]
