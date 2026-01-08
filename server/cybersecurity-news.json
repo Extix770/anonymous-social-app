@@ -1,5 +1,37 @@
 [
   {
+    "creator": "Andy Greenberg, Lily Hay Newman",
+    "title": "How to Protest Safely in the Age of Surveillance",
+    "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
+    "pubDate": "Thu, 08 Jan 2026 17:34:04 +0000",
+    "dc:creator": "Andy Greenberg, Lily Hay Newman",
+    "content": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
+    "contentSnippet": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
+    "guid": "5ed3d26815caa3fdfbba498f",
+    "categories": [
+      "Security",
+      "Security / Security Advice"
+    ],
+    "isoDate": "2026-01-08T17:34:04.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+    "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+    "pubDate": "Thu, 08 Jan 2026 22:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFJO9rj-4g9MZUaHNkJ-OnOQ8chRQD9P0NwEU6-yh-_9eaNTNRTPn6Pozv7uJCpBVtgdE_OVgnpXiAtk-LwWFCcOPom8RjmrK1k-AYKXcC5kb72v0RtI6QFsfSngAzpFPIc9NiMUiGK3_DNnuxVDw-XChMMhCw40cBaa4F988REweIBKWk8TQGRfmHJhG/s1600/whatsapp-worm.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
+    "guid": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+    "isoDate": "2026-01-08T17:10:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
     "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
@@ -307,37 +339,5 @@
     "guid": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
     "isoDate": "2026-01-07T09:42:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-    "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-    "pubDate": "Wed, 07 Jan 2026 10:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg"
-    },
-    "content": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters.\n\"An unauthenticated remote attacker can inject",
-    "contentSnippet": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters.\n\"An unauthenticated remote attacker can inject",
-    "guid": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-    "isoDate": "2026-01-07T04:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Maddy Varner",
-    "title": "Grok Is Pushing AI ‘Undressing’ Mainstream",
-    "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
-    "pubDate": "Tue, 06 Jan 2026 22:20:08 +0000",
-    "dc:creator": "Matt Burgess, Maddy Varner",
-    "content": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.",
-    "contentSnippet": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.",
-    "guid": "695d30e7a225d53752746fb1",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-01-06T22:20:08.000Z"
   }
 ]
