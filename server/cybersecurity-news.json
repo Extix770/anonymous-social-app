@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Matt Giles, Tim Marchman",
+    "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony",
+    "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
+    "pubDate": "Fri, 09 Jan 2026 03:19:26 +0000",
+    "dc:creator": "Matt Giles, Tim Marchman",
+    "content": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
+    "contentSnippet": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
+    "guid": "696055eabf672fc002e0e503",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Politics News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-01-09T03:19:26.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
     "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
@@ -347,23 +365,6 @@
     "contentSnippet": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
     "guid": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
     "isoDate": "2026-01-07T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
-    "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
-    "pubDate": "Wed, 07 Jan 2026 16:11:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYNBaEaqMpnYMFHKFEedrGcP4HSZ_2-sa5EjqnE0U1Hh_9-d2iu_UtCTxHavvjHYZq54fIa9Q3lyaXdHSH25-vn5kLz97muKX6Y8k8U4PG4Wer42axNEzxMsOeRq_1x4SUKvZCRQ4fBAmx7zWu2z2IkE5RTD8oW69YnKwn_K8AtXuC1eK2juaOVxg5QqeV/s1600/veeam.jpg"
-    },
-    "content": "Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
-    "contentSnippet": "Veeam has released security updates to address multiple flaws in its Backup & Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
-    "guid": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
-    "isoDate": "2026-01-07T10:41:00.000Z",
     "itunes": {}
   }
 ]
