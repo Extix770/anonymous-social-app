@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+    "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+    "pubDate": "Fri, 09 Jan 2026 23:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8E9a8qNOO2_xOS89H3cvGDWPpRKo2WRFf41jVFbT6TGf62B4tUg2HJVFblopdAftu8NYjNO-S2MF-_VOr6mHghokD_zhl8Ybf-H8XLhw5_E4tDfkvIfjltzVwsOo-BK731rpbx2-eClOz4yN3Nw8nHXZaRo9ATkbzTLNIP9j7OaeHCdebT_S8uXri6Iu/s1600/vmware.jpg"
+    },
+    "content": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024.\nCybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
+    "contentSnippet": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024.\nCybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
+    "guid": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+    "isoDate": "2026-01-09T17:43:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
     "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
     "pubDate": "Fri, 09 Jan 2026 20:58:00 +0530",
@@ -350,23 +367,6 @@
     "contentSnippet": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
     "guid": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
     "isoDate": "2026-01-08T06:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
-    "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
-    "pubDate": "Thu, 08 Jan 2026 10:22:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga4BuY0cfkZtUBEs_clNF6tMFR1KPmYrO-dUbtA75BQSRTRHiV294UlhyHIcAHpTJd9iQVHEF4oDBCal-yAZvcRPofh22MzIqcyEA-JA2C1syuAiWdspPmKG6f1Hrr_kOdcg0PLHh75t9x1-ubtcj_QhpA5g5nHkZEkG58dGFGBuzaZ0DJgVG6AWwjV2J8/s1600/cisa.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office",
-    "guid": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
-    "isoDate": "2026-01-08T04:52:00.000Z",
     "itunes": {}
   }
 ]
