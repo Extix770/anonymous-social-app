@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7367,
+    "stars": 7368,
     "forks": 844,
     "language": "HTML"
   },
@@ -131,7 +131,7 @@
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
     "stars": 191,
-    "forks": 23,
+    "forks": 24,
     "language": "HTML"
   },
   {
@@ -148,7 +148,7 @@
     "owner": "dev-angelist",
     "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
     "description": "List, utilize and cheatsheet of Ethical Hacking tools",
-    "stars": 119,
+    "stars": 118,
     "forks": 49,
     "language": null
   },
@@ -175,7 +175,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Digital-Forensics-Tools",
     "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
-    "stars": 97,
+    "stars": 96,
     "forks": 36,
     "language": null
   },
@@ -238,7 +238,7 @@
     "owner": "airborne-commando",
     "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
     "description": "A list and guide of OSINT/OPSEC and some tools that I've made and or use.",
-    "stars": 53,
+    "stars": 52,
     "forks": 4,
     "language": null
   },

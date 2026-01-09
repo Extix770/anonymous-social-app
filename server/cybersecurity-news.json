@@ -1,12 +1,29 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+    "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
+    "pubDate": "Fri, 09 Jan 2026 20:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPdxYSMtSRuI2tUw5WuEtdO7TqxIsOINGF4_fEo5tCu78MNzrwXQPUVmuZPWjwk6VAHCt29c0WZLtSIQmTs-q79mulS-aNjqP20AlLb3BaGBh6lOzt5m8zQmsea2F95byJfOqgwYg6kCD_d5g7D8B9afT7rDpXjwtakUOsj6xlN_ybZ7hcxQPzLuihZ7qx/s1600/cyberattack.jpg"
+    },
+    "content": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+    "contentSnippet": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+    "guid": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
+    "isoDate": "2026-01-09T15:28:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
-    "title": "X Didn't Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
+    "title": "X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
     "link": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
     "pubDate": "Fri, 09 Jan 2026 15:19:18 +0000",
     "dc:creator": "Matt Burgess",
-    "content": "X is only allowing “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
-    "contentSnippet": "X is only allowing “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
+    "content": "X is allowing only “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
+    "contentSnippet": "X is allowing only “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
     "guid": "6961080fa9c8db6dd6a1d901",
     "categories": [
       "Security",
@@ -351,19 +368,5 @@
     "guid": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
     "isoDate": "2026-01-08T04:52:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Maddy Varner",
-    "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
-    "link": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
-    "pubDate": "Wed, 07 Jan 2026 21:47:56 +0000",
-    "dc:creator": "Matt Burgess, Maddy Varner",
-    "content": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
-    "contentSnippet": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
-    "guid": "695d7fbcdbe489ef91435a3f",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-01-07T21:47:56.000Z"
   }
 ]
