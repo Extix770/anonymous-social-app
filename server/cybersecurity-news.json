@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
+    "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
+    "pubDate": "Fri, 09 Jan 2026 11:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgse_7aGT72WMfI84aD05FVQShHvmKX2cLQnvrpoCSDCmVuArEHaqVjxxzESK58K9zsdB6q5T3uDSwEZrwfEd42kD1daVt-o12gjKLGqoiKiAH29poW0nn5CuhjjLIa69jGl4Xg7bw7wBtm8At9D6aJxUxg53c2kvH9GSjH-XQNvASYWI2om8Ic76fGaPXt/s1600/qrcodes.jpg"
+    },
+    "content": "The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting entities in the country.\n\"As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR)",
+    "contentSnippet": "The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting entities in the country.\n\"As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR)",
+    "guid": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
+    "isoDate": "2026-01-09T05:46:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Giles, Tim Marchman",
     "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, per Testimony",
     "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
@@ -348,23 +365,6 @@
     "contentSnippet": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
     "guid": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
     "isoDate": "2026-01-07T11:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Future of Cybersecurity Includes Non-Human Employees",
-    "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-    "pubDate": "Wed, 07 Jan 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg"
-    },
-    "content": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
-    "contentSnippet": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
-    "guid": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-    "isoDate": "2026-01-07T11:00:00.000Z",
     "itunes": {}
   }
 ]
