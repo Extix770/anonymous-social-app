@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1302,
+    "stars": 1301,
     "forks": 146,
     "language": null
   },
@@ -193,7 +193,7 @@
     "owner": "ezhil56x",
     "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
     "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
-    "stars": 86,
+    "stars": 85,
     "forks": 16,
     "language": "Shell"
   },
@@ -202,7 +202,7 @@
     "owner": "king04aman",
     "url": "https://github.com/king04aman/CyberSecurity-Tools",
     "description": "This repository is aimed to contain all basic tools and resources for cybersecurity. In this repository you will get all material which you must know in cybersecurity field. ",
-    "stars": 69,
+    "stars": 68,
     "forks": 23,
     "language": "Python"
   },
@@ -657,15 +657,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -673,6 +664,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
