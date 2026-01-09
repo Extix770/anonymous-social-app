@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7365,
+    "stars": 7364,
     "forks": 844,
     "language": "HTML"
   },
@@ -32,7 +32,7 @@
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
     "stars": 2050,
-    "forks": 301,
+    "forks": 302,
     "language": "Rust"
   },
   {
@@ -328,7 +328,7 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 20,
+    "stars": 19,
     "forks": 6,
     "language": "Python"
   },
