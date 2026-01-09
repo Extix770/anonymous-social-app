@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+    "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+    "pubDate": "Fri, 09 Jan 2026 15:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0g-pVmmuKjF27CaQySVEJl4oMN20t271uPWVmcHbp8d_gF6yHehH-MvQAsQJ6H6-S9POiKFiUQUfjBIpbgQ8pP8ERTQK-tVtNAhrhTE8qWaNW8wAnE26o8eDpZrWHzsLdktcyS9Wrei5cx2FYVhnbJkUuWss7SSP2khMfwODaOWBxXnR5OsUvsZlBuToN/s1600/trendmicro.jpg"
+    },
+    "content": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
+    "contentSnippet": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
+    "guid": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+    "isoDate": "2026-01-09T10:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
+    "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
+    "pubDate": "Fri, 09 Jan 2026 14:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBCJIhk0qjfbnm2KUB13dO9l_HbxQUx1WXqRM3iJ1SV7mQ5qG2RsPvgt-hB71cNpf5rmqc4JxpFdw275-lhmjzXJ5xyFC4J0R8dqBIOwe448TFZoM2MSmZu2hsczUAQExdXSXSa3P4tbpKylIL6zNeQzIiL5mfL2OUZaboeu_xjF4e6fzwTPcL-MJIp4w7/s1600/cisa-dir.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024.\nThe list of the directives now considered closed is as follows -\n\nED 19-01: Mitigate DNS Infrastructure Tampering\nED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday\nED 20-03: Mitigate Windows DNS Server",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024.\nThe list of the directives now considered closed is as follows -\n\nED 19-01: Mitigate DNS Infrastructure Tampering\nED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday\nED 20-03: Mitigate Windows DNS Server",
+    "guid": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
+    "isoDate": "2026-01-09T09:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
     "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
     "pubDate": "Fri, 09 Jan 2026 11:16:00 +0530",
@@ -327,44 +361,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances.\nThe vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been",
     "guid": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
     "isoDate": "2026-01-07T13:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "The Wegman’s Supermarket Chain Is Probably Using Facial Recognition",
-    "link": "https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html",
-    "pubDate": "Wed, 07 Jan 2026 12:03:33 +0000",
-    "content:encoded": "<p>The New York City Wegman&#8217;s is <a href=\"https://www.aol.com/articles/popular-grocery-store-chain-uses-130056099.html?_guc_consent_skip=1767738511\">collecting</a> biometric information about customers.</p>\n",
-    "content:encodedSnippet": "The New York City Wegman’s is collecting biometric information about customers.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html#comments",
-    "content": "<p>The New York City Wegman&#8217;s is <a href=\"https://www.aol.com/articles/popular-grocery-store-chain-uses-130056099.html?_guc_consent_skip=1767738511\">collecting</a> biometric information about customers.</p>\n",
-    "contentSnippet": "The New York City Wegman’s is collecting biometric information about customers.",
-    "guid": "https://www.schneier.com/?p=71412",
-    "categories": [
-      "Uncategorized",
-      "biometrics",
-      "face recognition",
-      "privacy",
-      "surveillance"
-    ],
-    "isoDate": "2026-01-07T12:03:33.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
-    "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
-    "pubDate": "Wed, 07 Jan 2026 16:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafpcLSwwnkKivk1KL4R92i5R3wIeXrHe7OiXMYG6qyx9YZAxl74FH1pnaNUgjwJZ-XUHw4fCoDufnEbb9B_dMNH4qsjmDAe9afDJc_YpTi-vKpxcbnwVWtadtkoJL_Dtqg_piby9p9LULtjk3jrgZTYunG5D5_mQuAJQa1SHPHnP5zgGMOIPa7vg005c7/s1600/n8n.jpg"
-    },
-    "content": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
-    "contentSnippet": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
-    "guid": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
-    "isoDate": "2026-01-07T11:26:00.000Z",
     "itunes": {}
   }
 ]
