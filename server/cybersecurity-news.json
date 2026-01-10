@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
+    "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
+    "pubDate": "Sat, 10 Jan 2026 16:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8l0NucKedkyhQLr7E5BKEvF8JlDztA0fBd3dL1lku0PJHK4PqEpa1mkpxpWhYKq4MpxuL1fr9p6NbpkU8GfhFTct25hVf6bMPsTJDTfQz71Y_aQD0gv0ln0gYFDYMEbTQ1s-52sSJz0OgoVjhaDkq1TExIJzTdIrLUjmZPwe1tzKEHDO_7-JKV9_BDRQ/s1600/1000046762.jpg"
+    },
+    "content": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.\n\"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
+    "contentSnippet": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.\n\"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
+    "guid": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
+    "isoDate": "2026-01-10T10:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
     "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
     "pubDate": "Sat, 10 Jan 2026 14:29:00 +0530",
@@ -352,23 +369,6 @@
     "contentSnippet": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
     "guid": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
     "isoDate": "2026-01-08T10:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
-    "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
-    "pubDate": "Thu, 08 Jan 2026 16:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexcKpvH8t1IN9Taxc25I-ykg1l98ahAsVYMYGLTw9Yy7W9ULsjlRNgMG0yUOpKRueTn5N36hOYSrgYP_-vZBuUYCzGgVleyQk0bZULbbIPYrfJxLPsZkJBQDjwooYWOllT3ifqBb5_T-JW6WywfZFvtKB2LQPySRO2kmhIfTQgxUSshZwyBNoC1J2nNv/s1600/npm-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
-    "contentSnippet": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
-    "guid": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
-    "isoDate": "2026-01-08T10:31:00.000Z",
     "itunes": {}
   }
 ]
