@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
+    "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
+    "pubDate": "Sat, 10 Jan 2026 14:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wiOQx_WqaJOurFU70JNrticSZpssdRy9WR9QT13NyeILmm4U_apbN1YxO-67pfJqcF-z1SuLhcNagwr2FJXlvWz_wRa2CLxWZc6pPvEe60nCQKm8mek1mabnBvfkpNnZSe8CzwERR3wPp18oH48tZ9TXSnMYf_PIvBUAC0-mbdCrC6Q7yafFVfQxfQU2/s1600/euro.jpg"
+    },
+    "content": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe.\nAs part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in Málaga, and one in Barcelona",
+    "contentSnippet": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe.\nAs part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in Málaga, and one in Barcelona",
+    "guid": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
+    "isoDate": "2026-01-10T08:59:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast",
     "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html",
@@ -352,23 +369,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
     "guid": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
     "isoDate": "2026-01-08T10:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
-    "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
-    "pubDate": "Thu, 08 Jan 2026 15:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiTPlT13VFHh6Gnrmg0ozwHRlYaVFKySt-BBjowr5Az7KwqG4PXVrH9n_1YTLZpuJHf02fu1TJBTeHKLnDJ3UTzhZR_8ldCYcHRoSoUaqhmj1vrBqDGn3StC_LYhVzLI5S-iFELOqLhnet3zlgB91h5KehCfvyoQ9IQc_MZt_bE-Y3SJ0fvVUAkLVqx6zw/s1600/coolify.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
-    "guid": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
-    "isoDate": "2026-01-08T09:53:00.000Z",
     "itunes": {}
   }
 ]
