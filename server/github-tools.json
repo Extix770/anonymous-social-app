@@ -112,7 +112,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/API-Pentesting-Tools",
     "description": "API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs). ",
-    "stars": 227,
+    "stars": 228,
     "forks": 33,
     "language": null
   },
@@ -720,10 +720,10 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -738,10 +738,10 @@
     "language": "Python"
   },
   {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -774,6 +774,15 @@
     "language": "Python"
   },
   {
+    "name": "awesome-cyber-security-tools",
+    "owner": "0xh3xa",
+    "url": "https://github.com/0xh3xa/awesome-cyber-security-tools",
+    "description": "🛡️ A curated list of commonly used tools for cybersecurity",
+    "stars": 5,
+    "forks": 2,
+    "language": null
+  },
+  {
     "name": "WEEK-TOOL",
     "owner": "13xsa5",
     "url": "https://github.com/13xsa5/WEEK-TOOL",
@@ -783,15 +792,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -799,6 +799,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "ncl-tools",
@@ -819,15 +828,6 @@
     "language": null
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -835,6 +835,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -871,15 +880,6 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
-  },
-  {
-    "name": "awesome-cyber-security-tools",
-    "owner": "0xh3xa",
-    "url": "https://github.com/0xh3xa/awesome-cyber-security-tools",
-    "description": "🛡️ A curated list of commonly used tools for cybersecurity",
-    "stars": 4,
-    "forks": 2,
-    "language": null
   },
   {
     "name": "Tooli",
