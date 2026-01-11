@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7374,
+    "stars": 7375,
     "forks": 844,
     "language": "HTML"
   },
@@ -279,6 +279,15 @@
     "language": "Python"
   },
   {
+    "name": "Security-Event-Analysis-Automation-Tool",
+    "owner": "AzharAnwar9",
+    "url": "https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool",
+    "description": "A SOC Analyst's tool to automate the investigation & validation of possible Indicators of Compromise (IOCs) and perform various tasks including Phishing Email Analysis & Brand Monitoring to fasten the incident response.",
+    "stars": 29,
+    "forks": 6,
+    "language": "Python"
+  },
+  {
     "name": "Hardware-Hacking-Tools",
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
@@ -286,15 +295,6 @@
     "stars": 29,
     "forks": 4,
     "language": null
-  },
-  {
-    "name": "Security-Event-Analysis-Automation-Tool",
-    "owner": "AzharAnwar9",
-    "url": "https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool",
-    "description": "A SOC Analyst's tool to automate the investigation & validation of possible Indicators of Compromise (IOCs) and perform various tasks including Phishing Email Analysis & Brand Monitoring to fasten the incident response.",
-    "stars": 28,
-    "forks": 6,
-    "language": "Python"
   },
   {
     "name": "Haram-Tool-Hacker-Penetration-Master-",
@@ -657,15 +657,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -673,6 +664,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -720,10 +720,10 @@
     "language": "TypeScript"
   },
   {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -738,10 +738,10 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
