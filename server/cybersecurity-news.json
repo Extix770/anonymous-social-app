@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+    "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+    "pubDate": "Mon, 12 Jan 2026 13:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyKVtigWO-DozabIH5s8zl3i7M9z2LC95xA87vaakxWs8JFZrEEeGwievwIgbry0kWZ93VfzSfbvhdFXo1FN8p_nIZf0DsILlsD1oNlqOuMvsNIHVq3YVIe2NzW8CYQ2VVC63nnEJK_m74PGZkEGWyrBAcihNfuSWgsQV6YNumesUqSp5a149kt9v3sjF/s1600/sites.jpg"
+    },
+    "content": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+    "contentSnippet": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+    "guid": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+    "isoDate": "2026-01-12T07:34:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
     "link": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
@@ -98,8 +115,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPdxYSMtSRuI2tUw5WuEtdO7TqxIsOINGF4_fEo5tCu78MNzrwXQPUVmuZPWjwk6VAHCt29c0WZLtSIQmTs-q79mulS-aNjqP20AlLb3BaGBh6lOzt5m8zQmsea2F95byJfOqgwYg6kCD_d5g7D8B9afT7rDpXjwtakUOsj6xlN_ybZ7hcxQPzLuihZ7qx/s1600/cyberattack.jpg"
     },
-    "content": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
-    "contentSnippet": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+    "content": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
+    "contentSnippet": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
     "guid": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
     "isoDate": "2026-01-09T15:28:00.000Z",
     "itunes": {}
@@ -354,22 +371,5 @@
       "LLM"
     ],
     "isoDate": "2026-01-08T12:05:37.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The State of Trusted Open Source",
-    "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-    "pubDate": "Thu, 08 Jan 2026 17:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZoKSxRFayxkvrH0IbQJcIVluEGBHP48Adp3NIQ48I_QbNUy3N91tDM6UFfvq-OrbLJkBz91GjwO9Qb_iEtDHgha1j6IYbWqtemdZ19MF0cdUrdtRfZDwf_3QT_gJk1BkqUdxer3wz80NZUw6-hHGdr_hA6LRwSo1zYxa4Q34tGLLCnxiv-xtnSAQYj58/s1600/Chainguard.jpg"
-    },
-    "content": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
-    "contentSnippet": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
-    "guid": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-    "isoDate": "2026-01-08T11:50:00.000Z",
-    "itunes": {}
   }
 ]
