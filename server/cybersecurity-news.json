@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+    "pubDate": "Mon, 12 Jan 2026 19:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVi5U23T5vEL_B7kuk04RaGFSI7zFo33wLIli8_c9AxYxC3vY7UHsazm7yFaXzX8nYGa5Ffgrv4zChIoNUV2zSRusLa2cCZHs95p_JFTJGUr11v3BWAdckcv-BzKEBi6rnO2KrdvyQnW-IiAetHbJ73B2SXsVlQH-LyVo_fWw1J-avBbsUteP6FjWf1C5x/s1600/reacap.jpg"
+    },
+    "content": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+    "contentSnippet": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+    "guid": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+    "isoDate": "2026-01-12T13:41:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Corrupting LLMs Through Weird Generalizations",
     "link": "https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html",
@@ -355,22 +372,5 @@
       "Security / Security Advice"
     ],
     "isoDate": "2026-01-08T17:34:04.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-    "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-    "pubDate": "Thu, 08 Jan 2026 22:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFJO9rj-4g9MZUaHNkJ-OnOQ8chRQD9P0NwEU6-yh-_9eaNTNRTPn6Pozv7uJCpBVtgdE_OVgnpXiAtk-LwWFCcOPom8RjmrK1k-AYKXcC5kb72v0RtI6QFsfSngAzpFPIc9NiMUiGK3_DNnuxVDw-XChMMhCw40cBaa4F988REweIBKWk8TQGRfmHJhG/s1600/whatsapp-worm.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
-    "guid": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-    "isoDate": "2026-01-08T17:10:00.000Z",
-    "itunes": {}
   }
 ]
