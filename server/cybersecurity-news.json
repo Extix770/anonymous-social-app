@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Matt Giles, Tim Marchman",
+    "title": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
+    "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
+    "pubDate": "Mon, 12 Jan 2026 22:11:11 +0000",
+    "dc:creator": "Matt Giles, Tim Marchman",
+    "content": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good.",
+    "contentSnippet": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good.",
+    "guid": "696539eea5fd331911189028",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-12T22:11:11.000Z"
+  },
+  {
     "creator": "Dell Cameron",
     "title": "GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good",
     "link": "https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/",
@@ -328,23 +344,5 @@
     "guid": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
     "isoDate": "2026-01-09T05:46:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Giles, Tim Marchman",
-    "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, per Testimony",
-    "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
-    "pubDate": "Fri, 09 Jan 2026 03:19:26 +0000",
-    "dc:creator": "Matt Giles, Tim Marchman",
-    "content": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
-    "contentSnippet": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
-    "guid": "696055eabf672fc002e0e503",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Politics News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-09T03:19:26.000Z"
   }
 ]
