@@ -338,7 +338,7 @@
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
     "description": "The PCI DSS Compliance Toolkit is an open-source project aimed at helping organizations achieve and maintain compliance with the  (PCI DSS). This toolkit provides essential resources, tools, and documentation to streamline the compliance process, ensuring the secure handling of cardholder data.",
     "stars": 19,
-    "forks": 9,
+    "forks": 10,
     "language": "Python"
   },
   {
