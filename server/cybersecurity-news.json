@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+    "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+    "pubDate": "Mon, 12 Jan 2026 22:09:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg"
+    },
+    "content": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+    "contentSnippet": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+    "guid": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+    "isoDate": "2026-01-12T16:39:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
     "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
     "pubDate": "Mon, 12 Jan 2026 19:11:00 +0530",
@@ -357,20 +374,5 @@
       "XLab"
     ],
     "isoDate": "2026-01-08T23:23:43.000Z"
-  },
-  {
-    "creator": "Andy Greenberg, Lily Hay Newman",
-    "title": "How to Protest Safely in the Age of Surveillance",
-    "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
-    "pubDate": "Thu, 08 Jan 2026 17:34:04 +0000",
-    "dc:creator": "Andy Greenberg, Lily Hay Newman",
-    "content": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
-    "contentSnippet": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
-    "guid": "5ed3d26815caa3fdfbba498f",
-    "categories": [
-      "Security",
-      "Security / Security Advice"
-    ],
-    "isoDate": "2026-01-08T17:34:04.000Z"
   }
 ]
