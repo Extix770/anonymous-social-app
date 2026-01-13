@@ -20,6 +20,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+    "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+    "pubDate": "Tue, 13 Jan 2026 17:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+    "guid": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+    "isoDate": "2026-01-13T11:57:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
     "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
     "pubDate": "Tue, 13 Jan 2026 17:25:00 +0530",
@@ -327,22 +344,5 @@
       "squid"
     ],
     "isoDate": "2026-01-09T22:00:47.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
-    "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-    "pubDate": "Fri, 09 Jan 2026 23:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8E9a8qNOO2_xOS89H3cvGDWPpRKo2WRFf41jVFbT6TGf62B4tUg2HJVFblopdAftu8NYjNO-S2MF-_VOr6mHghokD_zhl8Ybf-H8XLhw5_E4tDfkvIfjltzVwsOo-BK731rpbx2-eClOz4yN3Nw8nHXZaRo9ATkbzTLNIP9j7OaeHCdebT_S8uXri6Iu/s1600/vmware.jpg"
-    },
-    "content": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024.\nCybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
-    "contentSnippet": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024.\nCybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
-    "guid": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-    "isoDate": "2026-01-09T17:43:00.000Z",
-    "itunes": {}
   }
 ]
