@@ -1,5 +1,40 @@
 [
   {
+    "creator": "Lily Hay Newman, Maddy Varner, Matt Burgess",
+    "title": "What to Do If ICE Invades Your Neighborhood",
+    "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
+    "pubDate": "Tue, 13 Jan 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Maddy Varner, Matt Burgess",
+    "content": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
+    "contentSnippet": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
+    "guid": "695fc7a433fe679ee74ae7ed",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-01-13T10:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+    "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+    "pubDate": "Tue, 13 Jan 2026 14:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+    "guid": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+    "isoDate": "2026-01-13T09:08:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
     "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
@@ -310,39 +345,5 @@
       "passwords"
     ],
     "isoDate": "2026-01-09T12:06:21.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
-    "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-    "pubDate": "Fri, 09 Jan 2026 16:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb9QOohRkPHWLUduOVvPGl5O_7XAUwKm4ThV8HIuMnOeD_LLaQ9fhnSRr-DuZgzW79qBoSL0qAt222iAkunN6xDmpH-qRuz-yLH4aEe-wrRODBMGw2_qHkSdriRXYRIWKJeA-Ux2ZYOwWucjY-D-90RnkG3SAcl5rA6bVg2kebUFnay6GRy92TxaIYnkr4/s1600/cybersecurity.jpg"
-    },
-    "content": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored.\nAn upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven",
-    "contentSnippet": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored.\nAn upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven",
-    "guid": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-    "isoDate": "2026-01-09T11:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
-    "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-    "pubDate": "Fri, 09 Jan 2026 15:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0g-pVmmuKjF27CaQySVEJl4oMN20t271uPWVmcHbp8d_gF6yHehH-MvQAsQJ6H6-S9POiKFiUQUfjBIpbgQ8pP8ERTQK-tVtNAhrhTE8qWaNW8wAnE26o8eDpZrWHzsLdktcyS9Wrei5cx2FYVhnbJkUuWss7SSP2khMfwODaOWBxXnR5OsUvsZlBuToN/s1600/trendmicro.jpg"
-    },
-    "content": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
-    "contentSnippet": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
-    "guid": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-    "isoDate": "2026-01-09T10:01:00.000Z",
-    "itunes": {}
   }
 ]
