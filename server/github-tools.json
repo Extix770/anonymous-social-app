@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8130,
+    "stars": 8131,
     "forks": 1115,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7381,
+    "stars": 7382,
     "forks": 844,
     "language": "HTML"
   },
@@ -31,7 +31,7 @@
     "owner": "0Chencc",
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
-    "stars": 2050,
+    "stars": 2051,
     "forks": 302,
     "language": "Rust"
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1308,
+    "stars": 1309,
     "forks": 146,
     "language": null
   },
@@ -58,7 +58,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 744,
+    "stars": 745,
     "forks": 124,
     "language": "JavaScript"
   },
@@ -193,7 +193,7 @@
     "owner": "ezhil56x",
     "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
     "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
-    "stars": 86,
+    "stars": 87,
     "forks": 16,
     "language": "Shell"
   },
@@ -202,7 +202,7 @@
     "owner": "king04aman",
     "url": "https://github.com/king04aman/CyberSecurity-Tools",
     "description": "This repository is aimed to contain all basic tools and resources for cybersecurity. In this repository you will get all material which you must know in cybersecurity field. ",
-    "stars": 68,
+    "stars": 69,
     "forks": 23,
     "language": "Python"
   },
@@ -828,15 +828,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
-  },
-  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 5,
+    "forks": 0,
+    "language": "PowerShell"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
