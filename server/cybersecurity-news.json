@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+    "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+    "pubDate": "Tue, 13 Jan 2026 22:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
+    "guid": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+    "isoDate": "2026-01-13T17:22:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens",
     "link": "https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/",
@@ -96,8 +113,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
     },
-    "content": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0\n\"This issue [...] could enable an unauthenticated user to impersonate another user and",
-    "contentSnippet": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0\n\"This issue [...] could enable an unauthenticated user to impersonate another user and",
+    "content": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
+    "contentSnippet": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
     "guid": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
     "isoDate": "2026-01-13T11:47:00.000Z",
     "itunes": {}
@@ -324,22 +341,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-10T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
-    "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
-    "pubDate": "Sat, 10 Jan 2026 16:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8l0NucKedkyhQLr7E5BKEvF8JlDztA0fBd3dL1lku0PJHK4PqEpa1mkpxpWhYKq4MpxuL1fr9p6NbpkU8GfhFTct25hVf6bMPsTJDTfQz71Y_aQD0gv0ln0gYFDYMEbTQ1s-52sSJz0OgoVjhaDkq1TExIJzTdIrLUjmZPwe1tzKEHDO_7-JKV9_BDRQ/s1600/1000046762.jpg"
-    },
-    "content": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.\n\"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
-    "contentSnippet": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.\n\"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
-    "guid": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
-    "isoDate": "2026-01-10T10:35:00.000Z",
-    "itunes": {}
   }
 ]
