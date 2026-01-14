@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8216,
+    "stars": 8218,
     "forks": 1128,
     "language": null
   },
@@ -139,7 +139,7 @@
     "owner": "nateahess",
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 158,
+    "stars": 159,
     "forks": 17,
     "language": null
   },
@@ -729,19 +729,19 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -864,15 +864,6 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
