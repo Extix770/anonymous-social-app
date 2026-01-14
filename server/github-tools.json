@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8244,
+    "stars": 8247,
     "forks": 1132,
     "language": null
   },
@@ -756,15 +756,6 @@
     "language": null
   },
   {
-    "name": "30-days-red-team-toolkit",
-    "owner": "maxwellcross-labs",
-    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
-    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 5,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Hacker-Tools",
     "owner": "Push4ck",
     "url": "https://github.com/Push4ck/Hacker-Tools",
@@ -781,6 +772,15 @@
     "stars": 5,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "30-days-red-team-toolkit",
+    "owner": "maxwellcross-labs",
+    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
+    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
+    "stars": 5,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "WEEK-TOOL",

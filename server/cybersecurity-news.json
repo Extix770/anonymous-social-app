@@ -1,5 +1,38 @@
 [
   {
+    "creator": "Dell Cameron, Ryan Shapiro",
+    "title": "Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story",
+    "link": "https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/",
+    "pubDate": "Wed, 14 Jan 2026 15:59:20 +0000",
+    "dc:creator": "Dell Cameron, Ryan Shapiro",
+    "content": "Hundreds of records obtained by WIRED show thin intelligence on the Venezuelan gang in the United States, describing fragmented, low-level crime rather than a coordinated terrorist threat.",
+    "contentSnippet": "Hundreds of records obtained by WIRED show thin intelligence on the Venezuelan gang in the United States, describing fragmented, low-level crime rather than a coordinated terrorist threat.",
+    "guid": "695be784014012a3ee521128",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-14T15:59:20.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "AI Agents Are Becoming Privilege Escalation Paths",
+    "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+    "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-WeRkxqHYVKqOELWCDkbIiI6lTEWqGIAkOQlI3kVCdVPQtCyH3kOcBXxxscPd6Hj0V4xyKku6WmGYKhyphenhyphenYxRP_d4lzh4ddOwG0ySAz6zQQoNGiacBA4jKuvoNRqA1ChEFjekiSQZsmH6hKo-GQhXK6hyphenhyphenrk4jE50dWybCMTS_Dahxvv6WbEYeA6F0A1s/s1600/ai-agent-wing.jpg"
+    },
+    "content": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+    "contentSnippet": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+    "guid": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+    "isoDate": "2026-01-14T15:07:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
     "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
@@ -325,38 +358,5 @@
     "guid": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
     "isoDate": "2026-01-13T07:15:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "Minnesota Sues to Stop ICE ‘Invasion’",
-    "link": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
-    "pubDate": "Mon, 12 Jan 2026 22:42:45 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "The state of Minnesota, along with the Twin Cities, have sued the US government and several officials to halt the flood of agents carrying out an Immigration and Customs Enforcement operation.",
-    "contentSnippet": "The state of Minnesota, along with the Twin Cities, have sued the US government and several officials to halt the flood of agents carrying out an Immigration and Customs Enforcement operation.",
-    "guid": "696567bf77b5571f629c1bd9",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-12T22:42:45.000Z"
-  },
-  {
-    "creator": "Matt Giles, Tim Marchman",
-    "title": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
-    "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
-    "pubDate": "Mon, 12 Jan 2026 22:11:11 +0000",
-    "dc:creator": "Matt Giles, Tim Marchman",
-    "content": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good.",
-    "contentSnippet": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good.",
-    "guid": "696539eea5fd331911189028",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-12T22:11:11.000Z"
   }
 ]
