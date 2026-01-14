@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8259,
+    "stars": 8260,
     "forks": 1133,
     "language": null
   },
@@ -184,8 +184,8 @@
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
     "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 91,
-    "forks": 13,
+    "stars": 92,
+    "forks": 14,
     "language": null
   },
   {
