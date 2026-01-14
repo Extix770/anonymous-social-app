@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+    "pubDate": "Wed, 14 Jan 2026 17:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s1600/fort.jpg"
+    },
+    "content": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
+    "contentSnippet": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
+    "guid": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+    "isoDate": "2026-01-14T11:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
     "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
     "pubDate": "Wed, 14 Jan 2026 16:30:00 +0530",
@@ -339,22 +356,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-12T18:48:22.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
-    "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
-    "pubDate": "Mon, 12 Jan 2026 22:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg"
-    },
-    "content": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
-    "contentSnippet": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
-    "guid": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
-    "isoDate": "2026-01-12T16:39:00.000Z",
-    "itunes": {}
   }
 ]
