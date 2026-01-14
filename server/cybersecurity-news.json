@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Hacking Wheelchairs over Bluetooth",
+    "link": "https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html",
+    "pubDate": "Wed, 14 Jan 2026 19:22:15 +0000",
+    "content:encoded": "<p>Researchers have <a href=\"https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/\">demonstrated</a> remotely controlling a wheelchair over Bluetooth. CISA has issued an <a href=\"https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01\">advisory</a>.</p>\n<blockquote><p>CISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair&#8217;s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.</p></blockquote>\n",
+    "content:encodedSnippet": "Researchers have demonstrated remotely controlling a wheelchair over Bluetooth. CISA has issued an advisory.\nCISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair’s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html#respond",
+    "content": "<p>Researchers have <a href=\"https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/\">demonstrated</a> remotely controlling a wheelchair over Bluetooth. CISA has issued an <a href=\"https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01\">advisory</a>.</p>\n<blockquote><p>CISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair&#8217;s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.</p></blockquote>\n",
+    "contentSnippet": "Researchers have demonstrated remotely controlling a wheelchair over Bluetooth. CISA has issued an advisory.\nCISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair’s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.",
+    "guid": "https://www.schneier.com/?p=71461",
+    "categories": [
+      "Uncategorized",
+      "Bluetooth",
+      "hacking",
+      "Internet of Things",
+      "transportation"
+    ],
+    "isoDate": "2026-01-14T19:22:15.000Z"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls",
     "link": "https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/",
@@ -339,23 +360,5 @@
     "guid": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
     "isoDate": "2026-01-13T11:47:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman, Maddy Varner, Matt Burgess",
-    "title": "What to Do if ICE Invades Your Neighborhood",
-    "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
-    "pubDate": "Tue, 13 Jan 2026 10:30:00 +0000",
-    "dc:creator": "Lily Hay Newman, Maddy Varner, Matt Burgess",
-    "content": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
-    "contentSnippet": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
-    "guid": "695fc7a433fe679ee74ae7ed",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-13T10:30:00.000Z"
   }
 ]
