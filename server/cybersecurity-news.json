@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls",
+    "link": "https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/",
+    "pubDate": "Wed, 14 Jan 2026 18:54:40 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "A major Verizon outage appeared to impact customers across the United States starting around noon ET on Wednesday. Calls to Verizon customers from other carriers may also be impacted.",
+    "contentSnippet": "A major Verizon outage appeared to impact customers across the United States starting around noon ET on Wednesday. Calls to Verizon customers from other carriers may also be impacted.",
+    "guid": "6967dbfa585d9a70fc535833",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-14T18:54:40.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Upcoming Speaking Engagements",
     "link": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html",
@@ -342,22 +357,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2026-01-13T10:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-    "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-    "pubDate": "Tue, 13 Jan 2026 14:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
-    "guid": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-    "isoDate": "2026-01-13T09:08:00.000Z",
-    "itunes": {}
   }
 ]
