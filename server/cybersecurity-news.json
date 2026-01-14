@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+    "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+    "pubDate": "Wed, 14 Jan 2026 11:18:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
+    },
+    "content": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+    "contentSnippet": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+    "guid": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+    "isoDate": "2026-01-14T05:48:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Patch Tuesday, January 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -341,23 +358,6 @@
     "contentSnippet": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
     "guid": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
     "isoDate": "2026-01-12T10:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
-    "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
-    "pubDate": "Mon, 12 Jan 2026 14:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg"
-    },
-    "content": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
-    "contentSnippet": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
-    "guid": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
-    "isoDate": "2026-01-12T08:37:00.000Z",
     "itunes": {}
   }
 ]
