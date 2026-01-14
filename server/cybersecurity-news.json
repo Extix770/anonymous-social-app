@@ -21,6 +21,23 @@
     "isoDate": "2026-01-14T19:22:15.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+    "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+    "pubDate": "Thu, 15 Jan 2026 00:33:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8LcAq2Eh4FGdeubIWyG99KZTiImVy-_8pLP_ooz55oOJQbiUnFXUS8yQ9Zg_XOj1eqw-qCII4_ZeoQqYlCou4ELHCWcqE1Fkkpr7y0CiCV0phTdYcTxGB-Q66Vjedk9f5svf8bB3eGyGVvI-iYmAZhGsDuJujVaAY9tsjsJ5xDjIJabN_4MagL4jnG63/s1600/sep.jpg"
+    },
+    "content": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
+    "contentSnippet": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
+    "guid": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+    "isoDate": "2026-01-14T19:03:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls",
     "link": "https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/",
@@ -342,23 +359,6 @@
     "contentSnippet": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
     "guid": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
     "isoDate": "2026-01-13T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
-    "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-    "pubDate": "Tue, 13 Jan 2026 17:17:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
-    },
-    "content": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
-    "contentSnippet": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
-    "guid": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-    "isoDate": "2026-01-13T11:47:00.000Z",
     "itunes": {}
   }
 ]
