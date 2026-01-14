@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Upcoming Speaking Engagements",
+    "link": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html",
+    "pubDate": "Wed, 14 Jan 2026 17:00:00 +0000",
+    "content:encoded": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at the <a href=\"https://crysp.uwaterloo.ca/speakers/20260127-Schneier\">David R. Cheriton School of Computer Science</a> in Waterloo, Ontario, Canada on January 27, 2026, at 1:30 PM ET.</li>\n<li>I’m speaking at the <a href=\"https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers\">Université de Montréal</a> in Montreal, Quebec, Canada on January 29, 2026, at 4:00 PM ET.</li>\n<li>I’m speaking and signing books at the <a href=\"https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092\">Chicago Public Library</a> in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.</li>\n<li>I&#8217;m speaking at <a href=\"https://capricon.org/\">Capricon 46</a> in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD.</li>\n<li>I’m speaking at the <a href=\"https://mcsc.io/\">Munich Cybersecurity Conference</a> in Munich, Germany on February 12, 2026.</li>\n<li>I’m speaking at <a href=\"https://techlivecyber.wsj.com/?gaa_at=eafs&amp;gaa_n=AWEtsqf9GP4etUdWaqDIATpiE9ycqWMIVoGIzjikYLlJ64hb6H_v1QH9OYhMTxeU51U%3D&amp;gaa_ts=691df89d&amp;gaa_sig=BG9fpWuP-liL7Gi3SJgXHmS02M4ob6lp6nOh94qnwVXCWYNzJxdzOiW365xA8vKeiulrErE8mbXDvKTcqktBtQ%3D%3D\">Tech Live: Cybersecurity</a> in New York City, USA on March 11, 2026.</li>\n<li>I’m giving the <a href=\"https://www.chu.cam.ac.uk/event/computer-science-lecture-2026/\">Ross Anderson Lecture</a> at the University of Cambridge’s Churchill College at 5:30 PM GMT on March 19, 2026.</li>\n<li>I’m speaking at <a href=\"https://www.rsaconference.com/usa\">RSAC 2026</a> in San Francisco, California, USA on March 25, 2026.</li>\n</ul>\n<p>The list is maintained on <a href=\"https://www.schneier.com/events/\">this page</a>.</p>\n",
+    "content:encodedSnippet": "This is a current list of where and when I am scheduled to speak:\nI’m speaking at the David R. Cheriton School of Computer Science in Waterloo, Ontario, Canada on January 27, 2026, at 1:30 PM ET.\nI’m speaking at the Université de Montréal in Montreal, Quebec, Canada on January 29, 2026, at 4:00 PM ET.\nI’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.\nI’m speaking at Capricon 46 in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD.\nI’m speaking at the Munich Cybersecurity Conference in Munich, Germany on February 12, 2026.\nI’m speaking at Tech Live: Cybersecurity in New York City, USA on March 11, 2026.\nI’m giving the Ross Anderson Lecture at the University of Cambridge’s Churchill College at 5:30 PM GMT on March 19, 2026.\nI’m speaking at RSAC 2026 in San Francisco, California, USA on March 25, 2026.\nThe list is maintained on this page.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html#respond",
+    "content": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at the <a href=\"https://crysp.uwaterloo.ca/speakers/20260127-Schneier\">David R. Cheriton School of Computer Science</a> in Waterloo, Ontario, Canada on January 27, 2026, at 1:30 PM ET.</li>\n<li>I’m speaking at the <a href=\"https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers\">Université de Montréal</a> in Montreal, Quebec, Canada on January 29, 2026, at 4:00 PM ET.</li>\n<li>I’m speaking and signing books at the <a href=\"https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092\">Chicago Public Library</a> in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.</li>\n<li>I&#8217;m speaking at <a href=\"https://capricon.org/\">Capricon 46</a> in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD...</li></ul>",
+    "contentSnippet": "This is a current list of where and when I am scheduled to speak:\nI’m speaking at the David R. Cheriton School of Computer Science in Waterloo, Ontario, Canada on January 27, 2026, at 1:30 PM ET.\nI’m speaking at the Université de Montréal in Montreal, Quebec, Canada on January 29, 2026, at 4:00 PM ET.\nI’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.\nI’m speaking at Capricon 46 in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD...",
+    "guid": "https://www.schneier.com/?p=71446",
+    "categories": [
+      "Uncategorized",
+      "Schneier news"
+    ],
+    "isoDate": "2026-01-14T17:00:00.000Z"
+  },
+  {
     "creator": "Dell Cameron, Ryan Shapiro",
     "title": "Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story",
     "link": "https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/",
@@ -340,23 +358,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
     "guid": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
     "isoDate": "2026-01-13T09:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-    "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-    "pubDate": "Tue, 13 Jan 2026 12:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
-    "guid": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-    "isoDate": "2026-01-13T07:15:00.000Z",
     "itunes": {}
   }
 ]
