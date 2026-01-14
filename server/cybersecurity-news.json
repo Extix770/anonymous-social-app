@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
+    "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+    "pubDate": "Wed, 14 Jan 2026 12:35:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
+    },
+    "content": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+    "contentSnippet": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+    "guid": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+    "isoDate": "2026-01-14T07:05:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
     "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
     "pubDate": "Wed, 14 Jan 2026 11:18:00 +0530",
@@ -342,22 +359,5 @@
       "LLM"
     ],
     "isoDate": "2026-01-12T12:02:39.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
-    "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
-    "pubDate": "Mon, 12 Jan 2026 16:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg"
-    },
-    "content": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
-    "contentSnippet": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
-    "guid": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
-    "isoDate": "2026-01-12T10:48:00.000Z",
-    "itunes": {}
   }
 ]
