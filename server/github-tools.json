@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8307,
+    "stars": 8310,
     "forks": 1139,
     "language": null
   },
@@ -67,7 +67,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 739,
+    "stars": 740,
     "forks": 68,
     "language": null
   },
@@ -351,15 +351,6 @@
     "language": "Shell"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 18,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -367,6 +358,15 @@
     "stars": 18,
     "forks": 3,
     "language": "Batchfile"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 18,
+    "forks": 3,
+    "language": null
   },
   {
     "name": "securitylabs-thrunting-tools",
@@ -702,6 +702,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -711,13 +720,13 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "qradarOffenseTools",
@@ -733,15 +742,6 @@
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
     "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -792,15 +792,6 @@
     "language": "Python"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -819,10 +810,10 @@
     "language": "C"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -835,6 +826,15 @@
     "stars": 5,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BEC-Detection-Toolkit",
