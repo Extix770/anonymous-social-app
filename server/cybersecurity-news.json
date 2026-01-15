@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+    "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+    "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
+    },
+    "content": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+    "contentSnippet": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+    "guid": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+    "isoDate": "2026-01-15T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
     "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
     "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530",
@@ -341,24 +358,5 @@
     "guid": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
     "isoDate": "2026-01-13T13:44:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "1980s Hacker Manifesto",
-    "link": "https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html",
-    "pubDate": "Tue, 13 Jan 2026 12:09:28 +0000",
-    "content:encoded": "<p>Forty years ago, The Mentor&#8212;<a href=\"https://en.wikipedia.org/wiki/Loyd_Blankenship\">Loyd Blankenship</a>&#8212;published &#8220;<a href=\"https://phrack.org/issues/7/3\">The Conscience of a Hacker</a>&#8221; in <i>Phrack</i>.</p>\n<blockquote><p>You bet your ass we&#8217;re all alike&#8230; we&#8217;ve been spoon-fed baby food at school when we hungered for steak&#8230; the bits of meat that you did let slip through were pre-chewed and tasteless.  We&#8217;ve been dominated by sadists, or ignored by the apathetic.  The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.</p>\n<p>This is our world now&#8230; the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn&#8217;t run by profiteering gluttons, and you call us criminals.  We explore&#8230; and you call us criminals.  We seek after knowledge&#8230; and you call us criminals.  We exist without skin color, without nationality, without religious bias&#8230; and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it&#8217;s for our own good, yet we&#8217;re the criminals.</p>\n<p>Yes, I am a criminal.  My crime is that of curiosity.  My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for.</p></blockquote>\n",
-    "content:encodedSnippet": "Forty years ago, The Mentor—Loyd Blankenship—published “The Conscience of a Hacker” in Phrack.\nYou bet your ass we’re all alike… we’ve been spoon-fed baby food at school when we hungered for steak… the bits of meat that you did let slip through were pre-chewed and tasteless.  We’ve been dominated by sadists, or ignored by the apathetic.  The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.\nThis is our world now… the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn’t run by profiteering gluttons, and you call us criminals.  We explore… and you call us criminals.  We seek after knowledge… and you call us criminals.  We exist without skin color, without nationality, without religious bias… and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it’s for our own good, yet we’re the criminals.\nYes, I am a criminal.  My crime is that of curiosity.  My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html#comments",
-    "content": "<p>Forty years ago, The Mentor&#8212;<a href=\"https://en.wikipedia.org/wiki/Loyd_Blankenship\">Loyd Blankenship</a>&#8212;published &#8220;<a href=\"https://phrack.org/issues/7/3\">The Conscience of a Hacker</a>&#8221; in <i>Phrack</i>.</p>\n<blockquote><p>You bet your ass we&#8217;re all alike&#8230; we&#8217;ve been spoon-fed baby food at school when we hungered for steak&#8230; the bits of meat that you did let slip through were pre-chewed and tasteless.  We&#8217;ve been dominated by sadists, or ignored by the apathetic.  The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.</p>\n<p>This is our world now&#8230; the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn&#8217;t run by profiteering gluttons, and you call us criminals.  We explore&#8230; and you call us criminals.  We seek after knowledge&#8230; and you call us criminals.  We exist without skin color, without nationality, without religious bias&#8230; and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it&#8217;s for our own good, yet we&#8217;re the criminals...</p></blockquote>",
-    "contentSnippet": "Forty years ago, The Mentor—Loyd Blankenship—published “The Conscience of a Hacker” in Phrack.\nYou bet your ass we’re all alike… we’ve been spoon-fed baby food at school when we hungered for steak… the bits of meat that you did let slip through were pre-chewed and tasteless.  We’ve been dominated by sadists, or ignored by the apathetic.  The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.\nThis is our world now… the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn’t run by profiteering gluttons, and you call us criminals.  We explore… and you call us criminals.  We seek after knowledge… and you call us criminals.  We exist without skin color, without nationality, without religious bias… and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it’s for our own good, yet we’re the criminals...",
-    "guid": "https://www.schneier.com/?p=71440",
-    "categories": [
-      "Uncategorized",
-      "hacking",
-      "history of security"
-    ],
-    "isoDate": "2026-01-13T12:09:28.000Z"
   }
 ]
