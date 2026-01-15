@@ -1,5 +1,41 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "New Vulnerability in n8n",
+    "link": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html",
+    "pubDate": "Thu, 15 Jan 2026 12:05:04 +0000",
+    "content:encoded": "<p><a href=\"https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858\">This</a> isn&#8217;t good:</p>\n<blockquote><p>We discovered a critical vulnerability (<a href=\"https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg\">CVE-2026-21858, CVSS 10.0</a>) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.</p></blockquote>\n<p><a href=\"https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305\">Three</a> <a href=\"https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html\">technical<a> <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-68668\">links</a> and two <a href=\"https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/\">news</a> <a href=\"https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/\">links</a>.</p>\n",
+    "content:encodedSnippet": "This isn’t good:\nWe discovered a critical vulnerability (CVE-2026-21858, CVSS 10.0) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.\n\nThree technical links and two news links.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html#respond",
+    "content": "<p><a href=\"https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858\">This</a> isn&#8217;t good:</p>\n<blockquote><p>We discovered a critical vulnerability (<a href=\"https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg\">CVE-2026-21858, CVSS 10.0</a>) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.</p></blockquote>\n<p><a href=\"https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305\">Three</a> <a href=\"https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html\">technical<a> <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-68668\">links</a> and two <a href=\"https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/\">news</a> <a href=\"https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/\">links</a>.</p>\n",
+    "contentSnippet": "This isn’t good:\nWe discovered a critical vulnerability (CVE-2026-21858, CVSS 10.0) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.\n\nThree technical links and two news links.",
+    "guid": "https://www.schneier.com/?p=71463",
+    "categories": [
+      "Uncategorized",
+      "patching",
+      "vulnerabilities"
+    ],
+    "isoDate": "2026-01-15T12:05:04.000Z"
+  },
+  {
+    "creator": "Andy Greenberg, Lily Hay Newman",
+    "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
+    "link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/",
+    "pubDate": "Thu, 15 Jan 2026 12:00:00 +0000",
+    "dc:creator": "Andy Greenberg, Lily Hay Newman",
+    "content": "Flaws in how 17 models of headphones and speakers use Google’s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
+    "contentSnippet": "Flaws in how 17 models of headphones and speakers use Google’s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
+    "guid": "6966685e7b9b35894e551622",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-15T12:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
     "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
@@ -324,39 +360,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
     "guid": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
     "isoDate": "2026-01-13T17:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens",
-    "link": "https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/",
-    "pubDate": "Tue, 13 Jan 2026 16:45:19 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "A contract justification published in a federal register on Tuesday says that 31 ICE vehicles operating in the Twin Cities area “lack the necessary emergency lights and sirens” to be “compliant.”",
-    "contentSnippet": "A contract justification published in a federal register on Tuesday says that 31 ICE vehicles operating in the Twin Cities area “lack the necessary emergency lights and sirens” to be “compliant.”",
-    "guid": "69665b09d9af5a576f409c1e",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-13T16:45:19.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
-    "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-    "pubDate": "Tue, 13 Jan 2026 19:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg"
-    },
-    "content": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
-    "contentSnippet": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
-    "guid": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-    "isoDate": "2026-01-13T13:44:00.000Z",
     "itunes": {}
   }
 ]
