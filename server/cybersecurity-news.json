@@ -52,6 +52,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
+    "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+    "pubDate": "Thu, 15 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
+    },
+    "content": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+    "contentSnippet": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+    "guid": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+    "isoDate": "2026-01-15T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
     "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
     "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530",
@@ -342,22 +359,5 @@
       "Rapid7"
     ],
     "isoDate": "2026-01-14T00:47:38.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
-    "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
-    "pubDate": "Tue, 13 Jan 2026 23:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png"
-    },
-    "content": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
-    "contentSnippet": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
-    "guid": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
-    "isoDate": "2026-01-13T17:30:00.000Z",
-    "itunes": {}
   }
 ]
