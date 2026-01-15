@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+    "pubDate": "Thu, 15 Jan 2026 21:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg"
+    },
+    "content": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+    "contentSnippet": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+    "guid": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+    "isoDate": "2026-01-15T15:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+    "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+    "pubDate": "Thu, 15 Jan 2026 20:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgelJLIOXilR0ZhvHXIMgpwmfmM8lxwESCRh5ed9PgQlszys5RGymi8XE24cwjLmz0yP3DNWgGpQE8xB9z9jRP9I3GKSKxXVnw_ius4ZL-ax4ILenljtYCJxWVqgMVwCWBjpHTWfLrY3oD8MCh3XmCFkpPIwgiiPlBKEs-hoUz7PoMQKdEu_u4PYXRfZO6l/s1600/copilot-prompt-injection.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+    "guid": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+    "isoDate": "2026-01-15T15:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
     "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
     "pubDate": "Thu, 15 Jan 2026 19:26:00 +0530",
@@ -305,40 +339,6 @@
     "contentSnippet": "Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.\nOf the 114 flaws, eight are rated Critical, and 106 are rated Important in severity. As many as 58 vulnerabilities have been classified as privilege escalation, followed by 22 information disclosure, 21 remote code",
     "guid": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
     "isoDate": "2026-01-14T09:38:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
-    "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
-    "pubDate": "Wed, 14 Jan 2026 12:35:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
-    },
-    "content": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
-    "contentSnippet": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
-    "guid": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
-    "isoDate": "2026-01-14T07:05:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
-    "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
-    "pubDate": "Wed, 14 Jan 2026 11:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
-    },
-    "content": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
-    "contentSnippet": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
-    "guid": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
-    "isoDate": "2026-01-14T05:48:00.000Z",
     "itunes": {}
   }
 ]
