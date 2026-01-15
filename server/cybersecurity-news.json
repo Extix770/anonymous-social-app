@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+    "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+    "pubDate": "Thu, 15 Jan 2026 19:30:14 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.",
+    "contentSnippet": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.",
+    "guid": "6968fedb43f4ea26029fe444",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Business / Artificial Intelligence",
+      "Business / Social Media"
+    ],
+    "isoDate": "2026-01-15T19:30:14.000Z"
+  },
+  {
     "creator": "Lila Hassan",
     "title": "Why ICE Can Kill With Impunity",
     "link": "https://www.wired.com/story/why-ice-can-kill-with-impunity/",
@@ -322,23 +340,6 @@
     "contentSnippet": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
     "guid": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
     "isoDate": "2026-01-14T11:53:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
-    "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
-    "pubDate": "Wed, 14 Jan 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NXMxDA7kwnpve46qU_R-VOm0ixNMNXzSqO-JhkwA4DyYfCsqmqGABQ8KKee0ua43Va7twnJrrqp-6hztmRvDJCFv7o_kd7ozx9BqBeUvHPybqf8Ja2PcSNLFddsgRcWtI9mlvzsr2dooslCd7HaGMpkPrMZVbWBIXpYpHsodtRB7XG-c_YmI6DNAmZlX/s1600/reflectiz.jpg"
-    },
-    "content": "Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024.&nbsp;\nGovernment sector malicious activity spiked from 2% to 12.9%, while 1 in 7 Education sites show active compromise.\nSpecific offenders: Google Tag Manager (8% of violations), Shopify (5%), Facebook Pixel (4%).\n\nDownload the",
-    "contentSnippet": "Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024. \nGovernment sector malicious activity spiked from 2% to 12.9%, while 1 in 7 Education sites show active compromise.\nSpecific offenders: Google Tag Manager (8% of violations), Shopify (5%), Facebook Pixel (4%).\n\nDownload the",
-    "guid": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
-    "isoDate": "2026-01-14T11:00:00.000Z",
     "itunes": {}
   }
 ]
