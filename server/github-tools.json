@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8285,
-    "forks": 1134,
+    "stars": 8286,
+    "forks": 1133,
     "language": null
   },
   {
@@ -31,7 +31,7 @@
     "owner": "0Chencc",
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
-    "stars": 2053,
+    "stars": 2054,
     "forks": 302,
     "language": "Rust"
   },
@@ -779,7 +779,7 @@
     "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
     "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
     "stars": 5,
-    "forks": 2,
+    "forks": 3,
     "language": "Python"
   },
   {
