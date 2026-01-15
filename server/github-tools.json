@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8297,
-    "forks": 1137,
+    "stars": 8301,
+    "forks": 1138,
     "language": null
   },
   {
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7385,
+    "stars": 7384,
     "forks": 845,
     "language": "HTML"
   },

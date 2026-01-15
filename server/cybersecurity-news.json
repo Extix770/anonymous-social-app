@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
+    "link": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+    "pubDate": "Thu, 15 Jan 2026 13:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
+    "contentSnippet": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
+    "guid": "696163043130781388ec5263",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-15T13:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "New Vulnerability in n8n",
     "link": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html",
@@ -343,23 +358,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
     "guid": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
     "isoDate": "2026-01-13T17:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
-    "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
-    "pubDate": "Tue, 13 Jan 2026 22:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
-    "guid": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
-    "isoDate": "2026-01-13T17:22:00.000Z",
     "itunes": {}
   }
 ]
