@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+    "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+    "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
+    },
+    "content": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+    "contentSnippet": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+    "guid": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+    "isoDate": "2026-01-15T09:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+    "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+    "pubDate": "Thu, 15 Jan 2026 13:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
+    },
+    "content": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+    "contentSnippet": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+    "guid": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+    "isoDate": "2026-01-15T08:18:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Hacking Wheelchairs over Bluetooth",
     "link": "https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html",
@@ -88,7 +122,7 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "AI Agents Are Becoming Privilege Escalation Paths",
+    "title": "AI Agents Are Becoming Authorization Bypass Paths",
     "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
     "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -97,8 +131,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-WeRkxqHYVKqOELWCDkbIiI6lTEWqGIAkOQlI3kVCdVPQtCyH3kOcBXxxscPd6Hj0V4xyKku6WmGYKhyphenhyphenYxRP_d4lzh4ddOwG0ySAz6zQQoNGiacBA4jKuvoNRqA1ChEFjekiSQZsmH6hKo-GQhXK6hyphenhyphenrk4jE50dWybCMTS_Dahxvv6WbEYeA6F0A1s/s1600/ai-agent-wing.jpg"
     },
-    "content": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
-    "contentSnippet": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+    "content": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&rsquo;t just suggest, but act. Agents",
+    "contentSnippet": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don’t just suggest, but act. Agents",
     "guid": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
     "isoDate": "2026-01-14T15:07:00.000Z",
     "itunes": {}
@@ -326,39 +360,5 @@
       "history of security"
     ],
     "isoDate": "2026-01-13T12:09:28.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
-    "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
-    "pubDate": "Tue, 13 Jan 2026 17:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
-    "guid": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
-    "isoDate": "2026-01-13T11:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
-    "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
-    "pubDate": "Tue, 13 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg"
-    },
-    "content": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
-    "contentSnippet": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
-    "guid": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
-    "isoDate": "2026-01-13T11:55:00.000Z",
-    "itunes": {}
   }
 ]
