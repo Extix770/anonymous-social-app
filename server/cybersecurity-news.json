@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
+    "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+    "pubDate": "Fri, 16 Jan 2026 11:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhi1mo3JJ4SVSswb-QR3VpYd-cBKzSU_dKtLhngGvo0GRALzIlSbBqXAaMCfGGoqiuqjDFjaF61Eh5wh8oVzHyxgaBQyzDLLw9kFM3euSDNe87Ezsb_K87GuquNG-DrRb5pH9Zsmu1wjAmqzvkSdoG4NhaHKpYubjhscJyfBPx6wIATz8wsaon-I-vwE/s1600/cisco.jpg"
+    },
+    "content": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.\nThe vulnerability, tracked as CVE-2025-20393 (CVSS",
+    "contentSnippet": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.\nThe vulnerability, tracked as CVE-2025-20393 (CVSS",
+    "guid": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+    "isoDate": "2026-01-16T05:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
     "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
     "pubDate": "Fri, 16 Jan 2026 01:01:00 +0530",
@@ -323,23 +340,6 @@
     "contentSnippet": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don’t just suggest, but act. Agents",
     "guid": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
     "isoDate": "2026-01-14T15:07:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
-    "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-    "pubDate": "Wed, 14 Jan 2026 19:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpmrWdjziw_EBxzQs9lPcsMwRp6OICCFmo0QhzZoHdyE5WgEjcM2Y90QbmkJegSh19-ho2EsdkKwoEVKiSnM1ODN-8e5XJrw1cgjUHGm_ZAM6pYLaHSHa8TTJA8-ALLBty_JtK073FvqZFSjnuW7cEFGXNDQrGL12QRsuGJUl0Oc2QzoM-aMBVCatJLjc/s1600/cert.jpg"
-    },
-    "content": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.\n\"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
-    "contentSnippet": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.\n\"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
-    "guid": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-    "isoDate": "2026-01-14T14:18:00.000Z",
     "itunes": {}
   }
 ]
