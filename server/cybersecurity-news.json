@@ -94,7 +94,7 @@
     "enclosure": {
       "length": "12216320",
       "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgelJLIOXilR0ZhvHXIMgpwmfmM8lxwESCRh5ed9PgQlszys5RGymi8XE24cwjLmz0yP3DNWgGpQE8xB9z9jRP9I3GKSKxXVnw_ius4ZL-ax4ILenljtYCJxWVqgMVwCWBjpHTWfLrY3oD8MCh3XmCFkpPIwgiiPlBKEs-hoUz7PoMQKdEu_u4PYXRfZO6l/s1600/copilot-prompt-injection.jpg"
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
     },
     "content": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
