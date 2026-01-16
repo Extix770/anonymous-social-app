@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Your Digital Footprint Can Lead Right to Your Front Door",
+    "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
+    "pubDate": "Fri, 16 Jan 2026 16:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_20kAAwaCZD2Lh6-cSZ4bMJ5QJq16p3GRg-tw994MYxsXjW6EikJ7cJbFhb-I6H3hZQRN0blLVlY_zd1993WBJixaFKtO0eXeskqu6HKzE25lZWtfHQckAbh-doxDoBQkcuEazU3GkBSXWP-uNKXvjXdK9NSAGo_BEOPYD7vntOgaSAjVuRI0_lOSwRU/s1600/Incogni.jpg"
+    },
+    "content": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
+    "contentSnippet": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
+    "guid": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
+    "isoDate": "2026-01-16T10:42:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
+    "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
+    "pubDate": "Fri, 16 Jan 2026 15:57:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVK3A2yZNeTmDZQnzYo5bTA8R87lnRUIqYSSxOoyKUkAqFH97mjhNJ2LiAT64bsC9ExwqhQnDHhAfs5RJUIUbPGPp5E7h-L3efaT-216BWjYgGsZfZbe46N3BaIR7pxOusAcaJV7a9HHm6RyV3ZAvuz9ECIJPnBnrCuXimEH___3cbJkTefgy8dtfPx9mE/s1600/policy-malware.jpg"
+    },
+    "content": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
+    "contentSnippet": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
+    "guid": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
+    "isoDate": "2026-01-16T10:27:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
     "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
     "pubDate": "Fri, 16 Jan 2026 12:48:00 +0530",
@@ -307,39 +341,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-14T18:54:40.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Upcoming Speaking Engagements",
-    "link": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html",
-    "pubDate": "Wed, 14 Jan 2026 17:00:00 +0000",
-    "content:encoded": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at the <a href=\"https://crysp.uwaterloo.ca/speakers/20260127-Schneier\">David R. Cheriton School of Computer Science</a> in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.</li>\n<li>I’m speaking at the <a href=\"https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers\">Université de Montréal</a> in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.</li>\n<li>I’m speaking and signing books at the <a href=\"https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092\">Chicago Public Library</a> in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.</li>\n<li>I&#8217;m speaking at <a href=\"https://capricon.org/\">Capricon 46</a> in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD.</li>\n<li>I’m speaking at the <a href=\"https://mcsc.io/\">Munich Cybersecurity Conference</a> in Munich, Germany, on February 12, 2026.</li>\n<li>I’m speaking at <a href=\"https://techlivecyber.wsj.com/?gaa_at=eafs&amp;gaa_n=AWEtsqf9GP4etUdWaqDIATpiE9ycqWMIVoGIzjikYLlJ64hb6H_v1QH9OYhMTxeU51U%3D&amp;gaa_ts=691df89d&amp;gaa_sig=BG9fpWuP-liL7Gi3SJgXHmS02M4ob6lp6nOh94qnwVXCWYNzJxdzOiW365xA8vKeiulrErE8mbXDvKTcqktBtQ%3D%3D\">Tech Live: Cybersecurity</a> in New York City, USA, on March 11, 2026.</li>\n<li>I’m giving the <a href=\"https://www.chu.cam.ac.uk/event/computer-science-lecture-2026/\">Ross Anderson Lecture</a> at the University of Cambridge’s Churchill College at 5:30 PM GMT on March 19, 2026.</li>\n<li>I’m speaking at <a href=\"https://www.rsaconference.com/usa\">RSAC 2026</a> in San Francisco, California, USA, on March 25, 2026.</li>\n</ul>\n<p>The list is maintained on <a href=\"https://www.schneier.com/events/\">this page</a>.</p>\n",
-    "content:encodedSnippet": "This is a current list of where and when I am scheduled to speak:\nI’m speaking at the David R. Cheriton School of Computer Science in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.\nI’m speaking at the Université de Montréal in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.\nI’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.\nI’m speaking at Capricon 46 in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD.\nI’m speaking at the Munich Cybersecurity Conference in Munich, Germany, on February 12, 2026.\nI’m speaking at Tech Live: Cybersecurity in New York City, USA, on March 11, 2026.\nI’m giving the Ross Anderson Lecture at the University of Cambridge’s Churchill College at 5:30 PM GMT on March 19, 2026.\nI’m speaking at RSAC 2026 in San Francisco, California, USA, on March 25, 2026.\nThe list is maintained on this page.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html#respond",
-    "content": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at the <a href=\"https://crysp.uwaterloo.ca/speakers/20260127-Schneier\">David R. Cheriton School of Computer Science</a> in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.</li>\n<li>I’m speaking at the <a href=\"https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers\">Université de Montréal</a> in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.</li>\n<li>I’m speaking and signing books at the <a href=\"https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092\">Chicago Public Library</a> in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.</li>\n<li>I&#8217;m speaking at <a href=\"https://capricon.org/\">Capricon 46</a> in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD...</li></ul>",
-    "contentSnippet": "This is a current list of where and when I am scheduled to speak:\nI’m speaking at the David R. Cheriton School of Computer Science in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.\nI’m speaking at the Université de Montréal in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.\nI’m speaking and signing books at the Chicago Public Library in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.\nI’m speaking at Capricon 46 in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD...",
-    "guid": "https://www.schneier.com/?p=71446",
-    "categories": [
-      "Uncategorized",
-      "Schneier news"
-    ],
-    "isoDate": "2026-01-14T17:00:00.000Z"
-  },
-  {
-    "creator": "Dell Cameron, Ryan Shapiro",
-    "title": "Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story",
-    "link": "https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/",
-    "pubDate": "Wed, 14 Jan 2026 15:59:20 +0000",
-    "dc:creator": "Dell Cameron, Ryan Shapiro",
-    "content": "Hundreds of records obtained by WIRED show thin intelligence on the Venezuelan gang in the United States, describing fragmented, low-level crime rather than a coordinated terrorist threat.",
-    "contentSnippet": "Hundreds of records obtained by WIRED show thin intelligence on the Venezuelan gang in the United States, describing fragmented, low-level crime rather than a coordinated terrorist threat.",
-    "guid": "695be784014012a3ee521128",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-14T15:59:20.000Z"
   }
 ]
