@@ -22,6 +22,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+    "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+    "pubDate": "Fri, 16 Jan 2026 19:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kvgFz8ELXceV5_LsBgcodkjSM6meRhVnuxiijpgc1_2XcMb9Gh660H5HEknLGskzkx9L81bbOM651BUVAzu2u6bf36gf5r2x3ndhltKVFZAforGzT-dQhny2-zEk3cih03DU1pfyRFiJLlNXuv_Ml-glQC1dGl95L1KpYHBXnMOfXZwfd4bWGaUH3uel/s1600/chrome.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
+    "contentSnippet": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
+    "guid": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+    "isoDate": "2026-01-16T14:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Your Digital Footprint Can Lead Right to Your Front Door",
     "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
     "pubDate": "Fri, 16 Jan 2026 16:12:00 +0530",
@@ -330,22 +347,5 @@
       "transportation"
     ],
     "isoDate": "2026-01-14T19:22:15.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
-    "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
-    "pubDate": "Thu, 15 Jan 2026 00:33:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8LcAq2Eh4FGdeubIWyG99KZTiImVy-_8pLP_ooz55oOJQbiUnFXUS8yQ9Zg_XOj1eqw-qCII4_ZeoQqYlCou4ELHCWcqE1Fkkpr7y0CiCV0phTdYcTxGB-Q66Vjedk9f5svf8bB3eGyGVvI-iYmAZhGsDuJujVaAY9tsjsJ5xDjIJabN_4MagL4jnG63/s1600/sep.jpg"
-    },
-    "content": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
-    "contentSnippet": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
-    "guid": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
-    "isoDate": "2026-01-14T19:03:00.000Z",
-    "itunes": {}
   }
 ]
