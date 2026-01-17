@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+    "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+    "pubDate": "Sat, 17 Jan 2026 14:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSamhve9k7iL2Jd0BpqUkreaa3K7itkI4XIHJVBxqZ6l07U24t76eNbuhKMnRtu7eJ66TmiqgVQbAATH-pHha8jEcBz2PePIWaQDrWPky4mT6KFKVxjxe0N-yTFVEjXa3263Nt2IO_jmvJOjld503G-i99zT-7xeNf-BiAYFtyVdzV8QOu6tMvRyQbvYtn/s1600/chatgpt.jpg"
+    },
+    "content": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
+    "contentSnippet": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
+    "guid": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+    "isoDate": "2026-01-17T08:34:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
     "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
     "pubDate": "Fri, 16 Jan 2026 23:29:00 +0530",
@@ -325,23 +342,6 @@
     "contentSnippet": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
     "guid": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
     "isoDate": "2026-01-15T09:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-    "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-    "pubDate": "Thu, 15 Jan 2026 13:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
-    },
-    "content": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
-    "contentSnippet": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
-    "guid": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-    "isoDate": "2026-01-15T08:18:00.000Z",
     "itunes": {}
   }
 ]
