@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
+    "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+    "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
+    "pubDate": "Sat, 17 Jan 2026 11:30:00 +0000",
+    "dc:creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
+    "content": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
+    "contentSnippet": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
+    "guid": "696a75fdb12ced811baf1872",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-17T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
     "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
@@ -325,23 +343,6 @@
     "contentSnippet": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
     "guid": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
     "isoDate": "2026-01-15T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-    "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-    "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
-    },
-    "content": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
-    "contentSnippet": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
-    "guid": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-    "isoDate": "2026-01-15T09:37:00.000Z",
     "itunes": {}
   }
 ]
