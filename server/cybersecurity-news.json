@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+    "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+    "pubDate": "Sat, 17 Jan 2026 21:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VY2I87McGcsRT2S52vO2sa1A9ZvLo_H6YYLk5sCypOvjoX1H4Ee9QkvAiFJIvy0qW0dvgi_db78HgDvWHJKW9Fkaf5sLOt-RA2sP8fooQrHtv0qFf6Cazo7YjXAKY7NXJdNotK4w8aiiuz1nzNzmGbiJ6l81rbrU5-Sa7oOlMiRl08-4_4p9XtsjB1Am/s1600/Ukrainian-hacker.jpg"
+    },
+    "content": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
+    "contentSnippet": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
+    "guid": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+    "isoDate": "2026-01-17T16:26:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
     "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
     "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
@@ -326,23 +343,6 @@
     "contentSnippet": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
     "guid": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
     "isoDate": "2026-01-15T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-    "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-    "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
-    },
-    "content": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
-    "contentSnippet": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
-    "guid": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-    "isoDate": "2026-01-15T11:00:00.000Z",
     "itunes": {}
   }
 ]
