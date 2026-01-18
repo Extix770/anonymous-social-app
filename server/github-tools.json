@@ -351,15 +351,6 @@
     "language": "Shell"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 18,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -367,6 +358,15 @@
     "stars": 18,
     "forks": 3,
     "language": "Batchfile"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 18,
+    "forks": 3,
+    "language": null
   },
   {
     "name": "securitylabs-thrunting-tools",
@@ -810,15 +810,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -828,13 +819,13 @@
     "language": "C"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
     "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "BEC-Detection-Toolkit",
@@ -864,15 +864,6 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
