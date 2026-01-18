@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8351,
+    "stars": 8352,
     "forks": 1142,
     "language": null
   },
@@ -94,7 +94,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 500,
+    "stars": 501,
     "forks": 106,
     "language": null
   },
@@ -130,7 +130,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 201,
+    "stars": 204,
     "forks": 31,
     "language": "JavaScript"
   },
@@ -157,7 +157,7 @@
     "owner": "dev-angelist",
     "url": "https://github.com/dev-angelist/Ethical-Hacking-Tools",
     "description": "List, utilize and cheatsheet of Ethical Hacking tools",
-    "stars": 121,
+    "stars": 122,
     "forks": 49,
     "language": null
   },
