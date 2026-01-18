@@ -148,7 +148,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 137,
+    "stars": 142,
     "forks": 28,
     "language": "JavaScript"
   },
@@ -657,15 +657,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -673,6 +664,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -700,6 +700,15 @@
     "stars": 6,
     "forks": 3,
     "language": "TypeScript"
+  },
+  {
+    "name": "30-days-red-team-toolkit",
+    "owner": "maxwellcross-labs",
+    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
+    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
+    "stars": 6,
+    "forks": 3,
+    "language": "Python"
   },
   {
     "name": "cybersecurity-tools",
@@ -783,15 +792,6 @@
     "language": null
   },
   {
-    "name": "30-days-red-team-toolkit",
-    "owner": "maxwellcross-labs",
-    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
-    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 5,
-    "forks": 3,
-    "language": "Python"
-  },
-  {
     "name": "WEEK-TOOL",
     "owner": "13xsa5",
     "url": "https://github.com/13xsa5/WEEK-TOOL",
@@ -828,15 +828,6 @@
     "language": "C"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BEC-Detection-Toolkit",
