@@ -123,6 +123,24 @@
     "itunes": {}
   },
   {
+    "creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
+    "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+    "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
+    "pubDate": "Sat, 17 Jan 2026 11:30:00 +0000",
+    "dc:creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
+    "content": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
+    "contentSnippet": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
+    "guid": "696a75fdb12ced811baf1872",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-17T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
     "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
@@ -329,23 +347,6 @@
     "contentSnippet": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
     "guid": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
     "isoDate": "2026-01-15T15:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
-    "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-    "pubDate": "Thu, 15 Jan 2026 20:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
-    "guid": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-    "isoDate": "2026-01-15T15:09:00.000Z",
     "itunes": {}
   }
 ]
