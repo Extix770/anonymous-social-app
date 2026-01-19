@@ -22,6 +22,40 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+    "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+    "pubDate": "Mon, 19 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg"
+    },
+    "content": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+    "contentSnippet": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+    "guid": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+    "isoDate": "2026-01-19T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs",
+    "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+    "pubDate": "Mon, 19 Jan 2026 17:01:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvBKIwExgNlDEHvCub_5W4y4uhPhsKYtGX8oPC_DrwzV5Wl5i_QPN2oEgBoSHBAAbsurdEryR3O56kclGi5uN38Y50ftQUAPzj1Y-r0bAS3rQ_lqRm88M4umTl1e4bAiCAGArNy2v70l31w5IArnzj8rUqxCAL2Xd3C8j2POKMP8tr6iAhsynSMNPAZH6/s1600/stack.jpg"
+    },
+    "content": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+    "contentSnippet": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+    "guid": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+    "isoDate": "2026-01-19T11:31:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
     "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
     "pubDate": "Mon, 19 Jan 2026 14:39:00 +0530",
@@ -314,37 +348,5 @@
     "guid": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
     "isoDate": "2026-01-15T15:09:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
-    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
-    "pubDate": "Thu, 15 Jan 2026 19:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg"
-    },
-    "content": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
-    "contentSnippet": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
-    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
-    "isoDate": "2026-01-15T13:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "Former CISA Director Jen Easterly Will Lead RSAC Conference",
-    "link": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
-    "pubDate": "Thu, 15 Jan 2026 13:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
-    "contentSnippet": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
-    "guid": "696163043130781388ec5263",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-15T13:00:00.000Z"
   }
 ]
