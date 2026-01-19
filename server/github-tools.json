@@ -121,7 +121,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 222,
+    "stars": 224,
     "forks": 32,
     "language": "JavaScript"
   },
@@ -837,15 +837,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -853,6 +844,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
