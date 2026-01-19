@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "pubDate": "Mon, 19 Jan 2026 18:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg"
+    },
+    "content": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
+    "contentSnippet": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
+    "guid": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "isoDate": "2026-01-19T13:17:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI-Powered Surveillance in Schools",
     "link": "https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html",
@@ -330,23 +347,6 @@
     "contentSnippet": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
     "guid": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
     "isoDate": "2026-01-15T15:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
-    "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-    "pubDate": "Thu, 15 Jan 2026 20:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
-    "guid": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-    "isoDate": "2026-01-15T15:09:00.000Z",
     "itunes": {}
   }
 ]
