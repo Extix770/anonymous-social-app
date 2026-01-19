@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+    "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+    "pubDate": "Mon, 19 Jan 2026 12:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgXm3VbZRhqFOmPi88AiXeiRLKHkASKs6cVSYmMLmlZiGyP3Xqdd8X1J5qkppk2zMYcKK5-rkza0xId4pky69xHymWs7aX3DXRaMGmDZm0WgtfPRjw3OyD4G2VfuB_4WveR3GQ3b0das7-37IWLkZbEQDG_jiheSCynC23sxLFLhW4Lnxhlfa_X2EAqzd/s1600/uno.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
+    "contentSnippet": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
+    "guid": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+    "isoDate": "2026-01-19T06:53:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
     "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
     "pubDate": "Sat, 17 Jan 2026 21:56:00 +0530",
@@ -327,22 +344,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-15T12:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
-    "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
-    "pubDate": "Thu, 15 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
-    },
-    "content": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
-    "contentSnippet": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
-    "guid": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
-    "isoDate": "2026-01-15T11:55:00.000Z",
-    "itunes": {}
   }
 ]
