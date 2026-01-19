@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+    "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "pubDate": "Mon, 19 Jan 2026 22:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+    "guid": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "isoDate": "2026-01-19T17:21:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
     "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
     "pubDate": "Mon, 19 Jan 2026 18:47:00 +0530",
@@ -331,22 +348,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2026-01-15T18:54:23.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-    "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-    "pubDate": "Thu, 15 Jan 2026 21:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg"
-    },
-    "content": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
-    "contentSnippet": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
-    "guid": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-    "isoDate": "2026-01-15T15:31:00.000Z",
-    "itunes": {}
   }
 ]
