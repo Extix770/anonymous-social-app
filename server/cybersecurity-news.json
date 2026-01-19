@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "AI-Powered Surveillance in Schools",
+    "link": "https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html",
+    "pubDate": "Mon, 19 Jan 2026 12:02:24 +0000",
+    "content:encoded": "<p>It all sounds <a href=\"https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/\">pretty dystopian</a>:</p>\n<blockquote><p>Inside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren&#8217;t driven by criminals.</p>\n<p>This isn&#8217;t a high-security government facility. It&#8217;s Beverly Hills High School.</p></blockquote>\n",
+    "content:encodedSnippet": "It all sounds pretty dystopian:\nInside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren’t driven by criminals.\nThis isn’t a high-security government facility. It’s Beverly Hills High School.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html#respond",
+    "content": "<p>It all sounds <a href=\"https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/\">pretty dystopian</a>:</p>\n<blockquote><p>Inside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren&#8217;t driven by criminals...</p></blockquote>",
+    "contentSnippet": "It all sounds pretty dystopian:\nInside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren’t driven by criminals...",
+    "guid": "https://www.schneier.com/?p=71478",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "privacy",
+      "schools",
+      "surveillance"
+    ],
+    "isoDate": "2026-01-19T12:02:24.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
     "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
@@ -325,24 +346,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-15T13:00:00.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "New Vulnerability in n8n",
-    "link": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html",
-    "pubDate": "Thu, 15 Jan 2026 12:05:04 +0000",
-    "content:encoded": "<p><a href=\"https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858\">This</a> isn&#8217;t good:</p>\n<blockquote><p>We discovered a critical vulnerability (<a href=\"https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg\">CVE-2026-21858, CVSS 10.0</a>) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.</p></blockquote>\n<p><a href=\"https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305\">Three</a> <a href=\"https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html\">technical<a> <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-68668\">links</a> and two <a href=\"https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/\">news</a> <a href=\"https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/\">links</a>.</p>\n",
-    "content:encodedSnippet": "This isn’t good:\nWe discovered a critical vulnerability (CVE-2026-21858, CVSS 10.0) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.\n\nThree technical links and two news links.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html#comments",
-    "content": "<p><a href=\"https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858\">This</a> isn&#8217;t good:</p>\n<blockquote><p>We discovered a critical vulnerability (<a href=\"https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg\">CVE-2026-21858, CVSS 10.0</a>) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.</p></blockquote>\n<p><a href=\"https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305\">Three</a> <a href=\"https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html\">technical<a> <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-68668\">links</a> and two <a href=\"https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/\">news</a> <a href=\"https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/\">links</a>.</p>\n",
-    "contentSnippet": "This isn’t good:\nWe discovered a critical vulnerability (CVE-2026-21858, CVSS 10.0) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.\n\nThree technical links and two news links.",
-    "guid": "https://www.schneier.com/?p=71463",
-    "categories": [
-      "Uncategorized",
-      "patching",
-      "vulnerabilities"
-    ],
-    "isoDate": "2026-01-15T12:05:04.000Z"
   }
 ]
