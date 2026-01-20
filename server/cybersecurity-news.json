@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+    "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+    "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg"
+    },
+    "content": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&nbsp;\n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+    "contentSnippet": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+    "guid": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+    "isoDate": "2026-01-20T11:12:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+    "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+    "pubDate": "Tue, 20 Jan 2026 16:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieV5wPGUwZgsm79ntLb9Sz_6xAPAV54CQ1SztbNfpLe-ovKEkTrCsLBRsD52c87yFiByHZGandN1pYNNBn1OLUpc5iEFJnGP0YRn_WWeWod1xxQUNhjlD1vFMh-4EI2fq06Gt86H_U7rX7FBjhLoXrhtzQKqjLRa3X6c7W86BFrR5xfDX80ve6UDs4zU8/s1600/main.jpg"
+    },
+    "content": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&nbsp;\nApplying this at scale by scanning 5 million applications revealed over",
+    "contentSnippet": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. \nApplying this at scale by scanning 5 million applications revealed over",
+    "guid": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+    "isoDate": "2026-01-20T10:45:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
     "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
     "pubDate": "Tue, 20 Jan 2026 13:10:00 +0530",
@@ -313,40 +347,5 @@
     "guid": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
     "isoDate": "2026-01-16T05:38:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
-    "pubDate": "Fri, 16 Jan 2026 01:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg"
-    },
-    "content": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
-    "contentSnippet": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
-    "guid": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
-    "isoDate": "2026-01-15T19:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
-    "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-    "pubDate": "Thu, 15 Jan 2026 19:30:14 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.",
-    "contentSnippet": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.",
-    "guid": "6968fedb43f4ea26029fe444",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "Business / Social Media"
-    ],
-    "isoDate": "2026-01-15T19:30:14.000Z"
   }
 ]
