@@ -207,6 +207,15 @@
     "language": "Python"
   },
   {
+    "name": "OPSEC-OSINT-Tools",
+    "owner": "airborne-commando",
+    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
+    "description": "A list and guide of OSINT/OPSEC and some tools that I've made and or use.",
+    "stars": 58,
+    "forks": 4,
+    "language": null
+  },
+  {
     "name": "google-dorks-toolkit",
     "owner": "SalehLardhi",
     "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
@@ -225,15 +234,6 @@
     "language": null
   },
   {
-    "name": "OPSEC-OSINT-Tools",
-    "owner": "airborne-commando",
-    "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
-    "description": "A list and guide of OSINT/OPSEC and some tools that I've made and or use.",
-    "stars": 57,
-    "forks": 4,
-    "language": null
-  },
-  {
     "name": "Python-Security-Tool-Database",
     "owner": "MythicStack",
     "url": "https://github.com/MythicStack/Python-Security-Tool-Database",
@@ -247,7 +247,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-    "stars": 45,
+    "stars": 46,
     "forks": 5,
     "language": null
   },
