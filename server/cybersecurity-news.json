@@ -99,8 +99,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg"
     },
-    "content": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix has",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix has",
+    "content": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
     "guid": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
     "isoDate": "2026-01-19T09:09:00.000Z",
     "itunes": {}

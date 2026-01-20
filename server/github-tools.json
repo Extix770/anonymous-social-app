@@ -54,6 +54,15 @@
     "language": null
   },
   {
+    "name": "Awesome-Blackhat-Tools",
+    "owner": "UCYBERS",
+    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
+    "description": "A curated list of tools officially presented at Black Hat events",
+    "stars": 746,
+    "forks": 68,
+    "language": null
+  },
+  {
     "name": "osint_toolkit",
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
@@ -61,15 +70,6 @@
     "stars": 745,
     "forks": 125,
     "language": "JavaScript"
-  },
-  {
-    "name": "Awesome-Blackhat-Tools",
-    "owner": "UCYBERS",
-    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
-    "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 745,
-    "forks": 68,
-    "language": null
   },
   {
     "name": "BCHackTool",
