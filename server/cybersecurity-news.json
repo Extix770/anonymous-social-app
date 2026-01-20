@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+    "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+    "pubDate": "Tue, 20 Jan 2026 19:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pw9mrLv_u7G4cYmZabAPduOBzVremxpnTTBjAnpvt95Kdt-kVFdO1GuHAnFwKZ0MNOAB86u6PacmrUDnAT0tcXghadZTRaEQTFiCXUTcoQksHFc4FKIpWGGYeVmJHM0kLvyWrUC7QPHJ6sjkHGEPgjNwkjpJSQihknrukwDKzuvW445fDoi1tNPfThXW/s1600/git-ai-flaw.jpg"
+    },
+    "content": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
+    "contentSnippet": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
+    "guid": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+    "isoDate": "2026-01-20T13:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+    "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+    "pubDate": "Tue, 20 Jan 2026 19:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfS_8l12ibwFemmowyvwW3TRy6H3Hk3BjSa-r1KzCfVMU2rB1wOoswclUs5hEuXN2TjQGz9y5eWSe7i8-crBQWCc4Nr8cDHOLDBU0e8T5r66eP_nWjkzIYwvp3hoKTZury1NQLnx6SOxM2OCwpC6Syr4zqHriStaxEksPoIbOJB4aPmAFHwhiucSErD-wM/s1600/linkedin.jpg"
+    },
+    "content": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
+    "contentSnippet": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
+    "guid": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+    "isoDate": "2026-01-20T13:46:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Could ChatGPT Convince You to Buy Something?",
     "link": "https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html",
@@ -317,39 +351,5 @@
       "LLM"
     ],
     "isoDate": "2026-01-16T14:44:27.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
-    "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
-    "pubDate": "Fri, 16 Jan 2026 19:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kvgFz8ELXceV5_LsBgcodkjSM6meRhVnuxiijpgc1_2XcMb9Gh660H5HEknLGskzkx9L81bbOM651BUVAzu2u6bf36gf5r2x3ndhltKVFZAforGzT-dQhny2-zEk3cih03DU1pfyRFiJLlNXuv_Ml-glQC1dGl95L1KpYHBXnMOfXZwfd4bWGaUH3uel/s1600/chrome.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
-    "contentSnippet": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
-    "guid": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
-    "isoDate": "2026-01-16T14:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Your Digital Footprint Can Lead Right to Your Front Door",
-    "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-    "pubDate": "Fri, 16 Jan 2026 16:12:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_20kAAwaCZD2Lh6-cSZ4bMJ5QJq16p3GRg-tw994MYxsXjW6EikJ7cJbFhb-I6H3hZQRN0blLVlY_zd1993WBJixaFKtO0eXeskqu6HKzE25lZWtfHQckAbh-doxDoBQkcuEazU3GkBSXWP-uNKXvjXdK9NSAGo_BEOPYD7vntOgaSAjVuRI0_lOSwRU/s1600/Incogni.jpg"
-    },
-    "content": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
-    "contentSnippet": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.\nBut what about the information about you that’s already out there—without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt’s all still online, and it’s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
-    "guid": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-    "isoDate": "2026-01-16T10:42:00.000Z",
-    "itunes": {}
   }
 ]
