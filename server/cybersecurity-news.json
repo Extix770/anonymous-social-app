@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "ICE Details a New Minnesota-Based Detention Network That Spans 5 States",
+    "link": "https://www.wired.com/story/ice-detention-network-minnesota-5-states/",
+    "pubDate": "Tue, 20 Jan 2026 19:12:15 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of miles across the Upper Midwest.",
+    "contentSnippet": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of miles across the Upper Midwest.",
+    "guid": "696f86aad7ef6580ac2201e2",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-01-20T19:12:15.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
     "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
@@ -329,23 +346,6 @@
     "contentSnippet": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
     "guid": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
     "isoDate": "2026-01-17T08:34:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
-    "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
-    "pubDate": "Fri, 16 Jan 2026 23:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KFkvTcZ_PkWZffX2HE8olvWbZAOrsco48R3JqZQsB4hUc2GGS7xh9a6suu7I_eIe4NU8M5sjecperqY7v7V4nSuAffVy024xnlN38Ig-LPae-RiwXXxMUnf8FvvNX9HVjsf1yHr4cZaDxww_pa53yqGlSNfQtnsA6NZGwELbUyE5pPKOp96QK-BQI3GB/s1600/code.jpg"
-    },
-    "content": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.\n\"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
-    "contentSnippet": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.\n\"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
-    "guid": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
-    "isoDate": "2026-01-16T17:59:00.000Z",
     "itunes": {}
   }
 ]
