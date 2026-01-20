@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+    "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+    "pubDate": "Tue, 20 Jan 2026 13:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s1600/botcoin.jpg"
+    },
+    "content": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+    "contentSnippet": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+    "guid": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+    "isoDate": "2026-01-20T07:40:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
     "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
     "pubDate": "Mon, 19 Jan 2026 22:51:00 +0530",
@@ -331,22 +348,5 @@
       "Business / Social Media"
     ],
     "isoDate": "2026-01-15T19:30:14.000Z"
-  },
-  {
-    "creator": "Lila Hassan",
-    "title": "Why ICE Can Kill With Impunity",
-    "link": "https://www.wired.com/story/why-ice-can-kill-with-impunity/",
-    "pubDate": "Thu, 15 Jan 2026 18:54:23 +0000",
-    "dc:creator": "Lila Hassan",
-    "content": "Over the past decade, US immigration agents have shot and killed more than two dozen people. Not a single agent appears to have faced criminal charges.",
-    "contentSnippet": "Over the past decade, US immigration agents have shot and killed more than two dozen people. Not a single agent appears to have faced criminal charges.",
-    "guid": "695ff523e09fb707598b0b80",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-15T18:54:23.000Z"
   }
 ]
