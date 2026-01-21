@@ -45,6 +45,15 @@
     "language": null
   },
   {
+    "name": "osint_toolkit",
+    "owner": "dev-lu",
+    "url": "https://github.com/dev-lu/osint_toolkit",
+    "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
+    "stars": 761,
+    "forks": 128,
+    "language": "JavaScript"
+  },
+  {
     "name": "Open-source-tools-for-CTI",
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
@@ -52,15 +61,6 @@
     "stars": 760,
     "forks": 132,
     "language": null
-  },
-  {
-    "name": "osint_toolkit",
-    "owner": "dev-lu",
-    "url": "https://github.com/dev-lu/osint_toolkit",
-    "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 758,
-    "forks": 128,
-    "language": "JavaScript"
   },
   {
     "name": "Awesome-Blackhat-Tools",
@@ -864,15 +864,6 @@
     "language": "Shell"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Phishing-Simulation-Tool",
     "owner": "Mmabiaa",
     "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 2,
     "language": "HTML"
+  },
+  {
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
+    "stars": 4,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "Tooli",
