@@ -4,8 +4,8 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8376,
-    "forks": 1143,
+    "stars": 8377,
+    "forks": 1144,
     "language": null
   },
   {
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2358,
+    "stars": 2359,
     "forks": 351,
     "language": null
   },
@@ -68,7 +68,7 @@
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
     "stars": 745,
-    "forks": 125,
+    "forks": 126,
     "language": "JavaScript"
   },
   {
