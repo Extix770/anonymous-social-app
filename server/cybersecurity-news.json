@@ -1,5 +1,37 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
+    "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
+    "pubDate": "Wed, 21 Jan 2026 18:04:15 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is eroding trust and deterring people from seeking care.",
+    "contentSnippet": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is eroding trust and deterring people from seeking care.",
+    "guid": "6970de66f85422ea0213ff44",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-01-21T18:04:15.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
+    "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
+    "pubDate": "Wed, 21 Jan 2026 22:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrIdMGRCKi6umFOuh-RXZ-VygDIwLtr18W0bnicPF1AYj5jLZVM3x76V96YjaTJm_FlzW1RftmJvZoWxBBcGkcN4DzIfSCw7XQO5Omyf8st-ezm8mYdzyG4vx9VhQOTjZcTT4K6JnU11fQkq201EwBq9Lj6OHxIIGRu52eBIHFCacZuaei3DnnphunRg5/s1600/hackers.jpg"
+    },
+    "content": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artificial intelligence (AI), cryptocurrency, financial services, IT services, marketing, and software development sectors in Europe, South Asia, the Middle East, and Central America.\nThe new findings",
+    "contentSnippet": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artificial intelligence (AI), cryptocurrency, financial services, IT services, marketing, and software development sectors in Europe, South Asia, the Middle East, and Central America.\nThe new findings",
+    "guid": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
+    "isoDate": "2026-01-21T17:17:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
     "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
@@ -309,40 +341,6 @@
     "contentSnippet": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
     "guid": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
     "isoDate": "2026-01-20T07:40:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
-    "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
-    "pubDate": "Mon, 19 Jan 2026 22:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
-    "guid": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
-    "isoDate": "2026-01-19T17:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
-    "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
-    "pubDate": "Mon, 19 Jan 2026 18:47:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg"
-    },
-    "content": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
-    "contentSnippet": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
-    "guid": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
-    "isoDate": "2026-01-19T13:17:00.000Z",
     "itunes": {}
   }
 ]
