@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
+    "link": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html",
+    "pubDate": "Wed, 21 Jan 2026 14:40:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQfYQeWdwmviN0kYk0o1lwduXDGiv53wwizZeyajke-6SGNlGc1wdSk5yUWZ_Bt4-yQrihJrMohBqDcsqStLjmdJ_YfRZ2vM27oKy4LVviBgbJHP71E2MWRRf_d39VMy7BQ2WzIxl-s0ufscfKHo8AL9Dj0W77aRmVM_lNvGAeOwN1Xxf7IGoG7DwTbus/s1600/exploit.jpg"
+    },
+    "content": "Security vulnerabilities were uncovered in the popular open-source artificial intelligence (AI) framework Chainlit that could allow attackers to steal sensitive data, which may allow for lateral movement within a susceptible organization.\nZafran Security said the high-severity flaws, collectively dubbed ChainLeak, could be abused to leak cloud environment API keys and steal sensitive files, or",
+    "contentSnippet": "Security vulnerabilities were uncovered in the popular open-source artificial intelligence (AI) framework Chainlit that could allow attackers to steal sensitive data, which may allow for lateral movement within a susceptible organization.\nZafran Security said the high-severity flaws, collectively dubbed ChainLeak, could be abused to leak cloud environment API keys and steal sensitive files, or",
+    "guid": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html",
+    "isoDate": "2026-01-21T09:10:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code",
+    "link": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html",
+    "pubDate": "Wed, 21 Jan 2026 14:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Wwnorzi4IOE-M6KTtD-M3NkFDUouUmfnwteDny1m-6-slwsXN8LGxzhX2jmXH9qIk1YWGqUJYdOiAWkouZYPcakwcnoA9GjLWcjdbPnnxYgJy5aPQpO1uPSAYVPOfp2lQtBlbKxA5BmR-xHBwtV28Xp6GpnOwY0VDIj13rCTSiaS54uIWwR4ErcLi8Tm/s1600/linux.jpg"
+    },
+    "content": "The recently discovered sophisticated Linux malware framework known as VoidLink is assessed to have been developed by a single person with assistance from an artificial intelligence (AI) model.\nThat's according to new findings from Check Point Research, which identified operational security blunders by malware's author that provided clues to its developmental origins. The latest insight makes",
+    "contentSnippet": "The recently discovered sophisticated Linux malware framework known as VoidLink is assessed to have been developed by a single person with assistance from an artificial intelligence (AI) model.\nThat's according to new findings from Check Point Research, which identified operational security blunders by malware's author that provided clues to its developmental origins. The latest insight makes",
+    "guid": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html",
+    "isoDate": "2026-01-21T08:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
     "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
     "pubDate": "Wed, 21 Jan 2026 12:10:00 +0530",
@@ -311,40 +345,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
     "guid": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
     "isoDate": "2026-01-19T09:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-    "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-    "pubDate": "Mon, 19 Jan 2026 12:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgXm3VbZRhqFOmPi88AiXeiRLKHkASKs6cVSYmMLmlZiGyP3Xqdd8X1J5qkppk2zMYcKK5-rkza0xId4pky69xHymWs7aX3DXRaMGmDZm0WgtfPRjw3OyD4G2VfuB_4WveR3GQ3b0das7-37IWLkZbEQDG_jiheSCynC23sxLFLhW4Lnxhlfa_X2EAqzd/s1600/uno.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
-    "contentSnippet": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
-    "guid": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-    "isoDate": "2026-01-19T06:53:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
-    "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-    "pubDate": "Sat, 17 Jan 2026 21:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VY2I87McGcsRT2S52vO2sa1A9ZvLo_H6YYLk5sCypOvjoX1H4Ee9QkvAiFJIvy0qW0dvgi_db78HgDvWHJKW9Fkaf5sLOt-RA2sP8fooQrHtv0qFf6Cazo7YjXAKY7NXJdNotK4w8aiiuz1nzNzmGbiJ6l81rbrU5-Sa7oOlMiRl08-4_4p9XtsjB1Am/s1600/Ukrainian-hacker.jpg"
-    },
-    "content": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
-    "contentSnippet": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
-    "guid": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-    "isoDate": "2026-01-17T16:26:00.000Z",
     "itunes": {}
   }
 ]
