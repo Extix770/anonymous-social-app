@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
+    "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
+    "pubDate": "Wed, 21 Jan 2026 21:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwPQt59QKpm9rpNLriqoUsKPzbWcBj9P-u1ZdIn5xhxR6hgRztxdSAXN5bgEnDvd4uEEBgW4Imr_g-__YN0NY3-vLa_vEuYIwRzlrnRF3s0Vz8wDb937XfoxDbpPFapWvz0wH5TO2rK-32zQ2WLv8_loqE9rZIn_x5RzgtTyxrOQcUN-POOgDziDZNngjf/s1600/zoom-gitlab.jpg"
+    },
+    "content": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a critical security flaw impacting Zoom Node Multimedia Routers (MMRs) that could permit a meeting participant to conduct remote code execution attacks. The vulnerability, tracked as CVE-2026-22844",
+    "contentSnippet": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a critical security flaw impacting Zoom Node Multimedia Routers (MMRs) that could permit a meeting participant to conduct remote code execution attacks. The vulnerability, tracked as CVE-2026-22844",
+    "guid": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
+    "isoDate": "2026-01-21T15:42:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Internet Voting is Too Insecure for Use in Elections",
     "link": "https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html",
@@ -327,26 +344,5 @@
     "guid": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
     "isoDate": "2026-01-19T13:17:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "AI-Powered Surveillance in Schools",
-    "link": "https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html",
-    "pubDate": "Mon, 19 Jan 2026 12:02:24 +0000",
-    "content:encoded": "<p>It all sounds <a href=\"https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/\">pretty dystopian</a>:</p>\n<blockquote><p>Inside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren&#8217;t driven by criminals.</p>\n<p>This isn&#8217;t a high-security government facility. It&#8217;s Beverly Hills High School.</p></blockquote>\n",
-    "content:encodedSnippet": "It all sounds pretty dystopian:\nInside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren’t driven by criminals.\nThis isn’t a high-security government facility. It’s Beverly Hills High School.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html#comments",
-    "content": "<p>It all sounds <a href=\"https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/\">pretty dystopian</a>:</p>\n<blockquote><p>Inside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren&#8217;t driven by criminals...</p></blockquote>",
-    "contentSnippet": "It all sounds pretty dystopian:\nInside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren’t driven by criminals...",
-    "guid": "https://www.schneier.com/?p=71478",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "privacy",
-      "schools",
-      "surveillance"
-    ],
-    "isoDate": "2026-01-19T12:02:24.000Z"
   }
 ]
