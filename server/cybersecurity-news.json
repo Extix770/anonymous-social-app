@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Exposure Assessment Platforms Signal a Shift in Focus",
+    "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html",
+    "pubDate": "Wed, 21 Jan 2026 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmSU5s0ahHNb_O6TnXm0i8cw93oK40sAl5By7cIbChjHl5xUqt4_24bcXtVXugQG4zcGbsmtbZz-QTvhOyWRhyxuYPB6nmaY65vANZFcuBHeqSuELPN7JbGTfHaAn5JlSFt_C00S_RMkS9I2UyDUQaCWr2lj6qDKe8ys1D2ZA3myEEZDEEcej12BJWvM/s1600/xmcyber.jpg"
+    },
+    "content": "Gartner® doesn’t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective \"to-do list\" has become mathematically impossible to complete. And so it seems that the introduction of the Exposure Assessment Platforms (EAP) category is a formal admission that traditional Vulnerability Management (VM) is no longer a viable way to secure a modern",
+    "contentSnippet": "Gartner® doesn’t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective \"to-do list\" has become mathematically impossible to complete. And so it seems that the introduction of the Exposure Assessment Platforms (EAP) category is a formal admission that traditional Vulnerability Management (VM) is no longer a viable way to secure a modern",
+    "guid": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html",
+    "isoDate": "2026-01-21T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
     "link": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html",
     "pubDate": "Wed, 21 Jan 2026 14:40:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
     "guid": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
     "isoDate": "2026-01-19T11:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-    "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-    "pubDate": "Mon, 19 Jan 2026 14:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
-    "guid": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-    "isoDate": "2026-01-19T09:09:00.000Z",
     "itunes": {}
   }
 ]
