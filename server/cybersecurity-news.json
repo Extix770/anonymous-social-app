@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
+    "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
+    "pubDate": "Wed, 21 Jan 2026 12:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgARX8var88XnuiwAzTQxw-Iu0AEnvMqDZoQMH_UxnEUzuJ6yqPLLbij2G1PFEMHWToqT8hjNEvYxr-S4WCy5psHYCQw76jRiwGaFavY2Qe1jUvT7t-uUXn7CLWRXteMBhsunO2MbYEt8doaPcgHq2srmzSxXGzdW-pNgF0Fli_3kXrhcWAmln5JU2sptOf/s1600/lastpass.jpg"
+    },
+    "content": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
+    "contentSnippet": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
+    "guid": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
+    "isoDate": "2026-01-21T06:40:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
+    "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
+    "pubDate": "Wed, 21 Jan 2026 11:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgbhveMnZAVV1RKf0coJN00ixwRd8lYIUz58lpP4qC-LhuOGvgZ7IG87XxkhQaR6bnvCY_Sl5yQ2yQyAr_V9oVZ9eCHWpOszGUOLyKWkygMpSyxAs0H7Zlu56FhRnBNeLW34FA_-1G3pcpoj81hDxxHr1MBJl7MD0UBDau3Nl43IVX-r2RsWDBksVyflV/s1600/binary-parser.jpg"
+    },
+    "content": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
+    "contentSnippet": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
+    "guid": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
+    "isoDate": "2026-01-21T06:04:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "ICE Details a New Minnesota-Based Detention Network That Spans 5 States",
     "link": "https://www.wired.com/story/ice-detention-network-minnesota-5-states/",
@@ -311,41 +345,6 @@
     "contentSnippet": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
     "guid": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
     "isoDate": "2026-01-17T16:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
-    "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
-    "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
-    "pubDate": "Sat, 17 Jan 2026 11:30:00 +0000",
-    "dc:creator": "Andy Greenberg, Maddy Varner, Lily Hay Newman",
-    "content": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
-    "contentSnippet": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir’s app for targeting immigrants gets exposed, and more.",
-    "guid": "696a75fdb12ced811baf1872",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-17T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
-    "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
-    "pubDate": "Sat, 17 Jan 2026 14:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSamhve9k7iL2Jd0BpqUkreaa3K7itkI4XIHJVBxqZ6l07U24t76eNbuhKMnRtu7eJ66TmiqgVQbAATH-pHha8jEcBz2PePIWaQDrWPky4mT6KFKVxjxe0N-yTFVEjXa3263Nt2IO_jmvJOjld503G-i99zT-7xeNf-BiAYFtyVdzV8QOu6tMvRyQbvYtn/s1600/chatgpt.jpg"
-    },
-    "content": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
-    "contentSnippet": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
-    "guid": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
-    "isoDate": "2026-01-17T08:34:00.000Z",
     "itunes": {}
   }
 ]
