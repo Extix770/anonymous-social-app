@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+    "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+    "pubDate": "Thu, 22 Jan 2026 22:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswkkor42PbpMA2JvEug_zR_BOp1L3DrLlZ8GqcxlJchqNGqZZT7ndgNE51CVPI5YEhi1js3MsyDOYVmA19EKWA330OszynMa9IJpHJzDXtZ3iET5VPrCkCZHOZ2jhnV114UijsA4b2tgGiT8XBD7eRpZ9Su9UAYy-ay9qsmrysuw-v3KOIJkkhCXjStP7/s1600/linux-unix.jpg"
+    },
+    "content": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
+    "contentSnippet": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
+    "guid": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+    "isoDate": "2026-01-22T16:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
     "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
     "pubDate": "Thu, 22 Jan 2026 19:53:00 +0530",
@@ -325,23 +342,6 @@
     "contentSnippet": "The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backdoor on compromised endpoints.\nThe latest finding demonstrates continued evolution of the new tactic that was first discovered in December 2025, Jamf Threat Labs said.\n\"This activity involved",
     "guid": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
     "isoDate": "2026-01-20T18:41:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
-    "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
-    "pubDate": "Tue, 20 Jan 2026 19:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pw9mrLv_u7G4cYmZabAPduOBzVremxpnTTBjAnpvt95Kdt-kVFdO1GuHAnFwKZ0MNOAB86u6PacmrUDnAT0tcXghadZTRaEQTFiCXUTcoQksHFc4FKIpWGGYeVmJHM0kLvyWrUC7QPHJ6sjkHGEPgjNwkjpJSQihknrukwDKzuvW445fDoi1tNPfThXW/s1600/git-ai-flaw.jpg"
-    },
-    "content": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
-    "contentSnippet": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
-    "guid": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
-    "isoDate": "2026-01-20T13:55:00.000Z",
     "itunes": {}
   }
 ]
