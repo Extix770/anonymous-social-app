@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Maddy Varner",
+    "title": "ICE Agents Are ‘Doxing’ Themselves",
+    "link": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
+    "pubDate": "Thu, 22 Jan 2026 17:42:57 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "The alleged risks of being publicly identified have not stopped DHS  and ICE employees from creating profiles on LinkedIn, even as Kristi Noem threatens to treat revealing agents' identities as a crime.",
+    "contentSnippet": "The alleged risks of being publicly identified have not stopped DHS  and ICE employees from creating profiles on LinkedIn, even as Kristi Noem threatens to treat revealing agents' identities as a crime.",
+    "guid": "696f977f81397433db57a96c",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-22T17:42:57.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
     "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
@@ -326,22 +343,5 @@
       "Politics / Policy"
     ],
     "isoDate": "2026-01-20T19:12:15.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
-    "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
-    "pubDate": "Wed, 21 Jan 2026 00:11:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0h2bAZNzwVEuQKgQlWm86TvDCUL308-g1xrbV2ZuCKJdiuCxebUL3w04zPuBIafTaSB4SkyqbdIb0Kpqn_jCUQMB8j9s-amDohBq4Lw_-Q9G0ZVIkmKIIP54wUsq7wvtgV03b9x_I-tpCDytn4Y6UHgBiPPUXQ9sVSsQVyjSYMrexTs7ZSNetSjFybpJp/s1600/vscode.png"
-    },
-    "content": "The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backdoor on compromised endpoints.\nThe latest finding demonstrates continued evolution of the new tactic that was first discovered in December 2025, Jamf Threat Labs said.\n\"This activity involved",
-    "contentSnippet": "The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backdoor on compromised endpoints.\nThe latest finding demonstrates continued evolution of the new tactic that was first discovered in December 2025, Jamf Threat Labs said.\n\"This activity involved",
-    "guid": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
-    "isoDate": "2026-01-20T18:41:00.000Z",
-    "itunes": {}
   }
 ]
