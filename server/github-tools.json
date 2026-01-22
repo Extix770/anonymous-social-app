@@ -738,15 +738,6 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "EthicalHackingTools",
     "owner": "nafis548",
     "url": "https://github.com/nafis548/EthicalHackingTools",
@@ -756,19 +747,28 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
-    "forks": 1,
-    "language": null
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
     "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
     "forks": 1,
     "language": null
