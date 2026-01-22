@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+    "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
+    "pubDate": "Thu, 22 Jan 2026 23:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYzbCMSUAN1p1M0CnYPBeFVA3mYmKz-XYLo2R-0OUmaSxvarUieSUkbxkOexloc74_koPBcfuIcHXj2taolqWDe8nhE4Uo8maY_rioqDFiWgi9OWuQseJ5VLk4nf74YzkJ1nPf2sQlFyNBbHMktJ7Fe7XbJbJJa-Viv28SJ28jmrceB3dSGpVNIQbS8UYZ/s1600/ransomware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
+    "guid": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
+    "isoDate": "2026-01-22T18:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Maddy Varner",
     "title": "ICE Agents Are ‘Doxing’ Themselves",
     "link": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
@@ -326,22 +343,5 @@
     "guid": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
     "isoDate": "2026-01-21T06:04:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "ICE Details a New Minnesota-Based Detention Network That Spans 5 States",
-    "link": "https://www.wired.com/story/ice-detention-network-minnesota-5-states/",
-    "pubDate": "Tue, 20 Jan 2026 19:12:15 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of miles across the Upper Midwest.",
-    "contentSnippet": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of miles across the Upper Midwest.",
-    "guid": "696f86aad7ef6580ac2201e2",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-20T19:12:15.000Z"
   }
 ]
