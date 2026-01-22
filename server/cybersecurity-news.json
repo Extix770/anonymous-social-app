@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Filling the Most Common Gaps in Google Workspace Security",
+    "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
+    "pubDate": "Thu, 22 Jan 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppNAJYCOHh4mqdL3GuJ4elABk4wn-ciw9V6oYuZ8Sdb0LllyS_YRl6YXX-I_eaMDcVG8Zt9X42HbFVlmEb0umu4D4nelT-qOpG7ZtYSz0t-wbngKFalwdDHW4VHUlNXfMUswtSCx4WptHTAoKHJo94vWXVjSq4cGRP4FyN1P35n8dc8_dl-2yi3jFePU/s1600/main.png"
+    },
+    "content": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.\nSecuring the cloud office in this scenario is all about",
+    "contentSnippet": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.\nSecuring the cloud office in this scenario is all about",
+    "guid": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
+    "isoDate": "2026-01-22T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
     "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
     "pubDate": "Thu, 22 Jan 2026 15:34:00 +0530",
@@ -325,22 +342,5 @@
       "search engines"
     ],
     "isoDate": "2026-01-20T12:08:09.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Hidden Risk of Orphan Accounts",
-    "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
-    "pubDate": "Tue, 20 Jan 2026 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-z9xF6QsTXxdgaSXZJQKDVTmBJGusdJ30GBYqWZ4w29KDo3yRA3HGE8BsxyQoctkOWtsv-b90dH698y-H015umuI0oOCHaPApTLj3UMcaMV9aYIqA_Oel0ZHHOy4g9qufvVc4kmRKyafIvCBKCHPsnVdx4ppZssttmenN8gEw0emeoNyTzYuuZur5s_Y/s1600/Orphan.gif"
-    },
-    "content": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation.&nbsp;\nTraditional IAM and IGA systems are designed",
-    "contentSnippet": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation. \nTraditional IAM and IGA systems are designed",
-    "guid": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
-    "isoDate": "2026-01-20T11:58:00.000Z",
-    "itunes": {}
   }
 ]
