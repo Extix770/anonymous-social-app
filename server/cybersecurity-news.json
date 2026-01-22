@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+    "pubDate": "Thu, 22 Jan 2026 19:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxksXhijxqjYwcb5PYwnxnKJNyjVua9KXaVRMA_0sM5ZHkPM3mJ7S8PrniWhDhPQxjS1IL-okMbEHzBHFXApE0fGUY_dOSBYGbXoD6mDeg2YLOyjqZthPP_wYdmLOfIEsMSOAoMyJiBoAcyAPxXHUGgBl6epepPYmX40YCIW42pue9MuAQi3C_yrv5S_c4/s1600/threatsday.jpg"
+    },
+    "content": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
+    "contentSnippet": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
+    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+    "isoDate": "2026-01-22T14:23:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Why AI Keeps Falling for Prompt Injection Attacks",
     "link": "https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html",
@@ -325,23 +342,6 @@
     "contentSnippet": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
     "guid": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
     "isoDate": "2026-01-20T13:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
-    "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
-    "pubDate": "Tue, 20 Jan 2026 19:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfS_8l12ibwFemmowyvwW3TRy6H3Hk3BjSa-r1KzCfVMU2rB1wOoswclUs5hEuXN2TjQGz9y5eWSe7i8-crBQWCc4Nr8cDHOLDBU0e8T5r66eP_nWjkzIYwvp3hoKTZury1NQLnx6SOxM2OCwpC6Syr4zqHriStaxEksPoIbOJB4aPmAFHwhiucSErD-wM/s1600/linkedin.jpg"
-    },
-    "content": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
-    "contentSnippet": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
-    "guid": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
-    "isoDate": "2026-01-20T13:46:00.000Z",
     "itunes": {}
   }
 ]
