@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7413,
+    "stars": 7415,
     "forks": 847,
     "language": "HTML"
   },
@@ -50,7 +50,7 @@
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
     "stars": 765,
-    "forks": 128,
+    "forks": 129,
     "language": "JavaScript"
   },
   {
@@ -85,7 +85,7 @@
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
     "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
-    "stars": 515,
+    "stars": 516,
     "forks": 61,
     "language": "Python"
   },
