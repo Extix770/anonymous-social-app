@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8384,
+    "stars": 8385,
     "forks": 1144,
     "language": null
   },
@@ -49,8 +49,8 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 765,
-    "forks": 129,
+    "stars": 767,
+    "forks": 130,
     "language": "JavaScript"
   },
   {
