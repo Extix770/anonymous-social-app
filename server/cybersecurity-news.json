@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
+    "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+    "pubDate": "Thu, 22 Jan 2026 15:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWCefYaSp9ssGTQkdK58gL2QbQurY3rXLBGBTEC2hXq1qGh88LxThrqrtejW9sVCnoXsrwoAZQwlbdrwOl-O0fEz509vXrbK235fZ0tl9iPWgiKBJt49PqTRB6uu_ZDyeaMl6F6zqfVmJFw8PU4e8-0MgYh-qxJpn1xRcLN9NfnQQ_X47nJxdz3N47s3z8/s1600/pypi-cryptocurrency-malware.jpg"
+    },
+    "content": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.\nThe package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are",
+    "contentSnippet": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.\nThe package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are",
+    "guid": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+    "isoDate": "2026-01-22T10:04:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
+    "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
+    "pubDate": "Thu, 22 Jan 2026 15:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzCM1c0lJOZ7pXEcdXTXGEeNzq845Kr3uoQe6p2pY1l062KKPqAvTiQmrHDY-3IVIsFlQHtm1YYOWCAEPeuDJeY2N7qYX3C02Qh4dfd56mUj20ChkMEAGb_nl9vymqoCGmUriGCMHCZAT4fO0MzL4mi0vKxc9rSz4ythSpJOJlEBEXXNU35Ziz-M-Oa0k/s1600/SmarterTools-exploit.jpg"
+    },
+    "content": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
+    "contentSnippet": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
+    "guid": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
+    "isoDate": "2026-01-22T09:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
     "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
     "pubDate": "Thu, 22 Jan 2026 11:25:00 +0530",
@@ -307,40 +341,6 @@
     "contentSnippet": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation. \nTraditional IAM and IGA systems are designed",
     "guid": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
     "isoDate": "2026-01-20T11:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-    "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-    "pubDate": "Tue, 20 Jan 2026 17:18:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXd0cDqljLdjUTKJVODHzhlibAZe2-m53DWQpXWjKLY2pZyxDivUWJFky8KJbZ48kAKDTbwuh7FtNGmI9JKsaNivp5Xr-HrK803vlk0PsfbSYX2cxkTQoOBue2mRQ6ExYZpdLi3RQUvbuMjhndYKUAaFQxNTIm69cKuKFm5AgyAs6sUerbkWXs6RwTikXV/s1600/keys.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.\n\"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.\n\"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
-    "guid": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-    "isoDate": "2026-01-20T11:48:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-    "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-    "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg"
-    },
-    "content": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&nbsp;\n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
-    "contentSnippet": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
-    "guid": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-    "isoDate": "2026-01-20T11:12:00.000Z",
     "itunes": {}
   }
 ]
