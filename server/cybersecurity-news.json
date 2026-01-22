@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+    "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+    "pubDate": "Thu, 22 Jan 2026 09:36:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHOCMXq3WVtmcL9apl3XWrlOoAeRxJ2kZf_37YNtvg2oaO5wVX4zD-vOckg8TzcAeNUDKe0CpwaIvMz_9RQ0Lx-2sD5Jdz4rF7TxN74zZdq6lWOzfF3PdsYvmUy9CDqB9MxFV1leIxvXTuYYajixMcaQJLFGLGsLyfX7wdp9hkENDvdJqW6Y_hRlT6PnBk/s1600/cisco-patch.jpg"
+    },
+    "content": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.\nThe vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
+    "contentSnippet": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.\nThe vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
+    "guid": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+    "isoDate": "2026-01-22T04:06:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
     "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
@@ -163,8 +180,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgbhveMnZAVV1RKf0coJN00ixwRd8lYIUz58lpP4qC-LhuOGvgZ7IG87XxkhQaR6bnvCY_Sl5yQ2yQyAr_V9oVZ9eCHWpOszGUOLyKWkygMpSyxAs0H7Zlu56FhRnBNeLW34FA_-1G3pcpoj81hDxxHr1MBJl7MD0UBDau3Nl43IVX-r2RsWDBksVyflV/s1600/binary-parser.jpg"
     },
-    "content": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
-    "contentSnippet": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
+    "content": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
+    "contentSnippet": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
     "guid": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
     "isoDate": "2026-01-21T06:04:00.000Z",
     "itunes": {}
@@ -324,23 +341,6 @@
     "contentSnippet": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. \nApplying this at scale by scanning 5 million applications revealed over",
     "guid": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
     "isoDate": "2026-01-20T10:45:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-    "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-    "pubDate": "Tue, 20 Jan 2026 13:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s1600/botcoin.jpg"
-    },
-    "content": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
-    "contentSnippet": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
-    "guid": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-    "isoDate": "2026-01-20T07:40:00.000Z",
     "itunes": {}
   }
 ]
