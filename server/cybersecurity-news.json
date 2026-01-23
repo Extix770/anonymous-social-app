@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
+    "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
+    "pubDate": "Fri, 23 Jan 2026 13:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbSlIXcDChwJf0Cmq4j01QoZOUqnaRGaciqD9J0XKMk-2_Fnzge5_qv44fs_4xzO3OORbk0kiYFOHlocsuJBdVDxC86k-GMG-21LAJ-62F15I6XyUVobMKwVVh6h8PxP6rsJSPaSFUh50yCflaAxLI-UpGwbCLAaCtKqoti67rT6jChpeTei6TUjjYCE4/s1600/1000049930.png"
+    },
+    "content": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
+    "contentSnippet": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
+    "guid": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
+    "isoDate": "2026-01-23T08:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
     "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
     "pubDate": "Thu, 22 Jan 2026 23:30:00 +0530",
@@ -325,23 +342,6 @@
     "contentSnippet": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
     "guid": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
     "isoDate": "2026-01-21T06:40:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
-    "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
-    "pubDate": "Wed, 21 Jan 2026 11:34:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgbhveMnZAVV1RKf0coJN00ixwRd8lYIUz58lpP4qC-LhuOGvgZ7IG87XxkhQaR6bnvCY_Sl5yQ2yQyAr_V9oVZ9eCHWpOszGUOLyKWkygMpSyxAs0H7Zlu56FhRnBNeLW34FA_-1G3pcpoj81hDxxHr1MBJl7MD0UBDau3Nl43IVX-r2RsWDBksVyflV/s1600/binary-parser.jpg"
-    },
-    "content": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
-    "contentSnippet": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
-    "guid": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
-    "isoDate": "2026-01-21T06:04:00.000Z",
     "itunes": {}
   }
 ]
