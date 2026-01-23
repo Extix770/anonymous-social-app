@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "149 Million Usernames and Passwords Exposed by Unsecured Database",
+    "link": "https://www.wired.com/story/149-million-stolen-usernames-passwords/",
+    "pubDate": "Fri, 23 Jan 2026 11:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "This “dream wish list for criminals” includes millions of Gmail, Facebook, banking logins, and more. The researcher who discovered it suspects they were collected using infostealing malware.",
+    "contentSnippet": "This “dream wish list for criminals” includes millions of Gmail, Facebook, banking logins, and more. The researcher who discovered it suspects they were collected using infostealing malware.",
+    "guid": "69725d75ba821e8a818a8aa1",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-23T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
     "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
@@ -325,23 +342,6 @@
     "contentSnippet": "The recently discovered sophisticated Linux malware framework known as VoidLink is assessed to have been developed by a single person with assistance from an artificial intelligence (AI) model.\nThat's according to new findings from Check Point Research, which identified operational security blunders by malware's author that provided clues to its developmental origins. The latest insight makes",
     "guid": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html",
     "isoDate": "2026-01-21T08:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
-    "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
-    "pubDate": "Wed, 21 Jan 2026 12:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgARX8var88XnuiwAzTQxw-Iu0AEnvMqDZoQMH_UxnEUzuJ6yqPLLbij2G1PFEMHWToqT8hjNEvYxr-S4WCy5psHYCQw76jRiwGaFavY2Qe1jUvT7t-uUXn7CLWRXteMBhsunO2MbYEt8doaPcgHq2srmzSxXGzdW-pNgF0Fli_3kXrhcWAmln5JU2sptOf/s1600/lastpass.jpg"
-    },
-    "content": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
-    "contentSnippet": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
-    "guid": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
-    "isoDate": "2026-01-21T06:40:00.000Z",
     "itunes": {}
   }
 ]
