@@ -103,7 +103,7 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 265,
+    "stars": 266,
     "forks": 73,
     "language": "PHP"
   },
@@ -801,15 +801,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -817,6 +808,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "ncl-tools",
