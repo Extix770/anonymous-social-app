@@ -1,5 +1,56 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
+    "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+    "pubDate": "Sat, 24 Jan 2026 13:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnjp5lsaWHKXcLJl4fjk6nW0R-oXfuin3AicaKqzCuMbG95h-qptbJ2_ZnnR6L2eMfHJLpu3K6fhX2ZThB3P6nThiinK6BBb7TPjGNe5-cBpS_oVOeHaZfjSZxRuFsqQzuTfAXRV68uVyw-7KW_f2gFiL0XZBkGpYO0H-IxVDZd3EKtGiyuEpZZ_3FdPSb/s1600/powerplant.jpg"
+    },
+    "content": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\nThe attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week.\n\"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
+    "contentSnippet": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\nThe attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week.\n\"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
+    "guid": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+    "isoDate": "2026-01-24T08:21:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+    "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+    "pubDate": "Sat, 24 Jan 2026 13:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW0YdKx3Mn8l9PzpwwxmdeBP5kgWuc5R4LevYs6tP-J1z5nSZcdE16En4Z9Ad89VIFR_f3qxeM-vMtgvfOTPxyoZV8H5Dcaj4WlXB2tmh9NG6vGLY7jfD7CyToCKJ_BHVMkkR2kcJdo6yZhIS-RiV3yVyBUHZcVrodWp4wDHdT1phfyZFDifLQnaqiXBc/s1600/wing.jpg"
+    },
+    "content": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n&ldquo;Wait&hellip; who approved this?&rdquo;\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,",
+    "contentSnippet": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n“Wait… who approved this?”\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,",
+    "guid": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+    "isoDate": "2026-01-24T08:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+    "pubDate": "Sat, 24 Jan 2026 13:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS4r1YmdF-kqL3YwcAZAYsspwp0KB3XNknsYwmjR5YrXgNy956NSjgc3-RacAnCgT56dkPCBNRZfrbw18N2JfGMkd2ZFTRIqVxdjsNe2P5akQ56kpc5nplK8KPy-9TLEDycjb2QZrBqhEL-4jEL9upEN0CAvvkJYyEdNqCPicbPScEfmTIyPleWeUCP35/s1600/vmware.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
+    "guid": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+    "isoDate": "2026-01-24T08:09:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron, Matt Giles",
     "title": "US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo",
     "link": "https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/",
@@ -296,57 +347,6 @@
     "contentSnippet": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.\nThe package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are",
     "guid": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
     "isoDate": "2026-01-22T10:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-    "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-    "pubDate": "Thu, 22 Jan 2026 15:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzCM1c0lJOZ7pXEcdXTXGEeNzq845Kr3uoQe6p2pY1l062KKPqAvTiQmrHDY-3IVIsFlQHtm1YYOWCAEPeuDJeY2N7qYX3C02Qh4dfd56mUj20ChkMEAGb_nl9vymqoCGmUriGCMHCZAT4fO0MzL4mi0vKxc9rSz4ythSpJOJlEBEXXNU35Ziz-M-Oa0k/s1600/SmarterTools-exploit.jpg"
-    },
-    "content": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
-    "contentSnippet": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
-    "guid": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-    "isoDate": "2026-01-22T09:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-    "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-    "pubDate": "Thu, 22 Jan 2026 11:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6O_1FUjFHFlfeetaainBwBLAivJlaoFZZYZ-M9gJCGGmmNW1QE_mHtFOlYhtYbuM5fXV8-ySVyNrPVocMA2GBV_1TQdqLS3yZkU5ThvGuQ6AfuN20gtMsBa-7C3_A8oOjPPyP2SP_W8bX6zCcGgPpu9MQuX490PT2d2OMZYgL1Ra30gHM8ZmfAdM9MfTf/s1600/fortinet.jpg"
-    },
-    "content": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
-    "contentSnippet": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
-    "guid": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-    "isoDate": "2026-01-22T05:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
-    "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
-    "pubDate": "Thu, 22 Jan 2026 09:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHOCMXq3WVtmcL9apl3XWrlOoAeRxJ2kZf_37YNtvg2oaO5wVX4zD-vOckg8TzcAeNUDKe0CpwaIvMz_9RQ0Lx-2sD5Jdz4rF7TxN74zZdq6lWOzfF3PdsYvmUy9CDqB9MxFV1leIxvXTuYYajixMcaQJLFGLGsLyfX7wdp9hkENDvdJqW6Y_hRlT6PnBk/s1600/cisco-patch.jpg"
-    },
-    "content": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.\nThe vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
-    "contentSnippet": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.\nThe vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
-    "guid": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
-    "isoDate": "2026-01-22T04:06:00.000Z",
     "itunes": {}
   }
 ]
