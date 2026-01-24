@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7427,
+    "stars": 7428,
     "forks": 847,
     "language": "HTML"
   },
@@ -40,8 +40,8 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1318,
-    "forks": 146,
+    "stars": 1319,
+    "forks": 147,
     "language": null
   },
   {
@@ -301,7 +301,7 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 24,
+    "stars": 25,
     "forks": 6,
     "language": "Python"
   },
@@ -576,15 +576,6 @@
     "language": null
   },
   {
-    "name": "security-tools-hacking",
-    "owner": "Largo-m",
-    "url": "https://github.com/Largo-m/security-tools-hacking",
-    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
@@ -592,6 +583,15 @@
     "stars": 8,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "security-tools-hacking",
+    "owner": "Largo-m",
+    "url": "https://github.com/Largo-m/security-tools-hacking",
+    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
+    "stars": 8,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "GovTools",
@@ -729,6 +729,15 @@
     "language": "Python"
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -742,15 +751,6 @@
     "owner": "nafis548",
     "url": "https://github.com/nafis548/EthicalHackingTools",
     "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -828,15 +828,6 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BEC-Detection-Toolkit",
@@ -864,15 +864,6 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",
