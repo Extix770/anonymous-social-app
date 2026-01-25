@@ -1,5 +1,22 @@
 [
   {
+    "creator": "David Gilbert",
+    "title": "The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti",
+    "link": "https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/",
+    "pubDate": "Sun, 25 Jan 2026 00:37:56 +0000",
+    "dc:creator": "David Gilbert",
+    "content": "Within minutes of the shooting, the Trump administration and right-wing influencers began disparaged the man shot by a federal immigration officer on Saturday in Minneapolis.",
+    "contentSnippet": "Within minutes of the shooting, the Trump administration and right-wing influencers began disparaged the man shot by a federal immigration officer on Saturday in Minneapolis.",
+    "guid": "6975209452e7ddd9341e5367",
+    "categories": [
+      "Politics",
+      "Politics / Disinformation",
+      "Politics / Politics News",
+      "Security / National Security"
+    ],
+    "isoDate": "2026-01-25T00:37:56.000Z"
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations",
     "link": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
@@ -326,23 +343,6 @@
     "contentSnippet": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
     "guid": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
     "isoDate": "2026-01-22T16:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-    "pubDate": "Thu, 22 Jan 2026 19:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxksXhijxqjYwcb5PYwnxnKJNyjVua9KXaVRMA_0sM5ZHkPM3mJ7S8PrniWhDhPQxjS1IL-okMbEHzBHFXApE0fGUY_dOSBYGbXoD6mDeg2YLOyjqZthPP_wYdmLOfIEsMSOAoMyJiBoAcyAPxXHUGgBl6epepPYmX40YCIW42pue9MuAQi3C_yrv5S_c4/s1600/threatsday.jpg"
-    },
-    "content": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
-    "contentSnippet": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
-    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-    "isoDate": "2026-01-22T14:23:00.000Z",
     "itunes": {}
   }
 ]
