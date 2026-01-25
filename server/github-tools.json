@@ -49,7 +49,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 785,
+    "stars": 786,
     "forks": 136,
     "language": "JavaScript"
   },
@@ -738,19 +738,19 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
