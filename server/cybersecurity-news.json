@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "Judge Delays Minnesota ICE Decision While Weighing Whether State Was Being Illegally Punished",
+    "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
+    "pubDate": "Mon, 26 Jan 2026 22:39:30 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
+    "contentSnippet": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
+    "guid": "6976ccb62068647501f27f8a",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-26T22:39:30.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
     "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
@@ -353,23 +369,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a",
     "guid": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
     "isoDate": "2026-01-23T15:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
-    "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
-    "pubDate": "Fri, 23 Jan 2026 18:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
-    },
-    "content": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls.\n\"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new",
-    "contentSnippet": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls.\n\"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new",
-    "guid": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
-    "isoDate": "2026-01-23T12:30:00.000Z",
     "itunes": {}
   }
 ]
