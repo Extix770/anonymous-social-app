@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
+    "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+    "pubDate": "Mon, 26 Jan 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTncIdUsnHK3Kps8gH8NtlxG7T5vp-JlCp6eWy56PFPvRgzGtsuG6PHp41yrm8pYLApQwGsTiFLBztGal_MQyIt_jKb0_GZFx3RlY6cg1AGzVMWlChqjOUVpL_woevpV3EHFOLHxuwsfbDfkpp__4SEO4Sj17-r6XOjiInQTrs3Y08LO3kVoC3zt2Zig/s1600/edr-ndr.jpg"
+    },
+    "content": "If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade",
+    "contentSnippet": "If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade",
+    "guid": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+    "isoDate": "2026-01-26T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
     "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
     "pubDate": "Mon, 26 Jan 2026 14:24:00 +0530",
@@ -327,22 +344,5 @@
     "guid": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
     "isoDate": "2026-01-22T18:00:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "ICE Agents Are ‘Doxing’ Themselves",
-    "link": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
-    "pubDate": "Thu, 22 Jan 2026 17:42:57 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "The alleged risks of being publicly identified have not stopped DHS  and ICE employees from creating profiles on LinkedIn, even as Kristi Noem threatens to treat revealing agents’ identities as a crime.",
-    "contentSnippet": "The alleged risks of being publicly identified have not stopped DHS  and ICE employees from creating profiles on LinkedIn, even as Kristi Noem threatens to treat revealing agents’ identities as a crime.",
-    "guid": "696f977f81397433db57a96c",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-22T17:42:57.000Z"
   }
 ]
