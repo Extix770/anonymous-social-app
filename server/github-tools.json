@@ -576,15 +576,6 @@
     "language": null
   },
   {
-    "name": "security-tools-hacking",
-    "owner": "Largo-m",
-    "url": "https://github.com/Largo-m/security-tools-hacking",
-    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
@@ -592,6 +583,15 @@
     "stars": 8,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "security-tools-hacking",
+    "owner": "Largo-m",
+    "url": "https://github.com/Largo-m/security-tools-hacking",
+    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
+    "stars": 8,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "GovTools",
@@ -711,15 +711,6 @@
     "language": "Python"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -727,6 +718,15 @@
     "stars": 6,
     "forks": 1,
     "language": "TypeScript"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "red_team_toolkit",
@@ -801,6 +801,15 @@
     "language": "Python"
   },
   {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
+  },
+  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -817,24 +826,6 @@
     "stars": 5,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
   },
   {
     "name": "cloud-security-tools",
@@ -855,6 +846,15 @@
     "language": "PowerShell"
   },
   {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
+  },
+  {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
     "owner": "briskinfosec",
     "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
@@ -864,15 +864,6 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
-  },
-  {
     "name": "python_cybersec_tools",
     "owner": "SirBlob",
     "url": "https://github.com/SirBlob/python_cybersec_tools",
@@ -880,6 +871,15 @@
     "stars": 4,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 4,
+    "forks": 2,
+    "language": "HTML"
   },
   {
     "name": "Tooli",

@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
+    "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
+    "pubDate": "Mon, 26 Jan 2026 14:24:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjxGlZLamF04EJ6k6LroD__iJijKDR-um0kxbhfPls3rVFqj3SNIZweWeNb_S0WqzDo5EwSfg6iTiVddPJJg48dQKaUkw2RYxMeYVC-NcfGDxMbGHR79_V6nSAawHyjJgDrTlEtRFheK3q6sDqJIgZwvGDYtaKf-KintMeOaelZyqgjl_0-qNSNO4gS6W/s1600/hackers-ps.jpg"
+    },
+    "content": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector.\nThe phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
+    "contentSnippet": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector.\nThe phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
+    "guid": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
+    "isoDate": "2026-01-26T08:54:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "David Gilbert",
     "title": "The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti",
     "link": "https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/",
@@ -327,22 +344,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-22T17:42:57.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-    "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-    "pubDate": "Thu, 22 Jan 2026 22:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswkkor42PbpMA2JvEug_zR_BOp1L3DrLlZ8GqcxlJchqNGqZZT7ndgNE51CVPI5YEhi1js3MsyDOYVmA19EKWA330OszynMa9IJpHJzDXtZ3iET5VPrCkCZHOZ2jhnV114UijsA4b2tgGiT8XBD7eRpZ9Su9UAYy-ay9qsmrysuw-v3KOIJkkhCXjStP7/s1600/linux-unix.jpg"
-    },
-    "content": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
-    "contentSnippet": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
-    "guid": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-    "isoDate": "2026-01-22T16:30:00.000Z",
-    "itunes": {}
   }
 ]
