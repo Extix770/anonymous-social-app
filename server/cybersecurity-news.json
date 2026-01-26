@@ -1,5 +1,44 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Ireland Proposes Giving Police New Digital Surveillance Powers",
+    "link": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html",
+    "pubDate": "Mon, 26 Jan 2026 12:04:57 +0000",
+    "content:encoded": "<p>This is <a href=\"https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/\">coming</a>:</p>\n<blockquote><p>The Irish government is planning to bolster its police&#8217;s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.</p></blockquote>\n",
+    "content:encodedSnippet": "This is coming:\nThe Irish government is planning to bolster its police’s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html#respond",
+    "content": "<p>This is <a href=\"https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/\">coming</a>:</p>\n<blockquote><p>The Irish government is planning to bolster its police&#8217;s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.</p></blockquote>\n",
+    "contentSnippet": "This is coming:\nThe Irish government is planning to bolster its police’s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.",
+    "guid": "https://www.schneier.com/?p=71527",
+    "categories": [
+      "Uncategorized",
+      "Ireland",
+      "police",
+      "privacy",
+      "spyware",
+      "surveillance"
+    ],
+    "isoDate": "2026-01-26T12:04:57.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+    "pubDate": "Mon, 26 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcilIguxvzDODT4rcvO6MxiCqaxrO-__efMroo0PnuIHh189dVEamSzAvGqVGDycJAHQj_Mq1wlskwsKomv4UIwShUlyl6wlOuyXxWp4sqeNWK-xn3cwrTpXYTD-cZSBW6cRV5WGjKv_K534pbFIBJA5cjvqm3cYh5JE5ZpFwiYGsautuvOmcbOnowEbP4/s1600/jan-recap.jpg"
+    },
+    "content": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals.",
+    "contentSnippet": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals.",
+    "guid": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+    "isoDate": "2026-01-26T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
     "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
@@ -310,39 +349,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-23T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
-    "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
-    "pubDate": "Fri, 23 Jan 2026 13:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbSlIXcDChwJf0Cmq4j01QoZOUqnaRGaciqD9J0XKMk-2_Fnzge5_qv44fs_4xzO3OORbk0kiYFOHlocsuJBdVDxC86k-GMG-21LAJ-62F15I6XyUVobMKwVVh6h8PxP6rsJSPaSFUh50yCflaAxLI-UpGwbCLAaCtKqoti67rT6jChpeTei6TUjjYCE4/s1600/1000049930.png"
-    },
-    "content": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
-    "contentSnippet": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
-    "guid": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
-    "isoDate": "2026-01-23T08:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-    "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-    "pubDate": "Thu, 22 Jan 2026 23:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYzbCMSUAN1p1M0CnYPBeFVA3mYmKz-XYLo2R-0OUmaSxvarUieSUkbxkOexloc74_koPBcfuIcHXj2taolqWDe8nhE4Uo8maY_rioqDFiWgi9OWuQseJ5VLk4nf74YzkJ1nPf2sQlFyNBbHMktJ7Fe7XbJbJJa-Viv28SJ28jmrceB3dSGpVNIQbS8UYZ/s1600/ransomware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
-    "guid": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-    "isoDate": "2026-01-22T18:00:00.000Z",
-    "itunes": {}
   }
 ]
