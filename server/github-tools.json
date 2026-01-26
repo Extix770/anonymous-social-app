@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7434,
+    "stars": 7435,
     "forks": 847,
     "language": "HTML"
   },
@@ -103,7 +103,7 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 266,
+    "stars": 267,
     "forks": 73,
     "language": "PHP"
   },
