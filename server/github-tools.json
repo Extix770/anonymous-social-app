@@ -351,15 +351,6 @@
     "language": "Shell"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 18,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -367,6 +358,15 @@
     "stars": 18,
     "forks": 3,
     "language": "Batchfile"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 18,
+    "forks": 3,
+    "language": null
   },
   {
     "name": "securitylabs-thrunting-tools",
@@ -585,15 +585,6 @@
     "language": null
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 8,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "Largo-m",
     "url": "https://github.com/Largo-m/security-tools-hacking",
@@ -601,6 +592,15 @@
     "stars": 8,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "stars": 8,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "GovTools",
@@ -666,15 +666,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -682,6 +673,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -738,15 +738,6 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -760,6 +751,15 @@
     "owner": "nafis548",
     "url": "https://github.com/nafis548/EthicalHackingTools",
     "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -810,15 +810,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "ncl-tools",
@@ -846,15 +846,6 @@
     "language": null
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -862,6 +853,15 @@
     "stars": 5,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 5,
+    "forks": 0,
+    "language": "PowerShell"
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
