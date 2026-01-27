@@ -351,15 +351,6 @@
     "language": "Shell"
   },
   {
-    "name": "DFIR-Toolkit",
-    "owner": "fsfang",
-    "url": "https://github.com/fsfang/DFIR-Toolkit",
-    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
-    "stars": 18,
-    "forks": 3,
-    "language": "Batchfile"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "paulveillard",
     "url": "https://github.com/paulveillard/cybersecurity-tools",
@@ -367,6 +358,15 @@
     "stars": 18,
     "forks": 3,
     "language": null
+  },
+  {
+    "name": "DFIR-Toolkit",
+    "owner": "fsfang",
+    "url": "https://github.com/fsfang/DFIR-Toolkit",
+    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
+    "stars": 18,
+    "forks": 3,
+    "language": "Batchfile"
   },
   {
     "name": "securitylabs-thrunting-tools",
@@ -666,15 +666,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -682,6 +673,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -738,6 +738,15 @@
     "language": "Python"
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -756,28 +765,19 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
     "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
     "forks": 1,
     "language": null
@@ -810,15 +810,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "ncl-tools",
@@ -846,15 +846,6 @@
     "language": null
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -862,6 +853,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
