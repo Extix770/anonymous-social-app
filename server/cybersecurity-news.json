@@ -1,5 +1,42 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "The Constitutionality of Geofence Warrants",
+    "link": "https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html",
+    "pubDate": "Tue, 27 Jan 2026 12:01:47 +0000",
+    "content:encoded": "<p>The US Supreme Court is <a href=\"https://therecord.media/supreme-court-geofence-constitutionality\">considering</a> the constitutionality of geofence warrants.</p>\n<blockquote><p>The case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.</p>\n<p>Police probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie&#8217;s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes.</p>\n<p>Chatrie&#8217;s appeal challenges the constitutionality of geofence warrants, arguing that they violate individuals&#8217; Fourth Amendment rights protecting against unreasonable searches.</p></blockquote>\n",
+    "content:encodedSnippet": "The US Supreme Court is considering the constitutionality of geofence warrants.\nThe case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.\nPolice probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie’s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes.\nChatrie’s appeal challenges the constitutionality of geofence warrants, arguing that they violate individuals’ Fourth Amendment rights protecting against unreasonable searches.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html#respond",
+    "content": "<p>The US Supreme Court is <a href=\"https://therecord.media/supreme-court-geofence-constitutionality\">considering</a> the constitutionality of geofence warrants.</p>\n<blockquote><p>The case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.</p>\n<p>Police probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie&#8217;s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes...</p></blockquote>",
+    "contentSnippet": "The US Supreme Court is considering the constitutionality of geofence warrants.\nThe case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.\nPolice probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie’s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes...",
+    "guid": "https://www.schneier.com/?p=71530",
+    "categories": [
+      "Uncategorized",
+      "courts",
+      "national security policy",
+      "searches"
+    ],
+    "isoDate": "2026-01-27T12:01:47.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+    "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+    "pubDate": "Tue, 27 Jan 2026 17:20:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEyUd1th0A_7Xrd7TRNZgue6HQe_wsQebBCFx7I9UVXc5U-OUOjCujgMmp8kl7_rA3imZvOVLcm4DL61rJemNLfmJoelFuUT2sjMSjUq2hupwoc7yzOVvIMDMdRAs6skQA39eCNXEoQ6Csz0duZlvqf8Oau0WblLZXzfDbojCCWU7XKzWIgXcqRkJ9iU/s1600/ctem.jpg"
+    },
+    "content": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.\nWhich exposures truly matter? Can attackers exploit them? Are our defenses effective?\nContinuous Threat Exposure",
+    "contentSnippet": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.\nWhich exposures truly matter? Can attackers exploit them? Are our defenses effective?\nContinuous Threat Exposure",
+    "guid": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+    "isoDate": "2026-01-27T11:50:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
     "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
@@ -304,40 +341,6 @@
     "contentSnippet": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\nThe attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week.\n\"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
     "guid": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
     "isoDate": "2026-01-24T08:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
-    "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-    "pubDate": "Sat, 24 Jan 2026 13:50:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW0YdKx3Mn8l9PzpwwxmdeBP5kgWuc5R4LevYs6tP-J1z5nSZcdE16En4Z9Ad89VIFR_f3qxeM-vMtgvfOTPxyoZV8H5Dcaj4WlXB2tmh9NG6vGLY7jfD7CyToCKJ_BHVMkkR2kcJdo6yZhIS-RiV3yVyBUHZcVrodWp4wDHdT1phfyZFDifLQnaqiXBc/s1600/wing.jpg"
-    },
-    "content": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n&ldquo;Wait&hellip; who approved this?&rdquo;\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,",
-    "contentSnippet": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n“Wait… who approved this?”\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,",
-    "guid": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-    "isoDate": "2026-01-24T08:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-    "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-    "pubDate": "Sat, 24 Jan 2026 13:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS4r1YmdF-kqL3YwcAZAYsspwp0KB3XNknsYwmjR5YrXgNy956NSjgc3-RacAnCgT56dkPCBNRZfrbw18N2JfGMkd2ZFTRIqVxdjsNe2P5akQ56kpc5nplK8KPy-9TLEDycjb2QZrBqhEL-4jEL9upEN0CAvvkJYyEdNqCPicbPScEfmTIyPleWeUCP35/s1600/vmware.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
-    "guid": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-    "isoDate": "2026-01-24T08:09:00.000Z",
     "itunes": {}
   }
 ]
