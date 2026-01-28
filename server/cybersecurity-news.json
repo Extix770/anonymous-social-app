@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+    "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
+    "pubDate": "Wed, 28 Jan 2026 21:36:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpzZ7e4dYy-hpTfbR7szq9J8RcMD40YfqgkKsvCTqBy-LIR2HtA3D4gY0i_-yiitA72t97lJlC4cW3klbAsJB6BBxxfOXDjhf68Z9RNF2GDYwWxPkdzSYTIcgQZzXg_0hCSqYOPI4nI8Wq3NHj5DrgwQ0RpdEZGJ1hMteDuOBNDxn-sXuzj57K9K-QKhz0/s1600/powergrid.jpg"
+    },
+    "content": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
+    "contentSnippet": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
+    "guid": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
+    "isoDate": "2026-01-28T16:06:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
     "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
     "pubDate": "Wed, 28 Jan 2026 19:31:00 +0530",
@@ -320,21 +337,5 @@
     "guid": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
     "isoDate": "2026-01-27T09:01:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished",
-    "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
-    "pubDate": "Mon, 26 Jan 2026 22:39:30 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
-    "contentSnippet": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
-    "guid": "6976ccb62068647501f27f8a",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-26T22:39:30.000Z"
   }
 ]

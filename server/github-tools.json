@@ -5,7 +5,7 @@
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "stars": 8423,
-    "forks": 1145,
+    "forks": 1143,
     "language": null
   },
   {
@@ -351,15 +351,6 @@
     "language": "Shell"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "paulveillard",
-    "url": "https://github.com/paulveillard/cybersecurity-tools",
-    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
-    "stars": 18,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -367,6 +358,15 @@
     "stars": 18,
     "forks": 3,
     "language": "Batchfile"
+  },
+  {
+    "name": "cybersecurity-tools",
+    "owner": "paulveillard",
+    "url": "https://github.com/paulveillard/cybersecurity-tools",
+    "description": "A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.",
+    "stars": 18,
+    "forks": 3,
+    "language": null
   },
   {
     "name": "securitylabs-thrunting-tools",
