@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Caroline Haskins, Makena Kelly",
+    "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
+    "link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+    "pubDate": "Wed, 28 Jan 2026 21:40:18 +0000",
+    "dc:creator": "Caroline Haskins, Makena Kelly",
+    "content": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
+    "contentSnippet": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
+    "guid": "697a474382e93380fc4f4913",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-01-28T21:40:18.000Z"
+  },
+  {
     "creator": "Maddy Varner, Dell Cameron",
     "title": "Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App",
     "link": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
@@ -321,22 +339,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2026-01-27T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-    "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-    "pubDate": "Tue, 27 Jan 2026 16:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXdXkw2KW16Axf6p0n3iVGhXFH-cAv1j6egQSfKBoQ5IqWBuv3hFohISz_2vPIzQ9O4pxN6KpALsOXhkxBo5mGAtLabL5RsJpTvgCaWiZAsYo6SWB27isS1kvxmXQD2aUjU0-3AKk3FbKFTrzy79Urt7G3KhvYthGAujQodNbksuNmxMti97Os0ZcM9iJ/s1600/OFFICE.jpg"
-    },
-    "content": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.\n\"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
-    "contentSnippet": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.\n\"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
-    "guid": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-    "isoDate": "2026-01-27T10:37:00.000Z",
-    "itunes": {}
   }
 ]
