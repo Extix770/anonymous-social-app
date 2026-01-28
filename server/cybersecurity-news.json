@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Maddy Varner, Dell Cameron",
+    "title": "Here's the Company That Sold DHS ICE's Notorious Face Recognition App",
+    "link": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
+    "pubDate": "Wed, 28 Jan 2026 20:17:15 +0000",
+    "dc:creator": "Maddy Varner, Dell Cameron",
+    "content": "Immigration agents have used Mobile Fortify to scan the faces of countless people in the US—including many citizens.",
+    "contentSnippet": "Immigration agents have used Mobile Fortify to scan the faces of countless people in the US—including many citizens.",
+    "guid": "697a4a933b7691dd83eb451d",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-01-28T20:17:15.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
     "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
@@ -319,23 +337,6 @@
     "contentSnippet": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.\n\"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
     "guid": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
     "isoDate": "2026-01-27T10:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-    "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-    "pubDate": "Tue, 27 Jan 2026 16:06:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvRey8657FAMdnIBTkgIYsOw5_q9LqFajseJ0AJPHyOUuNvZzxliNLuREO1z8j0AorIgW91Jqg6wLwb5QvqZvz2er7S-RL2zFXeBK2EpMm6pf_6JY8kcVmDAXjzwbbOtykq_j2It-oRb_Qkojl4Zh4WSVcwDNBsrU_N6pxycV0RYBT5ftvED7onxcA_qkL/s1600/grist-main.jpg"
-    },
-    "content": "A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs.\n\"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
-    "contentSnippet": "A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs.\n\"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
-    "guid": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-    "isoDate": "2026-01-27T10:36:00.000Z",
     "itunes": {}
   }
 ]
