@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+    "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+    "pubDate": "Wed, 28 Jan 2026 19:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Rl9Xy1aEtQBIw6aqscoEj4444e7H2BJLRbPSyqbi2DMtc22vTReAQM6ye0KR8pr1iBs4YA3KIdgfAvfBuIGBMrd7JYL5P9NNnNt6vgeD_B5GStVh1Bq5DzgnRsViE-z_dmkuGuhWTchwmk3ULxzq7_vVoUnKnwFaQtqVyCDf-oHiqBeiViqAlqdsGsi/s1600/vm2.jpg"
+    },
+    "content": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
+    "contentSnippet": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
+    "guid": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+    "isoDate": "2026-01-28T14:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
     "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
     "pubDate": "Wed, 28 Jan 2026 18:13:00 +0530",
@@ -319,22 +336,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-26T22:39:30.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
-    "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-    "pubDate": "Mon, 26 Jan 2026 22:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLevjTVc4Wtdleam1414FTgJVVKT9y6jsB2W08-6gbA8HuiacVQ-4WJPpaZoMSxTO2itbkV627HlV5O-9dmliOKbW_xQfrkkhe_BpV_yawvBOWxP0flMx0D7SsnhvKgpLEZDQfJfLl8UUj_OqDiVBwmMfXVETSHRKtaKD2L1PQaOqQkrchj14hbCpIHWs/s1600/itd.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.\nThe activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
-    "contentSnippet": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.\nThe activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
-    "guid": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-    "isoDate": "2026-01-26T17:01:00.000Z",
-    "itunes": {}
   }
 ]
