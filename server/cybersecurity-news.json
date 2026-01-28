@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+    "pubDate": "Wed, 28 Jan 2026 18:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW94x6FIasfUAUj1l0mDp4cnVeR5PmfPV85I4_GuIlUqCVlMX0bthAcsA9oHJJz8d3gXUo74yw4d2kG3FnDnFe0zz_CzVY6Hyy8biL_gMKKaErWM3p15lAdh5xQnBBb6RhHSgKmpM3RLx1wccjhlKJc6I6lrO8M7SFIs3ezfEXuieA11PIJ1D7Z4nSaLb2/s1600/n8n.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered by the JFrog Security Research team, are listed below -\n\nCVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
+    "contentSnippet": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered by the JFrog Security Research team, are listed below -\n\nCVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
+    "guid": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+    "isoDate": "2026-01-28T12:43:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Jacob Roach",
     "title": "6 Best VPN Services (2026), Tested and Reviewed",
     "link": "https://www.wired.com/gallery/best-vpn/",
@@ -15,6 +32,40 @@
       "Security / Privacy"
     ],
     "isoDate": "2026-01-28T12:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+    "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+    "pubDate": "Wed, 28 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghs8WHLFXdoOPjX8iPhC7ecFE52CMqypJ6IQ7vZIqEiCi7wpEiHdOI2XsSGqbTOVZiINMjvx-xQPV0t-KpwKnF-dHNYGG5yrNh-P_WLPbM2_fgRap6jTr9NOnfXuvgxZs9Xpd-JME7ArxhPMBrkOzHidNo7XjngGI-EtPDZ1eUIxb8-REtmvKWbZ2QhqY/s1600/prophet.jpg"
+    },
+    "content": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts.\nThat future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
+    "contentSnippet": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts.\nThat future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
+    "guid": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+    "isoDate": "2026-01-28T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+    "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+    "pubDate": "Wed, 28 Jan 2026 17:10:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbfyqOKlboKyz0aepCrCjmgfx7hVJKbZ5zcv_iQC6sUvz4vyarawc69b_BxxUdQYhl62-gOoWmlEDQywKqX4zRtKo7X_G_eZTCignSldlMeGxb6ZxhYRJTFn2L0f_FcdJS2FrlLq32HpdE1N_XqD639QIYNC9xGZymr8PNBLW_mU7uB6Oa4f759T_4t-0E/s1600/cyber.jpg"
+    },
+    "content": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
+    "contentSnippet": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
+    "guid": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+    "isoDate": "2026-01-28T11:40:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -61,8 +112,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmO6wqQYQf9Jzy85AeKQArxw_sFT_Qyd30NJ2Fxfs6FN6MgxQDuyTmUnlyThYj_4a4BN0bsejx2owRMl6_rLwiCpgh_WGWVH80OezW3ToFf2Aedn9a-023kI71i4NwG7HQ5tZ2So97M4N4jkTXKqRnlty7V10DsQeQ6UIPC7jIRrCNzSd6p1KfKKx_9m_/s1600/python.jpg"
     },
-    "content": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the",
-    "contentSnippet": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the",
+    "content": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
+    "contentSnippet": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
     "guid": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
     "isoDate": "2026-01-28T09:30:00.000Z",
     "itunes": {}
@@ -284,62 +335,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.\nThe activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
     "guid": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
     "isoDate": "2026-01-26T17:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
-    "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
-    "pubDate": "Mon, 26 Jan 2026 21:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg49NKLNdavByN_ZLXIkm8VafhlYDmDWXS4I1YT6O2_xyZmEjr6jrSZekKsG_okVhIyWfOrpoYKeafU7Rcr0bcyAv26yFlLaPSVUxcHRAxCh3s-buWWhYNucoT4PAi8SAXbqFaB4hTCKo34VYBLEw58w6KwxmClWkaJbRwOIkyAW-PEGKQWRfb3gYzsSsw8/s1600/vscode.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers.\nThe extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio",
-    "contentSnippet": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers.\nThe extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio",
-    "guid": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
-    "isoDate": "2026-01-26T15:43:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Ireland Proposes Giving Police New Digital Surveillance Powers",
-    "link": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html",
-    "pubDate": "Mon, 26 Jan 2026 12:04:57 +0000",
-    "content:encoded": "<p>This is <a href=\"https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/\">coming</a>:</p>\n<blockquote><p>The Irish government is planning to bolster its police&#8217;s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.</p></blockquote>\n",
-    "content:encodedSnippet": "This is coming:\nThe Irish government is planning to bolster its police’s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html#comments",
-    "content": "<p>This is <a href=\"https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/\">coming</a>:</p>\n<blockquote><p>The Irish government is planning to bolster its police&#8217;s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.</p></blockquote>\n",
-    "contentSnippet": "This is coming:\nThe Irish government is planning to bolster its police’s ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.",
-    "guid": "https://www.schneier.com/?p=71527",
-    "categories": [
-      "Uncategorized",
-      "Ireland",
-      "police",
-      "privacy",
-      "spyware",
-      "surveillance"
-    ],
-    "isoDate": "2026-01-26T12:04:57.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
-    "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-    "pubDate": "Mon, 26 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcilIguxvzDODT4rcvO6MxiCqaxrO-__efMroo0PnuIHh189dVEamSzAvGqVGDycJAHQj_Mq1wlskwsKomv4UIwShUlyl6wlOuyXxWp4sqeNWK-xn3cwrTpXYTD-cZSBW6cRV5WGjKv_K534pbFIBJA5cjvqm3cYh5JE5ZpFwiYGsautuvOmcbOnowEbP4/s1600/jan-recap.jpg"
-    },
-    "content": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals.",
-    "contentSnippet": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals.",
-    "guid": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-    "isoDate": "2026-01-26T11:55:00.000Z",
     "itunes": {}
   }
 ]
