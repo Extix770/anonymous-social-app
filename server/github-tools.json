@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2369,
+    "stars": 2370,
     "forks": 350,
     "language": null
   },
@@ -94,7 +94,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 503,
+    "stars": 504,
     "forks": 108,
     "language": null
   },
@@ -121,7 +121,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/API-Pentesting-Tools",
     "description": "API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs). ",
-    "stars": 230,
+    "stars": 231,
     "forks": 34,
     "language": null
   },
@@ -666,15 +666,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -682,6 +673,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "EthicalHackingTools",
