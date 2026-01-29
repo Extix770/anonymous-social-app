@@ -1,12 +1,27 @@
 [
   {
+    "creator": "John Publius",
+    "title": "ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed",
+    "link": "https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/",
+    "pubDate": "Thu, 29 Jan 2026 18:04:13 +0000",
+    "dc:creator": "John Publius",
+    "content": "WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.",
+    "contentSnippet": "WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.",
+    "guid": "69783a35fc0e68ec73ab4bea",
+    "categories": [
+      "The Big Story",
+      "Security"
+    ],
+    "isoDate": "2026-01-29T18:04:13.000Z"
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
     "link": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
     "pubDate": "Thu, 29 Jan 2026 17:00:00 +0000",
     "dc:creator": "Andy Greenberg",
-    "content": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.",
-    "contentSnippet": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.",
+    "content": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
+    "contentSnippet": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
     "guid": "6978fda85780318e8dc1728c",
     "categories": [
       "Security",
@@ -321,23 +336,6 @@
     "contentSnippet": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
     "guid": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
     "isoDate": "2026-01-28T04:49:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-    "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-    "pubDate": "Tue, 27 Jan 2026 22:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSEqf3d7_s2ZXF98sYMqm8yXX33VRczEODYgiLAdEnxGSi6nvJPMS5KE69oow3jm3mJqW5Z4BE5SQ3oR8APXfdPFofQZvOBZDOntO8wFcQwOhjfjZ7-JI_xgiHK5hbs90kco4FKNXaxDw0qwMb_c2sSUi4Ne3-i_ZYUve2rT8-x0Ysv-HSP1Bxb8maU9EI/s1600/whatsapp-security.jpg"
-    },
-    "content": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for",
-    "contentSnippet": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for",
-    "guid": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-    "isoDate": "2026-01-27T16:54:00.000Z",
     "itunes": {}
   }
 ]

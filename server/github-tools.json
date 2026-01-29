@@ -414,9 +414,9 @@
     "language": "Python"
   },
   {
-    "name": "Nmap_Scanning_Tool",
+    "name": "NmapScanningTool",
     "owner": "SagarBiswas-MultiHAT",
-    "url": "https://github.com/SagarBiswas-MultiHAT/Nmap_Scanning_Tool",
+    "url": "https://github.com/SagarBiswas-MultiHAT/NmapScanningTool",
     "description": "An interactive Python wrapper around Nmap that simplifies running common network scans. It prompts for targets, ports, and scan types, supports SYN, aggressive, OS detection, and NSE vulnerability scans, checks for privileges and Nmap availability, and can filter results to show only open ports.",
     "stars": 16,
     "forks": 0,
