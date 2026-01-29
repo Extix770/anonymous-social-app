@@ -247,7 +247,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/OSINT-Tools",
     "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-    "stars": 47,
+    "stars": 48,
     "forks": 6,
     "language": null
   },
@@ -666,15 +666,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -682,6 +673,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -846,15 +846,6 @@
     "language": null
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 5,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -862,6 +853,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 5,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",

@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
+    "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
+    "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GfPr6A1uY8KhmAw_BnWkdf6psUxmcTyTGGRQmw4LwX7cYRCH1CIS_hoATQj0ZLWSWI2brY2fVOsyx5vtncgWgg7D3KFpyIp4cazlOS1ByTGkRPY0ZjHBMelCGtrLsCktO8_bmIa48L8voQKre51yUDBaNY8qO_c-imAcN9Cj3FKLx3KQ12wYFxs0OOGV/s1600/solarwinds.jpg"
+    },
+    "content": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
+    "contentSnippet": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
+    "guid": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
+    "isoDate": "2026-01-29T09:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
     "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
     "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530",
@@ -326,20 +343,5 @@
     "guid": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
     "isoDate": "2026-01-27T11:50:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
-    "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
-    "pubDate": "Tue, 27 Jan 2026 11:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
-    "contentSnippet": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
-    "guid": "692dd1e8f984cdd1142a0e78",
-    "categories": [
-      "The Big Story",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-01-27T11:00:00.000Z"
   }
 ]
