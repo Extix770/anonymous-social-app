@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+    "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+    "pubDate": "Fri, 30 Jan 2026 00:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmx-gYMpMW-nf6wXdiwU6bhhuySnvXQo3BifYIaLE8Vi7Verinm69xkQ4B2AWSXdkdU6yA0WjLVtNGvxx_QzRyxEDKxbpqil2P3NZzOQrFf_MihjJeRVJ64VrWW9IAW9eaxmay2BeiTCHKIestdHmy3KpDagP53nnYQkV4z2TsKoCa_m-gk7BCTue_CKE/s1600/Ollama.jpg"
+    },
+    "content": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
+    "contentSnippet": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
+    "guid": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+    "isoDate": "2026-01-29T18:37:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "John Publius",
     "title": "ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed",
     "link": "https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/",
@@ -319,23 +336,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
     "guid": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
     "isoDate": "2026-01-28T09:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-    "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-    "pubDate": "Wed, 28 Jan 2026 10:19:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJmyxNZ9ucHk0D1SWniVEbsc3BGO5xHxj-ZkFAuhPEz20iKmAoq5DXnvM38bp7RHdqrAGG9bYTc7QB_YajPP8GgRSzH9NGadnQ_vlm9W-GDuFJBG3WQI-2KTNyNIuaQZaTXxsisflH5Xmcsmq5jal0LVUZfRRvn8DW9ud-gMOHc2q6cyJWApCtUQ2Tpcly/s1600/fortinet.jpg"
-    },
-    "content": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
-    "contentSnippet": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
-    "guid": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-    "isoDate": "2026-01-28T04:49:00.000Z",
     "itunes": {}
   }
 ]
