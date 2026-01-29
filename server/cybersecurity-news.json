@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
+    "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
+    "pubDate": "Thu, 29 Jan 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndro6YfGYXSFh-wAT7XEfHLAjm5fzAlSj4nIw5XpxVdKfWDNMBz5PsrZaDPUkm_nUv8jTBBEq_-SprE2qSvV3-ennuzMFmLXU6m6v9Y9Tx_6SzEu2DRUinDU_qeTkdK6fvGS4IbkBl7YCsfyWFgrKKDlxZWDTpSLrN3psyCfZ2iNDcZFhqX4dLXuk8os/s1600/2025-hackernews-100-energy-systems-FeaturedImage-728x380.jpg"
+    },
+    "content": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on",
+    "contentSnippet": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on",
+    "guid": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
+    "isoDate": "2026-01-29T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
     "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
     "pubDate": "Thu, 29 Jan 2026 16:00:00 +0530",
@@ -323,25 +340,5 @@
     "guid": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
     "isoDate": "2026-01-27T14:38:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "The Constitutionality of Geofence Warrants",
-    "link": "https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html",
-    "pubDate": "Tue, 27 Jan 2026 12:01:47 +0000",
-    "content:encoded": "<p>The US Supreme Court is <a href=\"https://therecord.media/supreme-court-geofence-constitutionality\">considering</a> the constitutionality of geofence warrants.</p>\n<blockquote><p>The case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.</p>\n<p>Police probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie&#8217;s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes.</p>\n<p>Chatrie&#8217;s appeal challenges the constitutionality of geofence warrants, arguing that they violate individuals&#8217; Fourth Amendment rights protecting against unreasonable searches.</p></blockquote>\n",
-    "content:encodedSnippet": "The US Supreme Court is considering the constitutionality of geofence warrants.\nThe case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.\nPolice probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie’s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes.\nChatrie’s appeal challenges the constitutionality of geofence warrants, arguing that they violate individuals’ Fourth Amendment rights protecting against unreasonable searches.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html#comments",
-    "content": "<p>The US Supreme Court is <a href=\"https://therecord.media/supreme-court-geofence-constitutionality\">considering</a> the constitutionality of geofence warrants.</p>\n<blockquote><p>The case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.</p>\n<p>Police probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie&#8217;s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes...</p></blockquote>",
-    "contentSnippet": "The US Supreme Court is considering the constitutionality of geofence warrants.\nThe case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.\nPolice probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie’s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes...",
-    "guid": "https://www.schneier.com/?p=71530",
-    "categories": [
-      "Uncategorized",
-      "courts",
-      "national security policy",
-      "searches"
-    ],
-    "isoDate": "2026-01-27T12:01:47.000Z"
   }
 ]
