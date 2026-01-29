@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
+    "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
+    "pubDate": "Thu, 29 Jan 2026 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlUKxcIQjw2yXjFrMsuLb5iy1iV4WwF7H7CNMqEn5pIJFJv6HyUatmeyAO8oFXUtqLjCTeXU_Ce-7UacHCLBKVHeedCYgJefEOCj9_EwDCsa17T0U7SUhEpVDs9WKPqcvptuKI1q3luQJCsGuRXM-sBJtV_BtCsiGt8ybUMIRYwbXpZ_8UHvri58xy9g/s1600/anyrun.jpg"
+    },
+    "content": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk.&nbsp;\nThree strategic steps you can take this year for better results:\n1. Focus on today's",
+    "contentSnippet": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk. \nThree strategic steps you can take this year for better results:\n1. Focus on today's",
+    "guid": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
+    "isoDate": "2026-01-29T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
     "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
     "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530",
@@ -326,22 +343,5 @@
       "searches"
     ],
     "isoDate": "2026-01-27T12:01:47.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-    "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-    "pubDate": "Tue, 27 Jan 2026 17:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEyUd1th0A_7Xrd7TRNZgue6HQe_wsQebBCFx7I9UVXc5U-OUOjCujgMmp8kl7_rA3imZvOVLcm4DL61rJemNLfmJoelFuUT2sjMSjUq2hupwoc7yzOVvIMDMdRAs6skQA39eCNXEoQ6Csz0duZlvqf8Oau0WblLZXzfDbojCCWU7XKzWIgXcqRkJ9iU/s1600/ctem.jpg"
-    },
-    "content": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.\nWhich exposures truly matter? Can attackers exploit them? Are our defenses effective?\nContinuous Threat Exposure",
-    "contentSnippet": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.\nWhich exposures truly matter? Can attackers exploit them? Are our defenses effective?\nContinuous Threat Exposure",
-    "guid": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-    "isoDate": "2026-01-27T11:50:00.000Z",
-    "itunes": {}
   }
 ]
