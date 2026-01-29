@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+    "pubDate": "Thu, 29 Jan 2026 18:31:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9SbFXbZQct1Wv_AQYHmdxLtLQA3WcRYvE1h1O0tOFuTdYd4dt90zYmpbisbBaxpw-W6mTvDjyj1_t5kT4IwXNHd79KUAVhbRipMsb7u97bPjrkN4ATjfy5J-KXAgE502qUoy6fFcAC9ottxydNt5nFPXoM1j979_3uy752gIiMR3DUDKNSaca6_qhnHt/s1600/threatsday.jpg"
+    },
+    "content": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
+    "contentSnippet": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
+    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+    "isoDate": "2026-01-29T13:01:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
     "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
     "pubDate": "Thu, 29 Jan 2026 17:25:00 +0530",
@@ -322,23 +339,6 @@
     "contentSnippet": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025.\n\"While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)",
     "guid": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
     "isoDate": "2026-01-27T16:45:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-    "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-    "pubDate": "Tue, 27 Jan 2026 20:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW6W_rux-XGbdn40S_idHK9NuIPQ9Apvc-2JZAvLaHngDYeb5gvSFLF0A4Fds4fpAZqOdeavVBdL0mpSYS3uuIZ7x_w4cdViWRc8e8SoHUkCcfrTxWCm-i8-g63Xn7wgF3IEs21EWyAYn3m719zUh66sCrVOjCaKNJrkoI6q_LwayxogECmwHCKjQS-HO6/s1600/clickfix.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera.\n\"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera.\n\"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
-    "guid": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-    "isoDate": "2026-01-27T14:38:00.000Z",
     "itunes": {}
   }
 ]
