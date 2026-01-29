@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2370,
+    "stars": 2371,
     "forks": 350,
     "language": null
   },
@@ -837,15 +837,6 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -853,6 +844,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "obsidian-soc-toolkit",
