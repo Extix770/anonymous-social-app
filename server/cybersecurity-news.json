@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
+    "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+    "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2m0M2CgLOyvWFLDsxvvFHRC_bP8UZH66OXowPdykfsWnt3WwvYrvdnPnixz7wnn7uB5EIO4svESi1i9Bj-3dRBcHihgQExiog-cv24tLBxJ8HibquEo5yFqKzDDPpIJsVBciHzvZm3N-rszwG9q4rXuibLC69BZcH2iS6oSExUFmPpPjXxy-jRSVB58E/s1600/ipidea.png"
+    },
+    "content": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
+    "contentSnippet": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
+    "guid": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+    "isoDate": "2026-01-29T07:16:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Caroline Haskins, Makena Kelly",
     "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
     "link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
@@ -319,21 +336,6 @@
     "content": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
     "contentSnippet": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
     "guid": "692dd1e8f984cdd1142a0e78",
-    "categories": [
-      "The Big Story",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-01-27T11:00:00.000Z"
-  },
-  {
-    "creator": "Andy Greenberg, Lily Hay Newman, Matt Burgess",
-    "title": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce",
-    "link": "https://www.wired.com/story/the-red-bull-leaks/",
-    "pubDate": "Tue, 27 Jan 2026 11:00:00 +0000",
-    "dc:creator": "Andy Greenberg, Lily Hay Newman, Matt Burgess",
-    "content": "A whistleblower trapped inside a “pig butchering” scam compound gave WIRED a vast trove of its internal materials—including 4,200 pages of messages that lay out its operations in unprecedented detail.",
-    "contentSnippet": "A whistleblower trapped inside a “pig butchering” scam compound gave WIRED a vast trove of its internal materials—including 4,200 pages of messages that lay out its operations in unprecedented detail.",
-    "guid": "69712425755fe04ea1f081c3",
     "categories": [
       "The Big Story",
       "Security / Cyberattacks and Hacks"
