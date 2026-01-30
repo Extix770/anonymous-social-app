@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
+    "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
+    "pubDate": "Fri, 30 Jan 2026 17:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHLguVjEqBEjsNUwBu1Bv6QSXsAEumwRQ9SbyNaXyyoeA_U8-ZAttNvbX30QiW6E5a8New3cjan0cGsHJbPTtifUFLjERM37BpZX0BV_zgqeGeRXpb527_kE400nvKQ9HfQk423qmnak8ZpzFCGzPz7LIdbhbnRWnj29uOPXOrQzIEwvvIDE3VnSAypa1y/s1600/chinese-hackers.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
+    "contentSnippet": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
+    "guid": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
+    "isoDate": "2026-01-30T12:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Badges, Bytes and Blackmail",
     "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
     "pubDate": "Fri, 30 Jan 2026 17:00:00 +0530",
@@ -319,23 +336,6 @@
     "contentSnippet": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts.\nThat future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
     "guid": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
     "isoDate": "2026-01-28T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-    "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-    "pubDate": "Wed, 28 Jan 2026 17:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Rl9Xy1aEtQBIw6aqscoEj4444e7H2BJLRbPSyqbi2DMtc22vTReAQM6ye0KR8pr1iBs4YA3KIdgfAvfBuIGBMrd7JYL5P9NNnNt6vgeD_B5GStVh1Bq5DzgnRsViE-z_dmkuGuhWTchwmk3ULxzq7_vVoUnKnwFaQtqVyCDf-oHiqBeiViqAlqdsGsi/s1600/vm2.jpg"
-    },
-    "content": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
-    "contentSnippet": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
-    "guid": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-    "isoDate": "2026-01-28T11:50:00.000Z",
     "itunes": {}
   }
 ]
