@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+    "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
+    "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1600/ai-secrets.jpg"
+    },
+    "content": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
+    "contentSnippet": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
+    "guid": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
+    "isoDate": "2026-01-30T07:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
+    "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
+    "pubDate": "Fri, 30 Jan 2026 12:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68yf4tK-m7j1I6zRCo-SBeQ4cCXmLiwvPRMoEXS_I8m7V53UUmULEbWr2vVAEJd34U0hknt8J5wnzcNv1kGayBLApw6mu0UmRZRyCstoXJAteTDrnRZBnoh5n3ROzBarjsRgPXeV_1WDsxQmg5ysAETrtYI3L9oNWnX246xTksVuWWqi34CzJCJnFc0uv/s1600/smartertools.jpg"
+    },
+    "content": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
+    "contentSnippet": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
+    "guid": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
+    "isoDate": "2026-01-30T07:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
     "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
     "pubDate": "Fri, 30 Jan 2026 10:13:00 +0530",
@@ -302,40 +336,6 @@
     "contentSnippet": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
     "guid": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
     "isoDate": "2026-01-28T11:40:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
-    "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
-    "pubDate": "Wed, 28 Jan 2026 16:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYpmMp4cskBZ-rNTPTP2vOSKi-iVREeVHfeGAcK0DdP-QGwmWDF2R5IRqmNjQmYb7x9zjnle6EEoNOH_WTKG-YYuMQhoDJW0__i7rgSuLTKjLDlmHs4mC0-9PUNFtr451zaHU8uXd8H3QBvD0xyPrMaOsZbYZDKZTUvreAL3DX1iKMAQGHBkvk2gdFfU0/s1600/outpost24.jpg"
-    },
-    "content": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary.\nNear-identical password reuse continues to slip past security controls, often",
-    "contentSnippet": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary.\nNear-identical password reuse continues to slip past security controls, often",
-    "guid": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
-    "isoDate": "2026-01-28T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
-    "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-    "pubDate": "Wed, 28 Jan 2026 15:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmyh6hD6dEZgQCDgGumKxGNc5W_9iRS9Or90FAqQShHB7mO7bls8iiTm3Zd85KEQdLvIZrp3r_mghXMX5r-sJLcdQ57OOYidhqKeSQJcxqCnjA8SFlYh3FGTj8g_ulShcpgUS_k41RmAJuIU77IXQFdcwhZR9hipopYp62cXESIq68MHugeFW5bYIQSCDm/s1600/winrar.jpg"
-    },
-    "content": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.\n\"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
-    "contentSnippet": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.\n\"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
-    "guid": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-    "isoDate": "2026-01-28T09:46:00.000Z",
     "itunes": {}
   }
 ]
