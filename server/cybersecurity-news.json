@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities",
+    "link": "https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html",
+    "pubDate": "Fri, 30 Jan 2026 15:35:15 +0000",
+    "content:encoded": "<p>From an Anthropic <a href=\"https://red.anthropic.com/2026/cyber-toolkits-update/\">blog post</a>:</p>\n<blockquote><p>In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.</p>\n<p>[…]</p>\n<p>A notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach&#8212;one of the costliest cyber attacks in history­­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches.</p></blockquote>\n<p>AI models are getting better at this faster than I expected. This will be a major power shift in cybersecurity.</p>\n",
+    "content:encodedSnippet": "From an Anthropic blog post:\nIn a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.\n[…]\nA notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach—one of the costliest cyber attacks in history­­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches.\n\nAI models are getting better at this faster than I expected. This will be a major power shift in cybersecurity.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html#respond",
+    "content": "<p>From an Anthropic <a href=\"https://red.anthropic.com/2026/cyber-toolkits-update/\">blog post</a>:</p>\n<blockquote><p>In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.</p>\n<p>[…]</p>\n<p>A notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach&#8212;one of the costliest cyber attacks in history­­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches...</p></blockquote>",
+    "contentSnippet": "From an Anthropic blog post:\nIn a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.\n[…]\nA notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach—one of the costliest cyber attacks in history­­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches...",
+    "guid": "https://www.schneier.com/?p=71541",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "cybersecurity",
+      "vulnerabilities"
+    ],
+    "isoDate": "2026-01-30T15:35:15.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
     "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
@@ -320,22 +340,5 @@
     "guid": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
     "isoDate": "2026-01-28T12:43:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Jacob Roach",
-    "title": "6 Best VPN Services (2026), Tested and Reviewed",
-    "link": "https://www.wired.com/gallery/best-vpn/",
-    "pubDate": "Wed, 28 Jan 2026 12:30:00 +0000",
-    "dc:creator": "Jacob Roach",
-    "content": "Every VPN says it’s the best, but only some of them are telling the truth.",
-    "contentSnippet": "Every VPN says it’s the best, but only some of them are telling the truth.",
-    "guid": "68af63e252be2b76ffa4c01a",
-    "categories": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Online Services",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-01-28T12:30:00.000Z"
   }
 ]
