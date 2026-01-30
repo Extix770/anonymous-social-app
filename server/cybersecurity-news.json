@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
+    "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
+    "pubDate": "Fri, 30 Jan 2026 10:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg"
+    },
+    "content": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:",
+    "contentSnippet": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:",
+    "guid": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
+    "isoDate": "2026-01-30T04:43:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
     "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
     "pubDate": "Fri, 30 Jan 2026 00:07:00 +0530",
@@ -319,23 +336,6 @@
     "contentSnippet": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.\n\"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
     "guid": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
     "isoDate": "2026-01-28T09:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
-    "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-    "pubDate": "Wed, 28 Jan 2026 15:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmO6wqQYQf9Jzy85AeKQArxw_sFT_Qyd30NJ2Fxfs6FN6MgxQDuyTmUnlyThYj_4a4BN0bsejx2owRMl6_rLwiCpgh_WGWVH80OezW3ToFf2Aedn9a-023kI71i4NwG7HQ5tZ2So97M4N4jkTXKqRnlty7V10DsQeQ6UIPC7jIRrCNzSd6p1KfKKx_9m_/s1600/python.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
-    "contentSnippet": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
-    "guid": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-    "isoDate": "2026-01-28T09:30:00.000Z",
     "itunes": {}
   }
 ]
