@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Badges, Bytes and Blackmail",
+    "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+    "pubDate": "Fri, 30 Jan 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1600/orange.jpg"
+    },
+    "content": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
+    "contentSnippet": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
+    "guid": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+    "isoDate": "2026-01-30T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
     "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
     "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530",
@@ -319,23 +336,6 @@
     "contentSnippet": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
     "guid": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
     "isoDate": "2026-01-28T11:50:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
-    "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
-    "pubDate": "Wed, 28 Jan 2026 17:10:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbfyqOKlboKyz0aepCrCjmgfx7hVJKbZ5zcv_iQC6sUvz4vyarawc69b_BxxUdQYhl62-gOoWmlEDQywKqX4zRtKo7X_G_eZTCignSldlMeGxb6ZxhYRJTFn2L0f_FcdJS2FrlLq32HpdE1N_XqD639QIYNC9xGZymr8PNBLW_mU7uB6Oa4f759T_4t-0E/s1600/cyber.jpg"
-    },
-    "content": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
-    "contentSnippet": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
-    "guid": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
-    "isoDate": "2026-01-28T11:40:00.000Z",
     "itunes": {}
   }
 ]
