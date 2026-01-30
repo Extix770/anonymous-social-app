@@ -1,6 +1,24 @@
 [
   {
     "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: New Squid Species Discovered",
+    "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html",
+    "pubDate": "Fri, 30 Jan 2026 22:05:11 +0000",
+    "content:encoded": "<p>A <a href=\"https://www.livescience.com/animals/mollusks/very-novel-and-very-puzzling-unknown-species-of-squid-spotted-burying-itself-upside-down-pretending-to-be-a-plant\">new species of squid</a>. pretends to be a plant:</p>\n<blockquote><p>Scientists have filmed a never-before-seen species of deep-sea squid burying itself upside down in the seafloor&#8212;a behavior never documented in cephalopods. They captured the bizarre scene while studying the depths of the Clarion-Clipperton Zone (CCZ), an abyssal plain in the Pacific Ocean targeted for deep-sea mining.</p>\n<p>The team described the encounter in a study published Nov. 25 in the journal <a href=\"https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70257\"><i>Ecology</i></a>, writing that the animal appears to be an undescribed species of whiplash squid. At a depth of roughly 13,450 feet (4,100 meters), the squid had buried almost its entire body in sediment and was hanging upside down, with its siphon and two long <a href=\"https://www.livescience.com/difference-arms-tentacles\">tentacles</a> held rigid above the seafloor.</p>\n<p>&#8220;The fact that this is a squid and it&#8217;s covering itself in mud&#8212;it&#8217;s novel for squid and the fact that it is upside down,&#8221; lead author <a href=\"https://www.sams.ac.uk/people/research-students/mejia-saenz-alejandra-/\">Alejandra Mej&iacute;a-Saenz</a>, a deep-sea ecologist at the Scottish Association for Marine Science, told Live Science. &#8220;We had never seen anything like that in any cephalopods&#8230;. It was very novel and very puzzling.&#8221;</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "A new species of squid. pretends to be a plant:\nScientists have filmed a never-before-seen species of deep-sea squid burying itself upside down in the seafloor—a behavior never documented in cephalopods. They captured the bizarre scene while studying the depths of the Clarion-Clipperton Zone (CCZ), an abyssal plain in the Pacific Ocean targeted for deep-sea mining.\nThe team described the encounter in a study published Nov. 25 in the journal Ecology, writing that the animal appears to be an undescribed species of whiplash squid. At a depth of roughly 13,450 feet (4,100 meters), the squid had buried almost its entire body in sediment and was hanging upside down, with its siphon and two long tentacles held rigid above the seafloor.\n“The fact that this is a squid and it’s covering itself in mud—it’s novel for squid and the fact that it is upside down,” lead author Alejandra Mejía-Saenz, a deep-sea ecologist at the Scottish Association for Marine Science, told Live Science. “We had never seen anything like that in any cephalopods…. It was very novel and very puzzling.”\n\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html#respond",
+    "content": "<p>A <a href=\"https://www.livescience.com/animals/mollusks/very-novel-and-very-puzzling-unknown-species-of-squid-spotted-burying-itself-upside-down-pretending-to-be-a-plant\">new species of squid</a>. pretends to be a plant:</p>\n<blockquote><p>Scientists have filmed a never-before-seen species of deep-sea squid burying itself upside down in the seafloor&#8212;a behavior never documented in cephalopods. They captured the bizarre scene while studying the depths of the Clarion-Clipperton Zone (CCZ), an abyssal plain in the Pacific Ocean targeted for deep-sea mining.</p>\n<p>The team described the encounter in a study published Nov. 25 in the journal <a href=\"https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70257\"><i>Ecology</i></a>, writing that the animal appears to be an undescribed species of whiplash squid. At a depth of roughly 13,450 feet (4,100 meters), the squid had buried almost its entire body in sediment and was hanging upside down, with its siphon and two long ...</p></blockquote>",
+    "contentSnippet": "A new species of squid. pretends to be a plant:\nScientists have filmed a never-before-seen species of deep-sea squid burying itself upside down in the seafloor—a behavior never documented in cephalopods. They captured the bizarre scene while studying the depths of the Clarion-Clipperton Zone (CCZ), an abyssal plain in the Pacific Ocean targeted for deep-sea mining.\nThe team described the encounter in a study published Nov. 25 in the journal Ecology, writing that the animal appears to be an undescribed species of whiplash squid. At a depth of roughly 13,450 feet (4,100 meters), the squid had buried almost its entire body in sediment and was hanging upside down, with its siphon and two long ...",
+    "guid": "https://www.schneier.com/?p=71515",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-01-30T22:05:11.000Z"
+  },
+  {
+    "creator": "Bruce Schneier",
     "title": "AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities",
     "link": "https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html",
     "pubDate": "Fri, 30 Jan 2026 15:35:15 +0000",
@@ -322,23 +340,6 @@
     "contentSnippet": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
     "guid": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
     "isoDate": "2026-01-28T16:06:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-    "pubDate": "Wed, 28 Jan 2026 18:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW94x6FIasfUAUj1l0mDp4cnVeR5PmfPV85I4_GuIlUqCVlMX0bthAcsA9oHJJz8d3gXUo74yw4d2kG3FnDnFe0zz_CzVY6Hyy8biL_gMKKaErWM3p15lAdh5xQnBBb6RhHSgKmpM3RLx1wccjhlKJc6I6lrO8M7SFIs3ezfEXuieA11PIJ1D7Z4nSaLb2/s1600/n8n.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered by the JFrog Security Research team, are listed below -\n\nCVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
-    "contentSnippet": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered by the JFrog Security Research team, are listed below -\n\nCVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
-    "guid": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-    "isoDate": "2026-01-28T12:43:00.000Z",
     "itunes": {}
   }
 ]
