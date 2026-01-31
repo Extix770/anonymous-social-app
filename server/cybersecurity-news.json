@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
+    "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
+    "pubDate": "Sat, 31 Jan 2026 17:32:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmL5-hTI_aBpSFPndnqV4ySQ5udayxJUvuXcCQm8f6jEz8a1_dL_S_Bum3hv0UpfLYgBthCoHBndUqX5rNCKFG0QlS-eVd31TFtGAaOiogrxNKqV5O27ZkAqjYReR6GVxTEe_SLJv_aiKKlab-nbHxFh46cGppeDCHs40izJtFikGL5NKW8d0_srV1IQ6x/s1600/iran-hackers.jpg"
+    },
+    "content": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.\nThe activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
+    "contentSnippet": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.\nThe activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
+    "guid": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
+    "isoDate": "2026-01-31T12:02:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg",
     "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
     "link": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
@@ -323,23 +340,6 @@
     "contentSnippet": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
     "guid": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
     "isoDate": "2026-01-29T09:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
-    "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
-    "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2m0M2CgLOyvWFLDsxvvFHRC_bP8UZH66OXowPdykfsWnt3WwvYrvdnPnixz7wnn7uB5EIO4svESi1i9Bj-3dRBcHihgQExiog-cv24tLBxJ8HibquEo5yFqKzDDPpIJsVBciHzvZm3N-rszwG9q4rXuibLC69BZcH2iS6oSExUFmPpPjXxy-jRSVB58E/s1600/ipidea.png"
-    },
-    "content": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
-    "contentSnippet": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
-    "guid": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
-    "isoDate": "2026-01-29T07:16:00.000Z",
     "itunes": {}
   }
 ]
