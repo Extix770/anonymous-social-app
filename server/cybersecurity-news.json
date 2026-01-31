@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg",
+    "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
+    "link": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
+    "pubDate": "Sat, 31 Jan 2026 11:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg",
+    "content": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
+    "contentSnippet": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
+    "guid": "697ccd177d985455a39d8009",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-01-31T11:30:00.000Z"
+  },
+  {
     "creator": "Matt Burgess, Lily Hay Newman, Maddy Varner, Andy Greenberg",
     "title": "How to Film ICE",
     "link": "https://www.wired.com/story/how-to-film-ice/",
@@ -323,23 +341,5 @@
     "guid": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
     "isoDate": "2026-01-29T07:16:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Caroline Haskins, Makena Kelly",
-    "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
-    "link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
-    "pubDate": "Wed, 28 Jan 2026 21:40:18 +0000",
-    "dc:creator": "Caroline Haskins, Makena Kelly",
-    "content": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
-    "contentSnippet": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
-    "guid": "697a474382e93380fc4f4913",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-01-28T21:40:18.000Z"
   }
 ]
