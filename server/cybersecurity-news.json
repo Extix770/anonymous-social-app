@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+    "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+    "pubDate": "Sat, 31 Jan 2026 12:35:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cwnqWO_vrn1IMT0UVtME4aucCsS_J5p48slMlc8jBUgNPFLBUdakBPEj38y6dnkUlrnRMdSA3IB7Jc5hVxU227Jl7T6641Py08_lld2UzvG8YoKmJYr07piXYUzyMFW4HwBDuxUgzu2R-j3pcGZ_2yJIZOKlQPvoMIKXtaj2HXUuJJXsUaf8lqvoD5qm/s1600/energy.jpg"
+    },
+    "content": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.\nThe incident took place on December 29, 2025. The agency has attributed the attacks to",
+    "contentSnippet": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.\nThe incident took place on December 29, 2025. The agency has attributed the attacks to",
+    "guid": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+    "isoDate": "2026-01-31T07:05:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: New Squid Species Discovered",
     "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html",
@@ -90,7 +107,7 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+    "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
     "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
     "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -323,23 +340,6 @@
     "contentSnippet": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts.\nThe extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
     "guid": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
     "isoDate": "2026-01-28T17:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-    "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-    "pubDate": "Wed, 28 Jan 2026 21:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpzZ7e4dYy-hpTfbR7szq9J8RcMD40YfqgkKsvCTqBy-LIR2HtA3D4gY0i_-yiitA72t97lJlC4cW3klbAsJB6BBxxfOXDjhf68Z9RNF2GDYwWxPkdzSYTIcgQZzXg_0hCSqYOPI4nI8Wq3NHj5DrgwQ0RpdEZGJ1hMteDuOBNDxn-sXuzj57K9K-QKhz0/s1600/powergrid.jpg"
-    },
-    "content": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
-    "contentSnippet": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
-    "guid": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-    "isoDate": "2026-01-28T16:06:00.000Z",
     "itunes": {}
   }
 ]
