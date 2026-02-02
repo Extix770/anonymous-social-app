@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Luigi Mastrodonato",
+    "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
+    "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
+    "pubDate": "Mon, 02 Feb 2026 11:00:00 +0000",
+    "dc:creator": "Luigi Mastrodonato",
+    "content": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
+    "contentSnippet": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
+    "guid": "697cc7e9cb2a365d4266695f",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2026-02-02T11:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
     "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
@@ -324,22 +341,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-01-29T17:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
-    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
-    "pubDate": "Thu, 29 Jan 2026 18:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9SbFXbZQct1Wv_AQYHmdxLtLQA3WcRYvE1h1O0tOFuTdYd4dt90zYmpbisbBaxpw-W6mTvDjyj1_t5kT4IwXNHd79KUAVhbRipMsb7u97bPjrkN4ATjfy5J-KXAgE502qUoy6fFcAC9ottxydNt5nFPXoM1j979_3uy752gIiMR3DUDKNSaca6_qhnHt/s1600/threatsday.jpg"
-    },
-    "content": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
-    "contentSnippet": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
-    "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
-    "isoDate": "2026-01-29T13:01:00.000Z",
-    "itunes": {}
   }
 ]
