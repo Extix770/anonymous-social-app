@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+    "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+    "pubDate": "Mon, 02 Feb 2026 10:34:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPOwjTAXR_bWT_xYvDJKDsLnYrGiJXhQxeF4lVk_19Ovkom1S6fZsO3tDeSdpK2EZ8Q8ZJeDpWLtRhNHRisN-pwNwio6DDz24wH3nMyfzsT_ZpD2Mq08hKMJXWt_p8RxIK4DVpk70Ssm114e1BzrMJDDij0pYO1ZEOixGZtD0pB61mQWATJkAJP6gl_9BK/s1600/open.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users.\n\"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users.\n\"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
+    "guid": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+    "isoDate": "2026-02-02T05:04:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
     "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
     "pubDate": "Sat, 31 Jan 2026 17:32:00 +0530",
@@ -323,23 +340,6 @@
     "contentSnippet": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk. \nThree strategic steps you can take this year for better results:\n1. Focus on today's",
     "guid": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
     "isoDate": "2026-01-29T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
-    "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-    "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GfPr6A1uY8KhmAw_BnWkdf6psUxmcTyTGGRQmw4LwX7cYRCH1CIS_hoATQj0ZLWSWI2brY2fVOsyx5vtncgWgg7D3KFpyIp4cazlOS1ByTGkRPY0ZjHBMelCGtrLsCktO8_bmIa48L8voQKre51yUDBaNY8qO_c-imAcN9Cj3FKLx3KQ12wYFxs0OOGV/s1600/solarwinds.jpg"
-    },
-    "content": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
-    "contentSnippet": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
-    "guid": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-    "isoDate": "2026-01-29T09:00:00.000Z",
     "itunes": {}
   }
 ]
