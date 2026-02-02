@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+    "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+    "pubDate": "Mon, 02 Feb 2026 14:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIJHd4OQK00g8yDOJc5wJZ0EWtYGWBzwoLlIxw_YWELb5JYsmrE_jz2VDjexbfuzmGjZcvQ4iX6rAorcNC-7YgwG577NGRfGFuCzfGK9ZkMc7jiDLl9RCtRM45pUSLAOO-S-z1MDKEJjvXzxSZ90RQ4OmCPuYCHDEfBzgCADf21_XLxxBq9C7puPcFlL_/s1600/notepad-hacked.jpg"
+    },
+    "content": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+    "contentSnippet": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+    "guid": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+    "isoDate": "2026-02-02T08:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
     "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
     "pubDate": "Mon, 02 Feb 2026 11:17:00 +0530",
@@ -323,23 +340,6 @@
     "contentSnippet": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
     "guid": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
     "isoDate": "2026-01-29T13:01:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
-    "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-    "pubDate": "Thu, 29 Jan 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndro6YfGYXSFh-wAT7XEfHLAjm5fzAlSj4nIw5XpxVdKfWDNMBz5PsrZaDPUkm_nUv8jTBBEq_-SprE2qSvV3-ennuzMFmLXU6m6v9Y9Tx_6SzEu2DRUinDU_qeTkdK6fvGS4IbkBl7YCsfyWFgrKKDlxZWDTpSLrN3psyCfZ2iNDcZFhqX4dLXuk8os/s1600/2025-hackernews-100-energy-systems-FeaturedImage-728x380.jpg"
-    },
-    "content": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on",
-    "contentSnippet": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on",
-    "guid": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-    "isoDate": "2026-01-29T11:55:00.000Z",
     "itunes": {}
   }
 ]
