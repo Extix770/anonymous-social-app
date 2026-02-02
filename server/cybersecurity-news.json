@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+    "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+    "pubDate": "Mon, 02 Feb 2026 21:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOf9qxdul5asVTIVQe4P6l_tPfVmbnsfVrt3cNmU3_q5qDeFcqXdve4AgXe-z7gCGozXQ3z0wDZnXn_-bynodpDfeUQaM5T4CFWpZUcGsbD-R-JS93Jp_1R37WQkCU4gLLpFjDxkN6T2DpAXXthKXl4QDIe_D486n18bp4_yyxt2DuVz2-zLjTybVQFDS/s1600/windows.jpg"
+    },
+    "content": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
+    "contentSnippet": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
+    "guid": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+    "isoDate": "2026-02-02T15:59:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI Coding Assistants Secretly Copying All Code to China",
     "link": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html",
@@ -329,23 +346,6 @@
     "contentSnippet": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
     "guid": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
     "isoDate": "2026-01-30T07:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-    "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-    "pubDate": "Fri, 30 Jan 2026 10:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg"
-    },
-    "content": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:",
-    "contentSnippet": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:",
-    "guid": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-    "isoDate": "2026-01-30T04:43:00.000Z",
     "itunes": {}
   }
 ]
