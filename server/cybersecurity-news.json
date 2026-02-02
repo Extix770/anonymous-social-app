@@ -20,6 +20,40 @@
     "isoDate": "2026-02-02T12:05:34.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+    "pubDate": "Mon, 02 Feb 2026 17:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9uSby99DCwswXd6TJFvm-PoprW_CRTBw9ybmBUQv9frf03WLoy6wgTB5IhjjulguZSLvc72tXk-6OrsFDjg5_Ab1QivwnXKZY16oC4sJ9iKE39MyxSXmXdWZ8o3XdAc4X3vB6-ed7x5WvNt149AgZ7EI7sTg2FDqcWU5HkI9Mli-dDUPUzj_ub_-umx0/s1600/recap.jpg"
+    },
+    "content": "Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage.\nSometimes a single update, exploit, or mistake changes how we think about risk and protection. Every incident shows how defenders adapt — and how fast attackers try to stay ahead.\nThis week’s recap brings you the",
+    "contentSnippet": "Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage.\nSometimes a single update, exploit, or mistake changes how we think about risk and protection. Every incident shows how defenders adapt — and how fast attackers try to stay ahead.\nThis week’s recap brings you the",
+    "guid": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+    "isoDate": "2026-02-02T11:59:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+    "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+    "pubDate": "Mon, 02 Feb 2026 17:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4y344uMUZbiZBbPIsnlfMhx46Zt9i87UwhpylWJtJrZru1JWuGPnvuLUJJilFtcLXJ4a8nWv7V5qfYkvFXJzbo1N8cWgtTKpUBy3P75OTJqREoJ_uuk7pU-tY5Qf1R5yMlGNT-1iKpaZvcAc0Ge5ZPPR6j6Unygo3QQUfMP6CakkKSXQYntDi5TVYSw/s1600/bitdefender.jpg"
+    },
+    "content": "For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done.\nThe challenge is that many security tools add complexity and cost that most mid-market businesses",
+    "contentSnippet": "For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done.\nThe challenge is that many security tools add complexity and cost that most mid-market businesses",
+    "guid": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+    "isoDate": "2026-02-02T11:45:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Luigi Mastrodonato",
     "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
     "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
@@ -313,37 +347,5 @@
     "guid": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
     "isoDate": "2026-01-30T04:43:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
-    "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-    "pubDate": "Fri, 30 Jan 2026 00:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmx-gYMpMW-nf6wXdiwU6bhhuySnvXQo3BifYIaLE8Vi7Verinm69xkQ4B2AWSXdkdU6yA0WjLVtNGvxx_QzRyxEDKxbpqil2P3NZzOQrFf_MihjJeRVJ64VrWW9IAW9eaxmay2BeiTCHKIestdHmy3KpDagP53nnYQkV4z2TsKoCa_m-gk7BCTue_CKE/s1600/Ollama.jpg"
-    },
-    "content": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
-    "contentSnippet": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
-    "guid": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-    "isoDate": "2026-01-29T18:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "John Publius",
-    "title": "ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed",
-    "link": "https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/",
-    "pubDate": "Thu, 29 Jan 2026 18:04:13 +0000",
-    "dc:creator": "John Publius",
-    "content": "WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.",
-    "contentSnippet": "WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.",
-    "guid": "69783a35fc0e68ec73ab4bea",
-    "categories": [
-      "The Big Story",
-      "Security"
-    ],
-    "isoDate": "2026-01-29T18:04:13.000Z"
   }
 ]
