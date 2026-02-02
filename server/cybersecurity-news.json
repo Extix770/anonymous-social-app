@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+    "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+    "pubDate": "Mon, 02 Feb 2026 21:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4fXSwhiW0Eb2lGzmNue91AjKZ-c420l6qWRP0mQkVZWlxxe_Iq0MkDlUYw7GrvFfd2UqhpLGsSYc9H3-o33nWGXEUX_OPcTWpzn3lQNvZTVyzEx1CJw2r2UQMfkFdNiHJF4_x8mLAkOy7st09Siko8G8KTlPyNkVNeLDf2xTKVgCFLnumaeT4v7Q_f27J/s1600/openclaw.jpg"
+    },
+    "content": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
+    "contentSnippet": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
+    "guid": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+    "isoDate": "2026-02-02T16:28:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
     "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
     "pubDate": "Mon, 02 Feb 2026 21:29:00 +0530",
@@ -329,23 +346,6 @@
     "contentSnippet": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
     "guid": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
     "isoDate": "2026-01-30T07:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-    "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-    "pubDate": "Fri, 30 Jan 2026 12:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68yf4tK-m7j1I6zRCo-SBeQ4cCXmLiwvPRMoEXS_I8m7V53UUmULEbWr2vVAEJd34U0hknt8J5wnzcNv1kGayBLApw6mu0UmRZRyCstoXJAteTDrnRZBnoh5n3ROzBarjsRgPXeV_1WDsxQmg5ysAETrtYI3L9oNWnX246xTksVuWWqi34CzJCJnFc0uv/s1600/smartertools.jpg"
-    },
-    "content": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
-    "contentSnippet": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
-    "guid": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-    "isoDate": "2026-01-30T07:09:00.000Z",
     "itunes": {}
   }
 ]
