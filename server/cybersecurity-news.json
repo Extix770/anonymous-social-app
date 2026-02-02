@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "AI Coding Assistants Secretly Copying All Code to China",
+    "link": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html",
+    "pubDate": "Mon, 02 Feb 2026 12:05:34 +0000",
+    "content:encoded": "<p>There&#8217;s a <a href=\"https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers\">new report</a> about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.</p>\n<p>Maybe avoid using them.</p>\n",
+    "content:encodedSnippet": "There’s a new report about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.\nMaybe avoid using them.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html#respond",
+    "content": "<p>There&#8217;s a <a href=\"https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers\">new report</a> about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.</p>\n<p>Maybe avoid using them.</p>\n",
+    "contentSnippet": "There’s a new report about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.\nMaybe avoid using them.",
+    "guid": "https://www.schneier.com/?p=71544",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "China",
+      "leaks"
+    ],
+    "isoDate": "2026-02-02T12:05:34.000Z"
+  },
+  {
     "creator": "Luigi Mastrodonato",
     "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
     "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
@@ -325,21 +345,5 @@
       "Security"
     ],
     "isoDate": "2026-01-29T18:04:13.000Z"
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
-    "link": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
-    "pubDate": "Thu, 29 Jan 2026 17:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
-    "contentSnippet": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
-    "guid": "6978fda85780318e8dc1728c",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-01-29T17:00:00.000Z"
   }
 ]
