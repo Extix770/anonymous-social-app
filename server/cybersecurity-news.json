@@ -1,5 +1,44 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Microsoft is Giving the FBI BitLocker Keys",
+    "link": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html",
+    "pubDate": "Tue, 03 Feb 2026 12:05:25 +0000",
+    "content:encoded": "<p>Microsoft <a href=\"https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/\">gives</a> the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.</p>\n<blockquote><p>It&#8217;s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.</p></blockquote>\n",
+    "content:encodedSnippet": "Microsoft gives the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.\nIt’s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html#comments",
+    "content": "<p>Microsoft <a href=\"https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/\">gives</a> the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.</p>\n<blockquote><p>It&#8217;s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.</p></blockquote>\n",
+    "contentSnippet": "Microsoft gives the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.\nIt’s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.",
+    "guid": "https://www.schneier.com/?p=71550",
+    "categories": [
+      "Uncategorized",
+      "FBI",
+      "full-disk encryption",
+      "Microsoft",
+      "privacy",
+      "Windows"
+    ],
+    "isoDate": "2026-02-03T12:05:25.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "When Cloud Outages Ripple Across the Internet",
+    "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+    "pubDate": "Tue, 03 Feb 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A2lK2hBXnibuGwyEFh23Ff9v06u07aDA_n1I1aJJjghSJHfGa1BQ5kmELI2inX855kRwZI0r2XTRWGZ95rMvJNTiz98WNTA_8P2fI-oZll8vvvT_OlDgOPef1iBU4Hlq7j3ZcSQnLf_8aWYXW5FebN8rML3yEpOP-EKS6wlagaNu4jOBt4U0ET89Whg/s1600/cloud.jpg"
+    },
+    "content": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
+    "contentSnippet": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
+    "guid": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+    "isoDate": "2026-02-03T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Maddy Varner",
     "title": "How Data Brokers Can Fuel Violence Against Public Servants",
     "link": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
@@ -315,39 +354,5 @@
       "Politics"
     ],
     "isoDate": "2026-01-31T10:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
-    "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
-    "pubDate": "Sat, 31 Jan 2026 13:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2lnJbnFaov0GE_74eq7mb52_5L4JzxpsP2dS-QqlaAJ8aSuWL-QRFQhkHSS_oso_YVwAUrLjhG_V2oVRGfxZuZjrf4dfYkkGI-e-OXJUq3exOdhCJC8I00T3cmSuQGdK52eeajtBJryw95T-fl27BXaYYewKTAhgZPKj_ZWcaQDJhbSkj59dV4l0SZe8G/s1600/vishing.jpg"
-    },
-    "content": "Google-owned Mandiant on Friday said it identified an \"expansion in threat activity\" that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters.\nThe attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim",
-    "contentSnippet": "Google-owned Mandiant on Friday said it identified an \"expansion in threat activity\" that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters.\nThe attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim",
-    "guid": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
-    "isoDate": "2026-01-31T07:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
-    "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
-    "pubDate": "Sat, 31 Jan 2026 12:35:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cwnqWO_vrn1IMT0UVtME4aucCsS_J5p48slMlc8jBUgNPFLBUdakBPEj38y6dnkUlrnRMdSA3IB7Jc5hVxU227Jl7T6641Py08_lld2UzvG8YoKmJYr07piXYUzyMFW4HwBDuxUgzu2R-j3pcGZ_2yJIZOKlQPvoMIKXtaj2HXUuJJXsUaf8lqvoD5qm/s1600/energy.jpg"
-    },
-    "content": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.\nThe incident took place on December 29, 2025. The agency has attributed the attacks to",
-    "contentSnippet": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.\nThe incident took place on December 29, 2025. The agency has attributed the attacks to",
-    "guid": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
-    "isoDate": "2026-01-31T07:05:00.000Z",
-    "itunes": {}
   }
 ]
