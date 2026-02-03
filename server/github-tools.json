@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8453,
+    "stars": 8454,
     "forks": 1145,
     "language": null
   },
@@ -180,6 +180,15 @@
     "language": null
   },
   {
+    "name": "Wifi-Deauthentication-Tool",
+    "owner": "ezhil56x",
+    "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
+    "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
+    "stars": 93,
+    "forks": 17,
+    "language": "Shell"
+  },
+  {
     "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
@@ -187,15 +196,6 @@
     "stars": 93,
     "forks": 14,
     "language": null
-  },
-  {
-    "name": "Wifi-Deauthentication-Tool",
-    "owner": "ezhil56x",
-    "url": "https://github.com/ezhil56x/Wifi-Deauthentication-Tool",
-    "description": "Wi-Fi Deauthentication Tool is a command-line utility for educational purposes, enabling users to perform Wi-Fi network actions such as scanning, deauthentication, and monitoring. Use responsibly and comply with applicable laws.",
-    "stars": 92,
-    "forks": 17,
-    "language": "Shell"
   },
   {
     "name": "CyberSecurity-Tools",
