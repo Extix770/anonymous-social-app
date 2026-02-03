@@ -729,15 +729,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -745,6 +736,15 @@
     "stars": 6,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",

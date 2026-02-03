@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
+    "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
+    "pubDate": "Tue, 03 Feb 2026 10:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMhF4Q5Le-vJfovBcsvDHI-V4XTT-ZlCDveT5a3ibTH_5_USxu3yKbxTyY86_7HfbI0Lfcvl9zXpIWost8jehkxJ83EEkTpJNxySNjlntsGoxQtgJompW0iNQdpylvHAc5GkY-7L8X4iebatDHQUhMYFspiAKemuy_iPqtjz3NCwLXzIRC4xFOeiq6Ea5/s1600/notepad.jpg"
+    },
+    "content": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly",
+    "contentSnippet": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly",
+    "guid": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
+    "isoDate": "2026-02-03T04:55:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
     "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
     "pubDate": "Mon, 02 Feb 2026 23:19:00 +0530",
@@ -329,23 +346,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
     "guid": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
     "isoDate": "2026-01-30T12:08:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Badges, Bytes and Blackmail",
-    "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
-    "pubDate": "Fri, 30 Jan 2026 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1600/orange.jpg"
-    },
-    "content": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
-    "contentSnippet": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
-    "guid": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
-    "isoDate": "2026-01-30T11:30:00.000Z",
     "itunes": {}
   }
 ]
