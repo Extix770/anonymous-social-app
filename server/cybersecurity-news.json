@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Ali Winston",
+    "title": "The Paramilitary ICE and CBP Units at the Center of Minnesota's Killings",
+    "link": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
+    "pubDate": "Tue, 03 Feb 2026 19:52:29 +0000",
+    "dc:creator": "Ali Winston",
+    "content": "Two agents involved in the shooting deaths of US citizens in Minneapolis are reportedly part of highly militarized DHS units whose extreme tactics are generally reserved for war zones.",
+    "contentSnippet": "Two agents involved in the shooting deaths of US citizens in Minneapolis are reportedly part of highly militarized DHS units whose extreme tactics are generally reserved for war zones.",
+    "guid": "697bda99eeb4ef697c02db68",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-03T19:52:29.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
     "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
@@ -325,23 +341,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users.\n\"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
     "guid": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
     "isoDate": "2026-02-02T05:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
-    "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
-    "pubDate": "Sat, 31 Jan 2026 17:32:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmL5-hTI_aBpSFPndnqV4ySQ5udayxJUvuXcCQm8f6jEz8a1_dL_S_Bum3hv0UpfLYgBthCoHBndUqX5rNCKFG0QlS-eVd31TFtGAaOiogrxNKqV5O27ZkAqjYReR6GVxTEe_SLJv_aiKKlab-nbHxFh46cGppeDCHs40izJtFikGL5NKW8d0_srV1IQ6x/s1600/iran-hackers.jpg"
-    },
-    "content": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.\nThe activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
-    "contentSnippet": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.\nThe activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
-    "guid": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
-    "isoDate": "2026-01-31T12:02:00.000Z",
     "itunes": {}
   }
 ]
