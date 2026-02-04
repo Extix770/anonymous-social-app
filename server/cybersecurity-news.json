@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+    "pubDate": "Wed, 04 Feb 2026 15:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnx0YyMmcxNjnpByxI1Ox1uYPj-VK1XhaTm_BWuyumyZGTDH9njGAT0tc95n736kaWAVeRD9ptaw5XJZoNSuIeVBgU8bBXXMlu-zlyZxXq8AjftysB21xcTcM5U-mtX6-jdtRAYuAhkLTb2k2inxlvvI4vXevI8knxLpst2BeGfY6LI0bHj7U87-VwxQ/s1600/malware-attack.jpg"
+    },
+    "content": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
+    "contentSnippet": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
+    "guid": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+    "isoDate": "2026-02-04T10:00:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
     "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
     "pubDate": "Wed, 04 Feb 2026 13:12:00 +0530",
@@ -325,22 +342,5 @@
     "guid": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
     "isoDate": "2026-02-02T11:45:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Luigi Mastrodonato",
-    "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
-    "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
-    "pubDate": "Mon, 02 Feb 2026 11:00:00 +0000",
-    "dc:creator": "Luigi Mastrodonato",
-    "content": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
-    "contentSnippet": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
-    "guid": "697cc7e9cb2a365d4266695f",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-02-02T11:00:00.000Z"
   }
 ]
