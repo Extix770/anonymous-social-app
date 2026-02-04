@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+    "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+    "pubDate": "Wed, 04 Feb 2026 13:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg"
+    },
+    "content": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.\nThe tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
+    "contentSnippet": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.\nThe tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
+    "guid": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+    "isoDate": "2026-02-04T07:42:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
     "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
     "pubDate": "Wed, 04 Feb 2026 11:56:00 +0530",
@@ -325,22 +342,5 @@
       "Politics / Politics News"
     ],
     "isoDate": "2026-02-02T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-    "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-    "pubDate": "Mon, 02 Feb 2026 14:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIJHd4OQK00g8yDOJc5wJZ0EWtYGWBzwoLlIxw_YWELb5JYsmrE_jz2VDjexbfuzmGjZcvQ4iX6rAorcNC-7YgwG577NGRfGFuCzfGK9ZkMc7jiDLl9RCtRM45pUSLAOO-S-z1MDKEJjvXzxSZ90RQ4OmCPuYCHDEfBzgCADf21_XLxxBq9C7puPcFlL_/s1600/notepad-hacked.jpg"
-    },
-    "content": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
-    "contentSnippet": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
-    "guid": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-    "isoDate": "2026-02-02T08:55:00.000Z",
-    "itunes": {}
   }
 ]
