@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers",
+    "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+    "pubDate": "Thu, 05 Feb 2026 10:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rduNeKuuHUpRierQx1jig2SMH0dhcoENNLniZavZ25JgD68fkxRwp3s4H42sJrL7OXa4r0QublDt9VQ2mjh1uIBuQsvPi4iHtrY2JHw4res_AZQc3pf-AQ610FvG6o_TcXxDliH5JlNJbaVN0AXj3De60H669V9fTQIyqNRNHHMgSfwbjZe8xt3cPhIy/s1600/nginx-hacked.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure.\nDatadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure.\nDatadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
+    "guid": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+    "isoDate": "2026-02-05T04:56:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dan Goodin, Ars Technica",
     "title": "Notepad++ Users, You May Have Been Hacked by China",
     "link": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
@@ -323,23 +340,6 @@
     "contentSnippet": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
     "guid": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
     "isoDate": "2026-02-03T05:39:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-    "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-    "pubDate": "Tue, 03 Feb 2026 10:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMhF4Q5Le-vJfovBcsvDHI-V4XTT-ZlCDveT5a3ibTH_5_USxu3yKbxTyY86_7HfbI0Lfcvl9zXpIWost8jehkxJ83EEkTpJNxySNjlntsGoxQtgJompW0iNQdpylvHAc5GkY-7L8X4iebatDHQUhMYFspiAKemuy_iPqtjz3NCwLXzIRC4xFOeiq6Ea5/s1600/notepad.jpg"
-    },
-    "content": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly",
-    "contentSnippet": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly",
-    "guid": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-    "isoDate": "2026-02-03T04:55:00.000Z",
     "itunes": {}
   }
 ]
