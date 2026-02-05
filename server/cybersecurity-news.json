@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+    "pubDate": "Thu, 05 Feb 2026 22:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg"
+    },
+    "content": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
+    "contentSnippet": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
+    "guid": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+    "isoDate": "2026-02-05T17:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
     "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
     "pubDate": "Thu, 05 Feb 2026 18:27:00 +0530",
@@ -10,8 +27,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_2XB7ryXippAp9zUFVo52pAx1ApwoiVUwGxURxVTNIji0VO33VdciwulLXVslQ90-eSYknrIr8KSJMDEjC2uHK92e1Iin45YEI3IN5LvHAp5AJif7FqHJ-hsZ_WlmiOlXemsLpQWZ5KBSvKKZGoQ6AqePah4TWVcwbu2aFAKgugkK6SA8YglMDW5kUx/s1600/threatsday-main.jpg"
     },
-    "content": "This week didn&rsquo;t produce one big headline. It produced many small signals &mdash; the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That&rsquo;s the point. Entry is becoming less",
-    "contentSnippet": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less",
+    "content": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
+    "contentSnippet": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
     "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
     "isoDate": "2026-02-05T12:57:00.000Z",
     "itunes": {}
@@ -325,23 +342,6 @@
     "contentSnippet": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
     "guid": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
     "isoDate": "2026-02-03T14:14:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-    "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-    "pubDate": "Tue, 03 Feb 2026 19:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoY39EkJj9fch5nmhH8FbZrt87Lvt1bszbWtMThQ0yaemkia0K_avsYUK1pNT5jcN7vYoL0rK_y-17LQ3silMU-Jg0UixiFlceBjUcwng2z17B-W4HZnUEzoMHuecgNwRezisydmEGOG26RxF9u9UEof0KPmQIp4Y2QlDLaxPb6TFq7C8rkAn1CzW9y18Z/s1600/react.jpg"
-    },
-    "content": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
-    "contentSnippet": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
-    "guid": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-    "isoDate": "2026-02-03T14:00:00.000Z",
     "itunes": {}
   }
 ]
