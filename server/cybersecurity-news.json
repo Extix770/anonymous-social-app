@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "The Buyer’s Guide to AI Usage Control",
+    "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+    "pubDate": "Thu, 05 Feb 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpSoX57ALenPL8np8ytWrS5oa8e4k8YIalPfIMcz22AlZ0d6ty1EO1myE6RDnMzhJvexH4pdak5SFgADFsYSqv7yb788Y6wm1aAVuxBQfOzENiAydw6vUhEVpBdI27mA0GVGnCwICW5okRNTyXHthGXdMoOVnrnC-gTqISgISWgRqPmwbgQAFZXpBveo/s1600/main.jpg"
+    },
+    "content": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
+    "contentSnippet": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
+    "guid": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+    "isoDate": "2026-02-05T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+    "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+    "pubDate": "Thu, 05 Feb 2026 15:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ERbt8WNDNB0dUBHa1RW4Js_8AhSmorSisyOplVJjamDe87uMfCCGeqM_VrKwRGteNlpjh3NfFHjriXs81bWsrgjtX75RGERc1AFNBWFKLTtm-geYPNn4aVPeDVNzcoqmDrMImn7YPl1sqja6zKy7aAFO5baubav3qk8AMIFj5MAh2GpkSoI1YL4PSKMk/s1600/iranian-hackers.jpg"
+    },
+    "content": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+    "contentSnippet": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+    "guid": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+    "isoDate": "2026-02-05T10:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
     "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
     "pubDate": "Thu, 05 Feb 2026 11:46:00 +0530",
@@ -247,7 +281,7 @@
     "enclosure": {
       "length": "12216320",
       "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwD8GAdNdNuHeeaGY_XNzQ5R2ImwMvVU46K5gM8t9-q0vuQ4enqi1W5Ljd4D6RktNyAY75SA0gLSrf6oqykbq3lQn5jhZglmqyGYGf3pm6mdHbTSjZoRxPFxG3ruwjYGu6vl9UtgAaORZTIkEliQl1bzeWXt554RsrCKzJlAhyADYV2X_n42rmfAg_Iiig/s1600/soc.jpg"
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94yPJzbFbdUMoIM3dTA8goVdCA24p4PPkHSWX3VTTV5kl4XNJD_hz4_NrZb0XjG_tHMdyLMSWJIawj8PTJcqal7TpfSJ0_3jeGzZFn7dTa0_ecTHkRtPzSKBP1VlUaeuv_ErmIMZF08OiQxQPZ73I-A5AmbcUyLGtt2dsYI7RWEBUMie7rqn_EjnC_5aQ/s1600/soc-webinar.jpg"
     },
     "content": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
     "contentSnippet": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
@@ -309,37 +343,6 @@
     "contentSnippet": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
     "guid": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
     "isoDate": "2026-02-03T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "How Data Brokers Can Fuel Violence Against Public Servants",
-    "link": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
-    "pubDate": "Tue, 03 Feb 2026 11:00:00 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "A new report from the Public Service Alliance finds state privacy laws offer public servants few ways to protect their private data, even as threats against them are on the rise.",
-    "contentSnippet": "A new report from the Public Service Alliance finds state privacy laws offer public servants few ways to protect their private data, even as threats against them are on the rise.",
-    "guid": "697d1aadebbd70548ef50cbb",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-02-03T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
-    "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-    "pubDate": "Tue, 03 Feb 2026 14:42:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg"
-    },
-    "content": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit.\nZscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three",
-    "contentSnippet": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit.\nZscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three",
-    "guid": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-    "isoDate": "2026-02-03T09:12:00.000Z",
     "itunes": {}
   }
 ]
