@@ -14,7 +14,7 @@
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
     "stars": 7466,
-    "forks": 851,
+    "forks": 852,
     "language": "HTML"
   },
   {
@@ -85,7 +85,7 @@
     "owner": "awake1t",
     "url": "https://github.com/awake1t/Awesome-hacking-tools",
     "description": " 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助",
-    "stars": 518,
+    "stars": 519,
     "forks": 61,
     "language": "Python"
   },
@@ -112,7 +112,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 251,
+    "stars": 252,
     "forks": 32,
     "language": "JavaScript"
   },
@@ -130,7 +130,7 @@
     "owner": "the0cp",
     "url": "https://github.com/the0cp/awesome-ddos-tools",
     "description": "Collection of several DDos tools.",
-    "stars": 204,
+    "stars": 205,
     "forks": 45,
     "language": "Python"
   },
