@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Dell Cameron, Maddy Varner",
+    "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+    "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
+    "pubDate": "Thu, 05 Feb 2026 20:28:34 +0000",
+    "dc:creator": "Dell Cameron, Maddy Varner",
+    "content": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
+    "contentSnippet": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
+    "guid": "697909858bd11cb3a1a8e9b6",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-02-05T20:28:34.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
     "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
@@ -325,23 +343,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
     "guid": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
     "isoDate": "2026-02-03T16:41:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-    "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-    "pubDate": "Tue, 03 Feb 2026 19:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94yPJzbFbdUMoIM3dTA8goVdCA24p4PPkHSWX3VTTV5kl4XNJD_hz4_NrZb0XjG_tHMdyLMSWJIawj8PTJcqal7TpfSJ0_3jeGzZFn7dTa0_ecTHkRtPzSKBP1VlUaeuv_ErmIMZF08OiQxQPZ73I-A5AmbcUyLGtt2dsYI7RWEBUMie7rqn_EjnC_5aQ/s1600/soc-webinar.jpg"
-    },
-    "content": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
-    "contentSnippet": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
-    "guid": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-    "isoDate": "2026-02-03T14:14:00.000Z",
     "itunes": {}
   }
 ]
