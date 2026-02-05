@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Backdoor in Notepad++",
+    "link": "https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html",
+    "pubDate": "Thu, 05 Feb 2026 12:00:07 +0000",
+    "content:encoded": "<p>Hackers associated with the Chinese government used a <a href=\"https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/\">Trojaned version</a> of Notepad++ to deliver malware to selected users.</p>\n<blockquote><p>Notepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor &#8220;specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.&#8221; Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed.</p></blockquote>\n<p>Make sure you&#8217;re running at least version 8.9.1.</p>\n",
+    "content:encodedSnippet": "Hackers associated with the Chinese government used a Trojaned version of Notepad++ to deliver malware to selected users.\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor “specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.” Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed.\n\nMake sure you’re running at least version 8.9.1.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html#comments",
+    "content": "<p>Hackers associated with the Chinese government used a <a href=\"https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/\">Trojaned version</a> of Notepad++ to deliver malware to selected users.</p>\n<blockquote><p>Notepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor &#8220;specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.&#8221; Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed...</p></blockquote>",
+    "contentSnippet": "Hackers associated with the Chinese government used a Trojaned version of Notepad++ to deliver malware to selected users.\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor “specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.” Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed...",
+    "guid": "https://www.schneier.com/?p=71556",
+    "categories": [
+      "Uncategorized",
+      "backdoors",
+      "China",
+      "hacking",
+      "supply chain"
+    ],
+    "isoDate": "2026-02-05T12:00:07.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "The Buyer’s Guide to AI Usage Control",
     "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
@@ -327,22 +348,5 @@
       "Windows"
     ],
     "isoDate": "2026-02-03T12:05:25.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "When Cloud Outages Ripple Across the Internet",
-    "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-    "pubDate": "Tue, 03 Feb 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A2lK2hBXnibuGwyEFh23Ff9v06u07aDA_n1I1aJJjghSJHfGa1BQ5kmELI2inX855kRwZI0r2XTRWGZ95rMvJNTiz98WNTA_8P2fI-oZll8vvvT_OlDgOPef1iBU4Hlq7j3ZcSQnLf_8aWYXW5FebN8rML3yEpOP-EKS6wlagaNu4jOBt4U0ET89Whg/s1600/cloud.jpg"
-    },
-    "content": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
-    "contentSnippet": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
-    "guid": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-    "isoDate": "2026-02-03T11:00:00.000Z",
-    "itunes": {}
   }
 ]
