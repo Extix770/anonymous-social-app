@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
+    "pubDate": "Thu, 05 Feb 2026 18:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_2XB7ryXippAp9zUFVo52pAx1ApwoiVUwGxURxVTNIji0VO33VdciwulLXVslQ90-eSYknrIr8KSJMDEjC2uHK92e1Iin45YEI3IN5LvHAp5AJif7FqHJ-hsZ_WlmiOlXemsLpQWZ5KBSvKKZGoQ6AqePah4TWVcwbu2aFAKgugkK6SA8YglMDW5kUx/s1600/threatsday-main.jpg"
+    },
+    "content": "This week didn&rsquo;t produce one big headline. It produced many small signals &mdash; the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That&rsquo;s the point. Entry is becoming less",
+    "contentSnippet": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less",
+    "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
+    "isoDate": "2026-02-05T12:57:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Backdoor in Notepad++",
     "link": "https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html",
@@ -326,27 +343,5 @@
     "guid": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
     "isoDate": "2026-02-03T14:00:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Microsoft is Giving the FBI BitLocker Keys",
-    "link": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html",
-    "pubDate": "Tue, 03 Feb 2026 12:05:25 +0000",
-    "content:encoded": "<p>Microsoft <a href=\"https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/\">gives</a> the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.</p>\n<blockquote><p>It&#8217;s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.</p></blockquote>\n",
-    "content:encodedSnippet": "Microsoft gives the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.\nIt’s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html#comments",
-    "content": "<p>Microsoft <a href=\"https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/\">gives</a> the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.</p>\n<blockquote><p>It&#8217;s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.</p></blockquote>\n",
-    "contentSnippet": "Microsoft gives the FBI the ability to decrypt BitLocker in response to court orders: about twenty times per year.\nIt’s possible for users to store those keys on a device they own, but Microsoft also recommends BitLocker users store their keys on its servers for convenience. While that means someone can access their data if they forget their password, or if repeated failed attempts to login lock the device, it also makes them vulnerable to law enforcement subpoenas and warrants.",
-    "guid": "https://www.schneier.com/?p=71550",
-    "categories": [
-      "Uncategorized",
-      "FBI",
-      "full-disk encryption",
-      "Microsoft",
-      "privacy",
-      "Windows"
-    ],
-    "isoDate": "2026-02-03T12:05:25.000Z"
   }
 ]
