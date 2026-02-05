@@ -1,7 +1,24 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers",
+    "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+    "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+    "pubDate": "Thu, 05 Feb 2026 11:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeDfUJ3dcvTHnszlPkp_8RQkKpjpHIbWHPCfPjGf16CK3oGHnoDK4gkT5aAlsOX8xzlqoXjO607ZI5hGGrfcEcx7sVF4GPhGRAM_CzLIpjeo8x2bnmulJeGj1EcCvfXciADxkSoVB3E2EDxAfIv6SLjeWoNl073KrVdkVeSVt-VTwMoLGgApT46oEYK9-/s1600/n8n-hacking.jpg"
+    },
+    "content": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
+    "contentSnippet": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
+    "guid": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+    "isoDate": "2026-02-05T06:16:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
     "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
     "pubDate": "Thu, 05 Feb 2026 10:26:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -323,23 +340,6 @@
     "contentSnippet": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit.\nZscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three",
     "guid": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
     "isoDate": "2026-02-03T09:12:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-    "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-    "pubDate": "Tue, 03 Feb 2026 11:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFREHntU9jE2vdgmfzAVYrexFXt9MeruM4HiYozg9V4r-x4KdVLieGy3RgN40mWiE7m_U-d-rinldqoyYhf7hETgMSb-JI6pzdyOyCqm-Xogscv90ZTzis-Hfxe3LwKTWOLoLF52CZz6yVKTVX4Dk6AF4Ad_UwTaDQjqUw7J3DafVFVomKMVyEnoLjioB/s1600/firefox.jpg"
-    },
-    "content": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
-    "contentSnippet": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
-    "guid": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-    "isoDate": "2026-02-03T05:39:00.000Z",
     "itunes": {}
   }
 ]
