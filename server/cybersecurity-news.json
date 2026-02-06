@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+    "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+    "pubDate": "Fri, 06 Feb 2026 11:19:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg"
+    },
+    "content": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+    "contentSnippet": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+    "guid": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+    "isoDate": "2026-02-06T05:49:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron, Maddy Varner",
     "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
     "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
@@ -327,22 +344,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-02-03T19:52:29.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-    "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-    "pubDate": "Tue, 03 Feb 2026 22:11:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjMkaXhS9INevCSOPI_fOpweXt3g4TvjWQWZiUuxYDziaTNIsIk5vg-FCGf2sVKw6xzckOoHmfEODI5gJR_PzcUDayWZTEit09jkkb5QVxZNWtTg8ULumP2aiJc0ae6Km_eKzQwaZzp1EFrVcDm7PND2VjtV7VH7PyA3r5qwlReoDAoH38LVHcX9qjH3G/s1600/gordon.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
-    "guid": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-    "isoDate": "2026-02-03T16:41:00.000Z",
-    "itunes": {}
   }
 ]
