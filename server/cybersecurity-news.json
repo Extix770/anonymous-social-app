@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+    "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+    "pubDate": "Fri, 06 Feb 2026 19:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1uFwm_WzT-KegdpNHP4BZ8lVr18AxaDHJOg7q82ToP6qmFMnQyBFVEFSnIO4vOPNF0vKBCZyllAPnBsWALveRbuPV9J-vZClRVCbp8_5dmKpPsrYghHm_ONMIxi-gatCoDpkHqCExbcZiMyGPzXV0TzqBJlXcraIeCWwEeyEk4pBChWP8iHuWAOuUzOV/s1600/cisa.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize",
+    "guid": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+    "isoDate": "2026-02-06T13:43:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
     "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
     "pubDate": "Fri, 06 Feb 2026 17:37:00 +0530",
@@ -24,7 +41,7 @@
     "content:encoded": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices.</p>\n<p>The FBI raided Natanson&#8217;s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson&#8217;s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said. </p></blockquote>\n",
     "content:encodedSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices.\nThe FBI raided Natanson’s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson’s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html#comments",
     "content": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices...</p></blockquote>",
     "contentSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices...",
     "guid": "https://www.schneier.com/?p=71560",
@@ -331,23 +348,6 @@
     "contentSnippet": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
     "guid": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
     "isoDate": "2026-02-04T11:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-    "pubDate": "Wed, 04 Feb 2026 15:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnx0YyMmcxNjnpByxI1Ox1uYPj-VK1XhaTm_BWuyumyZGTDH9njGAT0tc95n736kaWAVeRD9ptaw5XJZoNSuIeVBgU8bBXXMlu-zlyZxXq8AjftysB21xcTcM5U-mtX6-jdtRAYuAhkLTb2k2inxlvvI4vXevI8knxLpst2BeGfY6LI0bHj7U87-VwxQ/s1600/malware-attack.jpg"
-    },
-    "content": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
-    "contentSnippet": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
-    "guid": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-    "isoDate": "2026-02-04T10:00:00.000Z",
     "itunes": {}
   }
 ]
