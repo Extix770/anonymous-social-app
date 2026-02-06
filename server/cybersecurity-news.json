@@ -1,5 +1,40 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "ICE Agent's ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting",
+    "link": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
+    "pubDate": "Fri, 06 Feb 2026 22:14:45 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "The government has withheld details of the investigation of Renee Good's killing—but an unrelated case involving the ICE agent who shot her could force new revelations.",
+    "contentSnippet": "The government has withheld details of the investigation of Renee Good's killing—but an unrelated case involving the ICE agent who shot her could force new revelations.",
+    "guid": "698623868d12f90caa65184b",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2026-02-06T22:14:45.000Z"
+  },
+  {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Fishing Tips",
+    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html",
+    "pubDate": "Fri, 06 Feb 2026 22:01:05 +0000",
+    "content:encoded": "<p>This is a <a href=\"https://www.youtube.com/watch?v=pNq_W2CkACU\">video</a> of advice for squid fishing in Puget Sound.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "This is a video of advice for squid fishing in Puget Sound.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html#respond",
+    "content": "<p>This is a <a href=\"https://www.youtube.com/watch?v=pNq_W2CkACU\">video</a> of advice for squid fishing in Puget Sound.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "This is a video of advice for squid fishing in Puget Sound.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71521",
+    "categories": [
+      "Uncategorized",
+      "squid",
+      "video"
+    ],
+    "isoDate": "2026-02-06T22:01:05.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "I Am in the Epstein Files",
     "link": "https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html",
@@ -313,40 +348,6 @@
     "contentSnippet": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
     "guid": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
     "isoDate": "2026-02-04T17:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-    "pubDate": "Wed, 04 Feb 2026 22:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg"
-    },
-    "content": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
-    "contentSnippet": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
-    "guid": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-    "isoDate": "2026-02-04T17:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-    "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-    "pubDate": "Wed, 04 Feb 2026 19:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg"
-    },
-    "content": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
-    "contentSnippet": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
-    "guid": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-    "isoDate": "2026-02-04T14:09:00.000Z",
     "itunes": {}
   }
 ]
