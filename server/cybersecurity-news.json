@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+    "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+    "pubDate": "Fri, 06 Feb 2026 20:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
+    },
+    "content": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019.\nThe framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
+    "contentSnippet": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019.\nThe framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
+    "guid": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+    "isoDate": "2026-02-06T14:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
     "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
     "pubDate": "Fri, 06 Feb 2026 19:13:00 +0530",
@@ -332,22 +349,5 @@
       "national security policy"
     ],
     "isoDate": "2026-02-04T12:02:10.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-    "pubDate": "Wed, 04 Feb 2026 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghboJKP_ilIImzDjyOOa4B8E7ROaXqrkh3DC6nIy_UixMApqE53tBrehqcGNDE0YlAl2jHW-t4hWtNqSIIlM8YDgBqb4vLS9Em9quvWdzN8xsrh6KkkGGI3lAHSqitDBH0u1RXDmCXrXU_zbRUjGgtBI4scsiYTHycXXb3Fjzk3ozHYsTw2zMFb-_KgWc/s1600/mai.gif"
-    },
-    "content": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
-    "contentSnippet": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
-    "guid": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-    "isoDate": "2026-02-04T11:58:00.000Z",
-    "itunes": {}
   }
 ]
