@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "iPhone Lockdown Mode Protects Washington Post Reporter",
+    "link": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html",
+    "pubDate": "Fri, 06 Feb 2026 12:00:36 +0000",
+    "content:encoded": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices.</p>\n<p>The FBI raided Natanson&#8217;s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson&#8217;s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said. </p></blockquote>\n",
+    "content:encodedSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices.\nThe FBI raided Natanson’s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson’s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html#respond",
+    "content": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices...</p></blockquote>",
+    "contentSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices...",
+    "guid": "https://www.schneier.com/?p=71560",
+    "categories": [
+      "Uncategorized",
+      "courts",
+      "FBI",
+      "iPhone",
+      "privacy"
+    ],
+    "isoDate": "2026-02-06T12:00:36.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How Samsung Knox Helps Stop Your Network Security Breach",
     "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
@@ -327,23 +348,6 @@
     "contentSnippet": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.\nThe tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
     "guid": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
     "isoDate": "2026-02-04T07:42:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-    "pubDate": "Wed, 04 Feb 2026 11:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHoCQzirCKCGciIltPFi7LbjpANR75gNFmH6Lbsm5FOdl40UHJT4Xd3aWxxSdUe6r7wlqMWKuLSkUWmg11yfF7pnvIcETtkv5S5gtEeYFaHh8hKUoSicCcMvUn8UO9WUTVUDzSpEyXEaS01P6Wza6weGp2iqIbAnQKlN3I3f2_F2bGXSyssfhG2iIE591/s1600/openvsx.jpg"
-    },
-    "content": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
-    "contentSnippet": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
-    "guid": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-    "isoDate": "2026-02-04T06:26:00.000Z",
     "itunes": {}
   }
 ]
