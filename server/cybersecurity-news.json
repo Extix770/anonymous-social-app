@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+    "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+    "pubDate": "Fri, 06 Feb 2026 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbHuhB2klNlaHkYykLYRjMjQVPrFD5GjaSmTiLJPzDkOGBVufabhBs2akKWk8RV3LBOvEqj2ANFmVcfqfixnoHAlShEtg6FZvSviNFYX1xmLxdRZwK3M87ElFVhJbArR7ZELSje8MoaPW2FnbHHIWFTpjSOxlPaP5KWEXzIJ8YkkMlzdUE01DTeDPKUw/s1600/samsung.jpg"
+    },
+    "content": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+    "contentSnippet": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it’s a big “however”), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+    "guid": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+    "isoDate": "2026-02-06T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
     "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
     "pubDate": "Fri, 06 Feb 2026 14:10:00 +0530",
@@ -327,23 +344,6 @@
     "contentSnippet": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
     "guid": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
     "isoDate": "2026-02-04T06:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-    "pubDate": "Wed, 04 Feb 2026 11:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
-    "guid": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-    "isoDate": "2026-02-04T05:50:00.000Z",
     "itunes": {}
   }
 ]
