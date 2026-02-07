@@ -94,7 +94,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 510,
+    "stars": 511,
     "forks": 112,
     "language": null
   },
@@ -139,7 +139,7 @@
     "owner": "cyberytti",
     "url": "https://github.com/cyberytti/ToolHunt",
     "description": "This is a local search engine to search for cybersecurity tools. It has 3000+ tools in it's database.",
-    "stars": 198,
+    "stars": 199,
     "forks": 27,
     "language": "HTML"
   },
