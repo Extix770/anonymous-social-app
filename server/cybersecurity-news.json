@@ -18,6 +18,23 @@
     "isoDate": "2026-02-07T11:30:00.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+    "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+    "pubDate": "Sat, 07 Feb 2026 16:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg"
+    },
+    "content": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app.\n\"The focus is on high-ranking targets in",
+    "contentSnippet": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app.\n\"The focus is on high-ranking targets in",
+    "guid": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+    "isoDate": "2026-02-07T11:15:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting",
     "link": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
@@ -334,21 +351,5 @@
     "guid": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
     "isoDate": "2026-02-05T04:56:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dan Goodin, Ars Technica",
-    "title": "Notepad++ Users, You May Have Been Hacked by China",
-    "link": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
-    "pubDate": "Wed, 04 Feb 2026 19:52:59 +0000",
-    "dc:creator": "Dan Goodin, Ars Technica",
-    "content": "Suspected Chinese state-backed hackers hijacked the Notepad++ update infrastructure to deliver a backdoored version of the popular free source code editor and note-taking app for Windows.",
-    "contentSnippet": "Suspected Chinese state-backed hackers hijacked the Notepad++ update infrastructure to deliver a backdoored version of the popular free source code editor and note-taking app for Windows.",
-    "guid": "69836805afde988bb6796bae",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-02-04T19:52:59.000Z"
   }
 ]
