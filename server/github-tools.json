@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7492,
+    "stars": 7493,
     "forks": 851,
     "language": "HTML"
   },
@@ -693,15 +693,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -709,6 +700,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -738,15 +738,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -756,13 +747,22 @@
     "language": "TypeScript"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   },
   {
     "name": "qradarOffenseTools",
@@ -774,13 +774,13 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "HTML"
+    "language": "Python"
   }
 ]
