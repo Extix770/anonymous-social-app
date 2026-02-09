@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matthew Gault",
+    "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
+    "link": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
+    "pubDate": "Mon, 09 Feb 2026 11:30:00 +0000",
+    "dc:creator": "Matthew Gault",
+    "content": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
+    "contentSnippet": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
+    "guid": "6985f39bb028fff37d1b080d",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-09T11:30:00.000Z"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "Iran’s Digital Surveillance Machine Is Almost Complete",
     "link": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
@@ -328,23 +345,6 @@
     "contentSnippet": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
     "guid": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
     "isoDate": "2026-02-05T17:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-    "pubDate": "Thu, 05 Feb 2026 18:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_2XB7ryXippAp9zUFVo52pAx1ApwoiVUwGxURxVTNIji0VO33VdciwulLXVslQ90-eSYknrIr8KSJMDEjC2uHK92e1Iin45YEI3IN5LvHAp5AJif7FqHJ-hsZ_WlmiOlXemsLpQWZ5KBSvKKZGoQ6AqePah4TWVcwbu2aFAKgugkK6SA8YglMDW5kUx/s1600/threatsday-main.jpg"
-    },
-    "content": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
-    "contentSnippet": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
-    "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-    "isoDate": "2026-02-05T12:57:00.000Z",
     "itunes": {}
   }
 ]

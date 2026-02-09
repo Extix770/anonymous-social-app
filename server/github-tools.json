@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2380,
+    "stars": 2381,
     "forks": 351,
     "language": null
   },
@@ -801,6 +801,15 @@
     "language": null
   },
   {
+    "name": "awesome-cyber-security-tools",
+    "owner": "0xh3xa",
+    "url": "https://github.com/0xh3xa/awesome-cyber-security-tools",
+    "description": "🛡️ A curated list of commonly used tools for cybersecurity",
+    "stars": 5,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "Hacker-Tools",
     "owner": "Push4ck",
     "url": "https://github.com/Push4ck/Hacker-Tools",
@@ -817,15 +826,6 @@
     "stars": 5,
     "forks": 2,
     "language": "Shell"
-  },
-  {
-    "name": "awesome-cyber-security-tools",
-    "owner": "0xh3xa",
-    "url": "https://github.com/0xh3xa/awesome-cyber-security-tools",
-    "description": "🛡️ A curated list of commonly used tools for cybersecurity",
-    "stars": 5,
-    "forks": 3,
-    "language": null
   },
   {
     "name": "WEEK-TOOL",
