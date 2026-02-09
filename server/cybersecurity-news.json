@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days",
+    "link": "https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html",
+    "pubDate": "Mon, 09 Feb 2026 12:04:29 +0000",
+    "content:encoded": "<p>This is <a href=\"https://red.anthropic.com/2026/zero-days/\">amazing</a>:</p>\n<blockquote><p>Opus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, investing heavily in fuzzing infrastructure and custom harnesses to find bugs at scale. But what stood out in early testing is how quickly Opus 4.6 found vulnerabilities out of the box without task-specific tooling, custom scaffolding, or specialized prompting. Even more interesting is how it found them. Fuzzers work by throwing massive amounts of random inputs at code to see what breaks. Opus 4.6 reads and reasons about code the way a human researcher would­&#8212;looking at past fixes to find similar bugs that weren&#8217;t addressed, spotting patterns that tend to cause problems, or understanding a piece of logic well enough to know exactly what input would break it. When we pointed Opus 4.6 at some of the most well-tested codebases (projects that have had fuzzers running against them for years, <a href=\"https://google.github.io/oss-fuzz/research/llms/target_generation/\">accumulating millions of hours of CPU time</a>), Opus 4.6 found high-severity vulnerabilities, some that had gone undetected for decades.</p></blockquote>\n<p>The details of how Claude Opus 4.6 found these zero-days is the interesting part&#8212;read the whole blog post.</p>\n<p>News <a href=\"https://gizmodo.com/anthropic-launches-new-model-that-spots-zero-days-makes-wall-street-traders-lose-their-minds-2000718648\">article</a>.</p>\n",
+    "content:encodedSnippet": "This is amazing:\nOpus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, investing heavily in fuzzing infrastructure and custom harnesses to find bugs at scale. But what stood out in early testing is how quickly Opus 4.6 found vulnerabilities out of the box without task-specific tooling, custom scaffolding, or specialized prompting. Even more interesting is how it found them. Fuzzers work by throwing massive amounts of random inputs at code to see what breaks. Opus 4.6 reads and reasons about code the way a human researcher would­—looking at past fixes to find similar bugs that weren’t addressed, spotting patterns that tend to cause problems, or understanding a piece of logic well enough to know exactly what input would break it. When we pointed Opus 4.6 at some of the most well-tested codebases (projects that have had fuzzers running against them for years, accumulating millions of hours of CPU time), Opus 4.6 found high-severity vulnerabilities, some that had gone undetected for decades.\n\nThe details of how Claude Opus 4.6 found these zero-days is the interesting part—read the whole blog post.\nNews article.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html#comments",
+    "content": "<p>This is <a href=\"https://red.anthropic.com/2026/zero-days/\">amazing</a>:</p>\n<blockquote><p>Opus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, investing heavily in fuzzing infrastructure and custom harnesses to find bugs at scale. But what stood out in early testing is how quickly Opus 4.6 found vulnerabilities out of the box without task-specific tooling, custom scaffolding, or specialized prompting. Even more interesting is how it found them. Fuzzers work by throwing massive amounts of random inputs at code to see what breaks. Opus 4.6 reads and reasons about code the way a human researcher would­&#8212;looking at past fixes to find similar bugs that weren&#8217;t addressed, spotting patterns that tend to cause problems, or understanding a piece of logic well enough to know exactly what input would break it. When we pointed Opus 4.6 at some of the most well-tested codebases (projects that have had fuzzers running against them for years, ...</p></blockquote>",
+    "contentSnippet": "This is amazing:\nOpus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, investing heavily in fuzzing infrastructure and custom harnesses to find bugs at scale. But what stood out in early testing is how quickly Opus 4.6 found vulnerabilities out of the box without task-specific tooling, custom scaffolding, or specialized prompting. Even more interesting is how it found them. Fuzzers work by throwing massive amounts of random inputs at code to see what breaks. Opus 4.6 reads and reasons about code the way a human researcher would­—looking at past fixes to find similar bugs that weren’t addressed, spotting patterns that tend to cause problems, or understanding a piece of logic well enough to know exactly what input would break it. When we pointed Opus 4.6 at some of the most well-tested codebases (projects that have had fuzzers running against them for years, ...",
+    "guid": "https://www.schneier.com/?p=71569",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "LLM",
+      "zero-day"
+    ],
+    "isoDate": "2026-02-09T12:04:29.000Z"
+  },
+  {
     "creator": "Matthew Gault",
     "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
     "link": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
@@ -15,6 +35,23 @@
       "Business / Artificial Intelligence"
     ],
     "isoDate": "2026-02-09T11:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+    "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+    "pubDate": "Mon, 09 Feb 2026 16:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
+    },
+    "content": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
+    "contentSnippet": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
+    "guid": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+    "isoDate": "2026-02-09T11:23:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "Lily Hay Newman, Matt Burgess",
@@ -310,41 +347,6 @@
     "contentSnippet": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with",
     "guid": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
     "isoDate": "2026-02-06T05:49:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron, Maddy Varner",
-    "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
-    "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
-    "pubDate": "Thu, 05 Feb 2026 20:28:34 +0000",
-    "dc:creator": "Dell Cameron, Maddy Varner",
-    "content": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
-    "contentSnippet": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
-    "guid": "697909858bd11cb3a1a8e9b6",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-02-05T20:28:34.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
-    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
-    "pubDate": "Thu, 05 Feb 2026 22:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg"
-    },
-    "content": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
-    "contentSnippet": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
-    "guid": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
-    "isoDate": "2026-02-05T17:25:00.000Z",
     "itunes": {}
   }
 ]
