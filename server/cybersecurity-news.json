@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
+    "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+    "pubDate": "Mon, 09 Feb 2026 14:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg"
+    },
+    "content": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation.\nThe activity, observed around December 25, 2025, and described as \"worm-driven,\" leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed",
+    "contentSnippet": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation.\nThe activity, observed around December 25, 2025, and described as \"worm-driven,\" leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed",
+    "guid": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+    "isoDate": "2026-02-09T08:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
     "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
     "pubDate": "Mon, 09 Feb 2026 13:33:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
     "guid": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
     "isoDate": "2026-02-05T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
-    "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
-    "pubDate": "Thu, 05 Feb 2026 15:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ERbt8WNDNB0dUBHa1RW4Js_8AhSmorSisyOplVJjamDe87uMfCCGeqM_VrKwRGteNlpjh3NfFHjriXs81bWsrgjtX75RGERc1AFNBWFKLTtm-geYPNn4aVPeDVNzcoqmDrMImn7YPl1sqja6zKy7aAFO5baubav3qk8AMIFj5MAh2GpkSoI1YL4PSKMk/s1600/iranian-hackers.jpg"
-    },
-    "content": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
-    "contentSnippet": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
-    "guid": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
-    "isoDate": "2026-02-05T10:25:00.000Z",
     "itunes": {}
   }
 ]
