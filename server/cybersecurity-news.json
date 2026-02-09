@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
+    "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+    "pubDate": "Mon, 09 Feb 2026 13:33:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
+    },
+    "content": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution.\n\"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
+    "contentSnippet": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution.\n\"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
+    "guid": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+    "isoDate": "2026-02-09T08:03:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
     "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
     "pubDate": "Sun, 08 Feb 2026 13:02:00 +0530",
@@ -333,23 +350,6 @@
     "contentSnippet": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
     "guid": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
     "isoDate": "2026-02-05T10:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
-    "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
-    "pubDate": "Thu, 05 Feb 2026 11:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeDfUJ3dcvTHnszlPkp_8RQkKpjpHIbWHPCfPjGf16CK3oGHnoDK4gkT5aAlsOX8xzlqoXjO607ZI5hGGrfcEcx7sVF4GPhGRAM_CzLIpjeo8x2bnmulJeGj1EcCvfXciADxkSoVB3E2EDxAfIv6SLjeWoNl073KrVdkVeSVt-VTwMoLGgApT46oEYK9-/s1600/n8n-hacking.jpg"
-    },
-    "content": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
-    "contentSnippet": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
-    "guid": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
-    "isoDate": "2026-02-05T06:16:00.000Z",
     "itunes": {}
   }
 ]
