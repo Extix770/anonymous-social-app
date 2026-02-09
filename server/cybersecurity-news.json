@@ -1,5 +1,38 @@
 [
   {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "Iran’s Digital Surveillance Machine Is Almost Complete",
+    "link": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
+    "pubDate": "Mon, 09 Feb 2026 11:00:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "After more than 15 years of draconian measures, culminating in an ongoing internet shutdown, the Iranian regime seems to be staggering toward its digital surveillance endgame.",
+    "contentSnippet": "After more than 15 years of draconian measures, culminating in an ongoing internet shutdown, the Iranian regime seems to be staggering toward its digital surveillance endgame.",
+    "guid": "698214da8ea882e1b01b5cfd",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-09T11:00:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
+    "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+    "pubDate": "Mon, 09 Feb 2026 16:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg"
+    },
+    "content": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
+    "contentSnippet": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
+    "guid": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+    "isoDate": "2026-02-09T10:58:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
     "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
@@ -312,44 +345,6 @@
     "contentSnippet": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
     "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
     "isoDate": "2026-02-05T12:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Backdoor in Notepad++",
-    "link": "https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html",
-    "pubDate": "Thu, 05 Feb 2026 12:00:07 +0000",
-    "content:encoded": "<p>Hackers associated with the Chinese government used a <a href=\"https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/\">Trojaned version</a> of Notepad++ to deliver malware to selected users.</p>\n<blockquote><p>Notepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor &#8220;specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.&#8221; Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed.</p></blockquote>\n<p>Make sure you&#8217;re running at least version 8.9.1.</p>\n",
-    "content:encodedSnippet": "Hackers associated with the Chinese government used a Trojaned version of Notepad++ to deliver malware to selected users.\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor “specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.” Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed.\n\nMake sure you’re running at least version 8.9.1.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html#comments",
-    "content": "<p>Hackers associated with the Chinese government used a <a href=\"https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/\">Trojaned version</a> of Notepad++ to deliver malware to selected users.</p>\n<blockquote><p>Notepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor &#8220;specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.&#8221; Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed...</p></blockquote>",
-    "contentSnippet": "Hackers associated with the Chinese government used a Trojaned version of Notepad++ to deliver malware to selected users.\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor “specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.” Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed...",
-    "guid": "https://www.schneier.com/?p=71556",
-    "categories": [
-      "Uncategorized",
-      "backdoors",
-      "China",
-      "hacking",
-      "supply chain"
-    ],
-    "isoDate": "2026-02-05T12:00:07.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Buyer’s Guide to AI Usage Control",
-    "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
-    "pubDate": "Thu, 05 Feb 2026 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpSoX57ALenPL8np8ytWrS5oa8e4k8YIalPfIMcz22AlZ0d6ty1EO1myE6RDnMzhJvexH4pdak5SFgADFsYSqv7yb788Y6wm1aAVuxBQfOzENiAydw6vUhEVpBdI27mA0GVGnCwICW5okRNTyXHthGXdMoOVnrnC-gTqISgISWgRqPmwbgQAFZXpBveo/s1600/main.jpg"
-    },
-    "content": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
-    "contentSnippet": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
-    "guid": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
-    "isoDate": "2026-02-05T11:30:00.000Z",
     "itunes": {}
   }
 ]
