@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8483,
+    "stars": 8484,
     "forks": 1148,
     "language": null
   },
@@ -76,8 +76,8 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 580,
-    "forks": 121,
+    "stars": 605,
+    "forks": 123,
     "language": null
   },
   {
@@ -693,15 +693,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -709,6 +700,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -756,6 +756,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript"
+  },
+  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -772,15 +781,6 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -810,15 +810,6 @@
     "language": null
   },
   {
-    "name": "Hacker-Tools",
-    "owner": "Push4ck",
-    "url": "https://github.com/Push4ck/Hacker-Tools",
-    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
-    "stars": 5,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "soc-toolkit",
     "owner": "phrp720",
     "url": "https://github.com/phrp720/soc-toolkit",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Shell"
+  },
+  {
+    "name": "Hacker-Tools",
+    "owner": "Push4ck",
+    "url": "https://github.com/Push4ck/Hacker-Tools",
+    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
+    "stars": 5,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "WEEK-TOOL",
@@ -846,15 +846,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -862,6 +853,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "HTML"
+    "language": "Python"
   }
 ]
