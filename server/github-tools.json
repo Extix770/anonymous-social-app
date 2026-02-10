@@ -76,8 +76,8 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 636,
-    "forks": 126,
+    "stars": 663,
+    "forks": 127,
     "language": null
   },
   {
@@ -360,6 +360,15 @@
     "language": "Batchfile"
   },
   {
+    "name": "NmapScanningTool",
+    "owner": "SagarBiswas-MultiHAT",
+    "url": "https://github.com/SagarBiswas-MultiHAT/NmapScanningTool",
+    "description": "An interactive Python wrapper around Nmap that simplifies running common network scans. It prompts for targets, ports, and scan types, supports SYN, aggressive, OS detection, and NSE vulnerability scans, checks for privileges and Nmap availability, and can filter results to show only open ports.",
+    "stars": 19,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "cybersecurity-tools",
     "owner": "paulveillard",
     "url": "https://github.com/paulveillard/cybersecurity-tools",
@@ -375,6 +384,15 @@
     "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
+    "language": "Python"
+  },
+  {
+    "name": "Phoneint-OSINT-Toolkit",
+    "owner": "SagarBiswas-MultiHAT",
+    "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
+    "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
+    "stars": 18,
+    "forks": 0,
     "language": "Python"
   },
   {
@@ -414,15 +432,6 @@
     "language": "Python"
   },
   {
-    "name": "NmapScanningTool",
-    "owner": "SagarBiswas-MultiHAT",
-    "url": "https://github.com/SagarBiswas-MultiHAT/NmapScanningTool",
-    "description": "An interactive Python wrapper around Nmap that simplifies running common network scans. It prompts for targets, ports, and scan types, supports SYN, aggressive, OS detection, and NSE vulnerability scans, checks for privileges and Nmap availability, and can filter results to show only open ports.",
-    "stars": 16,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "Splunk-Tools",
     "owner": "EvolvingSysadmin",
     "url": "https://github.com/EvolvingSysadmin/Splunk-Tools",
@@ -438,15 +447,6 @@
     "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
     "stars": 15,
     "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "Phoneint-OSINT-Toolkit",
-    "owner": "SagarBiswas-MultiHAT",
-    "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
-    "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
-    "stars": 15,
-    "forks": 0,
     "language": "Python"
   },
   {
