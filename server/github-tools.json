@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8486,
+    "stars": 8487,
     "forks": 1149,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7502,
+    "stars": 7503,
     "forks": 852,
     "language": "HTML"
   },
@@ -76,7 +76,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 716,
+    "stars": 724,
     "forks": 135,
     "language": null
   },
@@ -148,7 +148,7 @@
     "owner": "nateahess",
     "url": "https://github.com/nateahess/awesome-recon-tools",
     "description": "A compiled list of tools for reconnaissance and footprinting",
-    "stars": 162,
+    "stars": 163,
     "forks": 18,
     "language": null
   },
@@ -211,7 +211,7 @@
     "owner": "airborne-commando",
     "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
     "description": "A list and guide of OSINT/OPSEC and some tools that I've made and or use.",
-    "stars": 61,
+    "stars": 62,
     "forks": 4,
     "language": null
   },
