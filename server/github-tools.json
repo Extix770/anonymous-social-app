@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7500,
+    "stars": 7501,
     "forks": 852,
     "language": "HTML"
   },
@@ -58,7 +58,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
     "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
-    "stars": 765,
+    "stars": 766,
     "forks": 133,
     "language": null
   },
@@ -76,7 +76,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 663,
+    "stars": 676,
     "forks": 127,
     "language": null
   },
@@ -333,6 +333,15 @@
     "language": "Python"
   },
   {
+    "name": "Phoneint-OSINT-Toolkit",
+    "owner": "SagarBiswas-MultiHAT",
+    "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
+    "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
+    "stars": 20,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "PCI-DSS-Compliance-Toolkit",
     "owner": "praiseordu",
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
@@ -384,15 +393,6 @@
     "description": "A collection of  utilities to help with analysis on the command line.",
     "stars": 18,
     "forks": 3,
-    "language": "Python"
-  },
-  {
-    "name": "Phoneint-OSINT-Toolkit",
-    "owner": "SagarBiswas-MultiHAT",
-    "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
-    "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
-    "stars": 18,
-    "forks": 0,
     "language": "Python"
   },
   {
