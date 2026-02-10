@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+    "pubDate": "Tue, 10 Feb 2026 10:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
+    },
+    "content": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems.\nThe vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out of a maximum of 10.0.\n\n\"An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability [CWE-89] in FortiClientEMS may",
+    "contentSnippet": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems.\nThe vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out of a maximum of 10.0.\n\n\"An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability [CWE-89] in FortiClientEMS may",
+    "guid": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+    "isoDate": "2026-02-10T04:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
     "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
     "pubDate": "Mon, 09 Feb 2026 22:31:00 +0530",
@@ -327,26 +344,5 @@
     "guid": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
     "isoDate": "2026-02-06T12:07:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "iPhone Lockdown Mode Protects Washington Post Reporter",
-    "link": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html",
-    "pubDate": "Fri, 06 Feb 2026 12:00:36 +0000",
-    "content:encoded": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices.</p>\n<p>The FBI raided Natanson&#8217;s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson&#8217;s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said. </p></blockquote>\n",
-    "content:encodedSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices.\nThe FBI raided Natanson’s home as part of its investigation into government contractor Aurelio Perez-Lugones, who is charged with, among other things, retention of national defense information. The government believes Perez-Lugones was a source of Natanson’s, and provided her with various pieces of classified information. While executing a search warrant for his mobile phone, investigators reviewed Signal messages between Pere-Lugones and the reporter, the Department of Justice previously said.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html#comments",
-    "content": "<p>404Media is <a href=\"https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/\">reporting</a> that the FBI could not access a reporter&#8217;s iPhone because it had Lockdown Mode enabled:</p>\n<blockquote><p>The court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.</p>\n<p>&#8220;Because the iPhone was in Lockdown mode, CART could not extract that device,&#8221; the court record reads, referring to the FBI&#8217;s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson&#8217;s devices...</p></blockquote>",
-    "contentSnippet": "404Media is reporting that the FBI could not access a reporter’s iPhone because it had Lockdown Mode enabled:\nThe court record shows what devices and data the FBI was able to ultimately access, and which devices it could not, after raiding the home of the reporter, Hannah Natanson, in January as part of an investigation into leaks of classified information. It also provides rare insight into the apparent effectiveness of Lockdown Mode, or at least how effective it might be before the FBI may try other techniques to access the device.\n“Because the iPhone was in Lockdown mode, CART could not extract that device,” the court record reads, referring to the FBI’s Computer Analysis Response Team, a unit focused on performing forensic analyses of seized devices. The document is written by the government, and is opposing the return of Natanson’s devices...",
-    "guid": "https://www.schneier.com/?p=71560",
-    "categories": [
-      "Uncategorized",
-      "courts",
-      "FBI",
-      "iPhone",
-      "privacy"
-    ],
-    "isoDate": "2026-02-06T12:00:36.000Z"
   }
 ]
