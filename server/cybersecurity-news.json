@@ -1,6 +1,44 @@
 [
   {
     "creator": "Bruce Schneier",
+    "title": "Rewiring Democracy Ebook is on Sale",
+    "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
+    "pubDate": "Wed, 11 Feb 2026 14:48:14 +0000",
+    "content:encoded": "<p>I just noticed that the ebook version of <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><i>Rewriring Democracy</i> is on sale for $5 on <a href=\"https://www.amazon.com/gp/product/B0DTNZ2H86\">Amazon</a>, <a\nhref=\"https://books.apple.com/us/book/rewiring-democracy/id6740839808\">Apple Books</a>, <a\nhref=\"https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407\">Barnes &amp; Noble</a>, <a\nhref=\"https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742\">Books A Million</a>, <a\nhref=\"https://play.google.com/store/books/details?id=QcNAEQAAQBAJ\">Google Play</a>, <a href=\"https://www.kobo.com/us/en/ebook/rewiring-democracy\">Kobo</a>, and presumably everywhere else in the US. I have no idea how long this will last.</p>\n",
+    "content:encodedSnippet": "I just noticed that the ebook version of Rewriring Democracy is on sale for $5 on Amazon, Apple Books, Barnes & Noble, Books A Million, Google Play, Kobo, and presumably everywhere else in the US. I have no idea how long this will last.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html#respond",
+    "content": "<p>I just noticed that the ebook version of <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><i>Rewriring Democracy</i> is on sale for $5 on <a href=\"https://www.amazon.com/gp/product/B0DTNZ2H86\">Amazon</a>, <a href=\"https://books.apple.com/us/book/rewiring-democracy/id6740839808\">Apple Books</a>, <a href=\"https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407\">Barnes &#38; Noble</a>, <a href=\"https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742\">Books A Million</a>, <a href=\"https://play.google.com/store/books/details?id=QcNAEQAAQBAJ\">Google Play</a>, <a href=\"https://www.kobo.com/us/en/ebook/rewiring-democracy\">Kobo</a>, and presumably everywhere else in the US. I have no idea how long this will last.</p>\n",
+    "contentSnippet": "I just noticed that the ebook version of Rewriring Democracy is on sale for $5 on Amazon, Apple Books, Barnes & Noble, Books A Million, Google Play, Kobo, and presumably everywhere else in the US. I have no idea how long this will last.",
+    "guid": "https://www.schneier.com/?p=71593",
+    "categories": [
+      "Uncategorized",
+      "books",
+      "ebooks",
+      "Rewiring Democracy",
+      "Schneier news"
+    ],
+    "isoDate": "2026-02-11T14:48:14.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
+    "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
+    "pubDate": "Wed, 11 Feb 2026 18:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn9BjSz22uW2NPDNZhkDs7Ygjb5lTP5jFhXbGlk3oBRgpncWsp6pu42-c0T7TXDPviwihS5GuwedI6ULAmI6Zp8NKWOMzS-wJlSjVkd02cB6rM0uLbi-ZU1oxKsSQIpesNLkaA13EDcht62GZgjQbG2nffYeQPhXOWJHUBKhRwKm4s_-_ukeKZuno8I7Iv/s1600/patches.jpg"
+    },
+    "content": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.\nMicrosoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition.\nElsewhere",
+    "contentSnippet": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.\nMicrosoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition.\nElsewhere",
+    "guid": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
+    "isoDate": "2026-02-11T13:28:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Bruce Schneier",
     "title": "Prompt Injection Via Road Signs",
     "link": "https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html",
     "pubDate": "Wed, 11 Feb 2026 12:03:22 +0000",
@@ -335,39 +373,5 @@
       "zero-day"
     ],
     "isoDate": "2026-02-09T12:04:29.000Z"
-  },
-  {
-    "creator": "Matthew Gault",
-    "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
-    "link": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
-    "pubDate": "Mon, 09 Feb 2026 11:30:00 +0000",
-    "dc:creator": "Matthew Gault",
-    "content": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
-    "contentSnippet": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
-    "guid": "6985f39bb028fff37d1b080d",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-09T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
-    "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
-    "pubDate": "Mon, 09 Feb 2026 16:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
-    },
-    "content": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
-    "contentSnippet": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
-    "guid": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
-    "isoDate": "2026-02-09T11:23:00.000Z",
-    "itunes": {}
   }
 ]
