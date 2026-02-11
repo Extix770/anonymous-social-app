@@ -31,7 +31,7 @@
     "owner": "0Chencc",
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
-    "stars": 2070,
+    "stars": 2071,
     "forks": 302,
     "language": "Rust"
   },
@@ -63,21 +63,21 @@
     "language": null
   },
   {
+    "name": "Hacking-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Hacking-Tools",
+    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+    "stars": 760,
+    "forks": 139,
+    "language": null
+  },
+  {
     "name": "Awesome-Blackhat-Tools",
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
     "stars": 755,
     "forks": 70,
-    "language": null
-  },
-  {
-    "name": "Hacking-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hacking-Tools",
-    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 752,
-    "forks": 139,
     "language": null
   },
   {
