@@ -49,7 +49,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 805,
+    "stars": 806,
     "forks": 138,
     "language": "JavaScript"
   },
@@ -67,7 +67,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 763,
+    "stars": 765,
     "forks": 140,
     "language": null
   },
@@ -76,7 +76,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 755,
+    "stars": 756,
     "forks": 70,
     "language": null
   },
@@ -594,15 +594,6 @@
     "language": null
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 8,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "Largo-m",
     "url": "https://github.com/Largo-m/security-tools-hacking",
@@ -610,6 +601,15 @@
     "stars": 8,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "stars": 8,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "GovTools",
@@ -738,6 +738,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -747,13 +756,13 @@
     "language": "TypeScript"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
-    "forks": 1,
-    "language": "Python"
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "red_team_toolkit",
@@ -774,28 +783,19 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
     "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
     "forks": 1,
     "language": null
@@ -837,15 +837,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -864,13 +855,13 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
     "stars": 5,
     "forks": 1,
-    "language": null
+    "language": "C"
   },
   {
     "name": "BEC-Detection-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",

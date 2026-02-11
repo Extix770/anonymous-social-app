@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Prompt Injection Via Road Signs",
+    "link": "https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html",
+    "pubDate": "Wed, 11 Feb 2026 12:03:22 +0000",
+    "content:encoded": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2510.00181\">CHAI: Command Hijacking Against Embodied AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-sense reasoning grounded in perception and action to generalize beyond training distributions and adapt to novel real-world situations. These capabilities, however, also create new security risks. In this paper, we introduce CHAI (Command Hijacking against embodied AI), a new class of prompt-based attacks that exploit the multimodal language interpretation abilities of Large Visual-Language Models (LVLMs). CHAI embeds deceptive natural language instructions, such as misleading signs, in visual input, systematically searches the token space, builds a dictionary of prompts, and guides an attacker model to generate Visual Attack Prompts. We evaluate CHAI on four LVLM agents; drone emergency landing, autonomous driving, and aerial object tracking, and on a real robotic vehicle. Our experiments show that CHAI consistently outperforms state-of-the-art attacks. By exploiting the semantic and multimodal reasoning strengths of next-generation embodied AI systems, CHAI underscores the urgent need for defenses that extend beyond traditional adversarial robustness.</p></blockquote>\n<p>News <a href=\"https://www.theregister.com/2026/01/30/road_sign_hijack_ai/\">article</a>.</p>\n",
+    "content:encodedSnippet": "Interesting research: “CHAI: Command Hijacking Against Embodied AI.”\nAbstract: Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-sense reasoning grounded in perception and action to generalize beyond training distributions and adapt to novel real-world situations. These capabilities, however, also create new security risks. In this paper, we introduce CHAI (Command Hijacking against embodied AI), a new class of prompt-based attacks that exploit the multimodal language interpretation abilities of Large Visual-Language Models (LVLMs). CHAI embeds deceptive natural language instructions, such as misleading signs, in visual input, systematically searches the token space, builds a dictionary of prompts, and guides an attacker model to generate Visual Attack Prompts. We evaluate CHAI on four LVLM agents; drone emergency landing, autonomous driving, and aerial object tracking, and on a real robotic vehicle. Our experiments show that CHAI consistently outperforms state-of-the-art attacks. By exploiting the semantic and multimodal reasoning strengths of next-generation embodied AI systems, CHAI underscores the urgent need for defenses that extend beyond traditional adversarial robustness.\n\nNews article.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html#respond",
+    "content": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2510.00181\">CHAI: Command Hijacking Against Embodied AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-sense reasoning grounded in perception and action to generalize beyond training distributions and adapt to novel real-world situations. These capabilities, however, also create new security risks. In this paper, we introduce CHAI (Command Hijacking against embodied AI), a new class of prompt-based attacks that exploit the multimodal language interpretation abilities of Large Visual-Language Models (LVLMs). CHAI embeds deceptive natural language instructions, such as misleading signs, in visual input, systematically searches the token space, builds a dictionary of prompts, and guides an attacker model to generate Visual Attack Prompts. We evaluate CHAI on four LVLM agents; drone emergency landing, autonomous driving, and aerial object tracking, and on a real robotic vehicle. Our experiments show that CHAI consistently outperforms state-of-the-art attacks. By exploiting the semantic and multimodal reasoning strengths of next-generation embodied AI systems, CHAI underscores the urgent need for defenses that extend beyond traditional adversarial robustness...</p></blockquote>",
+    "contentSnippet": "Interesting research: “CHAI: Command Hijacking Against Embodied AI.”\nAbstract: Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-sense reasoning grounded in perception and action to generalize beyond training distributions and adapt to novel real-world situations. These capabilities, however, also create new security risks. In this paper, we introduce CHAI (Command Hijacking against embodied AI), a new class of prompt-based attacks that exploit the multimodal language interpretation abilities of Large Visual-Language Models (LVLMs). CHAI embeds deceptive natural language instructions, such as misleading signs, in visual input, systematically searches the token space, builds a dictionary of prompts, and guides an attacker model to generate Visual Attack Prompts. We evaluate CHAI on four LVLM agents; drone emergency landing, autonomous driving, and aerial object tracking, and on a real robotic vehicle. Our experiments show that CHAI consistently outperforms state-of-the-art attacks. By exploiting the semantic and multimodal reasoning strengths of next-generation embodied AI systems, CHAI underscores the urgent need for defenses that extend beyond traditional adversarial robustness...",
+    "guid": "https://www.schneier.com/?p=71577",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "AI",
+      "cars",
+      "hacking"
+    ],
+    "isoDate": "2026-02-11T12:03:22.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+    "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+    "pubDate": "Wed, 11 Feb 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQeF3lExyDyGEAtnZylF2A30qkeG6Yoa-GxL_guF46TWzDUEyX7jg-j-PSO7VwdSUlFIalEmV2nCGE4KyntCePcUgW6qEBX6Mmj3rOpo5iTEqIjkQYd0YdeEOWjnpg5AWhfK0jO0wDksHchtMgjF8pq-lwcO-eHoyw2EqAGGqc48_UZRQsZ2R4ZxFG0bc/s1600/pentera.jpg"
+    },
+    "content": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments.\nThe issue is not the applications themselves, but how they are often",
+    "contentSnippet": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments.\nThe issue is not the applications themselves, but how they are often",
+    "guid": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+    "isoDate": "2026-02-11T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
     "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
@@ -330,39 +368,6 @@
     "contentSnippet": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
     "guid": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
     "isoDate": "2026-02-09T11:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "Iran’s Digital Surveillance Machine Is Almost Complete",
-    "link": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
-    "pubDate": "Mon, 09 Feb 2026 11:00:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "After more than 15 years of draconian measures, culminating in an ongoing internet shutdown, the Iranian regime seems to be staggering toward its digital surveillance endgame.",
-    "contentSnippet": "After more than 15 years of draconian measures, culminating in an ongoing internet shutdown, the Iranian regime seems to be staggering toward its digital surveillance endgame.",
-    "guid": "698214da8ea882e1b01b5cfd",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-02-09T11:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
-    "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
-    "pubDate": "Mon, 09 Feb 2026 16:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg"
-    },
-    "content": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
-    "contentSnippet": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
-    "guid": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
-    "isoDate": "2026-02-09T10:58:00.000Z",
     "itunes": {}
   }
 ]
