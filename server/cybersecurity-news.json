@@ -17,6 +17,23 @@
     "isoDate": "2026-02-11T21:23:51.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+    "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+    "pubDate": "Wed, 11 Feb 2026 23:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGH5OFCdEH8WLDQvMuU6qAbaI73kVMtx4uASqujZ12UAb3Q-yJX3ZsFCpc1uJuUE4ah_z24WgRv_1JhOem_ISHdoYtPzZPy6o5HwRuoBGjThyru3WAtrcOqyA9hDvSNgSKIgaYUTdIOUJHL7HCRUEZgt9Z8fP6F8oINDt4LkeziTnTW6cx_Qw_DJ2FLMmo/s1600/outlook.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been",
+    "contentSnippet": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been",
+    "guid": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+    "isoDate": "2026-02-11T17:45:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
     "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
@@ -362,23 +379,6 @@
     "contentSnippet": "SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance.\nThe incident took place on January 29, 2026, when a mail server that was not updated to the latest version was compromised, the company's Chief Commercial Officer, Derek Curtis, said.\n\"Prior to the breach, we had approximately 30 servers/VMs",
     "guid": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
     "isoDate": "2026-02-10T10:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
-    "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-    "pubDate": "Tue, 10 Feb 2026 13:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwO0dfI4hVFSzIpnPbDAGzLfh0FJh-3jiKa-mSrkIRuXECaLjAb1Yh9nM8I4KrZ40fAX4eYwHyQyVNRGJDCXkq6uzf5Tm0L0uiMb8buN2iEs-x4bw6ywRLTvaO5eLyiXr614f_0ekstIPre9e_Yw576ptePRbRqcjmxcmu4hxlJ5O9UHPa79j9PGi3vg/s1600/Ivanti.jpg"
-    },
-    "content": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday.\n\"On January 29, the National Cyber Security Center (",
-    "contentSnippet": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday.\n\"On January 29, the National Cyber Security Center (",
-    "guid": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-    "isoDate": "2026-02-10T08:22:00.000Z",
     "itunes": {}
   }
 ]
