@@ -45,6 +45,15 @@
     "language": null
   },
   {
+    "name": "Hacking-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Hacking-Tools",
+    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
+    "stars": 812,
+    "forks": 141,
+    "language": null
+  },
+  {
     "name": "osint_toolkit",
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
@@ -52,15 +61,6 @@
     "stars": 806,
     "forks": 138,
     "language": "JavaScript"
-  },
-  {
-    "name": "Hacking-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Hacking-Tools",
-    "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 805,
-    "forks": 141,
-    "language": null
   },
   {
     "name": "Open-source-tools-for-CTI",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "HTML"
+    "language": "Python"
   }
 ]
