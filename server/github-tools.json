@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2388,
+    "stars": 2389,
     "forks": 351,
     "language": null
   },
@@ -603,15 +603,6 @@
     "language": "Python"
   },
   {
-    "name": "security-tools-hacking",
-    "owner": "Largo-m",
-    "url": "https://github.com/Largo-m/security-tools-hacking",
-    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
@@ -619,6 +610,15 @@
     "stars": 8,
     "forks": 2,
     "language": null
+  },
+  {
+    "name": "security-tools-hacking",
+    "owner": "Largo-m",
+    "url": "https://github.com/Largo-m/security-tools-hacking",
+    "description": "A powerful, modular Windows penetration testing framework with high coding scalability. Designed for security professionals and enthusiasts, this tool provides multiple modules for reconnaissance, exploitation, and post-exploitation, making red team operations and ethical hacking easier and more efficient.  Keywords / Tags: Windows, Pentest",
+    "stars": 8,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "GovTools",
@@ -693,15 +693,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -709,6 +700,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -756,13 +756,13 @@
     "language": "TypeScript"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   },
   {
     "name": "red_team_toolkit",
@@ -774,28 +774,28 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
-    "language": "TypeScript"
-  },
-  {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
     "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 6,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
     "stars": 6,
     "forks": 1,
     "language": null
