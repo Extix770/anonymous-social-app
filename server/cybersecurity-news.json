@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Do Squid Dream?",
+    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html",
+    "pubDate": "Fri, 13 Feb 2026 22:08:39 +0000",
+    "content:encoded": "<p>An <a href=\"https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/\">exploration</a> of the interesting question.</p>\n",
+    "content:encodedSnippet": "An exploration of the interesting question.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html#respond",
+    "content": "<p>An <a href=\"https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/\">exploration</a> of the interesting question.</p>\n",
+    "contentSnippet": "An exploration of the interesting question.",
+    "guid": "https://www.schneier.com/?p=71523",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-02-13T22:08:39.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
     "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
@@ -334,26 +352,5 @@
     "guid": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
     "isoDate": "2026-02-11T14:52:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Rewiring Democracy Ebook is on Sale",
-    "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
-    "pubDate": "Wed, 11 Feb 2026 14:48:14 +0000",
-    "content:encoded": "<p>I just noticed that the ebook version of <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><cite>Rewriring Democracy</cite></a> is on sale for $5 on <a href=\"https://www.amazon.com/gp/product/B0DTNZ2H86\">Amazon</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://books.apple.com/us/book/rewiring-democracy/id6740839808\">Apple Books</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407\">Barnes &amp; Noble</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742\">Books A Million</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://play.google.com/store/books/details?id=QcNAEQAAQBAJ\">Google Play</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.kobo.com/us/en/ebook/rewiring-democracy\">Kobo</a>, and presumably everywhere else in the US. I have no idea how long this will last.</p>\n<p>Also, Amazon has a <a href=\"https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945\">coupon</a> that brings the hardcover price down to $20. You&#8217;ll see the discount at checkout.</p>\n",
-    "content:encodedSnippet": "I just noticed that the ebook version of Rewriring Democracy is on sale for $5 on Amazon, Apple Books, Barnes & Noble, Books A Million, Google Play, Kobo, and presumably everywhere else in the US. I have no idea how long this will last.\nAlso, Amazon has a coupon that brings the hardcover price down to $20. You’ll see the discount at checkout.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html#comments",
-    "content": "<p>I just noticed that the ebook version of <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><cite>Rewriring Democracy</cite></a> is on sale for $5 on <a href=\"https://www.amazon.com/gp/product/B0DTNZ2H86\">Amazon</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://books.apple.com/us/book/rewiring-democracy/id6740839808\">Apple Books</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407\">Barnes &#38; Noble</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742\">Books A Million</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://play.google.com/store/books/details?id=QcNAEQAAQBAJ\">Google Play</a><a href=\"https://www.schneier.com/books/rewiring-democracy/\">, </a><a href=\"https://www.kobo.com/us/en/ebook/rewiring-democracy\">Kobo</a>, and presumably everywhere else in the US. I have no idea how long this will last.</p>\n<p>Also, Amazon has a <a href=\"https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945\">coupon</a> that brings the hardcover price down to $20. You&#8217;ll see the discount at checkout.</p>\n",
-    "contentSnippet": "I just noticed that the ebook version of Rewriring Democracy is on sale for $5 on Amazon, Apple Books, Barnes & Noble, Books A Million, Google Play, Kobo, and presumably everywhere else in the US. I have no idea how long this will last.\nAlso, Amazon has a coupon that brings the hardcover price down to $20. You’ll see the discount at checkout.",
-    "guid": "https://www.schneier.com/?p=71593",
-    "categories": [
-      "Uncategorized",
-      "books",
-      "ebooks",
-      "Rewiring Democracy",
-      "Schneier news"
-    ],
-    "isoDate": "2026-02-11T14:48:14.000Z"
   }
 ]
