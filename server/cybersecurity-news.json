@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+    "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+    "pubDate": "Fri, 13 Feb 2026 14:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHJd8VBVRuvpR0hMimwS1UYAG3EGKxE8Hu0P_euvkATyd3AmpT5SHvzwvwsAw6CpYuSfSPevYl9xub_RLkKB7hW8W8LBSG5Q-MmyV0QpOhi6BrqwlFgkQWylECioAlH1mcW5W2ChldLxlgHXVrEWeaaY25jhnAbLWzgeRXVLfhdXMLFlt7jC_fmh6E7Si/s1600/beyond.jpg"
+    },
+    "content": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+    "contentSnippet": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+    "guid": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+    "isoDate": "2026-02-13T08:34:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
     "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
     "pubDate": "Thu, 12 Feb 2026 23:27:00 +0530",
@@ -341,23 +358,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes.\n\"The toolset blends stealth helpers with legacy-era Linux exploitation: Alongside log cleaners (utmp/wtmp/lastlog tampering) and rootkit-class artifacts, the actor keeps a large back-catalog of",
     "guid": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
     "isoDate": "2026-02-11T09:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
-    "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
-    "pubDate": "Wed, 11 Feb 2026 12:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1AmCdVPjXcdbUKaHP1fGGR1tT5hO6LUKR9OuPot9_CKjgucWXED-ta6q76tazonthjXXE6rpHZNiNbWi_V5XKJwfUX8Pqhciop7XuyOnQMnKMRTY1L3dp8ba1n4vkhi1W7MH1ZPKA1nnGxGCrBjjvBbjoHVCgRHgyamF5b_V_p276-aJ9_w6nR3f-qiNQ/s1600/crypto.jpg"
-    },
-    "content": "The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft.\n\"The intrusion relied on a social engineering scheme involving a compromised Telegram account, a fake Zoom meeting, a ClickFix infection vector, and reported usage of AI-generated",
-    "contentSnippet": "The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft.\n\"The intrusion relied on a social engineering scheme involving a compromised Telegram account, a fake Zoom meeting, a ClickFix infection vector, and reported usage of AI-generated",
-    "guid": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
-    "isoDate": "2026-02-11T06:50:00.000Z",
     "itunes": {}
   }
 ]
