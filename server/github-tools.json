@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8491,
+    "stars": 8489,
     "forks": 1150,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7517,
+    "stars": 7515,
     "forks": 852,
     "language": "HTML"
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2389,
+    "stars": 2388,
     "forks": 351,
     "language": null
   },
@@ -31,7 +31,7 @@
     "owner": "0Chencc",
     "url": "https://github.com/0Chencc/CTFCrackTools",
     "description": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.",
-    "stars": 2072,
+    "stars": 2070,
     "forks": 302,
     "language": "Rust"
   },
@@ -58,7 +58,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 806,
+    "stars": 807,
     "forks": 138,
     "language": "JavaScript"
   },
@@ -112,7 +112,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 256,
+    "stars": 255,
     "forks": 32,
     "language": "JavaScript"
   },
@@ -756,15 +756,6 @@
     "language": "TypeScript"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -772,6 +763,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
