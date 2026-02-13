@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 879,
+    "stars": 880,
     "forks": 149,
     "language": null
   },
@@ -603,15 +603,6 @@
     "language": "Python"
   },
   {
-    "name": "Cybersecurity-Web-Tools",
-    "owner": "JPablo13",
-    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
-    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
-    "stars": 8,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "security-tools-hacking",
     "owner": "Largo-m",
     "url": "https://github.com/Largo-m/security-tools-hacking",
@@ -619,6 +610,15 @@
     "stars": 8,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "Cybersecurity-Web-Tools",
+    "owner": "JPablo13",
+    "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
+    "description": "This repository is a centralized collection of web-based tools used in cybersecurity, organized by categories such as Red Team, Blue Team, OSINT, Forensics, and more.",
+    "stars": 8,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "GovTools",
@@ -693,15 +693,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -709,6 +700,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -756,13 +756,13 @@
     "language": "TypeScript"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   },
   {
     "name": "red_team_toolkit",
@@ -774,28 +774,28 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 6,
-    "forks": 1,
-    "language": null
+    "language": "TypeScript"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
     "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
     "forks": 1,
     "language": null
@@ -882,6 +882,15 @@
     "language": "PowerShell"
   },
   {
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "stars": 5,
+    "forks": 0,
+    "language": "Rich Text Format"
+  },
+  {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
     "owner": "briskinfosec",
     "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
@@ -889,14 +898,5 @@
     "stars": 4,
     "forks": 3,
     "language": "Shell"
-  },
-  {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
-    "stars": 4,
-    "forks": 2,
-    "language": "HTML"
   }
 ]
