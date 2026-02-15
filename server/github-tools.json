@@ -580,7 +580,7 @@
     "owner": "maxwellcross-labs",
     "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
     "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "language": "Python"
   },
