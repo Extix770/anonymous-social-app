@@ -1,5 +1,38 @@
 [
   {
+    "creator": "Lily Hay Newman",
+    "title": "The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess",
+    "link": "https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/",
+    "pubDate": "Mon, 16 Feb 2026 11:30:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.",
+    "contentSnippet": "Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.",
+    "guid": "698dff94b5b458763ed07a8e",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-16T11:30:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
+    "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+    "pubDate": "Mon, 16 Feb 2026 15:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKaEDCa0YvJa9oAIavVh9Rz9NN1Cj0XVy8fKroTXMBQp7rYGL14oiZ14iCTMk0ToBg1wWx-iTClSpoZ_wg4hSAgPvFyatlGddSFgnaqdREUK24NW6xdnVgajR703vH_UpbjnLC4_NdFy1RC4pETcSTaxekLpAXNfz0n8ME7s9nyIco15DjjTiZwm7Tkhs/s1600/android-spyware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
+    "guid": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+    "isoDate": "2026-02-16T10:24:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
     "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
@@ -307,40 +340,6 @@
     "contentSnippet": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point",
     "guid": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
     "isoDate": "2026-02-12T10:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-    "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-    "pubDate": "Thu, 12 Feb 2026 13:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg"
-    },
-    "content": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.\nThreat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346",
-    "contentSnippet": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.\nThreat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346",
-    "guid": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-    "isoDate": "2026-02-12T07:32:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
-    "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-    "pubDate": "Thu, 12 Feb 2026 11:09:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXXnmQ69hHRCiUryP62cYqb4c5ShYwdmXYG1eTU8ujwrWwGICQBUVPzWAAqAW2fvWYURCEtEsBnhwDXKzV6oMBKSCFhfGMTsIRAoVrqRTHgHebhPRIMMPIBvNsvP8jwzh3ts578kUFyLiIs2mgKUiMQgoUmINM8JOOEVWMWA-W3_wAx07J-nm3oGihE_0v/s1600/apple.gif"
-    },
-    "content": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
-    "contentSnippet": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
-    "guid": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-    "isoDate": "2026-02-12T05:39:00.000Z",
     "itunes": {}
   }
 ]
