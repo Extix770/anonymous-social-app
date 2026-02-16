@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
+    "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+    "pubDate": "Mon, 16 Feb 2026 12:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg"
+    },
+    "content": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
+    "contentSnippet": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
+    "guid": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+    "isoDate": "2026-02-16T06:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
     "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
     "pubDate": "Sun, 15 Feb 2026 19:40:00 +0530",
@@ -325,22 +342,5 @@
     "guid": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
     "isoDate": "2026-02-12T05:39:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "ICE Is Crashing the US Court System in Minnesota",
-    "link": "https://www.wired.com/story/ice-crashing-us-court-system-minnesota/",
-    "pubDate": "Wed, 11 Feb 2026 21:23:51 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "Petitions demanding people get the chance to be released from ICE custody have overwhelmed courts throughout the US.",
-    "contentSnippet": "Petitions demanding people get the chance to be released from ICE custody have overwhelmed courts throughout the US.",
-    "guid": "69860bd949f2bbe1c3c08afb",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-02-11T21:23:51.000Z"
   }
 ]
