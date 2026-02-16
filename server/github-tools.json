@@ -85,7 +85,7 @@
     "owner": "ByCh4n",
     "url": "https://github.com/ByCh4n/BCHackTool",
     "description": "🔥 Professional Penetration Testing Framework v4.0 - Automated subdomain enumeration, vulnerability scanning with Nuclei, port scanning, and comprehensive HTML reports. Features parallel scanning, resume capability, and real-time progress tracking.",
-    "stars": 521,
+    "stars": 522,
     "forks": 87,
     "language": "Shell"
   },
