@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+    "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+    "pubDate": "Tue, 17 Feb 2026 18:12:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf-aCPeJyWMmZFMBCN1oNlo2CYXDsURMrqEjTyJTi0CnWzuOFBZBeDWwvDx-jvdC42-9Doi4LEw0e3URAcR99JHpI6GsvmbK6Qghq5VG_rTpx9vL5k4Cm96Uvm9iodlXhRV7PzIyTX5MXfcRzFFzNJ2my5DS4lFnHgvpMnsIOsKCwY1PKBHdXW_ecf3a3P/s1600/mpc-server.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC.\n\"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC.\n\"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive",
+    "guid": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+    "isoDate": "2026-02-17T12:42:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Side-Channel Attacks Against LLMs",
     "link": "https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html",
@@ -64,8 +81,8 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh0FV5y7nlXl9cJspXtL5CZNMf2-ftHbx-kv0fjJ54M7A5FWTCUgzmscihQebjqcp3c9VXNPK784ZocV5_sG_5eizK2Kp1FeCbVvKuOlpi0vVOMUCUiSUCkdMpU8UWuworyKKXQLL0NAqkoFlBCnjxyB4UsLsEOqRx0hJzXZcWs998ANw_dyKyeip3I6ah/s1600/thn.jpg"
     },
-    "content": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
-    "contentSnippet": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+    "content": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+    "contentSnippet": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
     "guid": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
     "isoDate": "2026-02-17T09:31:00.000Z",
     "itunes": {}
@@ -326,23 +343,6 @@
     "contentSnippet": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
     "guid": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
     "isoDate": "2026-02-13T17:27:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-    "pubDate": "Fri, 13 Feb 2026 21:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTgbqgbztkZlUNEYQUOZixcqxUV-NpLNChacFNUwb2l5mdWsghckr5BS98pnTl2haLryjPeKX8tg0fvAmGcPjYfJIuD3EFaa-oWyEDf-FRqofQt0rBjACVqYXrUuTPLJa3gO-frhpoOgrnE9bxc2FKxoSx9bYOgxpQhrzj4Uh0DIGdyXkMRx18X008_v6m/s1600/google-attacks.jpg"
-    },
-    "content": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).\nThe tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
-    "contentSnippet": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).\nThe tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
-    "guid": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-    "isoDate": "2026-02-13T16:23:00.000Z",
     "itunes": {}
   }
 ]
