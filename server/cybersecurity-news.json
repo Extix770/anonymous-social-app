@@ -1,5 +1,59 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Side-Channel Attacks Against LLMs",
+    "link": "https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html",
+    "pubDate": "Tue, 17 Feb 2026 12:01:45 +0000",
+    "content:encoded": "<p>Here are three papers describing different side-channel attacks against LLMs.</p>\n<p>&#8220;<a href=\"https://arxiv.org/html/2410.17175v1\">Remote Timing Attacks on Efficient Language Model Inference</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Scaling up language models has significantly increased their capabilities. But larger models are slower models, and so there is now an extensive body of work (e.g., speculative sampling or parallel decoding) that improves the (average case) efficiency of language model generation. But these techniques introduce data-dependent timing characteristics. We show it is possible to exploit these timing differences to mount a timing attack. By monitoring the (encrypted) network traffic between a victim user and a remote language model, we can learn information about the content of messages by noting when responses are faster or slower. With complete black-box access, on open source systems we show how it is possible to learn the topic of a user&#8217;s conversation (e.g., medical advice vs. coding assistance) with 90%+ precision, and on production systems like OpenAI&#8217;s ChatGPT and Anthropic&#8217;s Claude we can distinguish between specific messages or infer the user&#8217;s language. We further show that an active adversary can leverage a boosting attack to recover PII placed in messages (e.g., phone numbers or credit card numbers) for open source systems. We conclude with potential defenses and directions for future work.</p></blockquote>\n<p>&#8220;<a href=\"https://openreview.net/pdf?id=zq40cmz1JD\">When Speculation Spills Secrets: Side Channels via Speculative Decoding in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Deployed large language models (LLMs) often rely on speculative decoding, a technique that generates and verifies multiple candidate tokens in parallel, to improve throughput and latency. In this work, we reveal a new side-channel whereby input-dependent patterns of correct and incorrect speculations can be inferred by monitoring per-iteration token counts or packet sizes. In evaluations using research prototypes and production-grade vLLM serving frameworks, we show that an adversary monitoring these patterns can fingerprint user queries (from a set of 50 prompts) with over 75% accuracy across four speculative-decoding schemes at temperature 0.3: REST (100%), LADE (91.6%), BiLD (95.2%), and EAGLE (77.6%). Even at temperature 1.0, accuracy remains far above the 2% random baseline&#8212;REST (99.6%), LADE (61.2%), BiLD (63.6%), and EAGLE (24%). We also show the capability of the attacker to leak confidential datastore contents used for prediction at rates exceeding 25 tokens/sec. To defend against these, we propose and evaluate a suite of mitigations, including packet padding and iteration-wise token aggregation.</p></blockquote>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.03675\">Whisper Leak: a side-channel attack on Large Language Models</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) are increasingly deployed in sensitive domains including healthcare, legal services, and confidential communications, where privacy is paramount. This paper introduces Whisper Leak, a side-channel attack that infers user prompt topics from encrypted LLM traffic by analyzing packet size and timing patterns in streaming responses. Despite TLS encryption protecting content, these metadata patterns leak sufficient information to enable topic classification. We demonstrate the attack across 28 popular LLMs from major providers, achieving near-perfect classification (often >98% AUPRC) and high precision even at extreme class imbalance (10,000:1 noise-to-target ratio). For many models, we achieve 100% precision in identifying sensitive topics like &#8220;money laundering&#8221; while recovering 5-20% of target conversations. This industry-wide vulnerability poses significant risks for users under network surveillance by ISPs, governments, or local adversaries. We evaluate three mitigation strategies &#8211; random padding, token batching, and packet injection &#8211; finding that while each reduces attack effectiveness, none provides complete protection. Through responsible disclosure, we have collaborated with providers to implement initial countermeasures. Our findings underscore the need for LLM providers to address metadata leakage as AI systems handle increasingly sensitive information. </p></blockquote>\n",
+    "content:encodedSnippet": "Here are three papers describing different side-channel attacks against LLMs.\n“Remote Timing Attacks on Efficient Language Model Inference“:\nAbstract: Scaling up language models has significantly increased their capabilities. But larger models are slower models, and so there is now an extensive body of work (e.g., speculative sampling or parallel decoding) that improves the (average case) efficiency of language model generation. But these techniques introduce data-dependent timing characteristics. We show it is possible to exploit these timing differences to mount a timing attack. By monitoring the (encrypted) network traffic between a victim user and a remote language model, we can learn information about the content of messages by noting when responses are faster or slower. With complete black-box access, on open source systems we show how it is possible to learn the topic of a user’s conversation (e.g., medical advice vs. coding assistance) with 90%+ precision, and on production systems like OpenAI’s ChatGPT and Anthropic’s Claude we can distinguish between specific messages or infer the user’s language. We further show that an active adversary can leverage a boosting attack to recover PII placed in messages (e.g., phone numbers or credit card numbers) for open source systems. We conclude with potential defenses and directions for future work.\n\n“When Speculation Spills Secrets: Side Channels via Speculative Decoding in LLMs“:\nAbstract: Deployed large language models (LLMs) often rely on speculative decoding, a technique that generates and verifies multiple candidate tokens in parallel, to improve throughput and latency. In this work, we reveal a new side-channel whereby input-dependent patterns of correct and incorrect speculations can be inferred by monitoring per-iteration token counts or packet sizes. In evaluations using research prototypes and production-grade vLLM serving frameworks, we show that an adversary monitoring these patterns can fingerprint user queries (from a set of 50 prompts) with over 75% accuracy across four speculative-decoding schemes at temperature 0.3: REST (100%), LADE (91.6%), BiLD (95.2%), and EAGLE (77.6%). Even at temperature 1.0, accuracy remains far above the 2% random baseline—REST (99.6%), LADE (61.2%), BiLD (63.6%), and EAGLE (24%). We also show the capability of the attacker to leak confidential datastore contents used for prediction at rates exceeding 25 tokens/sec. To defend against these, we propose and evaluate a suite of mitigations, including packet padding and iteration-wise token aggregation.\n\n“Whisper Leak: a side-channel attack on Large Language Models“:\nAbstract: Large Language Models (LLMs) are increasingly deployed in sensitive domains including healthcare, legal services, and confidential communications, where privacy is paramount. This paper introduces Whisper Leak, a side-channel attack that infers user prompt topics from encrypted LLM traffic by analyzing packet size and timing patterns in streaming responses. Despite TLS encryption protecting content, these metadata patterns leak sufficient information to enable topic classification. We demonstrate the attack across 28 popular LLMs from major providers, achieving near-perfect classification (often >98% AUPRC) and high precision even at extreme class imbalance (10,000:1 noise-to-target ratio). For many models, we achieve 100% precision in identifying sensitive topics like “money laundering” while recovering 5-20% of target conversations. This industry-wide vulnerability poses significant risks for users under network surveillance by ISPs, governments, or local adversaries. We evaluate three mitigation strategies – random padding, token batching, and packet injection – finding that while each reduces attack effectiveness, none provides complete protection. Through responsible disclosure, we have collaborated with providers to implement initial countermeasures. Our findings underscore the need for LLM providers to address metadata leakage as AI systems handle increasingly sensitive information.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html#respond",
+    "content": "<p>Here are three papers describing different side-channel attacks against LLMs.</p>\n<p>&#8220;<a href=\"https://arxiv.org/html/2410.17175v1\">Remote Timing Attacks on Efficient Language Model Inference</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Scaling up language models has significantly increased their capabilities. But larger models are slower models, and so there is now an extensive body of work (e.g., speculative sampling or parallel decoding) that improves the (average case) efficiency of language model generation. But these techniques introduce data-dependent timing characteristics. We show it is possible to exploit these timing differences to mount a timing attack. By monitoring the (encrypted) network traffic between a victim user and a remote language model, we can learn information about the content of messages by noting when responses are faster or slower. With complete black-box access, on open source systems we show how it is possible to learn the topic of a user&#8217;s conversation (e.g., medical advice vs. coding assistance) with 90%+ precision, and on production systems like OpenAI&#8217;s ChatGPT and Anthropic&#8217;s Claude we can distinguish between specific messages or infer the user&#8217;s language. We further show that an active adversary can leverage a boosting attack to recover PII placed in messages (e.g., phone numbers or credit card numbers) for open source systems. We conclude with potential defenses and directions for future work...</p></blockquote>",
+    "contentSnippet": "Here are three papers describing different side-channel attacks against LLMs.\n“Remote Timing Attacks on Efficient Language Model Inference“:\nAbstract: Scaling up language models has significantly increased their capabilities. But larger models are slower models, and so there is now an extensive body of work (e.g., speculative sampling or parallel decoding) that improves the (average case) efficiency of language model generation. But these techniques introduce data-dependent timing characteristics. We show it is possible to exploit these timing differences to mount a timing attack. By monitoring the (encrypted) network traffic between a victim user and a remote language model, we can learn information about the content of messages by noting when responses are faster or slower. With complete black-box access, on open source systems we show how it is possible to learn the topic of a user’s conversation (e.g., medical advice vs. coding assistance) with 90%+ precision, and on production systems like OpenAI’s ChatGPT and Anthropic’s Claude we can distinguish between specific messages or infer the user’s language. We further show that an active adversary can leverage a boosting attack to recover PII placed in messages (e.g., phone numbers or credit card numbers) for open source systems. We conclude with potential defenses and directions for future work...",
+    "guid": "https://www.schneier.com/?p=71602",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "LLM",
+      "side-channel attacks"
+    ],
+    "isoDate": "2026-02-17T12:01:45.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "pubDate": "Tue, 17 Feb 2026 17:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
+    },
+    "content": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
+    "contentSnippet": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
+    "guid": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "isoDate": "2026-02-17T11:59:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "My Day Getting My Hands Dirty with an NDR System",
+    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+    "pubDate": "Tue, 17 Feb 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg"
+    },
+    "content": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?\n\n\n\n\n\n\nMy objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (",
+    "contentSnippet": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?\n\n\n\n\n\n\nMy objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (",
+    "guid": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+    "isoDate": "2026-02-17T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
     "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
@@ -289,57 +343,6 @@
     "contentSnippet": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).\nThe tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
     "guid": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
     "isoDate": "2026-02-13T16:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-    "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-    "pubDate": "Fri, 13 Feb 2026 20:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgixJrBY7kbFJ-Pj-CDd1ryd3ktnmh80-81Vc6MNVQ9PqO5RMGBsXR4G_Pr2sw1ev8C92hXckh1O_tC_B5apA8O9jCaE7THkDPmhqg5KiLM6vHT1kA73tXRxfRgWBKnARqQcqYekIqJUX0DV0zwqbNF9odwXvL6OERY6fdi0W92kPIMqiug7UbafCcUXQqQ/s1600/banks.jpg"
-    },
-    "content": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos.\n\"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
-    "contentSnippet": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos.\n\"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
-    "guid": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-    "isoDate": "2026-02-13T15:23:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
-    "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-    "pubDate": "Fri, 13 Feb 2026 16:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDcg8kBvyrdu22dNN8lKs3vJ_Nhk_nEuuZtq0Q-EcpvUKlRbXSHVssro3qio1_12lWV-dcFQ_O94jO4KAzh_mbdS0MKJ7REEcNSrPr5hon0iUNDcP91cFAqcNUl3EwPIVqhgOTss5ntc4x1BpfXldEBmCm1BzRNsPQMxqMsqTtNc6jZm4hN0vS3T9K3yj/s1600/chrome-hacks.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
-    "contentSnippet": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
-    "guid": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-    "isoDate": "2026-02-13T11:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
-    "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
-    "pubDate": "Fri, 13 Feb 2026 16:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2f7TicFSKUe4LQJy82mhhepyMplbLHU-VNYpY_gxLvTILbFCviVqGKP4thBHnPvHWaw1EdFBuqDcDePYX1Z76KaB2j0pC8rWGM4eyu8tNLDcy0HChASJSx2zZufWVktAvzIR2yAJGDC0eIpVPV5u5OaAJsYohGS77dRTUcm_q3kl3D-N5hhCJ6XWxz-w/s1600/npm-security.jpg"
-    },
-    "content": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community.\nLet’s start with the original",
-    "contentSnippet": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community.\nLet’s start with the original",
-    "guid": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
-    "isoDate": "2026-02-13T10:45:00.000Z",
     "itunes": {}
   }
 ]
