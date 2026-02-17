@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+    "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+    "pubDate": "Tue, 17 Feb 2026 23:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.\nThe attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
+    "contentSnippet": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.\nThe attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
+    "guid": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+    "isoDate": "2026-02-17T18:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
     "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
     "pubDate": "Tue, 17 Feb 2026 22:11:00 +0530",
@@ -326,23 +343,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-02-14T10:00:00.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Do Squid Dream?",
-    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html",
-    "pubDate": "Fri, 13 Feb 2026 22:08:39 +0000",
-    "content:encoded": "<p>An <a href=\"https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/\">exploration</a> of the interesting question.</p>\n",
-    "content:encodedSnippet": "An exploration of the interesting question.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html#comments",
-    "content": "<p>An <a href=\"https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/\">exploration</a> of the interesting question.</p>\n",
-    "contentSnippet": "An exploration of the interesting question.",
-    "guid": "https://www.schneier.com/?p=71523",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2026-02-13T22:08:39.000Z"
   }
 ]
