@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 968,
+    "stars": 975,
     "forks": 156,
     "language": null
   },
@@ -211,7 +211,7 @@
     "owner": "airborne-commando",
     "url": "https://github.com/airborne-commando/OPSEC-OSINT-Tools",
     "description": "A list and guide of OSINT/OPSEC and some tools that I've made and or use.",
-    "stars": 64,
+    "stars": 65,
     "forks": 4,
     "language": null
   },
@@ -684,15 +684,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -700,6 +691,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -738,6 +738,15 @@
     "language": null
   },
   {
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -747,13 +756,13 @@
     "language": "TypeScript"
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
-    "forks": 1,
-    "language": "Python"
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -772,15 +781,6 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
-  },
-  {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -837,15 +837,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -864,13 +855,13 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
     "stars": 5,
     "forks": 1,
-    "language": null
+    "language": "C"
   },
   {
     "name": "BEC-Detection-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
