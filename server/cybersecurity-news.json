@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "AI Found Twelve New Vulnerabilities in OpenSSL",
+    "link": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html",
+    "pubDate": "Wed, 18 Feb 2026 12:03:10 +0000",
+    "content:encoded": "<p>The title of the post is&#8221;<a href=\"https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works\">What AI Security Research Looks Like When It Works</a>,&#8221; and I agree:</p>\n<blockquote><p>In the latest <a href=\"https://openssl-library.org/news/vulnerabilities/\">OpenSSL security release></a> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the <a href=\"https://aisle.com/blog/aisle-discovers-three-of-the-four-openssl-vulnerabilities-of-2025\">Fall 2025 release</a>, AISLE is credited for surfacing 13 of 14 OpenSSL CVEs assigned in 2025, and 15 total across both releases. This is a historically unusual concentration for any single research team, let alone an AI-driven one.</p>\n<p>These weren&#8217;t trivial findings either. They included <a href=\"https://aisle.com/blog/openssl-stack-overflow-cve-2025-15467-deep-dive\">CVE-2025-15467</a>, a stack buffer overflow in CMS message parsing that&#8217;s potentially remotely exploitable without valid key material, and exploits for which have been quickly developed online. OpenSSL rated it HIGH severity; <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-15467\">NIST</a>&#8216;s CVSS v3 score is 9.8 out of 10 (CRITICAL, an extremely rare severity rating for such projects). Three of the bugs had been present since 1998-2000, for over a quarter century having been missed by intense machine and human effort alike. One predated OpenSSL itself, inherited from Eric Young&#8217;s original SSLeay implementation in the 1990s. All of this in a codebase that has been fuzzed for millions of CPU-hours and audited extensively for over two decades by teams including Google&#8217;s.</p>\n<p>In five of the twelve cases, our AI system directly proposed the patches that were accepted into the official release.</p></blockquote>\n<p>AI vulnerability finding is changing cybersecurity, faster than expected. This capability will be used by both offense and defense.</p>\n<p><a href=\"https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its\">More</a>.</p>\n",
+    "content:encodedSnippet": "The title of the post is”What AI Security Research Looks Like When It Works,” and I agree:\nIn the latest OpenSSL security release> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the Fall 2025 release, AISLE is credited for surfacing 13 of 14 OpenSSL CVEs assigned in 2025, and 15 total across both releases. This is a historically unusual concentration for any single research team, let alone an AI-driven one.\nThese weren’t trivial findings either. They included CVE-2025-15467, a stack buffer overflow in CMS message parsing that’s potentially remotely exploitable without valid key material, and exploits for which have been quickly developed online. OpenSSL rated it HIGH severity; NIST‘s CVSS v3 score is 9.8 out of 10 (CRITICAL, an extremely rare severity rating for such projects). Three of the bugs had been present since 1998-2000, for over a quarter century having been missed by intense machine and human effort alike. One predated OpenSSL itself, inherited from Eric Young’s original SSLeay implementation in the 1990s. All of this in a codebase that has been fuzzed for millions of CPU-hours and audited extensively for over two decades by teams including Google’s.\nIn five of the twelve cases, our AI system directly proposed the patches that were accepted into the official release.\n\nAI vulnerability finding is changing cybersecurity, faster than expected. This capability will be used by both offense and defense.\nMore.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html#comments",
+    "content": "<p>The title of the post is&#8221;<a href=\"https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works\">What AI Security Research Looks Like When It Works</a>,&#8221; and I agree:</p>\n<blockquote><p>In the latest <a href=\"https://openssl-library.org/news/vulnerabilities/\">OpenSSL security release&#62;</a> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...</p></blockquote>",
+    "contentSnippet": "The title of the post is”What AI Security Research Looks Like When It Works,” and I agree:\nIn the latest OpenSSL security release> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...",
+    "guid": "https://www.schneier.com/?p=71630",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "patching",
+      "SSL",
+      "vulnerabilities",
+      "zero-day"
+    ],
+    "isoDate": "2026-02-18T12:03:10.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
     "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
@@ -325,23 +347,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
     "guid": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
     "isoDate": "2026-02-16T10:24:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
-    "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-    "pubDate": "Mon, 16 Feb 2026 12:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg"
-    },
-    "content": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
-    "contentSnippet": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
-    "guid": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-    "isoDate": "2026-02-16T06:38:00.000Z",
     "itunes": {}
   }
 ]
