@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 959,
+    "stars": 958,
     "forks": 156,
     "language": null
   },
@@ -783,15 +783,6 @@
     "language": "Python"
   },
   {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
-    "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
@@ -799,6 +790,15 @@
     "stars": 6,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "stars": 6,
+    "forks": 0,
+    "language": "Rich Text Format"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
