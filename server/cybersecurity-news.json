@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
+    "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
+    "pubDate": "Wed, 18 Feb 2026 18:46:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWiS4R3zdQ6nAaXW6ITobd-w2duq9sy9VGi6Jn8fBYafy_ZIL0Yvr_vssObakMIWi_2m5RT-ZP6m_G5J6sS9ivV1fj6Qj98iDtdGtdUm2o-uh1sLAxOgQmVeFpBeqBxoohezNZwJFxnJRkO1aMB2H19iYLJQ9BtJFjLkC_JbIpOqfrEobgwBU-jJkFHNVI/s1600/vscode-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and",
+    "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and",
+    "guid": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
+    "isoDate": "2026-02-18T13:16:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "AI Found Twelve New Vulnerabilities in OpenSSL",
     "link": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html",
@@ -20,6 +37,23 @@
       "zero-day"
     ],
     "isoDate": "2026-02-18T12:03:10.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
+    "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
+    "pubDate": "Wed, 18 Feb 2026 17:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMesQzVUB1p32eXrWtBaOoM_KiArzTzal0BZlOZe_3eDVZE4uteEEIuG-VPAdCT3ViO1gErpC_GoD5mNBzdYbHBuPg3CEGXbYGLSU_P3cprd1UWds_sQGv7FBqz_FkV5hlvx2twmi25eTFgkHqcipFofDfDXYMTo7-wCgjNTGnotzhX4XZ8MVI1X2LIqPy/s1600/dsm.jpg"
+    },
+    "content": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&nbsp;continuous atmospheric instability: AI-driven threats that adapt in real time, expanding",
+    "contentSnippet": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of continuous atmospheric instability: AI-driven threats that adapt in real time, expanding",
+    "guid": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
+    "isoDate": "2026-02-18T11:58:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -310,43 +344,10 @@
       "type": "image/jpeg",
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaQMkOZ4LU6CZ8n18IsKjwDkAUD8JoJd1olUzJVMGAL8AaIYykJXUXhSTgYjfm-ef1dnECVrx75mxhM4yctREjm7RikhDo1qOrt4uQ8DWMcDf78TyaiE16PIg6DVIAJvvWkJ3TS3pzYJyt5NoQ5TcJ4ckj3ZTOZ_c9J-3kgRJC5DaavIPqamzRw8qYAhs/s1600/aicp-fimi.png"
     },
-    "content": "Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’.\n\nTechnologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer",
-    "contentSnippet": "Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’.\n\nTechnologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer",
+    "content": "Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer abstract for such a country as Lithuania, as well. From e-signatures to digital health records, the country depends on secure systems.&nbsp;\nCybersecurity has become not only a technical challenge but a societal one – demanding",
+    "contentSnippet": "Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer abstract for such a country as Lithuania, as well. From e-signatures to digital health records, the country depends on secure systems. \nCybersecurity has become not only a technical challenge but a societal one – demanding",
     "guid": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
     "isoDate": "2026-02-16T11:55:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess",
-    "link": "https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/",
-    "pubDate": "Mon, 16 Feb 2026 11:30:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.",
-    "contentSnippet": "Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.",
-    "guid": "698dff94b5b458763ed07a8e",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-02-16T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
-    "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
-    "pubDate": "Mon, 16 Feb 2026 15:54:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKaEDCa0YvJa9oAIavVh9Rz9NN1Cj0XVy8fKroTXMBQp7rYGL14oiZ14iCTMk0ToBg1wWx-iTClSpoZ_wg4hSAgPvFyatlGddSFgnaqdREUK24NW6xdnVgajR703vH_UpbjnLC4_NdFy1RC4pETcSTaxekLpAXNfz0n8ME7s9nyIco15DjjTiZwm7Tkhs/s1600/android-spyware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
-    "guid": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
-    "isoDate": "2026-02-16T10:24:00.000Z",
     "itunes": {}
   }
 ]
