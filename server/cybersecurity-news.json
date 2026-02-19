@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Malicious AI",
+    "link": "https://www.schneier.com/blog/archives/2026/02/malicious-ai.html",
+    "pubDate": "Thu, 19 Feb 2026 12:05:39 +0000",
+    "content:encoded": "<p><a href=\"https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\">Interesting</a>:</p>\n<blockquote><p>Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into accepting its changes into a mainstream python library. This represents a first-of-its-kind case study of misaligned AI behavior in the wild, and raises serious concerns about currently deployed AI agents executing blackmail threats.</p></blockquote>\n<p><a href=\"https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/\">Part 2</a> of the story. And a <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/ai/when-ai-bots-start-bullying-humans-even-silicon-valley-gets-rattled-0adb04f1\">article</a>.</p>\n",
+    "content:encodedSnippet": "Interesting:\nSummary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into accepting its changes into a mainstream python library. This represents a first-of-its-kind case study of misaligned AI behavior in the wild, and raises serious concerns about currently deployed AI agents executing blackmail threats.\n\nPart 2 of the story. And a Wall Street Journal article.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/malicious-ai.html#respond",
+    "content": "<p><a href=\"https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\">Interesting</a>:</p>\n<blockquote><p>Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into accepting its changes into a mainstream python library. This represents a first-of-its-kind case study of misaligned AI behavior in the wild, and raises serious concerns about currently deployed AI agents executing blackmail threats.</p></blockquote>\n<p><a href=\"https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/\">Part 2</a> of the story. And a <i>Wall Street Journal</i> <a href=\"https://www.wsj.com/tech/ai/when-ai-bots-start-bullying-humans-even-silicon-valley-gets-rattled-0adb04f1\">article</a>.</p>\n",
+    "contentSnippet": "Interesting:\nSummary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into accepting its changes into a mainstream python library. This represents a first-of-its-kind case study of misaligned AI behavior in the wild, and raises serious concerns about currently deployed AI agents executing blackmail threats.\n\nPart 2 of the story. And a Wall Street Journal article.",
+    "guid": "https://www.schneier.com/?p=71636",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "blackmail",
+      "lies",
+      "reputation"
+    ],
+    "isoDate": "2026-02-19T12:05:39.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+    "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+    "pubDate": "Thu, 19 Feb 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_HhBr5JTth2HIHXAOha965hOsCQC65r8Ph2nbqKuUKXq4ZCYCcNyQcJfsrTNt8GyE-Qj96if2MInfyDIiWtKneSPLGx9VKGYxawKZlRHoAJXkALwdHKymqdRy93dCBA1mBZSDSuWuTUtMZI7twCidZB0H2fVm5l3uFzs4OJVQNNMUtpwaVAtznoI2P80/s1600/xmcyber.jpg"
+    },
+    "content": "We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle.\nIn 2026, “Eventually” is Now\nBut today, within minutes, AI-powered",
+    "contentSnippet": "We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle.\nIn 2026, “Eventually” is Now\nBut today, within minutes, AI-powered",
+    "guid": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+    "isoDate": "2026-02-19T11:55:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
     "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
@@ -312,39 +350,5 @@
       "side-channel attacks"
     ],
     "isoDate": "2026-02-17T12:01:45.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "My Day Getting My Hands Dirty with an NDR System",
-    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-    "pubDate": "Tue, 17 Feb 2026 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg"
-    },
-    "content": "My objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident response, and how it fits into the daily workflow of a Security Operations Center (SOC).\nCorelight’s Investigator software, part of its Open NDR Platform, is",
-    "contentSnippet": "My objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident response, and how it fits into the daily workflow of a Security Operations Center (SOC).\nCorelight’s Investigator software, part of its Open NDR Platform, is",
-    "guid": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-    "isoDate": "2026-02-17T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
-    "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
-    "pubDate": "Tue, 17 Feb 2026 15:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh0FV5y7nlXl9cJspXtL5CZNMf2-ftHbx-kv0fjJ54M7A5FWTCUgzmscihQebjqcp3c9VXNPK784ZocV5_sG_5eizK2Kp1FeCbVvKuOlpi0vVOMUCUiSUCkdMpU8UWuworyKKXQLL0NAqkoFlBCnjxyB4UsLsEOqRx0hJzXZcWs998ANw_dyKyeip3I6ah/s1600/thn.jpg"
-    },
-    "content": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
-    "contentSnippet": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
-    "guid": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
-    "isoDate": "2026-02-17T09:31:00.000Z",
-    "itunes": {}
   }
 ]
