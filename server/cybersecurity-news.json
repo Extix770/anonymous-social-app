@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+    "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+    "pubDate": "Thu, 19 Feb 2026 15:54:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj67LPvqhfl_NCfP1wUAUN8p7ISQ_x3wCwavSYjJJkMl9jkcDnk0gP2Om7d1O0UqaQnwqeU4GzTfpLxUok2ei5tiNhArCqldBzaS6yzNe_mudDAbzllZcD1BA0FOfbn1LQRSiK36eB69u4hfK_Pa0XA0eZti_KN8Q43d_k1xRmp_LQCW6gA9ZWNvdrBx_py/s1600/android-banking.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.\n\"This new threat, while",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.\n\"This new threat, while",
+    "guid": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+    "isoDate": "2026-02-19T10:24:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Andy Greenberg, Lily Hay Newman",
+    "title": "How to Organize Safely in the Age of Surveillance",
+    "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
+    "pubDate": "Thu, 19 Feb 2026 10:00:00 +0000",
+    "dc:creator": "Andy Greenberg, Lily Hay Newman",
+    "content": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful.",
+    "contentSnippet": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful.",
+    "guid": "6989fcc118104615c3d4103f",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security Advice",
+      "Politics"
+    ],
+    "isoDate": "2026-02-19T10:00:00.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
     "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
     "pubDate": "Thu, 19 Feb 2026 13:43:00 +0530",
@@ -311,40 +345,6 @@
     "contentSnippet": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
     "guid": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
     "isoDate": "2026-02-17T09:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
-    "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
-    "pubDate": "Tue, 17 Feb 2026 12:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPp_YwVMP8UedNu9MRj7UCji7JQ8xfTP29sqz2wXhr5sFnGWNTCM_KOIPJnzD9rNqQjp5O08Oe2LNpns6GYVkQOyjYxQIadGQ4Z5cEclR1Nl40D1_Dr5p8A0sXa4-rFnmmoWkHiVGKCvQ7iXnXZ8O7cdHXLSwBUXvby_SkTuLGj7vqfMP148Wx_5qryIux/s1600/iphone.jpg"
-    },
-    "content": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.\nThe feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS.\n\"End-to-end encryption is in beta and is not available for all",
-    "contentSnippet": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.\nThe feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS.\n\"End-to-end encryption is in beta and is not available for all",
-    "guid": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
-    "isoDate": "2026-02-17T06:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
-    "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
-    "pubDate": "Tue, 17 Feb 2026 00:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeWsmjwrJY11WFbrvqG71cU065qr7gt-yAQRQv18KoDqnPG5x-HWXkFR1wwAmGNT2ujE6p0mlp1VsqvuDBnEokfqkSFtQX0bVdqdOxiZMZ2WXmqqVc1wrPOdZQ8kFgssie0Cs-1dmmyA7_QZzMhMTM0hcFjbXZtrhoTCwJFupvEgmLEYInUaGST-dmzAOz/s1600/openclaw-hacked.jpg"
-    },
-    "content": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment.\n\"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI [",
-    "contentSnippet": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment.\n\"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI [",
-    "guid": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
-    "isoDate": "2026-02-16T18:43:00.000Z",
     "itunes": {}
   }
 ]

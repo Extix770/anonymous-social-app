@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1045,
+    "stars": 1051,
     "forks": 163,
     "language": null
   },
@@ -783,6 +783,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "stars": 6,
+    "forks": 0,
+    "language": "Rich Text Format"
+  },
+  {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
@@ -799,15 +808,6 @@
     "stars": 6,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
-    "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
   },
   {
     "name": "Hacker-Tools",
