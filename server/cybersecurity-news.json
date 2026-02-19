@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+    "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+    "pubDate": "Thu, 19 Feb 2026 13:43:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD_PtNViVDHZuayLVtVYwd7N2scLLqDjTvVq8WGWrnvOCZ7tt92yiynt44EBuHUv2Y4b-sujz_BlBBx2Vl9af8ZzAXzTJH2UzFpsqC5KyxWWvB6FD-Ini78yxU9MsffuVeYsU2wQQCP5mTPs7xlI73PBSZ3RYj1RUMbjxfH06NhmoNjHkpapxBNwyEMrI/s1600/protest.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
+    "guid": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+    "isoDate": "2026-02-19T08:13:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
     "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
     "pubDate": "Wed, 18 Feb 2026 23:00:00 +0530",
@@ -328,23 +345,6 @@
     "contentSnippet": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment.\n\"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI [",
     "guid": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
     "isoDate": "2026-02-16T18:43:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
-    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-    "pubDate": "Mon, 16 Feb 2026 23:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPbskdafjFepjzUnEOcPNFvk1UceqE9lVwhurVxvrqJ3_1VhbKg-XcZjTrVpt2aqk_uv6Sodg9NMcoTvkVEeoAhNUU9X_0ltI9oHpnTIA-a28iDGnudnxJklcADpfz5llcUEStKI7Nt7IjW3vhA_DyO7rKG03dgj8KTFfrpxamTqy7xEciFwLzeS-lXEb/s1600/password-managers.jpg"
-    },
-    "content": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.\n\"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
-    "contentSnippet": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.\n\"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
-    "guid": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-    "isoDate": "2026-02-16T18:06:00.000Z",
     "itunes": {}
   }
 ]
