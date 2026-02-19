@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Andy Greenberg",
+    "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
+    "link": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
+    "pubDate": "Thu, 19 Feb 2026 23:18:09 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
+    "contentSnippet": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
+    "guid": "6994d157b9a628d3ca165c7a",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Business / Blockchain and Cryptocurrency"
+    ],
+    "isoDate": "2026-02-19T23:18:09.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
     "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
@@ -329,23 +345,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
     "guid": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
     "isoDate": "2026-02-18T06:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-    "pubDate": "Wed, 18 Feb 2026 00:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
-    },
-    "content": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
-    "contentSnippet": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
-    "guid": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-    "isoDate": "2026-02-17T19:08:00.000Z",
     "itunes": {}
   }
 ]
