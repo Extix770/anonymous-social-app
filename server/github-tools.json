@@ -558,6 +558,15 @@
     "language": null
   },
   {
+    "name": "30-days-red-team-toolkit",
+    "owner": "maxwellcross-labs",
+    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
+    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
+    "stars": 10,
+    "forks": 3,
+    "language": "Python"
+  },
+  {
     "name": "security-tools-hacking",
     "owner": "Largo-m",
     "url": "https://github.com/Largo-m/security-tools-hacking",
@@ -583,15 +592,6 @@
     "stars": 10,
     "forks": 1,
     "language": "JavaScript"
-  },
-  {
-    "name": "30-days-red-team-toolkit",
-    "owner": "maxwellcross-labs",
-    "url": "https://github.com/maxwellcross-labs/30-days-red-team-toolkit",
-    "description": "Complete toolkit for the 30 Days of Red Team series — reconnaissance, weaponization, delivery, exploitation, and defense modules for ethical red team simulation.",
-    "stars": 9,
-    "forks": 3,
-    "language": "Python"
   },
   {
     "name": "linkedin-osint-toolkit",
