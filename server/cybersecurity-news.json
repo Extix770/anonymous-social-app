@@ -1,7 +1,24 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+    "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
+    "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
+    "pubDate": "Fri, 20 Feb 2026 13:35:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg"
+    },
+    "content": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
+    "contentSnippet": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
+    "guid": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
+    "isoDate": "2026-02-20T08:05:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
     "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
     "pubDate": "Fri, 20 Feb 2026 10:57:00 +0530",
     "author": "info@thehackernews.com (The Hacker News)",
@@ -327,23 +344,6 @@
     "contentSnippet": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of continuous atmospheric instability: AI-driven threats that adapt in real time, expanding",
     "guid": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
     "isoDate": "2026-02-18T11:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-    "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-    "pubDate": "Wed, 18 Feb 2026 16:02:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglP0IZeQtwdci4qHI-mURnUorsnmYa0U0QjsNNttYhyphenhyphen0k7qSnq3I7FURoEE-E0SmiD7lhX86uUDYWbZtIrPpS5CjJPK0NdZnFzB_UMHMpIlgzUiffF5iZm_cRqE7ilkwI4ItLHjm65VhJiV_BNisAZcga-hhYjJEiEarDcuwBCek6Vdc36_WS_bx4G_Q0W/s1600/dell-hack.jpg"
-    },
-    "content": "A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).\nThe activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a case of hard-coded credentials",
-    "contentSnippet": "A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).\nThe activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a case of hard-coded credentials",
-    "guid": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-    "isoDate": "2026-02-18T10:32:00.000Z",
     "itunes": {}
   }
 ]
