@@ -810,15 +810,6 @@
     "language": null
   },
   {
-    "name": "Hacker-Tools",
-    "owner": "Push4ck",
-    "url": "https://github.com/Push4ck/Hacker-Tools",
-    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
-    "stars": 5,
-    "forks": 2,
-    "language": "Python"
-  },
-  {
     "name": "soc-toolkit",
     "owner": "phrp720",
     "url": "https://github.com/phrp720/soc-toolkit",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Shell"
+  },
+  {
+    "name": "Hacker-Tools",
+    "owner": "Push4ck",
+    "url": "https://github.com/Push4ck/Hacker-Tools",
+    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
+    "stars": 5,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "WEEK-TOOL",
