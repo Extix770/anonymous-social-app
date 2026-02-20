@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Ring Cancels Its Partnership with Flock",
+    "link": "https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html",
+    "pubDate": "Fri, 20 Feb 2026 12:08:51 +0000",
+    "content:encoded": "<p>It&#8217;s a demonstration of how toxic the surveillance-tech company Flock has become when Amazon&#8217;s Ring <a href=\"https://www.theverge.com/news/878447/ring-flock-partnership-canceled\">cancels</a> the partnership between the two companies.</p>\n<p>As Hamilton Nolan advises, <a href=\"https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw\">remove</a> your Ring doorbell.</p>\n",
+    "content:encodedSnippet": "It’s a demonstration of how toxic the surveillance-tech company Flock has become when Amazon’s Ring cancels the partnership between the two companies.\nAs Hamilton Nolan advises, remove your Ring doorbell.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html#respond",
+    "content": "<p>It&#8217;s a demonstration of how toxic the surveillance-tech company Flock has become when Amazon&#8217;s Ring <a href=\"https://www.theverge.com/news/878447/ring-flock-partnership-canceled\">cancels</a> the partnership between the two companies.</p>\n<p>As Hamilton Nolan advises, <a href=\"https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw\">remove</a> your Ring doorbell.</p>\n",
+    "contentSnippet": "It’s a demonstration of how toxic the surveillance-tech company Flock has become when Amazon’s Ring cancels the partnership between the two companies.\nAs Hamilton Nolan advises, remove your Ring doorbell.",
+    "guid": "https://www.schneier.com/?p=71640",
+    "categories": [
+      "Uncategorized",
+      "Amazon",
+      "law enforcement",
+      "privacy",
+      "surveillance"
+    ],
+    "isoDate": "2026-02-20T12:08:51.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
     "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
@@ -322,23 +343,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices.\nThe vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of a maximum of 10.0. It has been described as a case of unauthenticated stack-based buffer overflow that could result in remote code",
     "guid": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
     "isoDate": "2026-02-18T16:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
-    "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
-    "pubDate": "Wed, 18 Feb 2026 18:46:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWiS4R3zdQ6nAaXW6ITobd-w2duq9sy9VGi6Jn8fBYafy_ZIL0Yvr_vssObakMIWi_2m5RT-ZP6m_G5J6sS9ivV1fj6Qj98iDtdGtdUm2o-uh1sLAxOgQmVeFpBeqBxoohezNZwJFxnJRkO1aMB2H19iYLJQ9BtJFjLkC_JbIpOqfrEobgwBU-jJkFHNVI/s1600/vscode-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and",
-    "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and",
-    "guid": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
-    "isoDate": "2026-02-18T13:16:00.000Z",
     "itunes": {}
   }
 ]
