@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
+    "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
+    "pubDate": "Fri, 20 Feb 2026 16:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2H1-xKGMb4Q70WJNrlk_Mgup1cfHNGRRmnZxhOaJLcfWBq_audXpVc5TAUsyT9MRS5hST-fI7ZaH59FVMzAzYubjo7YdUoRcmtEs8v3ck9J8jhJdnEq9mtU4FqTYA-ikCBGQ4edCU47t9pN-ljEQO00-e1ZNMrxQYuyev9uLfv9VQU_KOhJQUFSa6YWF/s1600/OUT.jpg"
+    },
+    "content": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many organizations, however, these assessments remain largely opaque. Elements such as password hygiene, privileged access management, and the extent of multi-factor authentication (MFA) coverage are",
+    "contentSnippet": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk. \nFor many organizations, however, these assessments remain largely opaque. Elements such as password hygiene, privileged access management, and the extent of multi-factor authentication (MFA) coverage are",
+    "guid": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
+    "isoDate": "2026-02-20T10:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
+    "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
+    "pubDate": "Fri, 20 Feb 2026 15:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAlrXjwZQ5XcgI0VvKJ13Np81mBpx_kV5bcRCdUERu1dffmFSpnVoQxYFSC5pURrbqYF4roBPOUvaiG8oa5NimxrYTLdbUYboTyDfRCdgCPf0qGUwaCgUx7lb31vHJb1pB8Y83YGG0WaNwlLsBCPdp0t22HxMdyo2v_rRES5X5nL752HSPyMS3cAKBZ9/s1600/IT-Worker-Fraud.jpg"
+    },
+    "content": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
+    "contentSnippet": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
+    "guid": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
+    "isoDate": "2026-02-20T09:52:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
     "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
     "pubDate": "Fri, 20 Feb 2026 13:35:00 +0530",
@@ -305,45 +339,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and",
     "guid": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
     "isoDate": "2026-02-18T13:16:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "AI Found Twelve New Vulnerabilities in OpenSSL",
-    "link": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html",
-    "pubDate": "Wed, 18 Feb 2026 12:03:10 +0000",
-    "content:encoded": "<p>The title of the post is&#8221;<a href=\"https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works\">What AI Security Research Looks Like When It Works</a>,&#8221; and I agree:</p>\n<blockquote><p>In the latest <a href=\"https://openssl-library.org/news/vulnerabilities/\">OpenSSL security release></a> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the <a href=\"https://aisle.com/blog/aisle-discovers-three-of-the-four-openssl-vulnerabilities-of-2025\">Fall 2025 release</a>, AISLE is credited for surfacing 13 of 14 OpenSSL CVEs assigned in 2025, and 15 total across both releases. This is a historically unusual concentration for any single research team, let alone an AI-driven one.</p>\n<p>These weren&#8217;t trivial findings either. They included <a href=\"https://aisle.com/blog/openssl-stack-overflow-cve-2025-15467-deep-dive\">CVE-2025-15467</a>, a stack buffer overflow in CMS message parsing that&#8217;s potentially remotely exploitable without valid key material, and exploits for which have been quickly developed online. OpenSSL rated it HIGH severity; <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-15467\">NIST</a>&#8216;s CVSS v3 score is 9.8 out of 10 (CRITICAL, an extremely rare severity rating for such projects). Three of the bugs had been present since 1998-2000, for over a quarter century having been missed by intense machine and human effort alike. One predated OpenSSL itself, inherited from Eric Young&#8217;s original SSLeay implementation in the 1990s. All of this in a codebase that has been fuzzed for millions of CPU-hours and audited extensively for over two decades by teams including Google&#8217;s.</p>\n<p>In five of the twelve cases, our AI system directly proposed the patches that were accepted into the official release.</p></blockquote>\n<p>AI vulnerability finding is changing cybersecurity, faster than expected. This capability will be used by both offense and defense.</p>\n<p><a href=\"https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its\">More</a>.</p>\n",
-    "content:encodedSnippet": "The title of the post is”What AI Security Research Looks Like When It Works,” and I agree:\nIn the latest OpenSSL security release> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the Fall 2025 release, AISLE is credited for surfacing 13 of 14 OpenSSL CVEs assigned in 2025, and 15 total across both releases. This is a historically unusual concentration for any single research team, let alone an AI-driven one.\nThese weren’t trivial findings either. They included CVE-2025-15467, a stack buffer overflow in CMS message parsing that’s potentially remotely exploitable without valid key material, and exploits for which have been quickly developed online. OpenSSL rated it HIGH severity; NIST‘s CVSS v3 score is 9.8 out of 10 (CRITICAL, an extremely rare severity rating for such projects). Three of the bugs had been present since 1998-2000, for over a quarter century having been missed by intense machine and human effort alike. One predated OpenSSL itself, inherited from Eric Young’s original SSLeay implementation in the 1990s. All of this in a codebase that has been fuzzed for millions of CPU-hours and audited extensively for over two decades by teams including Google’s.\nIn five of the twelve cases, our AI system directly proposed the patches that were accepted into the official release.\n\nAI vulnerability finding is changing cybersecurity, faster than expected. This capability will be used by both offense and defense.\nMore.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html#comments",
-    "content": "<p>The title of the post is&#8221;<a href=\"https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works\">What AI Security Research Looks Like When It Works</a>,&#8221; and I agree:</p>\n<blockquote><p>In the latest <a href=\"https://openssl-library.org/news/vulnerabilities/\">OpenSSL security release&#62;</a> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...</p></blockquote>",
-    "contentSnippet": "The title of the post is”What AI Security Research Looks Like When It Works,” and I agree:\nIn the latest OpenSSL security release> on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...",
-    "guid": "https://www.schneier.com/?p=71630",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "patching",
-      "SSL",
-      "vulnerabilities",
-      "zero-day"
-    ],
-    "isoDate": "2026-02-18T12:03:10.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
-    "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
-    "pubDate": "Wed, 18 Feb 2026 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMesQzVUB1p32eXrWtBaOoM_KiArzTzal0BZlOZe_3eDVZE4uteEEIuG-VPAdCT3ViO1gErpC_GoD5mNBzdYbHBuPg3CEGXbYGLSU_P3cprd1UWds_sQGv7FBqz_FkV5hlvx2twmi25eTFgkHqcipFofDfDXYMTo7-wCgjNTGnotzhX4XZ8MVI1X2LIqPy/s1600/dsm.jpg"
-    },
-    "content": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&nbsp;continuous atmospheric instability: AI-driven threats that adapt in real time, expanding",
-    "contentSnippet": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of continuous atmospheric instability: AI-driven threats that adapt in real time, expanding",
-    "guid": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
-    "isoDate": "2026-02-18T11:58:00.000Z",
     "itunes": {}
   }
 ]
