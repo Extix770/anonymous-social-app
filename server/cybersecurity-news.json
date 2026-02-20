@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Boone Ashworth",
+    "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
+    "link": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
+    "pubDate": "Fri, 20 Feb 2026 01:12:25 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
+    "contentSnippet": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
+    "guid": "69975d988c1db0eb0c5091a1",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Smart Home",
+      "Security"
+    ],
+    "isoDate": "2026-02-20T01:12:25.000Z"
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
     "link": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
@@ -328,23 +345,6 @@
     "contentSnippet": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.\nThe version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
     "guid": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
     "isoDate": "2026-02-18T07:40:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-    "pubDate": "Wed, 18 Feb 2026 12:22:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
-    "guid": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-    "isoDate": "2026-02-18T06:52:00.000Z",
     "itunes": {}
   }
 ]

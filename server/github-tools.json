@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8507,
+    "stars": 8508,
     "forks": 1153,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7541,
+    "stars": 7543,
     "forks": 854,
     "language": "HTML"
   },
@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1070,
+    "stars": 1071,
     "forks": 168,
     "language": null
   },
@@ -756,15 +756,6 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -772,6 +763,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "red_team_toolkit",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "HTML"
+    "language": "Python"
   }
 ]
