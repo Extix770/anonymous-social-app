@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+    "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+    "pubDate": "Fri, 20 Feb 2026 21:15:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg"
+    },
+    "content": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and&nbsp;\nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
+    "contentSnippet": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and \nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
+    "guid": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+    "isoDate": "2026-02-20T15:45:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
     "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
     "pubDate": "Fri, 20 Feb 2026 19:50:00 +0530",
@@ -326,23 +343,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
     "guid": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
     "isoDate": "2026-02-19T08:13:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
-    "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
-    "pubDate": "Wed, 18 Feb 2026 23:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKg1ustDlFg4Z8PIFRlPPO6LEfnuCsAZRD59FSKmiMZuhKtTrL6mOL43EJt1_iczcPYcYlwaEqf8xNFE6suEy3qtcXhv3vBAizeuenRGoan22ouXKyetDLoHME-y3wr0vKLr0OFAPkOuEjVjhokDssNgQpXnvauTbjQvDo2p31Cwv7s0qmr7pMG-ajXSY/s1600/sam.jpg"
-    },
-    "content": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse of the technology targeting civil society.\nThe interdisciplinary research unit at the University of Toronto's Munk School of Global Affairs &amp; Public",
-    "contentSnippet": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse of the technology targeting civil society.\nThe interdisciplinary research unit at the University of Toronto's Munk School of Global Affairs & Public",
-    "guid": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
-    "isoDate": "2026-02-18T17:30:00.000Z",
     "itunes": {}
   }
 ]
