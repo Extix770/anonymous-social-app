@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies",
+    "link": "https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+    "pubDate": "Fri, 20 Feb 2026 20:03:23 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition.",
+    "contentSnippet": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition.",
+    "guid": "69977cb46682b7d0faefb42e",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-02-20T20:03:23.000Z"
+  },
+  {
     "creator": "Maddy Varner",
     "title": "Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans",
     "link": "https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/",
@@ -328,22 +346,5 @@
     "guid": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
     "isoDate": "2026-02-19T10:24:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg, Lily Hay Newman",
-    "title": "How to Organize Safely in the Age of Surveillance",
-    "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-    "pubDate": "Thu, 19 Feb 2026 10:00:00 +0000",
-    "dc:creator": "Andy Greenberg, Lily Hay Newman",
-    "content": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful.",
-    "contentSnippet": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful.",
-    "guid": "6989fcc118104615c3d4103f",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security Advice",
-      "Politics"
-    ],
-    "isoDate": "2026-02-19T10:00:00.000Z"
   }
 ]
