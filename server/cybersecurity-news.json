@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+    "pubDate": "Sat, 21 Feb 2026 20:19:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg"
+    },
+    "content": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
+    "contentSnippet": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
+    "guid": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+    "isoDate": "2026-02-21T14:49:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess, Andy Greenberg, Lily Hay Newman",
     "title": "Password Managers Share a Hidden Weakness",
     "link": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
@@ -335,21 +352,5 @@
       "Security"
     ],
     "isoDate": "2026-02-20T01:12:25.000Z"
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
-    "link": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
-    "pubDate": "Thu, 19 Feb 2026 23:18:09 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
-    "contentSnippet": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
-    "guid": "6994d157b9a628d3ca165c7a",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Business / Blockchain and Cryptocurrency"
-    ],
-    "isoDate": "2026-02-19T23:18:09.000Z"
   }
 ]
