@@ -333,6 +333,15 @@
     "language": "Python"
   },
   {
+    "name": "DFIR-Toolkit",
+    "owner": "fsfang",
+    "url": "https://github.com/fsfang/DFIR-Toolkit",
+    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
+    "stars": 20,
+    "forks": 3,
+    "language": "Batchfile"
+  },
+  {
     "name": "PCI-DSS-Compliance-Toolkit",
     "owner": "praiseordu",
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
@@ -349,15 +358,6 @@
     "stars": 19,
     "forks": 2,
     "language": "Shell"
-  },
-  {
-    "name": "DFIR-Toolkit",
-    "owner": "fsfang",
-    "url": "https://github.com/fsfang/DFIR-Toolkit",
-    "description": "This is a repo for cybersecurity analyst collecting artifacts in a incident response case.",
-    "stars": 19,
-    "forks": 3,
-    "language": "Batchfile"
   },
   {
     "name": "cybersecurity-tools",
