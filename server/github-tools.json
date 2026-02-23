@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8517,
+    "stars": 8518,
     "forks": 1153,
     "language": null
   },
@@ -783,13 +783,13 @@
     "language": "Python"
   },
   {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -801,13 +801,13 @@
     "language": null
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
     "stars": 6,
-    "forks": 1,
-    "language": null
+    "forks": 0,
+    "language": "Rich Text Format"
   },
   {
     "name": "Hacker-Tools",
@@ -864,15 +864,6 @@
     "language": null
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "BEC-Detection-Toolkit",
     "owner": "reveal79",
     "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
+  },
+  {
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
     "stars": 4,
     "forks": 2,
-    "language": "Python"
+    "language": "HTML"
   }
 ]
