@@ -1,5 +1,42 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "On the Security of Password Managers",
+    "link": "https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html",
+    "pubDate": "Mon, 23 Feb 2026 12:03:33 +0000",
+    "content:encoded": "<p><a href=\"https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/\">Good article</a> on password managers that secretly have a backdoor.</p>\n<blockquote><p>New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&#8212;either administrative or the result of a compromise­&#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.</p></blockquote>\n<p>This is where I plug my own <a href=\"https://www.pwsafe.org/\">Password Safe</a>. It isn&#8217;t as full-featured as the others and it doesn&#8217;t use the cloud at all, but it&#8217;s actual encryption with no recovery features.</p>\n",
+    "content:encodedSnippet": "Good article on password managers that secretly have a backdoor.\nNew research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­—either administrative or the result of a compromise­—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.\n\nThis is where I plug my own Password Safe. It isn’t as full-featured as the others and it doesn’t use the cloud at all, but it’s actual encryption with no recovery features.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html#comments",
+    "content": "<p><a href=\"https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/\">Good article</a> on password managers that secretly have a backdoor.</p>\n<blockquote><p>New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&#8212;either administrative or the result of a compromise­&#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...</p></blockquote>",
+    "contentSnippet": "Good article on password managers that secretly have a backdoor.\nNew research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­—either administrative or the result of a compromise­—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...",
+    "guid": "https://www.schneier.com/?p=71642",
+    "categories": [
+      "Uncategorized",
+      "backdoors",
+      "Password Safe",
+      "passwords"
+    ],
+    "isoDate": "2026-02-23T12:03:33.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+    "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+    "pubDate": "Mon, 23 Feb 2026 17:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg"
+    },
+    "content": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
+    "contentSnippet": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
+    "guid": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+    "isoDate": "2026-02-23T11:58:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
     "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
@@ -318,40 +355,6 @@
     "contentSnippet": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
     "guid": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
     "isoDate": "2026-02-20T09:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-    "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-    "pubDate": "Fri, 20 Feb 2026 13:35:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg"
-    },
-    "content": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
-    "contentSnippet": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
-    "guid": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-    "isoDate": "2026-02-20T08:05:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
-    "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
-    "pubDate": "Fri, 20 Feb 2026 10:57:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjPkindvHhAkTNady5lI22zPkPfSqmVuaxvfEwnLVFvhSVUe_rhMjzTQ3c6sVpvLw_RB1YXtEPoqO1Uq1diOtZ3FC-oudy7x826CjtJE-Y0nxnJtvZBdXmOqfGgLwcJfGC3vN4xODBXTW_vSkg6oAVnVzUekFFe1YJaH5_YBDfAqG4W-tJOw3Oe1GXIL2/s1600/google-iran.jpg"
-    },
-    "content": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, including Iran.\nSamaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosravi), 40, along with her sister Soroor Ghandali, 32, have been accused",
-    "contentSnippet": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, including Iran.\nSamaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosravi), 40, along with her sister Soroor Ghandali, 32, have been accused",
-    "guid": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
-    "isoDate": "2026-02-20T05:27:00.000Z",
     "itunes": {}
   }
 ]
