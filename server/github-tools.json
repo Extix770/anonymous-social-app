@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1166,
+    "stars": 1167,
     "forks": 176,
     "language": null
   },
@@ -220,7 +220,7 @@
     "owner": "SalehLardhi",
     "url": "https://github.com/SalehLardhi/google-dorks-toolkit",
     "description": "GoogleDorks Toolkit is a powerful automated tool for google dorks, designed for pentration tester, ethical hackers and bug hunters to detect harmful security vulnerabilities using Google Dorks techniques. It has methods to bypass google captcha and search in a list of any possible program in wild.",
-    "stars": 61,
+    "stars": 62,
     "forks": 9,
     "language": "Python"
   },
@@ -783,15 +783,6 @@
     "language": "Python"
   },
   {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
-    "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
-  },
-  {
     "name": "Cyber-Sec-Resources-Tools",
     "owner": "txuswashere",
     "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
@@ -810,13 +801,13 @@
     "language": null
   },
   {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 5,
-    "forks": 2,
-    "language": "Shell"
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "stars": 6,
+    "forks": 0,
+    "language": "Rich Text Format"
   },
   {
     "name": "Hacker-Tools",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 5,
+    "forks": 2,
+    "language": "Shell"
   },
   {
     "name": "WEEK-TOOL",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
     "stars": 4,
     "forks": 2,
-    "language": "Python"
+    "language": "HTML"
   }
 ]
