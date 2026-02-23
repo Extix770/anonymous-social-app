@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+    "pubDate": "Mon, 23 Feb 2026 12:55:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6M5M47ZmJ-KuhYC2JC8UwHjdNPLoS3oSeT38cnI8sCmd9NbNFmjNh8qCUXxC7XexLVdUBTBsEIELNLfj2nM-LTRKJajmvwbdehC_bNch-kE98Py-CaDoSAZHCxQztFszsWePupECSqKuasUv8lu9IXYhg8qAS2V7ojLqicNp_HRnyhnc74n_vWYHeEQ-/s1600/muddy.jpg"
+    },
+    "content": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
+    "contentSnippet": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
+    "guid": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+    "isoDate": "2026-02-23T07:25:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
     "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
     "pubDate": "Sat, 21 Feb 2026 20:19:00 +0530",
@@ -335,22 +352,5 @@
       "Politics / Politics News"
     ],
     "isoDate": "2026-02-20T03:29:17.000Z"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
-    "link": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
-    "pubDate": "Fri, 20 Feb 2026 01:12:25 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
-    "contentSnippet": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
-    "guid": "69975d988c1db0eb0c5091a1",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Smart Home",
-      "Security"
-    ],
-    "isoDate": "2026-02-20T01:12:25.000Z"
   }
 ]
