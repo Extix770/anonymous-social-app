@@ -756,6 +756,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
@@ -774,28 +783,10 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
     "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
     "stars": 6,
     "forks": 1,
     "language": null
@@ -808,6 +799,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Rich Text Format"
+  },
+  {
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Hacker-Tools",
@@ -846,6 +846,15 @@
     "language": "Go"
   },
   {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -855,10 +864,10 @@
     "language": "C"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -873,15 +882,6 @@
     "language": "PowerShell"
   },
   {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "BPT_Briskinfosec_Pentest_Toolkit",
     "owner": "briskinfosec",
     "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
@@ -891,12 +891,12 @@
     "language": "Shell"
   },
   {
-    "name": "Phishing-Simulation-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
-    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "name": "python_cybersec_tools",
+    "owner": "SirBlob",
+    "url": "https://github.com/SirBlob/python_cybersec_tools",
+    "description": "Tools for cybersecurity based on Udemy course",
     "stars": 4,
     "forks": 2,
-    "language": "HTML"
+    "language": "Python"
   }
 ]
