@@ -49,8 +49,8 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1162,
-    "forks": 175,
+    "stars": 1164,
+    "forks": 176,
     "language": null
   },
   {
@@ -738,6 +738,15 @@
     "language": null
   },
   {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
+  },
+  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -747,13 +756,13 @@
     "language": "Python"
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "obsidian-soc-toolkit",
@@ -774,22 +783,13 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 6,
-    "forks": 1,
-    "language": null
+    "language": "Rich Text Format"
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
@@ -801,22 +801,13 @@
     "language": null
   },
   {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
-  },
-  {
-    "name": "Hacker-Tools",
-    "owner": "Push4ck",
-    "url": "https://github.com/Push4ck/Hacker-Tools",
-    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
-    "stars": 5,
-    "forks": 2,
-    "language": "Python"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "soc-toolkit",
@@ -826,6 +817,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Shell"
+  },
+  {
+    "name": "Hacker-Tools",
+    "owner": "Push4ck",
+    "url": "https://github.com/Push4ck/Hacker-Tools",
+    "description": "A professional-grade CLI toolkit for ethical hacking, penetration testing, and cybersecurity automation — built with Python.",
+    "stars": 5,
+    "forks": 2,
+    "language": "Python"
   },
   {
     "name": "WEEK-TOOL",
