@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+    "pubDate": "Tue, 24 Feb 2026 01:11:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwbKDzax_Hh_RHSU7qEInhqGvzoEncnUbB3WgxiRorJPzrvWGo2GCCC0_94YDAdaIs3gBMgO8N4iM4FoMzMiaM1icI-NX2qTf5Dflmv25XR66ni1JEcMl0HxwApTpA5W48R9KLgF5oo7uB8FAjoUrI3h7FxPgoER_FCPPgJ2gHZQyk3BR4kZkt-tU6CFG/s1600/malware-attack-eu.jpg"
+    },
+    "content": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
+    "contentSnippet": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
+    "guid": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+    "isoDate": "2026-02-23T19:41:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
     "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
     "pubDate": "Mon, 23 Feb 2026 23:29:00 +0530",
@@ -339,22 +356,5 @@
       "surveillance"
     ],
     "isoDate": "2026-02-20T12:08:51.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-    "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-    "pubDate": "Fri, 20 Feb 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWybmqdjOp2WuZ84iFMFu3-0eOVa8l0etXodmxf1nt6J5HOLansMggutpXiJZTE4n_ENW6Ea_hb-6XuzCoyrvS830lwOZC_T6GAeGTzHVNfa5kqoZ5QYrN-vscS1XlXY5bIvrmUhXnPbOB73YUoWoysyr4o1W8pbhYi-TEWTGuvbh3zL7baiD3RuAyE30/s1600/clickfix.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).\n\"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).\n\"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
-    "guid": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-    "isoDate": "2026-02-20T11:55:00.000Z",
-    "itunes": {}
   }
 ]
