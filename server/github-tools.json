@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8519,
+    "stars": 8520,
     "forks": 1152,
     "language": null
   },
@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1169,
+    "stars": 1170,
     "forks": 176,
     "language": null
   },
@@ -342,6 +342,15 @@
     "language": "Batchfile"
   },
   {
+    "name": "Phoneint-OSINT-Toolkit",
+    "owner": "SagarBiswas-MultiHAT",
+    "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
+    "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
+    "stars": 20,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "PCI-DSS-Compliance-Toolkit",
     "owner": "praiseordu",
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
@@ -358,6 +367,15 @@
     "stars": 19,
     "forks": 2,
     "language": "Shell"
+  },
+  {
+    "name": "NmapScanningTool-V1",
+    "owner": "SagarBiswas-MultiHAT",
+    "url": "https://github.com/SagarBiswas-MultiHAT/NmapScanningTool-V1",
+    "description": "An interactive Python wrapper around Nmap that simplifies running common network scans. It prompts for targets, ports, and scan types, supports SYN, aggressive, OS detection, and NSE vulnerability scans, checks for privileges and Nmap availability, and can filter results to show only open ports.",
+    "stars": 19,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "cybersecurity-tools",
@@ -880,23 +898,5 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
-  },
-  {
-    "name": "BPT_Briskinfosec_Pentest_Toolkit",
-    "owner": "briskinfosec",
-    "url": "https://github.com/briskinfosec/BPT_Briskinfosec_Pentest_Toolkit",
-    "description": "Briskinfosec Pentest Toolkit (BPT) is a powerful and automated security assessment toolkit. BPT is pioneering techniques that helps penetration testers to automate the attack surfaces.",
-    "stars": 4,
-    "forks": 3,
-    "language": "Shell"
-  },
-  {
-    "name": "python_cybersec_tools",
-    "owner": "SirBlob",
-    "url": "https://github.com/SirBlob/python_cybersec_tools",
-    "description": "Tools for cybersecurity based on Udemy course",
-    "stars": 4,
-    "forks": 2,
-    "language": "Python"
   }
 ]
