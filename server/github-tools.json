@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7556,
+    "stars": 7555,
     "forks": 856,
     "language": "HTML"
   },
@@ -274,7 +274,7 @@
     "owner": "RPxGoon",
     "url": "https://github.com/RPxGoon/3TH1C4L-MultiTool",
     "description": "A 'Work In-Progress' OSINT, Networking, Discord, and other General Purpose Multi-Tool Written 100% in Python     |     Join the Discord Below for Support, Suggestions, & Requests    |    [v1.0.7]",
-    "stars": 34,
+    "stars": 35,
     "forks": 4,
     "language": "Python"
   },
