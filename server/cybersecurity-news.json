@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+    "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+    "pubDate": "Wed, 25 Feb 2026 00:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSgjd-Xezu42fOKahjOxnhqntkclItoP8FmMfyjjKTmelK3eHoUEi6_75n6ORgD650By4wESNP8yDP2WWENzqI5T9Gl-NhYPPTiAQgkFykZv1d_MsCECcu0ZgQWt29JiGmH1zCmwNWSin8AQMWmsOm6r4ZdS8EOIC9Xtdw7FrRlN8kQs7o2s_whiNtcSH/s1600/github-copilot.jpg"
+    },
+    "content": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.\nThe artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.\n\"Attackers can craft hidden instructions inside a",
+    "contentSnippet": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.\nThe artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.\n\"Attackers can craft hidden instructions inside a",
+    "guid": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+    "isoDate": "2026-02-24T18:52:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
     "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
     "pubDate": "Tue, 24 Feb 2026 19:51:00 +0530",
@@ -326,24 +343,5 @@
     "guid": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
     "isoDate": "2026-02-21T04:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Cartoon",
-    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html",
-    "pubDate": "Fri, 20 Feb 2026 22:05:15 +0000",
-    "content:encoded": "<p>I like <a href=\"https://bsky.app/profile/werd.io/post/3mdv7navllc2l\">this one</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "I like this one.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html#comments",
-    "content": "<p>I like <a href=\"https://bsky.app/profile/werd.io/post/3mdv7navllc2l\">this one</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "I like this one.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71585",
-    "categories": [
-      "Uncategorized",
-      "humor",
-      "squid"
-    ],
-    "isoDate": "2026-02-20T22:05:15.000Z"
   }
 ]
