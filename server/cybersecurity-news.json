@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+    "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+    "pubDate": "Tue, 24 Feb 2026 19:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR8uMyTA6j9P1KBgNFXf7uKvuD9CpolHGiMuaTIMOc87IKSqoGXWxea4Hs3unk1kLewzUd0hyOxpk6AsnEy1WmKwQwW8QV2zFBJiCi6PLOMi5zxAD_C2_DZytczAcPCSA_JGN9Se8arByQlLzoTiDaX1qJiA0Q6IT2Sfeg7BgkeQZ2ptQcjo_RX8jMgs1/s1600/bank-cyberattack.jpg"
+    },
+    "content": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation.\nThe activity, which targeted an unnamed entity involved in regional",
+    "contentSnippet": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation.\nThe activity, which targeted an unnamed entity involved in regional",
+    "guid": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+    "isoDate": "2026-02-24T14:21:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Is AI Good for Democracy?",
     "link": "https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html",
@@ -328,23 +345,5 @@
       "squid"
     ],
     "isoDate": "2026-02-20T22:05:15.000Z"
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies",
-    "link": "https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-    "pubDate": "Fri, 20 Feb 2026 20:03:23 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition.",
-    "contentSnippet": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition.",
-    "guid": "69977cb46682b7d0faefb42e",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-02-20T20:03:23.000Z"
   }
 ]
