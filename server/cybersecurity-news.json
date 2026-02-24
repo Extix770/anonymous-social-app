@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
+    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+    "pubDate": "Tue, 24 Feb 2026 15:24:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
+    },
+    "content": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
+    "contentSnippet": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
+    "guid": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+    "isoDate": "2026-02-24T09:54:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
     "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
     "pubDate": "Tue, 24 Feb 2026 11:34:00 +0530",
@@ -334,23 +351,6 @@
     "contentSnippet": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and \nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
     "guid": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
     "isoDate": "2026-02-20T15:45:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-    "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-    "pubDate": "Fri, 20 Feb 2026 19:50:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvPoczCRsYg15Y2soZNAfhG8r-8FhwlnlnpNANn6DmZ9WPYJo203gJTPDaWyrBoK8eRtHTBE2Xl5hBEIka4d0PcU2zQX5T6bl1tM1bt8Kq2sDFEplKhMlrSMWbJUhGw3nvlUbN9_3zMqrv9o8SlUdCGIea3rV2u4Z_KdV1PrGBDIcT1GYnfzsozeUy54ee/s1600/cline.jpg"
-    },
-    "content": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
-    "contentSnippet": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
-    "guid": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-    "isoDate": "2026-02-20T14:20:00.000Z",
     "itunes": {}
   }
 ]

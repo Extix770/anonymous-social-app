@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7554,
+    "stars": 7555,
     "forks": 856,
     "language": "HTML"
   },
@@ -112,7 +112,7 @@
     "owner": "ANG13T",
     "url": "https://github.com/ANG13T/aerospace-hacking-tools",
     "description": "An astronomical collection of space-related cybersecurity tools 🚀✨",
-    "stars": 264,
+    "stars": 265,
     "forks": 32,
     "language": "JavaScript"
   },
@@ -549,6 +549,15 @@
     "language": null
   },
   {
+    "name": "digital-forensics-tools",
+    "owner": "garudaproject",
+    "url": "https://github.com/garudaproject/digital-forensics-tools",
+    "description": "Digital Forensics Tools Collection",
+    "stars": 11,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "Shifter-tool",
     "owner": "SabriAmir",
     "url": "https://github.com/SabriAmir/Shifter-tool",
@@ -556,15 +565,6 @@
     "stars": 11,
     "forks": 1,
     "language": "Python"
-  },
-  {
-    "name": "digital-forensics-tools",
-    "owner": "garudaproject",
-    "url": "https://github.com/garudaproject/digital-forensics-tools",
-    "description": "Digital Forensics Tools Collection",
-    "stars": 10,
-    "forks": 3,
-    "language": null
   },
   {
     "name": "uk-personal-osint-toolkit",
@@ -783,19 +783,19 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -864,15 +864,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
