@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Maddy Varner",
+    "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+    "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+    "pubDate": "Tue, 24 Feb 2026 23:22:38 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data.",
+    "contentSnippet": "The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data.",
+    "guid": "69987db6dcb41b61638a0958",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-24T23:22:38.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
     "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
@@ -325,23 +341,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
     "guid": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
     "isoDate": "2026-02-21T07:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-    "pubDate": "Sat, 21 Feb 2026 10:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg"
-    },
-    "content": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
-    "contentSnippet": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
-    "guid": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-    "isoDate": "2026-02-21T04:30:00.000Z",
     "itunes": {}
   }
 ]
