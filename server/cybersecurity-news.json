@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
+    "link": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
+    "pubDate": "Wed, 25 Feb 2026 10:53:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDYqq2mJ0VAzx1rcmM4woWuWiT1LxaSSkdbYfalpKU7gBf0mTbMQ6_Exxcych7x7GoD-qBgtzMYJqoGCsVdlaCuBM4622Pag8Y_srn9s0kVhCPT5Y7cWa6Q6oUTxx95AGlMfycEyghAGcRKC_AoWTdotazmKmE0AcCZm5IRFQZrEpAASX1mJLtA1lsY1oa/s1600/filezen.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute",
+    "guid": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
+    "isoDate": "2026-02-25T05:23:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Maddy Varner",
     "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
     "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
@@ -324,23 +341,6 @@
     "contentSnippet": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.\n\"It scans codebases for security vulnerabilities and suggests targeted",
     "guid": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
     "isoDate": "2026-02-21T07:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-    "pubDate": "Sat, 21 Feb 2026 12:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
-    "guid": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-    "isoDate": "2026-02-21T07:21:00.000Z",
     "itunes": {}
   }
 ]
