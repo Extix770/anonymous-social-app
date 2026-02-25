@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Fernanda González",
+    "title": "How Mexico's ‘CJNG’ Drug Cartel Embraced AI, Drones, and Social Media",
+    "link": "https://www.wired.com/story/how-mexicos-cjng-drug-cartel-embraced-ai-drones-and-social-media/",
+    "pubDate": "Wed, 25 Feb 2026 09:30:00 +0000",
+    "dc:creator": "Fernanda González",
+    "content": "Drug kingpin Nemesio “El Mencho” Oseguera Cervantes may be dead, but the Jalisco cartel he ran for years will likely outlive him—thanks, in part, to the criminal group’s embrace of technology.",
+    "contentSnippet": "Drug kingpin Nemesio “El Mencho” Oseguera Cervantes may be dead, but the Jalisco cartel he ran for years will likely outlive him—thanks, in part, to the criminal group’s embrace of technology.",
+    "guid": "699dc8a7261128b34f92b3d1",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-25T09:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
     "link": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
@@ -326,22 +342,5 @@
     "guid": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
     "isoDate": "2026-02-21T14:49:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Andy Greenberg, Lily Hay Newman",
-    "title": "Password Managers Share a Hidden Weakness",
-    "link": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
-    "pubDate": "Sat, 21 Feb 2026 11:30:00 +0000",
-    "dc:creator": "Matt Burgess, Andy Greenberg, Lily Hay Newman",
-    "content": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more.",
-    "contentSnippet": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more.",
-    "guid": "6998c91d862552e1c49a5cdd",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-02-21T11:30:00.000Z"
   }
 ]
