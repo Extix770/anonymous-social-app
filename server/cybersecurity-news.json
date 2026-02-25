@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+    "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+    "pubDate": "Wed, 25 Feb 2026 20:36:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheMHWdwNTiAJVGFveDmUE-c6R5fRxcIf_ECfU1uk44EkFSWh1PAkXZhOoPtL9vJESPwrDSPgCGRsl3_nvkHawqFo8vTOk7WytOuAjfnnFTfxeGoDQFPuPoMS0fKbGfNSKAOt12sCvE5NxbCMOgzrmozgrvPTNUWeNdkz4Kz23xG2rQYPndvynXw34uD6lx/s1600/vishing-attack.jpg"
+    },
+    "content": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
+    "contentSnippet": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
+    "guid": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+    "isoDate": "2026-02-25T15:06:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+    "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+    "pubDate": "Wed, 25 Feb 2026 20:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NekLXfHU8r6WoAeokuYAZFesA6Hu1-CaDaMxGkNI2ZMMZQMYjhkhv9op5m7gxZPtPSsICJz6HOoQnbQLaLbb58xgMKzdIzZ2YEozZ7T7cPyliMxoRVkjYJ1JYk0XoR-_T6WovGnQQOiiUSOhu9cxn2e8XnXOWeGtdFe4WsQNXYMcLj9OT_iMQ9eQ1YQ/s1600/anyrun-main.jpg"
+    },
+    "content": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
+    "contentSnippet": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
+    "guid": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+    "isoDate": "2026-02-25T14:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
     "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
     "pubDate": "Wed, 25 Feb 2026 18:13:00 +0530",
@@ -307,43 +341,6 @@
     "contentSnippet": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.\nAcross devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools",
     "guid": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
     "isoDate": "2026-02-23T13:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "On the Security of Password Managers",
-    "link": "https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html",
-    "pubDate": "Mon, 23 Feb 2026 12:03:33 +0000",
-    "content:encoded": "<p><a href=\"https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/\">Good article</a> on password managers that secretly have a backdoor.</p>\n<blockquote><p>New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&#8212;either administrative or the result of a compromise­&#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.</p></blockquote>\n<p>This is where I plug my own <a href=\"https://www.pwsafe.org/\">Password Safe</a>. It isn&#8217;t as full-featured as the others and it doesn&#8217;t use the cloud at all, but it&#8217;s actual encryption with no recovery features.</p>\n",
-    "content:encodedSnippet": "Good article on password managers that secretly have a backdoor.\nNew research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­—either administrative or the result of a compromise­—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.\n\nThis is where I plug my own Password Safe. It isn’t as full-featured as the others and it doesn’t use the cloud at all, but it’s actual encryption with no recovery features.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html#comments",
-    "content": "<p><a href=\"https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/\">Good article</a> on password managers that secretly have a backdoor.</p>\n<blockquote><p>New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&#8212;either administrative or the result of a compromise­&#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...</p></blockquote>",
-    "contentSnippet": "Good article on password managers that secretly have a backdoor.\nNew research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­—either administrative or the result of a compromise­—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...",
-    "guid": "https://www.schneier.com/?p=71642",
-    "categories": [
-      "Uncategorized",
-      "backdoors",
-      "Password Safe",
-      "passwords"
-    ],
-    "isoDate": "2026-02-23T12:03:33.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-    "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-    "pubDate": "Mon, 23 Feb 2026 17:28:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg"
-    },
-    "content": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
-    "contentSnippet": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
-    "guid": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-    "isoDate": "2026-02-23T11:58:00.000Z",
     "itunes": {}
   }
 ]
