@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Manual Processes Are Putting National Security at Risk",
+    "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
+    "pubDate": "Wed, 25 Feb 2026 16:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s1600/national-security.jpg"
+    },
+    "content": "Why automating sensitive data transfers is now a mission-critical priority\nMore than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic",
+    "contentSnippet": "Why automating sensitive data transfers is now a mission-critical priority\nMore than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic",
+    "guid": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
+    "isoDate": "2026-02-25T11:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Fernanda González",
     "title": "How Mexico's ‘CJNG’ Drug Cartel Embraced AI, Drones, and Social Media",
     "link": "https://www.wired.com/story/how-mexicos-cjng-drug-cartel-embraced-ai-drones-and-social-media/",
@@ -324,23 +341,6 @@
     "contentSnippet": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
     "guid": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
     "isoDate": "2026-02-23T07:25:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-    "pubDate": "Sat, 21 Feb 2026 20:19:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg"
-    },
-    "content": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
-    "contentSnippet": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
-    "guid": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-    "isoDate": "2026-02-21T14:49:00.000Z",
     "itunes": {}
   }
 ]
