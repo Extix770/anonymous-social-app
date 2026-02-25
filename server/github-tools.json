@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7563,
+    "stars": 7564,
     "forks": 856,
     "language": "HTML"
   },
@@ -130,7 +130,7 @@
     "owner": "the0cp",
     "url": "https://github.com/the0cp/awesome-ddos-tools",
     "description": "Collection of several DDos tools.",
-    "stars": 206,
+    "stars": 207,
     "forks": 44,
     "language": "Python"
   },
@@ -828,15 +828,6 @@
     "language": "Rich Text Format"
   },
   {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 5,
-    "forks": 2,
-    "language": "Shell"
-  },
-  {
     "name": "Hacker-Tools",
     "owner": "Push4ck",
     "url": "https://github.com/Push4ck/Hacker-Tools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 5,
+    "forks": 2,
+    "language": "Shell"
   },
   {
     "name": "WEEK-TOOL",
