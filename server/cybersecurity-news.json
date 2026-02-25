@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Poisoning AI Training Data",
+    "link": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html",
+    "pubDate": "Wed, 25 Feb 2026 12:01:23 +0000",
+    "content:encoded": "<p>All it takes to <a href=\"https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes\">poison AI training data</a> is to create a website:</p>\n<blockquote><p>I spent 20 minutes writing <a href=\"https://tomgermain.com/hotdogs.html\">an article</a> on my personal website titled &#8220;The best tech journalists at eating hot dogs.&#8221; Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn&#8217;t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission&#8230;.</p>\n<p>Less than 24 hours later, the world&#8217;s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn&#8217;t fooled.</p>\n<p>Sometimes, the chatbots noted this might be a joke. I updated my article to say &#8220;this is not satire.&#8221; For a while after, the AIs seemed to take it more seriously.</p></blockquote>\n<p>These things are not trustworthy, and yet they are going to be widely trusted.</p>\n",
+    "content:encodedSnippet": "All it takes to poison AI training data is to create a website:\nI spent 20 minutes writing an article on my personal website titled “The best tech journalists at eating hot dogs.” Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn’t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission….\nLess than 24 hours later, the world’s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn’t fooled.\nSometimes, the chatbots noted this might be a joke. I updated my article to say “this is not satire.” For a while after, the AIs seemed to take it more seriously.\n\nThese things are not trustworthy, and yet they are going to be widely trusted.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html#comments",
+    "content": "<p>All it takes to <a href=\"https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes\">poison AI training data</a> is to create a website:</p>\n<blockquote><p>I spent 20 minutes writing <a href=\"https://tomgermain.com/hotdogs.html\">an article</a> on my personal website titled &#8220;The best tech journalists at eating hot dogs.&#8221; Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn&#8217;t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission&#8230;.</p>\n<p>Less than 24 hours later, the world&#8217;s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn&#8217;t fooled...</p></blockquote>",
+    "contentSnippet": "All it takes to poison AI training data is to create a website:\nI spent 20 minutes writing an article on my personal website titled “The best tech journalists at eating hot dogs.” Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn’t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission….\nLess than 24 hours later, the world’s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn’t fooled...",
+    "guid": "https://www.schneier.com/?p=71655",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "hacking",
+      "trust"
+    ],
+    "isoDate": "2026-02-25T12:01:23.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Manual Processes Are Putting National Security at Risk",
     "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
@@ -324,23 +344,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft.\nThe campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
     "guid": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
     "isoDate": "2026-02-23T10:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-    "pubDate": "Mon, 23 Feb 2026 12:55:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6M5M47ZmJ-KuhYC2JC8UwHjdNPLoS3oSeT38cnI8sCmd9NbNFmjNh8qCUXxC7XexLVdUBTBsEIELNLfj2nM-LTRKJajmvwbdehC_bNch-kE98Py-CaDoSAZHCxQztFszsWePupECSqKuasUv8lu9IXYhg8qAS2V7ojLqicNp_HRnyhnc74n_vWYHeEQ-/s1600/muddy.jpg"
-    },
-    "content": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
-    "contentSnippet": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
-    "guid": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-    "isoDate": "2026-02-23T07:25:00.000Z",
     "itunes": {}
   }
 ]
