@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+    "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+    "pubDate": "Thu, 26 Feb 2026 16:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GaeyxU6qnAMuRiZnc2gbSF7-tg-keCAzXjwtDBtKJhuZ0wcqxbPb_N-NyXBTrZ85M3dGuMYgk8qV4-QfSELGQ5o3NxoNAqeKfeoILZRrvkx72BJeTqvrVtnedsfUHTjl1Gn6NRQt2_dnJpnxV-PhKEekQXgqO1SZWyG_tRi1Jhjt5m87iDhABGq85pXt/s1600/software-hacker.jpg"
+    },
+    "content": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+    "contentSnippet": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+    "guid": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+    "isoDate": "2026-02-26T10:35:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+    "pubDate": "Thu, 26 Feb 2026 15:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
+    "guid": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+    "isoDate": "2026-02-26T10:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
     "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
     "pubDate": "Thu, 26 Feb 2026 11:43:00 +0530",
@@ -307,40 +341,6 @@
     "contentSnippet": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team.\nBroadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
     "guid": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
     "isoDate": "2026-02-24T11:52:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
-    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-    "pubDate": "Tue, 24 Feb 2026 15:24:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
-    },
-    "content": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
-    "contentSnippet": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
-    "guid": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-    "isoDate": "2026-02-24T09:54:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-    "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
-    "pubDate": "Tue, 24 Feb 2026 11:34:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg"
-    },
-    "content": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
-    "contentSnippet": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
-    "guid": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
-    "isoDate": "2026-02-24T06:04:00.000Z",
     "itunes": {}
   }
 ]
