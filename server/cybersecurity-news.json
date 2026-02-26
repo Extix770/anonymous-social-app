@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+    "pubDate": "Thu, 26 Feb 2026 11:43:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg"
+    },
+    "content": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
+    "contentSnippet": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
+    "guid": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+    "isoDate": "2026-02-26T06:13:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
     "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
     "pubDate": "Wed, 25 Feb 2026 23:16:00 +0530",
@@ -324,23 +341,6 @@
     "contentSnippet": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
     "guid": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
     "isoDate": "2026-02-24T06:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
-    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
-    "pubDate": "Tue, 24 Feb 2026 01:11:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwbKDzax_Hh_RHSU7qEInhqGvzoEncnUbB3WgxiRorJPzrvWGo2GCCC0_94YDAdaIs3gBMgO8N4iM4FoMzMiaM1icI-NX2qTf5Dflmv25XR66ni1JEcMl0HxwApTpA5W48R9KLgF5oo7uB8FAjoUrI3h7FxPgoER_FCPPgJ2gHZQyk3BR4kZkt-tU6CFG/s1600/malware-attack-eu.jpg"
-    },
-    "content": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
-    "contentSnippet": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
-    "guid": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
-    "isoDate": "2026-02-23T19:41:00.000Z",
     "itunes": {}
   }
 ]
