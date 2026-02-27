@@ -486,6 +486,15 @@
     "language": "Shell"
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 13,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "CTF-Tools",
     "owner": "cmaixen",
     "url": "https://github.com/cmaixen/CTF-Tools",
@@ -529,15 +538,6 @@
     "stars": 12,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
-    "stars": 12,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "ocsf-tool",
@@ -783,15 +783,6 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -799,6 +790,15 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
