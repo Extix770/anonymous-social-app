@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+    "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+    "pubDate": "Fri, 27 Feb 2026 21:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdXNmYRKw13_BHE7B7MMtqTTpJXBkgDzl2sH31t0L0_VCl9uJbWPS2yg0j0jz0XJovSYryM4NcSCAZdtTDsoRa2d6y3U84K9TDQYJSObLgaJXXh8juWmP6liqj_uirhZvKjR0dqYZ-J2mwTnmEIYIKfAoC9BY3yL2xhfLD_NbwVKzekKwoI3u4iSzU44Xn/s1600/hackers.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
+    "guid": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+    "isoDate": "2026-02-27T15:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
     "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
     "pubDate": "Fri, 27 Feb 2026 18:13:00 +0530",
@@ -331,23 +348,6 @@
     "contentSnippet": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
     "guid": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
     "isoDate": "2026-02-25T14:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
-    "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
-    "pubDate": "Wed, 25 Feb 2026 18:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-bjDoQWaHQbmh17EY0EzAbNkQxh3AHTCEBNjNpdXsBeuuuHPycl9tIzC9msasA7ZwhewkuMMk-MAJvrV5EVSgOrn8FdHnAxdkiGA1YRNL4pHJ3QUSoreUf6d9VIRagp9oi26XKEYgsdon3wDf81fE5mjkq8yJmhC2wSkIK3emLP_xHvAJ2eC3uanvXEW/s1600/coding.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
-    "contentSnippet": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
-    "guid": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
-    "isoDate": "2026-02-25T12:43:00.000Z",
     "itunes": {}
   }
 ]
