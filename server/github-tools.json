@@ -459,6 +459,15 @@
     "language": "Python"
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 14,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "WiFi-Hacking-Tool",
     "owner": "waheeb71",
     "url": "https://github.com/waheeb71/WiFi-Hacking-Tool",
@@ -484,15 +493,6 @@
     "stars": 13,
     "forks": 4,
     "language": "Shell"
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
-    "stars": 13,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "CTF-Tools",
@@ -756,15 +756,6 @@
     "language": null
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -774,12 +765,12 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
     "stars": 6,
-    "forks": 0,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -792,6 +783,15 @@
     "language": "Python"
   },
   {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -799,6 +799,15 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "nis2-sme-toolkit",
+    "owner": "paolocarner",
+    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
+    "description": "Complete NIS2 compliance assessment and planning toolkit",
+    "stars": 6,
+    "forks": 0,
+    "language": "Rich Text Format"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -819,13 +828,13 @@
     "language": null
   },
   {
-    "name": "nis2-sme-toolkit",
-    "owner": "paolocarner",
-    "url": "https://github.com/paolocarner/nis2-sme-toolkit",
-    "description": "Complete NIS2 compliance assessment and planning toolkit",
-    "stars": 6,
-    "forks": 0,
-    "language": "Rich Text Format"
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 5,
+    "forks": 2,
+    "language": "Shell"
   },
   {
     "name": "Hacker-Tools",
@@ -835,15 +844,6 @@
     "stars": 5,
     "forks": 2,
     "language": "Python"
-  },
-  {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 5,
-    "forks": 2,
-    "language": "Shell"
   },
   {
     "name": "WEEK-TOOL",
@@ -864,15 +864,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -882,13 +873,13 @@
     "language": "C"
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
     "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
@@ -898,5 +889,14 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 5,
+    "forks": 0,
+    "language": "PowerShell"
   }
 ]
