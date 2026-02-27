@@ -774,6 +774,15 @@
     "language": "TypeScript"
   },
   {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -790,15 +799,6 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
-  },
-  {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -882,15 +882,6 @@
     "language": "C"
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
-  },
-  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -898,5 +889,14 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "BEC-Detection-Toolkit",
+    "owner": "reveal79",
+    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
+    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "stars": 5,
+    "forks": 0,
+    "language": "PowerShell"
   }
 ]
