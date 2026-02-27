@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid Fishing in Peru",
+    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html",
+    "pubDate": "Fri, 27 Feb 2026 22:04:45 +0000",
+    "content:encoded": "<p>Peru has <a href=\"https://www.bairdmaritime.com/fishing/regulation-enforcement/peru-updates-giant-squid-catch-limit-for-artisanal-fishing\">increased</a> its squid catch limit. The article says &#8220;giant squid,&#8221; but they can&#8217;t possibly mean that.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Peru has increased its squid catch limit. The article says “giant squid,” but they can’t possibly mean that.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html#respond",
+    "content": "<p>Peru has <a href=\"https://www.bairdmaritime.com/fishing/regulation-enforcement/peru-updates-giant-squid-catch-limit-for-artisanal-fishing\">increased</a> its squid catch limit. The article says &#8220;giant squid,&#8221; but they can&#8217;t possibly mean that.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Peru has increased its squid catch limit. The article says “giant squid,” but they can’t possibly mean that.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71679",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-02-27T22:04:45.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
     "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
@@ -331,23 +349,6 @@
     "contentSnippet": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
     "guid": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
     "isoDate": "2026-02-25T17:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-    "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-    "pubDate": "Wed, 25 Feb 2026 22:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ch5lk3LqPFl0TutlBSasJaFa2bNjNdXbIePoE8y76HOmsErmRwXcYUungmePyAK_J_zclibjngwBoTNEB2whRW3-ZAjwKSu1B0VwHyHS_qtKqeivbIdC4HFmSef-lcxWkLXnMs_4HVgmiTNNQSE6UeNt4Ci6lkQaZZlrcwrEy1s4wAVb93CJup8e6r7/s1600/claudecode.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
-    "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
-    "guid": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-    "isoDate": "2026-02-25T17:00:00.000Z",
     "itunes": {}
   }
 ]
