@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+    "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+    "pubDate": "Fri, 27 Feb 2026 13:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwKH9i7LZ3Jt6juj9BX2MCjTNRBKuvKX58L2mWuQN1teRdCwExZsz5LLZNBRvRri4BtJW1ECj92EU42c1XJfy1vBdLXZoxIfjzKEca7ST3Fw-jhU0_XakPBZfgQF1huHepkdAUFmrRtXWUsdnBf-W6cYEtWehaJ1Ca41-6DK414TB_2QwF9M5sm-ofmOuG/s1600/facebook-ads.jpg"
+    },
+    "content": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
+    "contentSnippet": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
+    "guid": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+    "isoDate": "2026-02-27T07:56:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "This AI Agent Is Designed to Not Go Rogue",
     "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
@@ -326,23 +343,6 @@
     "contentSnippet": "SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution.\nThe vulnerabilities, all rated 9.1 on the CVSS scoring system, are listed below -\n\nCVE-2025-40538 - A broken access control vulnerability that allows an attacker to create a system admin user and execute arbitrary",
     "guid": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
     "isoDate": "2026-02-25T07:04:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
-    "link": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
-    "pubDate": "Wed, 25 Feb 2026 10:53:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDYqq2mJ0VAzx1rcmM4woWuWiT1LxaSSkdbYfalpKU7gBf0mTbMQ6_Exxcych7x7GoD-qBgtzMYJqoGCsVdlaCuBM4622Pag8Y_srn9s0kVhCPT5Y7cWa6Q6oUTxx95AGlMfycEyghAGcRKC_AoWTdotazmKmE0AcCZm5IRFQZrEpAASX1mJLtA1lsY1oa/s1600/filezen.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute",
-    "guid": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
-    "isoDate": "2026-02-25T05:23:00.000Z",
     "itunes": {}
   }
 ]
