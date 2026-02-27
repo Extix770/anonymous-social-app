@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+    "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+    "pubDate": "Fri, 27 Feb 2026 18:13:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGnWXXVXx1WeEkTWrq3_CCY922KPE3hV_pg-UYgx86QO76S5DomWi6TxZZQSGZ1Jpf2Rp2riR41Ld7zqWhjfdniLJthYBBDJx3eyNFMPQn5ph9kmmRyrib3HpIe1o5oEp6htOMFVe-m9UQNaXhhoY6MkHeXk1oM4UfctRDC5piMbIZGdjr2bApPUzXMQXK/s1600/keys.jpg"
+    },
+    "content": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+    "contentSnippet": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+    "guid": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+    "isoDate": "2026-02-27T12:43:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Why Tehran’s Two-Tiered Internet Is So Dangerous",
     "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
@@ -332,25 +349,5 @@
     "guid": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
     "isoDate": "2026-02-25T12:43:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Poisoning AI Training Data",
-    "link": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html",
-    "pubDate": "Wed, 25 Feb 2026 12:01:23 +0000",
-    "content:encoded": "<p>All it takes to <a href=\"https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes\">poison AI training data</a> is to create a website:</p>\n<blockquote><p>I spent 20 minutes writing <a href=\"https://tomgermain.com/hotdogs.html\">an article</a> on my personal website titled &#8220;The best tech journalists at eating hot dogs.&#8221; Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn&#8217;t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission&#8230;.</p>\n<p>Less than 24 hours later, the world&#8217;s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn&#8217;t fooled.</p>\n<p>Sometimes, the chatbots noted this might be a joke. I updated my article to say &#8220;this is not satire.&#8221; For a while after, the AIs seemed to take it more seriously.</p></blockquote>\n<p>These things are not trustworthy, and yet they are going to be widely trusted.</p>\n",
-    "content:encodedSnippet": "All it takes to poison AI training data is to create a website:\nI spent 20 minutes writing an article on my personal website titled “The best tech journalists at eating hot dogs.” Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn’t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission….\nLess than 24 hours later, the world’s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn’t fooled.\nSometimes, the chatbots noted this might be a joke. I updated my article to say “this is not satire.” For a while after, the AIs seemed to take it more seriously.\n\nThese things are not trustworthy, and yet they are going to be widely trusted.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html#comments",
-    "content": "<p>All it takes to <a href=\"https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes\">poison AI training data</a> is to create a website:</p>\n<blockquote><p>I spent 20 minutes writing <a href=\"https://tomgermain.com/hotdogs.html\">an article</a> on my personal website titled &#8220;The best tech journalists at eating hot dogs.&#8221; Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn&#8217;t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission&#8230;.</p>\n<p>Less than 24 hours later, the world&#8217;s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn&#8217;t fooled...</p></blockquote>",
-    "contentSnippet": "All it takes to poison AI training data is to create a website:\nI spent 20 minutes writing an article on my personal website titled “The best tech journalists at eating hot dogs.” Every word is a lie. I claimed (without evidence) that competitive hot-dog-eating is a popular hobby among tech reporters and based my ranking on the 2026 South Dakota International Hot Dog Championship (which doesn’t exist). I ranked myself number one, obviously. Then I listed a few fake reporters and real journalists who gave me permission….\nLess than 24 hours later, the world’s leading chatbots were blabbering about my world-class hot dog skills. When I asked about the best hot-dog-eating tech journalists, Google parroted the gibberish from my website, both in the Gemini app and AI Overviews, the AI responses at the top of Google Search. ChatGPT did the same thing, though Claude, a chatbot made by the company Anthropic, wasn’t fooled...",
-    "guid": "https://www.schneier.com/?p=71655",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "hacking",
-      "trust"
-    ],
-    "isoDate": "2026-02-25T12:01:23.000Z"
   }
 ]
