@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
+    "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
+    "pubDate": "Fri, 27 Feb 2026 23:29:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
+    },
+    "content": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
+    "contentSnippet": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
+    "guid": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
+    "isoDate": "2026-02-27T17:59:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
     "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
     "pubDate": "Fri, 27 Feb 2026 21:03:00 +0530",
@@ -331,23 +348,6 @@
     "contentSnippet": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
     "guid": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
     "isoDate": "2026-02-25T15:06:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
-    "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
-    "pubDate": "Wed, 25 Feb 2026 20:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NekLXfHU8r6WoAeokuYAZFesA6Hu1-CaDaMxGkNI2ZMMZQMYjhkhv9op5m7gxZPtPSsICJz6HOoQnbQLaLbb58xgMKzdIzZ2YEozZ7T7cPyliMxoRVkjYJ1JYk0XoR-_T6WovGnQQOiiUSOhu9cxn2e8XnXOWeGtdFe4WsQNXYMcLj9OT_iMQ9eQ1YQ/s1600/anyrun-main.jpg"
-    },
-    "content": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
-    "contentSnippet": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
-    "guid": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
-    "isoDate": "2026-02-25T14:30:00.000Z",
     "itunes": {}
   }
 ]
