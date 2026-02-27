@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+    "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+    "pubDate": "Fri, 27 Feb 2026 15:36:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillKgTghwZEhxrFFKb47xsniaaZYeDlISTMJYxMDr_82YETlHvM5M0XWXjizlkv1MgSAzkIEDbOcvfPsjsOaxRHvzl4-7LWTmKR6awOPB_FidaOgq0xhHslZbEJ7zh0Hq6CV0NJ8LUY-SDyA-nF6SeQ6Zzu-qrlWWMFsVg2n3yDRj0hcIPYEPLw6eAmadL/s1600/remote.jpg"
+    },
+    "content": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
+    "contentSnippet": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
+    "guid": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+    "isoDate": "2026-02-27T10:06:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dell Cameron",
     "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
     "link": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
@@ -327,22 +344,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-02-25T09:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
-    "link": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
-    "pubDate": "Wed, 25 Feb 2026 14:19:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiryFv5ZRzMaWgy0tIX9m-TmOscWeEBw8Do0GJ-3cOnT79ekD7oZzFZQkVU-pEvrJC6wv9ngJoaqch-bmNcAIrfHbyH2BJBFZG2Cff0gfFKcoS_ray_OrqditeEHz-XK7Z7jRrU80eo_KcfasAg3Wi_Cjd79-MxpMvqTGtwKNuWAnnZrhg9pcxKDzvjeB/s1600/zero-day.jpg"
-    },
-    "content": "A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars.\nPeter Williams pleaded guilty to two counts of theft of trade secrets in October 2025. In addition to the jail term, Williams",
-    "contentSnippet": "A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars.\nPeter Williams pleaded guilty to two counts of theft of trade secrets in October 2025. In addition to the jail term, Williams",
-    "guid": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
-    "isoDate": "2026-02-25T08:49:00.000Z",
-    "itunes": {}
   }
 ]
