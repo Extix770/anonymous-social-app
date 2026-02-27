@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
+    "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
+    "pubDate": "Fri, 27 Feb 2026 23:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglF1nudH44Lr269ed-E49qDWqg7t-GFuybhyQ8-6oDnBn-CcFh7o21w44Cjxxw0cuZQDBXdHQCxuOrR_vOLEvON4DyGSPWbr-7l3XaHXInETTZLxm-BAfCxUCFZ-Wxek-TnFI8t1rJ3gew5p3BnztZeIXY0ePy6DUFqL5R9QlKHZaUOVPwdIuDLkCju83c/s1600/tether-scam.jpg"
+    },
+    "content": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
+    "contentSnippet": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
+    "guid": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
+    "isoDate": "2026-02-27T18:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
     "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
     "pubDate": "Fri, 27 Feb 2026 23:29:00 +0530",
@@ -331,23 +348,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
     "guid": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "isoDate": "2026-02-25T17:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-    "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-    "pubDate": "Wed, 25 Feb 2026 20:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheMHWdwNTiAJVGFveDmUE-c6R5fRxcIf_ECfU1uk44EkFSWh1PAkXZhOoPtL9vJESPwrDSPgCGRsl3_nvkHawqFo8vTOk7WytOuAjfnnFTfxeGoDQFPuPoMS0fKbGfNSKAOt12sCvE5NxbCMOgzrmozgrvPTNUWeNdkz4Kz23xG2rQYPndvynXw34uD6lx/s1600/vishing-attack.jpg"
-    },
-    "content": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
-    "contentSnippet": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
-    "guid": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-    "isoDate": "2026-02-25T15:06:00.000Z",
     "itunes": {}
   }
 ]
