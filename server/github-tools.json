@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2409,
+    "stars": 2410,
     "forks": 352,
     "language": null
   },
@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1192,
+    "stars": 1193,
     "forks": 177,
     "language": null
   },
@@ -229,7 +229,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Social-Engineering-Tools",
     "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
-    "stars": 59,
+    "stars": 60,
     "forks": 5,
     "language": null
   },
@@ -531,6 +531,15 @@
     "language": null
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 12,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "ocsf-tool",
     "owner": "valllabh",
     "url": "https://github.com/valllabh/ocsf-tool",
@@ -564,15 +573,6 @@
     "description": "Educational toolkit with 14 security-related utilities (system info, hash tools, FTP cracker, SQLMap launcher, Nmap scanner, and more)",
     "stars": 11,
     "forks": 1,
-    "language": "Python"
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
-    "stars": 11,
-    "forks": 0,
     "language": "Python"
   },
   {
