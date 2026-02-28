@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Andy Greenberg, Lily Hay Newman, Maddy Varner",
+    "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+    "link": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+    "pubDate": "Sat, 28 Feb 2026 11:30:00 +0000",
+    "dc:creator": "Andy Greenberg, Lily Hay Newman, Maddy Varner",
+    "content": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
+    "contentSnippet": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
+    "guid": "69a1b9426ff67baf0755a13c",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-02-28T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
     "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
@@ -330,23 +348,6 @@
     "contentSnippet": "Introduction: Steal It Today, Break It in a Decade\nDigital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and highly professional criminal ecosystem. The era of the cloud brought general availability of",
     "guid": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
     "isoDate": "2026-02-26T12:06:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-    "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-    "pubDate": "Thu, 26 Feb 2026 16:05:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GaeyxU6qnAMuRiZnc2gbSF7-tg-keCAzXjwtDBtKJhuZ0wcqxbPb_N-NyXBTrZ85M3dGuMYgk8qV4-QfSELGQ5o3NxoNAqeKfeoILZRrvkx72BJeTqvrVtnedsfUHTjl1Gn6NRQt2_dnJpnxV-PhKEekQXgqO1SZWyG_tRi1Jhjt5m87iDhABGq85pXt/s1600/software-hacker.jpg"
-    },
-    "content": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
-    "contentSnippet": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
-    "guid": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-    "isoDate": "2026-02-26T10:35:00.000Z",
     "itunes": {}
   }
 ]
