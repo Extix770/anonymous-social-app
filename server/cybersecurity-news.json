@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Ruchi Kumar",
+    "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
+    "link": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
+    "pubDate": "Sat, 28 Feb 2026 15:58:09 +0000",
+    "dc:creator": "Ruchi Kumar",
+    "content": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
+    "contentSnippet": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
+    "guid": "69a2fc44c21be7a60d7b96de",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-02-28T15:58:09.000Z"
+  },
+  {
     "creator": "Dana Alomar",
     "title": "This Is the System That Intercepted Iran's Missiles Over the UAE",
     "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
@@ -345,23 +360,6 @@
     "contentSnippet": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
     "guid": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
     "isoDate": "2026-02-26T15:17:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "pubDate": "Thu, 26 Feb 2026 19:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAB1iliom9nCE1t4EFFYCBDxr2FCZGZdPmUPVcHQVgdceDeSaCHS-tZsa7cSiorDkcU4MUItEpiQLxV7WrQcBduGuhtahmM44kjWtZ9P31HwKqJd-dBL4jGP4uBzz6HHWbnOptpUVRMkjkUW8JfTBJWvY0S_HPMDcELDXdFysRvn-4o3IYf2kRq-tHIi9/s1600/th.jpg"
-    },
-    "content": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
-    "contentSnippet": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
-    "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "isoDate": "2026-02-26T14:28:00.000Z",
     "itunes": {}
   }
 ]
