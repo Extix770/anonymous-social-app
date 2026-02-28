@@ -504,6 +504,15 @@
     "language": "Python"
   },
   {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "stars": 12,
+    "forks": 3,
+    "language": null
+  },
+  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -547,15 +556,6 @@
     "stars": 11,
     "forks": 3,
     "language": "Go"
-  },
-  {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 11,
-    "forks": 3,
-    "language": null
   },
   {
     "name": "digital-forensics-tools",
