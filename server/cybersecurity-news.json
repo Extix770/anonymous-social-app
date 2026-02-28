@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+    "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+    "pubDate": "Sat, 28 Feb 2026 15:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg"
+    },
+    "content": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.\nThe findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like",
+    "contentSnippet": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.\nThe findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like",
+    "guid": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+    "isoDate": "2026-02-28T09:56:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "US and Israel Launch Strikes Against Iran",
     "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
@@ -330,23 +347,6 @@
     "contentSnippet": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
     "guid": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
     "isoDate": "2026-02-26T10:35:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-    "pubDate": "Thu, 26 Feb 2026 15:39:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
-    "guid": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-    "isoDate": "2026-02-26T10:09:00.000Z",
     "itunes": {}
   }
 ]
