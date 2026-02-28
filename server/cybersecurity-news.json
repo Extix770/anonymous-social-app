@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+    "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+    "pubDate": "Sat, 28 Feb 2026 10:27:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s1600/Anthropic.jpg"
+    },
+    "content": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
+    "contentSnippet": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
+    "guid": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+    "isoDate": "2026-02-28T04:57:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Squid Fishing in Peru",
     "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html",
@@ -332,23 +349,6 @@
     "contentSnippet": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
     "guid": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
     "isoDate": "2026-02-26T06:13:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-    "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-    "pubDate": "Wed, 25 Feb 2026 23:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyrJTi6YIFc4PWNVjyVZgjQfbHNpfH-WtwcxIIEgUSin8DR8zz_VZBauDnlTA42bh7LT7nj1Y-OtoKL34tEKUKo4JrNuWgnhC1r54tIkws6OC8SWqucU0OrWysv2-pzj_YCinatv9FwUUsvADoPMVngfmR8wB2xr_lS1viUQHoK_Vom83SmBZMOBJPe6Nb/s1600/google.jpg"
-    },
-    "content": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
-    "contentSnippet": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
-    "guid": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-    "isoDate": "2026-02-25T17:46:00.000Z",
     "itunes": {}
   }
 ]
