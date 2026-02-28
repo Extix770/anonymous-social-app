@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Dana Alomar",
+    "title": "This Is the System That Intercepted Iran's Missiles Over the UAE",
+    "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
+    "pubDate": "Sat, 28 Feb 2026 15:12:51 +0000",
+    "dc:creator": "Dana Alomar",
+    "content": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real-time.",
+    "contentSnippet": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real-time.",
+    "guid": "69a2f8e1ed5e0e393e77897b",
+    "categories": [
+      "Security",
+      "Security / National Security"
+    ],
+    "isoDate": "2026-02-28T15:12:51.000Z"
+  },
+  {
     "creator": "BrianKrebs",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -348,27 +363,5 @@
     "guid": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
     "isoDate": "2026-02-26T14:28:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "LLMs Generate Predictable Passwords",
-    "link": "https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html",
-    "pubDate": "Thu, 26 Feb 2026 12:07:10 +0000",
-    "content:encoded": "<p>LLMs are <a href=\"https://www.irregular.com/publications/vibe-password-generation\">bad</a> at generating passwords:</p>\n<blockquote><p>There are strong noticeable patterns among these 50 passwords that can be seen easily:</p>\n<ul>\n<li>All of the passwords start with a letter, usually uppercase G, almost always followed by the digit 7.\n<li>Character choices are highly uneven ­ for example, L , 9, m, 2, $ and # appeared in all 50 passwords, but 5 and @ only appeared in one password each, and most of the letters in the alphabet never appeared at all.\n<li>There are no repeating characters within any password. Probabilistically, this would be very unlikely if the passwords were truly random ­ but Claude preferred to avoid repeating characters, possibly because it “looks like it’s less random”.\n<li>Claude avoided the symbol *. This could be because Claude’s output format is Markdown, where * has a special meaning.\n<li>Even entire passwords repeat: In the above 50 attempts, there are actually only 30 unique passwords. The most common password was G7$kL9#mQ2&#038;xP4!w, which repeated 18 times, giving this specific password a 36% probability in our test set; far higher than the expected probability 2-100 if this were truly a 100-bit password.</blockquote>\n<p>This result is not surprising. Password generation seems precisely the thing that LLMs shouldn&#8217;t be good at. But if AI agents are doing things autonomously, they will be creating accounts. So this is a problem.</p>\n<p>Actually, the whole process of authenticating an autonomous agent has all sorts of deep problems.</p>\n<p>News <a href=\"https://gizmodo.com/ai-generated-passwords-are-apparently-quite-easy-to-crack-2000723660\">article</a>.</p>\n<p>Slashdot <a href=\"https://it.slashdot.org/story/26/02/19/1842201/llm-generated-passwords-look-strong-but-crack-in-hours-researchers-find\">story</a></p>\n",
-    "content:encodedSnippet": "LLMs are bad at generating passwords:\nThere are strong noticeable patterns among these 50 passwords that can be seen easily:\nAll of the passwords start with a letter, usually uppercase G, almost always followed by the digit 7.\nCharacter choices are highly uneven ­ for example, L , 9, m, 2, $ and # appeared in all 50 passwords, but 5 and @ only appeared in one password each, and most of the letters in the alphabet never appeared at all.\nThere are no repeating characters within any password. Probabilistically, this would be very unlikely if the passwords were truly random ­ but Claude preferred to avoid repeating characters, possibly because it “looks like it’s less random”.\nClaude avoided the symbol *. This could be because Claude’s output format is Markdown, where * has a special meaning.\nEven entire passwords repeat: In the above 50 attempts, there are actually only 30 unique passwords. The most common password was G7$kL9#mQ2&xP4!w, which repeated 18 times, giving this specific password a 36% probability in our test set; far higher than the expected probability 2-100 if this were truly a 100-bit password.\nThis result is not surprising. Password generation seems precisely the thing that LLMs shouldn’t be good at. But if AI agents are doing things autonomously, they will be creating accounts. So this is a problem.\nActually, the whole process of authenticating an autonomous agent has all sorts of deep problems.\nNews article.\nSlashdot story",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html#comments",
-    "content": "<p>LLMs are <a href=\"https://www.irregular.com/publications/vibe-password-generation\">bad</a> at generating passwords:</p>\n<blockquote><p>There are strong noticeable patterns among these 50 passwords that can be seen easily:</p>\n<ul>\n<li>All of the passwords start with a letter, usually uppercase G, almost always followed by the digit 7.\n<li>Character choices are highly uneven ­ for example, L , 9, m, 2, $ and # appeared in all 50 passwords, but 5 and @ only appeared in one password each, and most of the letters in the alphabet never appeared at all.\n<li>There are no repeating characters within any password. Probabilistically, this would be very unlikely if the passwords were truly random ­ but Claude preferred to avoid repeating characters, possibly because it “looks like it’s less random”.\n...</li></li></li></ul></blockquote>",
-    "contentSnippet": "LLMs are bad at generating passwords:\nThere are strong noticeable patterns among these 50 passwords that can be seen easily:\nAll of the passwords start with a letter, usually uppercase G, almost always followed by the digit 7.\nCharacter choices are highly uneven ­ for example, L , 9, m, 2, $ and # appeared in all 50 passwords, but 5 and @ only appeared in one password each, and most of the letters in the alphabet never appeared at all.\nThere are no repeating characters within any password. Probabilistically, this would be very unlikely if the passwords were truly random ­ but Claude preferred to avoid repeating characters, possibly because it “looks like it’s less random”.\n...",
-    "guid": "https://www.schneier.com/?p=71657",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "LLM",
-      "passwords",
-      "random numbers",
-      "reports"
-    ],
-    "isoDate": "2026-02-26T12:07:10.000Z"
   }
 ]
