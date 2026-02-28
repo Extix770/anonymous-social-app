@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "US and Israel Launch Strikes Against Iran",
+    "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
+    "pubDate": "Sat, 28 Feb 2026 09:42:54 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
+    "contentSnippet": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
+    "guid": "6966dab09730717f68405aee",
+    "categories": [
+      "Security",
+      "Security / National Security"
+    ],
+    "isoDate": "2026-02-28T09:42:54.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
     "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
@@ -332,23 +347,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
     "guid": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
     "isoDate": "2026-02-26T10:09:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "pubDate": "Thu, 26 Feb 2026 11:43:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg"
-    },
-    "content": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
-    "contentSnippet": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
-    "guid": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "isoDate": "2026-02-26T06:13:00.000Z",
     "itunes": {}
   }
 ]
