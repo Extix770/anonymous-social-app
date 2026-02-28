@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7570,
+    "stars": 7572,
     "forks": 857,
     "language": "HTML"
   },
@@ -432,6 +432,15 @@
     "language": null
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 16,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "Splunk-Tools",
     "owner": "EvolvingSysadmin",
     "url": "https://github.com/EvolvingSysadmin/Splunk-Tools",
@@ -456,15 +465,6 @@
     "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
     "stars": 15,
     "forks": 2,
-    "language": "Python"
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
-    "stars": 15,
-    "forks": 0,
     "language": "Python"
   },
   {
@@ -801,15 +801,6 @@
     "language": "Python"
   },
   {
-    "name": "Password_Strength_Analysis_Tool",
-    "owner": "ritik2898",
-    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
-    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
-    "stars": 6,
-    "forks": 2,
-    "language": null
-  },
-  {
     "name": "nis2-sme-toolkit",
     "owner": "paolocarner",
     "url": "https://github.com/paolocarner/nis2-sme-toolkit",
@@ -817,6 +808,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Rich Text Format"
+  },
+  {
+    "name": "Password_Strength_Analysis_Tool",
+    "owner": "ritik2898",
+    "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
+    "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
+    "stars": 6,
+    "forks": 2,
+    "language": null
   },
   {
     "name": "Cyber-Sec-Resources-Tools",
