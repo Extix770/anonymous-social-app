@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1196,
+    "stars": 1197,
     "forks": 178,
     "language": null
   },
@@ -414,21 +414,21 @@
     "language": "Python"
   },
   {
-    "name": "raspberrypi-netscan-toolkit",
-    "owner": "PS-003R32",
-    "url": "https://github.com/PS-003R32/raspberrypi-netscan-toolkit",
-    "description": "Wi-Fi Scanner using Raspberry Pi Pico WH and SSD1306 OLED — Scan networks, analyze signal strength, and visualize.  [ Disclaimer ]: This project is for educational purposes only. The project demonstrated is designed for defensive cybersecurity and learning.",
-    "stars": 17,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "linkedin-osint-toolkit",
     "owner": "michaelelizarov",
     "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
     "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
     "stars": 17,
     "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "raspberrypi-netscan-toolkit",
+    "owner": "PS-003R32",
+    "url": "https://github.com/PS-003R32/raspberrypi-netscan-toolkit",
+    "description": "Wi-Fi Scanner using Raspberry Pi Pico WH and SSD1306 OLED — Scan networks, analyze signal strength, and visualize.  [ Disclaimer ]: This project is for educational purposes only. The project demonstrated is designed for defensive cybersecurity and learning.",
+    "stars": 17,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -504,19 +504,19 @@
     "language": "Python"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 12,
     "forks": 3,
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
@@ -702,15 +702,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -718,6 +709,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -756,15 +756,6 @@
     "language": null
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -774,13 +765,22 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
+    "stars": 6,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
     "stars": 6,
     "forks": 0,
-    "language": "Python"
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -792,13 +792,13 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
-    "language": "TypeScript"
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -855,6 +855,15 @@
     "language": "Python"
   },
   {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
+  },
+  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -871,15 +880,6 @@
     "stars": 5,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
   },
   {
     "name": "BEC-Detection-Toolkit",
