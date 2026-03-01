@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1199,
+    "stars": 1200,
     "forks": 178,
     "language": null
   },
@@ -810,15 +810,6 @@
     "language": null
   },
   {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "nis2-sme-toolkit",
     "owner": "paolocarner",
     "url": "https://github.com/paolocarner/nis2-sme-toolkit",
@@ -828,13 +819,13 @@
     "language": "Rich Text Format"
   },
   {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 5,
-    "forks": 2,
-    "language": "Shell"
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "Hacker-Tools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 5,
+    "forks": 2,
+    "language": "Shell"
   },
   {
     "name": "WEEK-TOOL",
@@ -864,6 +864,15 @@
     "language": "Go"
   },
   {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
+  },
+  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -873,10 +882,10 @@
     "language": "C"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
     "forks": 1,
     "language": null
@@ -889,14 +898,5 @@
     "stars": 5,
     "forks": 0,
     "language": "PowerShell"
-  },
-  {
-    "name": "cloud-security-tools",
-    "owner": "ysftzcn",
-    "url": "https://github.com/ysftzcn/cloud-security-tools",
-    "description": "Open Source Cloud Security Tools ",
-    "stars": 5,
-    "forks": 1,
-    "language": null
   }
 ]
