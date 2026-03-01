@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7579,
+    "stars": 7580,
     "forks": 858,
     "language": "HTML"
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2413,
+    "stars": 2414,
     "forks": 352,
     "language": null
   },
@@ -76,7 +76,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 763,
+    "stars": 764,
     "forks": 69,
     "language": null
   },
@@ -486,15 +486,6 @@
     "language": "HTML"
   },
   {
-    "name": "wifi-adapter-tool",
-    "owner": "Teammatriix",
-    "url": "https://github.com/Teammatriix/wifi-adapter-tool",
-    "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
-    "stars": 13,
-    "forks": 4,
-    "language": "Shell"
-  },
-  {
     "name": "CTF-Tools",
     "owner": "cmaixen",
     "url": "https://github.com/cmaixen/CTF-Tools",
@@ -502,6 +493,15 @@
     "stars": 12,
     "forks": 5,
     "language": "Python"
+  },
+  {
+    "name": "wifi-adapter-tool",
+    "owner": "Teammatriix",
+    "url": "https://github.com/Teammatriix/wifi-adapter-tool",
+    "description": "A Bash script for ethical Wi-Fi penetration testing, featuring AI-driven adapter checks and hacking modes.",
+    "stars": 12,
+    "forks": 4,
+    "language": "Shell"
   },
   {
     "name": "offensive-cybersec-toolkit",
