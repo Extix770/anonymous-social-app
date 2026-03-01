@@ -810,15 +810,6 @@
     "language": null
   },
   {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "nis2-sme-toolkit",
     "owner": "paolocarner",
     "url": "https://github.com/paolocarner/nis2-sme-toolkit",
@@ -826,6 +817,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Rich Text Format"
+  },
+  {
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "soc-toolkit",
