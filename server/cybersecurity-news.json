@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+    "pubDate": "Mon, 02 Mar 2026 18:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
+    },
+    "content": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
+    "contentSnippet": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
+    "guid": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+    "isoDate": "2026-03-02T13:26:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "LLM-Assisted Deanonymization",
     "link": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html",
@@ -342,27 +359,5 @@
       "Internet"
     ],
     "isoDate": "2026-02-27T12:05:59.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Phishing Attacks Against People Seeking Programming Jobs",
-    "link": "https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html",
-    "pubDate": "Fri, 27 Feb 2026 12:04:28 +0000",
-    "content:encoded": "<p><a href=\"https://www.reversinglabs.com/blog/fake-recruiter-campaign-crypto-devs\">This</a> is new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.</p>\n<p>News <a href=\"https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/\">article</a>.</p>\n",
-    "content:encodedSnippet": "This is new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.\nNews article.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html#comments",
-    "content": "<p><a href=\"https://www.reversinglabs.com/blog/fake-recruiter-campaign-crypto-devs\">This</a> is new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.</p>\n<p>News <a href=\"https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/\">article</a>.</p>\n",
-    "contentSnippet": "This is new. North Korean hackers are posing as company recruiters, enticing job candidates to participate in coding challenges. When they run the code they are supposed to work on, it installs malware on their system.\nNews article.",
-    "guid": "https://www.schneier.com/?p=71665",
-    "categories": [
-      "Uncategorized",
-      "cryptocurrency",
-      "hacking",
-      "malware",
-      "North Korea",
-      "phishing"
-    ],
-    "isoDate": "2026-02-27T12:04:28.000Z"
   }
 ]
