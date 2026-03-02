@@ -7,7 +7,7 @@
     "content:encoded": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.</p></blockquote>\n",
     "content:encodedSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html#comments",
     "content": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...</p></blockquote>",
     "contentSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...",
     "guid": "https://www.schneier.com/?p=71677",
@@ -18,6 +18,23 @@
       "LLM"
     ],
     "isoDate": "2026-03-02T12:05:48.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+    "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+    "pubDate": "Mon, 02 Mar 2026 17:25:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg"
+    },
+    "content": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
+    "contentSnippet": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
+    "guid": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+    "isoDate": "2026-03-02T11:55:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
@@ -347,22 +364,5 @@
       "phishing"
     ],
     "isoDate": "2026-02-27T12:04:28.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
-    "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
-    "pubDate": "Fri, 27 Feb 2026 15:36:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillKgTghwZEhxrFFKb47xsniaaZYeDlISTMJYxMDr_82YETlHvM5M0XWXjizlkv1MgSAzkIEDbOcvfPsjsOaxRHvzl4-7LWTmKR6awOPB_FidaOgq0xhHslZbEJ7zh0Hq6CV0NJ8LUY-SDyA-nF6SeQ6Zzu-qrlWWMFsVg2n3yDRj0hcIPYEPLw6eAmadL/s1600/remote.jpg"
-    },
-    "content": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
-    "contentSnippet": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
-    "guid": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
-    "isoDate": "2026-02-27T10:06:00.000Z",
-    "itunes": {}
   }
 ]
