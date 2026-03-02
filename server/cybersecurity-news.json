@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "pubDate": "Mon, 02 Mar 2026 16:06:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmBYExYY-MdqirvtI7-k2gWDf2rCE5AX4J246DywytJU0hWklJfAxRUKUa6AhU-VFWf2jazsAR1DkpPBHUqv2LsGckfxhVUebrMsnAccaYYmp2L9VJDz4rHaRLxKRgXaYM-UPcFS_ZoyveJxkLu1RunwaIuCBckILFDzMo1mCZtg9zaOmXrOSEEWU7RSg/s1600/windows.jpg"
+    },
+    "content": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+    "contentSnippet": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+    "guid": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "isoDate": "2026-03-02T10:36:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
     "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
     "pubDate": "Mon, 02 Mar 2026 14:14:00 +0530",
@@ -344,22 +361,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-02-27T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
-    "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
-    "pubDate": "Fri, 27 Feb 2026 13:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwKH9i7LZ3Jt6juj9BX2MCjTNRBKuvKX58L2mWuQN1teRdCwExZsz5LLZNBRvRri4BtJW1ECj92EU42c1XJfy1vBdLXZoxIfjzKEca7ST3Fw-jhU0_XakPBZfgQF1huHepkdAUFmrRtXWUsdnBf-W6cYEtWehaJ1Ca41-6DK414TB_2QwF9M5sm-ofmOuG/s1600/facebook-ads.jpg"
-    },
-    "content": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
-    "contentSnippet": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
-    "guid": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
-    "isoDate": "2026-02-27T07:56:00.000Z",
-    "itunes": {}
   }
 ]
