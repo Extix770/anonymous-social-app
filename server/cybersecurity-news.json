@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+    "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+    "pubDate": "Mon, 02 Mar 2026 22:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
+    "guid": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+    "isoDate": "2026-03-02T17:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+    "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+    "pubDate": "Mon, 02 Mar 2026 22:22:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7UWgA_nVAo80v0LRW4e9HTMYUIiEebPJv-EX7ssG1EVxwD-_hlvqqVzQ7Eb4mA9FWWW1U2WYmA8JPnPhyphenhyphenBWaCgFcyeEzcr0QhDRoUsPYgMqB7Ddt2_vEzEYMJj0w9Q9lb2nf12s_FoXDpql2BbxlpCo1oplXSzGjLFmqAsoW_Ix7CufTx5LiWrepwal8/s1600/chrome.jpg"
+    },
+    "content": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\"",
+    "contentSnippet": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\"",
+    "guid": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+    "isoDate": "2026-03-02T16:52:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Molly Taft",
     "title": "War in Iran Spiked Oil Prices. Trump Will Decide How High They Go",
     "link": "https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/",
@@ -323,40 +357,6 @@
     "contentSnippet": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
     "guid": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
     "isoDate": "2026-02-27T17:59:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-    "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
-    "pubDate": "Fri, 27 Feb 2026 21:03:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdXNmYRKw13_BHE7B7MMtqTTpJXBkgDzl2sH31t0L0_VCl9uJbWPS2yg0j0jz0XJovSYryM4NcSCAZdtTDsoRa2d6y3U84K9TDQYJSObLgaJXXh8juWmP6liqj_uirhZvKjR0dqYZ-J2mwTnmEIYIKfAoC9BY3yL2xhfLD_NbwVKzekKwoI3u4iSzU44Xn/s1600/hackers.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
-    "guid": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
-    "isoDate": "2026-02-27T15:33:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
-    "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
-    "pubDate": "Fri, 27 Feb 2026 18:13:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGnWXXVXx1WeEkTWrq3_CCY922KPE3hV_pg-UYgx86QO76S5DomWi6TxZZQSGZ1Jpf2Rp2riR41Ld7zqWhjfdniLJthYBBDJx3eyNFMPQn5ph9kmmRyrib3HpIe1o5oEp6htOMFVe-m9UQNaXhhoY6MkHeXk1oM4UfctRDC5piMbIZGdjr2bApPUzXMQXK/s1600/keys.jpg"
-    },
-    "content": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
-    "contentSnippet": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
-    "guid": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
-    "isoDate": "2026-02-27T12:43:00.000Z",
     "itunes": {}
   }
 ]
