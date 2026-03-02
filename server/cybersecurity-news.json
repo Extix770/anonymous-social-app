@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Matt Burgess",
+    "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
+    "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
+    "pubDate": "Mon, 02 Mar 2026 18:34:25 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.",
+    "contentSnippet": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.",
+    "guid": "69a5a29afb8b2b3db6442fa2",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-02T18:34:25.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
     "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
@@ -340,23 +357,6 @@
     "contentSnippet": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
     "guid": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
     "isoDate": "2026-02-27T18:11:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-    "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-    "pubDate": "Fri, 27 Feb 2026 23:29:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
-    },
-    "content": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
-    "contentSnippet": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
-    "guid": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-    "isoDate": "2026-02-27T17:59:00.000Z",
     "itunes": {}
   }
 ]
