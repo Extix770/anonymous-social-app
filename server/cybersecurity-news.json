@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+    "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "pubDate": "Mon, 02 Mar 2026 14:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
+    "contentSnippet": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
+    "guid": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "isoDate": "2026-03-02T08:44:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Garrett M. Graff",
     "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
     "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
@@ -344,21 +361,5 @@
     "guid": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
     "isoDate": "2026-02-27T07:56:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "This AI Agent Is Designed to Not Go Rogue",
-    "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
-    "pubDate": "Thu, 26 Feb 2026 20:54:51 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
-    "contentSnippet": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
-    "guid": "699f224a94854663df474d0d",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-26T20:54:51.000Z"
   }
 ]
