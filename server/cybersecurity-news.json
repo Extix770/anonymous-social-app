@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "LLM-Assisted Deanonymization",
+    "link": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html",
+    "pubDate": "Mon, 02 Mar 2026 12:05:48 +0000",
+    "content:encoded": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.</p></blockquote>\n",
+    "content:encodedSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html#respond",
+    "content": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...</p></blockquote>",
+    "contentSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...",
+    "guid": "https://www.schneier.com/?p=71677",
+    "categories": [
+      "Uncategorized",
+      "anonymity",
+      "de-anonymization",
+      "LLM"
+    ],
+    "isoDate": "2026-03-02T12:05:48.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
     "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
@@ -344,22 +364,5 @@
     "guid": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
     "isoDate": "2026-02-27T10:06:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
-    "link": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
-    "pubDate": "Fri, 27 Feb 2026 10:00:00 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats say breaches tied to the industry have cost people tens of billions of dollars.",
-    "contentSnippet": "A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats say breaches tied to the industry have cost people tens of billions of dollars.",
-    "guid": "699f39787e69c4b04dd7bf4a",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-02-27T10:00:00.000Z"
   }
 ]
