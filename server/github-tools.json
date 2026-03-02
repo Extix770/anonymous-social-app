@@ -50,7 +50,7 @@
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 1203,
-    "forks": 179,
+    "forks": 178,
     "language": null
   },
   {
@@ -621,6 +621,15 @@
     "language": "JavaScript"
   },
   {
+    "name": "EthicalHackingTools",
+    "owner": "nafis548",
+    "url": "https://github.com/nafis548/EthicalHackingTools",
+    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
@@ -637,15 +646,6 @@
     "stars": 8,
     "forks": 1,
     "language": "C#"
-  },
-  {
-    "name": "EthicalHackingTools",
-    "owner": "nafis548",
-    "url": "https://github.com/nafis548/EthicalHackingTools",
-    "description": "This repository, EthicalHackingTools, is a curated collection of scripts and tools designed for security researchers and penetration testers. It serves as a central hub for various utilities used in ethical hacking, ranging from reconnaissance to vulnerability assessment.",
-    "stars": 8,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "Wi-Fi-Cracking-Tool",
@@ -783,15 +783,6 @@
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -799,6 +790,15 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
