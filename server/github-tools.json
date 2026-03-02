@@ -49,8 +49,8 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1204,
-    "forks": 178,
+    "stars": 1206,
+    "forks": 179,
     "language": null
   },
   {
@@ -504,19 +504,19 @@
     "language": "Shell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 12,
     "forks": 3,
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
@@ -702,15 +702,6 @@
     "language": "Python"
   },
   {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -718,6 +709,15 @@
     "stars": 7,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
   },
   {
     "name": "Userlvel5anonymous-Toolkit-Windows-ETH",
@@ -783,15 +783,6 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
-    "stars": 6,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
     "name": "obsidian-soc-toolkit",
     "owner": "michaelmassoni",
     "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
@@ -799,6 +790,15 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -864,15 +864,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "cloud-security-tools",
