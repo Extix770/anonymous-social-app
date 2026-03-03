@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Mahmoud Aslan",
+    "title": "How Journalists Are Reporting From Iran With No Internet",
+    "link": "https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/",
+    "pubDate": "Tue, 03 Mar 2026 09:30:00 +0000",
+    "dc:creator": "Mahmoud Aslan",
+    "content": "After strikes killed senior Iranian officials, Iran cut off internet access. Journalists are relying on satellite links, encrypted apps, and smuggled footage to report from inside the country.",
+    "contentSnippet": "After strikes killed senior Iranian officials, Iran cut off internet access. Journalists are relying on satellite links, encrypted apps, and smuggled footage to report from inside the country.",
+    "guid": "69a5aea2fc068645e005ff07",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Security / Privacy",
+      "Security / National Security"
+    ],
+    "isoDate": "2026-03-03T09:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
     "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
@@ -340,22 +357,5 @@
       "Security / National Security"
     ],
     "isoDate": "2026-02-28T09:42:54.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-    "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-    "pubDate": "Sat, 28 Feb 2026 10:27:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s1600/Anthropic.jpg"
-    },
-    "content": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
-    "contentSnippet": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
-    "guid": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-    "isoDate": "2026-02-28T04:57:00.000Z",
-    "itunes": {}
   }
 ]
