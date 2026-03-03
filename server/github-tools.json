@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1211,
+    "stars": 1212,
     "forks": 179,
     "language": null
   },
@@ -184,7 +184,7 @@
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
     "description": "A curated collection of free or freemium web-based penetration testing and vulnerability analysis tools. These tools assist security professionals and enthusiasts in discovering, assessing, and managing vulnerabilities online, without the need for local installations. Contributions are welcome!",
-    "stars": 95,
+    "stars": 96,
     "forks": 15,
     "language": null
   },
@@ -473,7 +473,7 @@
     "url": "https://github.com/waheeb71/WiFi-Hacking-Tool",
     "description": "WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking, network analysis, and Wi-Fi penetration testing. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.",
     "stars": 14,
-    "forks": 2,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -630,6 +630,15 @@
     "language": "Python"
   },
   {
+    "name": "Wi-Fi-Cracking-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool",
+    "description": "This is a cybersecurity tool created for cracking, testing and securing wifi networks. This tool was built using python.",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "Cybersecurity-Web-Tools",
     "owner": "JPablo13",
     "url": "https://github.com/JPablo13/Cybersecurity-Web-Tools",
@@ -646,15 +655,6 @@
     "stars": 8,
     "forks": 1,
     "language": "C#"
-  },
-  {
-    "name": "Wi-Fi-Cracking-Tool",
-    "owner": "Mmabiaa",
-    "url": "https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool",
-    "description": "This is a cybersecurity tool created for cracking, testing and securing wifi networks. This tool was built using python.",
-    "stars": 8,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "SecTools-Installer",
@@ -702,15 +702,6 @@
     "language": "Python"
   },
   {
-    "name": "Bug-Bounty-Tools",
-    "owner": "MaMad4Ever",
-    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "stars": 7,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "CyberSec-Toolkit",
     "owner": "Amr-Khaled-Ahmed",
     "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
@@ -718,6 +709,15 @@
     "stars": 7,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Bug-Bounty-Tools",
+    "owner": "MaMad4Ever",
+    "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "stars": 7,
+    "forks": 1,
+    "language": null
   },
   {
     "name": "nis2-sme-toolkit",
@@ -783,19 +783,19 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -846,6 +846,15 @@
     "language": "Shell"
   },
   {
+    "name": "Phishing-Simulation-Tool",
+    "owner": "Mmabiaa",
+    "url": "https://github.com/Mmabiaa/Phishing-Simulation-Tool",
+    "description": "A Flask-based web application that simulates phishing email campaigns and tracks user interactions.",
+    "stars": 5,
+    "forks": 2,
+    "language": "HTML"
+  },
+  {
     "name": "WEEK-TOOL",
     "owner": "13xsa5",
     "url": "https://github.com/13xsa5/WEEK-TOOL",
@@ -864,15 +873,6 @@
     "language": "Go"
   },
   {
-    "name": "ncl-tools",
-    "owner": "Lydia-England",
-    "url": "https://github.com/Lydia-England/ncl-tools",
-    "description": "Tools for National Cyber League Competition",
-    "stars": 5,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -882,6 +882,15 @@
     "language": "C"
   },
   {
+    "name": "ncl-tools",
+    "owner": "Lydia-England",
+    "url": "https://github.com/Lydia-England/ncl-tools",
+    "description": "Tools for National Cyber League Competition",
+    "stars": 5,
+    "forks": 1,
+    "language": null
+  },
+  {
     "name": "cloud-security-tools",
     "owner": "ysftzcn",
     "url": "https://github.com/ysftzcn/cloud-security-tools",
@@ -889,14 +898,5 @@
     "stars": 5,
     "forks": 1,
     "language": null
-  },
-  {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
-    "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
   }
 ]
