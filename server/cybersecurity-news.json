@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
+    "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
+    "pubDate": "Tue, 03 Mar 2026 22:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
+    },
+    "content": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
+    "contentSnippet": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
+    "guid": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
+    "isoDate": "2026-03-03T17:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
     "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
     "pubDate": "Tue, 03 Mar 2026 20:00:00 +0530",
@@ -326,22 +343,5 @@
       "Security / National Security"
     ],
     "isoDate": "2026-03-01T17:47:31.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
-    "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
-    "pubDate": "Sat, 28 Feb 2026 22:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEZ7gMViZ9XlXs35FiyviBZR19FbDXmatfjhNRw59daWLw41ScorGKG3xXYWFD6dDuYHajwoUnkWgQV9SrPe9iiV8UqDVjw4K5hX8cng7VDPTsljAZazuxUDdk7_hZ7SFV9rDCxNcYNWjmEY_lUVj01-PEI9D9rY5tMYJZTP5X887UuXOsDD90UOvo_mG/s1600/opem.jpg"
-    },
-    "content": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.\n\"Our vulnerability lives in the core system itself – no plugins, no marketplace, no user-installed extensions – just the bare OpenClaw gateway, running exactly as documented,\" Oasis",
-    "contentSnippet": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.\n\"Our vulnerability lives in the core system itself – no plugins, no marketplace, no user-installed extensions – just the bare OpenClaw gateway, running exactly as documented,\" Oasis",
-    "guid": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
-    "isoDate": "2026-02-28T17:21:00.000Z",
-    "itunes": {}
   }
 ]
