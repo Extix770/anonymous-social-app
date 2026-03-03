@@ -18,6 +18,23 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
+    "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
+    "pubDate": "Tue, 03 Mar 2026 14:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg"
+    },
+    "content": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
+    "contentSnippet": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
+    "guid": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
+    "isoDate": "2026-03-03T09:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
     "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
     "pubDate": "Tue, 03 Mar 2026 12:38:00 +0530",
@@ -342,20 +359,5 @@
     "guid": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
     "isoDate": "2026-02-28T09:56:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess, Lily Hay Newman",
-    "title": "US and Israel Launch Strikes Against Iran",
-    "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
-    "pubDate": "Sat, 28 Feb 2026 09:42:54 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman",
-    "content": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
-    "contentSnippet": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
-    "guid": "6966dab09730717f68405aee",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-02-28T09:42:54.000Z"
   }
 ]
