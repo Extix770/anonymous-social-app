@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+    "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+    "pubDate": "Tue, 03 Mar 2026 12:38:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg"
+    },
+    "content": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
+    "contentSnippet": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
+    "guid": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+    "isoDate": "2026-03-03T07:08:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
+    "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+    "pubDate": "Tue, 03 Mar 2026 12:23:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
+    },
+    "content": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
+    "contentSnippet": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
+    "guid": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+    "isoDate": "2026-03-03T06:53:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Matt Burgess",
     "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
     "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
@@ -322,41 +356,6 @@
     "contentSnippet": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
     "guid": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
     "isoDate": "2026-02-28T04:57:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid Fishing in Peru",
-    "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html",
-    "pubDate": "Fri, 27 Feb 2026 22:04:45 +0000",
-    "content:encoded": "<p>Peru has <a href=\"https://www.bairdmaritime.com/fishing/regulation-enforcement/peru-updates-giant-squid-catch-limit-for-artisanal-fishing\">increased</a> its squid catch limit. The article says &#8220;giant squid,&#8221; but they can&#8217;t possibly mean that.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "Peru has increased its squid catch limit. The article says “giant squid,” but they can’t possibly mean that.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html#comments",
-    "content": "<p>Peru has <a href=\"https://www.bairdmaritime.com/fishing/regulation-enforcement/peru-updates-giant-squid-catch-limit-for-artisanal-fishing\">increased</a> its squid catch limit. The article says &#8220;giant squid,&#8221; but they can&#8217;t possibly mean that.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "contentSnippet": "Peru has increased its squid catch limit. The article says “giant squid,” but they can’t possibly mean that.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "guid": "https://www.schneier.com/?p=71679",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2026-02-27T22:04:45.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-    "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-    "pubDate": "Fri, 27 Feb 2026 23:41:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglF1nudH44Lr269ed-E49qDWqg7t-GFuybhyQ8-6oDnBn-CcFh7o21w44Cjxxw0cuZQDBXdHQCxuOrR_vOLEvON4DyGSPWbr-7l3XaHXInETTZLxm-BAfCxUCFZ-Wxek-TnFI8t1rJ3gew5p3BnztZeIXY0ePy6DUFqL5R9QlKHZaUOVPwdIuDLkCju83c/s1600/tether-scam.jpg"
-    },
-    "content": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
-    "contentSnippet": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
-    "guid": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-    "isoDate": "2026-02-27T18:11:00.000Z",
     "itunes": {}
   }
 ]
