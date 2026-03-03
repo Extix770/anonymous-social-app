@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8539,
+    "stars": 8540,
     "forks": 1153,
     "language": null
   },
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "ncl-tools",
