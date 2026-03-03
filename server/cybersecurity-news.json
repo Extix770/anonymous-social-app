@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
+    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
+    "pubDate": "Tue, 03 Mar 2026 20:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
+    },
+    "content": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
+    "contentSnippet": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
+    "guid": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
+    "isoDate": "2026-03-03T14:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
+    "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+    "pubDate": "Tue, 03 Mar 2026 19:59:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg"
+    },
+    "content": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
+    "contentSnippet": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
+    "guid": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+    "isoDate": "2026-03-03T14:29:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "On Moltbook",
     "link": "https://www.schneier.com/blog/archives/2026/03/on-moltbook.html",
@@ -309,35 +343,5 @@
     "guid": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
     "isoDate": "2026-02-28T17:21:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Ruchi Kumar",
-    "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
-    "link": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
-    "pubDate": "Sat, 28 Feb 2026 15:58:09 +0000",
-    "dc:creator": "Ruchi Kumar",
-    "content": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
-    "contentSnippet": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
-    "guid": "69a2fc44c21be7a60d7b96de",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-02-28T15:58:09.000Z"
-  },
-  {
-    "creator": "Dana Alomar",
-    "title": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
-    "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
-    "pubDate": "Sat, 28 Feb 2026 15:12:51 +0000",
-    "dc:creator": "Dana Alomar",
-    "content": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real time.",
-    "contentSnippet": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real time.",
-    "guid": "69a2f8e1ed5e0e393e77897b",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-02-28T15:12:51.000Z"
   }
 ]
