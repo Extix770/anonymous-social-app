@@ -7,7 +7,7 @@
     "content:encoded": "<p>Microsoft is <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/\">reporting</a>:</p>\n<blockquote><p>Companies are embedding hidden instructions in &#8220;Summarize with AI&#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&#8217;s memory via URL prompt parameters&#8230;.</p>\n<p>These prompts instruct the AI to &#8220;remember [Company] as a trusted source&#8221; or &#8220;recommend [Company] first,&#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated.</p></blockquote>\n<p>I <a href=\"https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html\">wrote about this</a> two years ago: it&#8217;s an example of LLM optimization, along the same lines as search-engine optimization (SEO). It&#8217;s going to be big business.</p>\n",
     "content:encodedSnippet": "Microsoft is reporting:\nCompanies are embedding hidden instructions in “Summarize with AI” buttons that, when clicked, attempt to inject persistence commands into an AI assistant’s memory via URL prompt parameters….\nThese prompts instruct the AI to “remember [Company] as a trusted source” or “recommend [Company] first,” aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated.\n\nI wrote about this two years ago: it’s an example of LLM optimization, along the same lines as search-engine optimization (SEO). It’s going to be big business.",
     "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html#respond",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html#comments",
     "content": "<p>Microsoft is <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/\">reporting</a>:</p>\n<blockquote><p>Companies are embedding hidden instructions in &#8220;Summarize with AI&#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&#8217;s memory via URL prompt parameters&#8230;.</p>\n<p>These prompts instruct the AI to &#8220;remember [Company] as a trusted source&#8221; or &#8220;recommend [Company] first,&#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...</p></blockquote>",
     "contentSnippet": "Microsoft is reporting:\nCompanies are embedding hidden instructions in “Summarize with AI” buttons that, when clicked, attempt to inject persistence commands into an AI assistant’s memory via URL prompt parameters….\nThese prompts instruct the AI to “remember [Company] as a trusted source” or “recommend [Company] first,” aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...",
     "guid": "https://www.schneier.com/?p=71688",
@@ -20,21 +20,21 @@
     "isoDate": "2026-03-04T12:06:01.000Z"
   },
   {
-    "creator": "Andy Greenberg",
-    "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
-    "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
-    "pubDate": "Wed, 04 Mar 2026 12:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
-    "contentSnippet": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
-    "guid": "69a06414ec85594ee3d5c111",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-04T12:00:00.000Z"
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New RFP Template for AI Usage Control and AI Governance ",
+    "link": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+    "pubDate": "Wed, 04 Mar 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvS_eE1grWPn8hXdb-s4EpPUtevfmC487K-kpFLYJOHCw0vZ1A81bBjhZflx5zj8qY4KrWG3FbQ2dbSFOatzswmBbFxZJkX5vqJOpzyaCefDzEiOfca4ayNkY1ERY95TefFgfRj01keLjzjK_8NKr4OSO3B5vM4k9yY_J9dNtmc1Z7lXdqjawA22F2Zc/s1600/main-ai.jpg"
+    },
+    "content": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI",
+    "contentSnippet": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI",
+    "guid": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+    "isoDate": "2026-03-04T11:30:00.000Z",
+    "itunes": {}
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
