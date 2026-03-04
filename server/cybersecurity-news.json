@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+    "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+    "pubDate": "Wed, 04 Mar 2026 15:07:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAkhOUNeGmbnO6-Wf7OTYmb_GbxBRyWPlLwHY_xWh2a3fWN3wqYQcNDK2z-ck6dCpYStrieeh79uwREaRnu7vXx3_1SqPqi0KYqdyMtPq45fbRFKtBdc_Vnbkh9mgOXSPu4GOPlkqQxfCX-mQ-62Jw5jsA8CybEImOOvdliNEOcPjnGQDEjKrunI4kOyG/s1600/php.jpg"
+    },
+    "content": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
+    "contentSnippet": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
+    "guid": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+    "isoDate": "2026-03-04T09:37:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
     "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
     "pubDate": "Wed, 04 Mar 2026 13:44:00 +0530",
@@ -326,22 +343,5 @@
       "LLM"
     ],
     "isoDate": "2026-03-02T12:05:48.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
-    "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
-    "pubDate": "Mon, 02 Mar 2026 17:25:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg"
-    },
-    "content": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
-    "contentSnippet": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
-    "guid": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
-    "isoDate": "2026-03-02T11:55:00.000Z",
-    "itunes": {}
   }
 ]
