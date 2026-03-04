@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+    "pubDate": "Wed, 04 Mar 2026 10:05:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
+    "guid": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+    "isoDate": "2026-03-04T04:35:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
     "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
@@ -325,23 +342,6 @@
     "contentSnippet": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
     "guid": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
     "isoDate": "2026-03-02T10:36:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-    "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-    "pubDate": "Mon, 02 Mar 2026 14:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
-    "contentSnippet": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
-    "guid": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-    "isoDate": "2026-03-02T08:44:00.000Z",
     "itunes": {}
   }
 ]
