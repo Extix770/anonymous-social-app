@@ -14,7 +14,7 @@
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
     "stars": 7589,
-    "forks": 858,
+    "forks": 859,
     "language": "HTML"
   },
   {
@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1214,
+    "stars": 1215,
     "forks": 179,
     "language": null
   },
