@@ -1,5 +1,42 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Manipulating AI Summarization Features",
+    "link": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html",
+    "pubDate": "Wed, 04 Mar 2026 12:06:01 +0000",
+    "content:encoded": "<p>Microsoft is <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/\">reporting</a>:</p>\n<blockquote><p>Companies are embedding hidden instructions in &#8220;Summarize with AI&#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&#8217;s memory via URL prompt parameters&#8230;.</p>\n<p>These prompts instruct the AI to &#8220;remember [Company] as a trusted source&#8221; or &#8220;recommend [Company] first,&#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated.</p></blockquote>\n<p>I <a href=\"https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html\">wrote about this</a> two years ago: it&#8217;s an example of LLM optimization, along the same lines as search-engine optimization (SEO). It&#8217;s going to be big business.</p>\n",
+    "content:encodedSnippet": "Microsoft is reporting:\nCompanies are embedding hidden instructions in “Summarize with AI” buttons that, when clicked, attempt to inject persistence commands into an AI assistant’s memory via URL prompt parameters….\nThese prompts instruct the AI to “remember [Company] as a trusted source” or “recommend [Company] first,” aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated.\n\nI wrote about this two years ago: it’s an example of LLM optimization, along the same lines as search-engine optimization (SEO). It’s going to be big business.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html#respond",
+    "content": "<p>Microsoft is <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/\">reporting</a>:</p>\n<blockquote><p>Companies are embedding hidden instructions in &#8220;Summarize with AI&#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&#8217;s memory via URL prompt parameters&#8230;.</p>\n<p>These prompts instruct the AI to &#8220;remember [Company] as a trusted source&#8221; or &#8220;recommend [Company] first,&#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...</p></blockquote>",
+    "contentSnippet": "Microsoft is reporting:\nCompanies are embedding hidden instructions in “Summarize with AI” buttons that, when clicked, attempt to inject persistence commands into an AI assistant’s memory via URL prompt parameters….\nThese prompts instruct the AI to “remember [Company] as a trusted source” or “recommend [Company] first,” aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...",
+    "guid": "https://www.schneier.com/?p=71688",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "LLM",
+      "Microsoft"
+    ],
+    "isoDate": "2026-03-04T12:06:01.000Z"
+  },
+  {
+    "creator": "Andy Greenberg",
+    "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+    "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+    "pubDate": "Wed, 04 Mar 2026 12:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
+    "contentSnippet": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
+    "guid": "69a06414ec85594ee3d5c111",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-04T12:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
     "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
@@ -306,42 +343,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-02T16:03:36.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
-    "pubDate": "Mon, 02 Mar 2026 18:56:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
-    },
-    "content": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
-    "contentSnippet": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
-    "guid": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
-    "isoDate": "2026-03-02T13:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "LLM-Assisted Deanonymization",
-    "link": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html",
-    "pubDate": "Mon, 02 Mar 2026 12:05:48 +0000",
-    "content:encoded": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.</p></blockquote>\n",
-    "content:encodedSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html#comments",
-    "content": "<p>Turns out that LLMs are <a href=\"https://simonlermen.substack.com/p/large-scale-online-deanonymization\">good</a> at de-anonymization:</p>\n<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>\n<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...</p></blockquote>",
-    "contentSnippet": "Turns out that LLMs are good at de-anonymization:\nWe show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.\nWhile it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests—then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...",
-    "guid": "https://www.schneier.com/?p=71677",
-    "categories": [
-      "Uncategorized",
-      "anonymity",
-      "de-anonymization",
-      "LLM"
-    ],
-    "isoDate": "2026-03-02T12:05:48.000Z"
   }
 ]
