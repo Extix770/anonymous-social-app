@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Hacked App Part of US/Israeli Propaganda Campaign Against Iran",
+    "link": "https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html",
+    "pubDate": "Thu, 05 Mar 2026 11:28:48 +0000",
+    "content:encoded": "<p><i>Wired</i> has the <a href=\"https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776\">story</a>:</p>\n<blockquote><p>Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.</p>\n<p>The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &#8216;Help has arrived&#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks.</p></blockquote>\n<p>It happened so fast that this is most likely a government operation. I can easily envision both the US and Israel having hacked the app previously, and then deciding that this is a good use of that access.</p>\n",
+    "content:encodedSnippet": "Wired has the story:\nShortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.\nThe messages arrived in quick succession over a period of 30 minutes, starting with the phrase ‘Help has arrived’ at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks.\n\nIt happened so fast that this is most likely a government operation. I can easily envision both the US and Israel having hacked the app previously, and then deciding that this is a good use of that access.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html#respond",
+    "content": "<p><i>Wired</i> has the <a href=\"https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776\">story</a>:</p>\n<blockquote><p>Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.</p>\n<p>The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &#8216;Help has arrived&#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...</p></blockquote>",
+    "contentSnippet": "Wired has the story:\nShortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.\nThe messages arrived in quick succession over a period of 30 minutes, starting with the phrase ‘Help has arrived’ at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...",
+    "guid": "https://www.schneier.com/?p=71725",
+    "categories": [
+      "Uncategorized",
+      "cybersecurity",
+      "hacking",
+      "Iran",
+      "Israel",
+      "propaganda",
+      "war"
+    ],
+    "isoDate": "2026-03-05T11:28:48.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
     "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
@@ -323,23 +346,6 @@
     "contentSnippet": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
     "guid": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
     "isoDate": "2026-03-03T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-    "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-    "pubDate": "Tue, 03 Mar 2026 16:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
-    "guid": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-    "isoDate": "2026-03-03T11:10:00.000Z",
     "itunes": {}
   }
 ]
