@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Lilian Wagdy",
+    "title": "How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time",
+    "link": "https://www.wired.com/story/world-monitor-elie-habib/",
+    "pubDate": "Thu, 05 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Lilian Wagdy",
+    "content": "Frustrated by fragmented war news, Anghami’s Elie Habib built World Monitor, a platform that fuses global data, like aircraft signals and satellite detections, to track conflicts as they unfold.",
+    "contentSnippet": "Frustrated by fragmented war news, Anghami’s Elie Habib built World Monitor, a platform that fuses global data, like aircraft signals and satellite detections, to track conflicts as they unfold.",
+    "guid": "69a86a18c5033bd25cdf369a",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-05T10:00:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
     "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
@@ -324,23 +340,6 @@
     "contentSnippet": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
     "guid": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
     "isoDate": "2026-03-03T09:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-    "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-    "pubDate": "Tue, 03 Mar 2026 12:38:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg"
-    },
-    "content": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-    "contentSnippet": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-    "guid": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-    "isoDate": "2026-03-03T07:08:00.000Z",
     "itunes": {}
   }
 ]
