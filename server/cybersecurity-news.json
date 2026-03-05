@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+    "pubDate": "Thu, 05 Mar 2026 19:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmX71oTh0PhBoeXrV6BUD7_jQe9VWPqHc60ijUxf4iv8wPE8UeWY8dlDrfbx3-Ut5aNoNQZJ8DH_ADNQGgFL4NbMMcw-IayIe9HXKG3l5EN3-og9LuNqBP452mXpm1HTn3ooWlJ-q4QRqvPJC4gmR0lstJ8KWdQYa2knQ5J69nneIwIRTKKG43fXtcWRXm/s1600/threatsday.jpg"
+    },
+    "content": "Some weeks in cybersecurity feel routine. This one doesn&rsquo;t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
+    "contentSnippet": "Some weeks in cybersecurity feel routine. This one doesn’t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
+    "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+    "isoDate": "2026-03-05T13:44:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "pubDate": "Thu, 05 Mar 2026 18:43:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
+    },
+    "content": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "isoDate": "2026-03-05T13:13:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
     "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
     "pubDate": "Thu, 05 Mar 2026 17:31:00 +0530",
@@ -311,41 +345,5 @@
     "guid": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
     "isoDate": "2026-03-03T14:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-    "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-    "pubDate": "Tue, 03 Mar 2026 19:59:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg"
-    },
-    "content": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
-    "contentSnippet": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
-    "guid": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-    "isoDate": "2026-03-03T14:29:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "On Moltbook",
-    "link": "https://www.schneier.com/blog/archives/2026/03/on-moltbook.html",
-    "pubDate": "Tue, 03 Mar 2026 12:04:29 +0000",
-    "content:encoded": "<p>The <i>MIT Technology Review</i> has a <a href=\"https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/\">good article</a> on Moltbook, the supposed AI-only social network:</p>\n<blockquote><p>Many people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.</p>\n<p>&#8220;Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,&#8221; says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. &#8220;Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.&#8221;</p>\n<p>Humans must create and verify their bots&#8217; accounts and provide the prompts for how they want a bot to behave. The agents do not do anything that they haven&#8217;t been prompted to do.</p></blockquote>\n<p>I think <a href=\"https://m.slashdot.org/submission/17344630\">this take</a> has it mostly right:</p>\n<blockquote><p>What happened on Moltbook is a preview of what researcher Juergen Nittner II calls &#8220;The LOL WUT Theory.&#8221; The point where AI-generated content becomes so easy to produce and so hard to detect that the average person&#8217;s only rational response to anything online is bewildered disbelief.</p>\n<p>We&#8217;re not there yet. But we&#8217;re close.</p>\n<p>The theory is simple: First, AI gets accessible enough that anyone can use it. Second, AI gets good enough that you can&#8217;t reliably tell what&#8217;s fake. Third, and this is the crisis point, regular people realize there&#8217;s nothing online they can trust. At that moment, the internet stops being useful for anything except entertainment.</p></blockquote>\n",
-    "content:encodedSnippet": "The MIT Technology Review has a good article on Moltbook, the supposed AI-only social network:\nMany people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.\n“Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,” says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. “Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.”\nHumans must create and verify their bots’ accounts and provide the prompts for how they want a bot to behave. The agents do not do anything that they haven’t been prompted to do.\n\nI think this take has it mostly right:\nWhat happened on Moltbook is a preview of what researcher Juergen Nittner II calls “The LOL WUT Theory.” The point where AI-generated content becomes so easy to produce and so hard to detect that the average person’s only rational response to anything online is bewildered disbelief.\nWe’re not there yet. But we’re close.\nThe theory is simple: First, AI gets accessible enough that anyone can use it. Second, AI gets good enough that you can’t reliably tell what’s fake. Third, and this is the crisis point, regular people realize there’s nothing online they can trust. At that moment, the internet stops being useful for anything except entertainment.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/on-moltbook.html#comments",
-    "content": "<p>The <i>MIT Technology Review</i> has a <a href=\"https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/\">good article</a> on Moltbook, the supposed AI-only social network:</p>\n<blockquote><p>Many people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.</p>\n<p>&#8220;Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,&#8221; says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. &#8220;Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.&#8221;...</p></blockquote>",
-    "contentSnippet": "The MIT Technology Review has a good article on Moltbook, the supposed AI-only social network:\nMany people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.\n“Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,” says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. “Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.”...",
-    "guid": "https://www.schneier.com/?p=71683",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "social media"
-    ],
-    "isoDate": "2026-03-03T12:04:29.000Z"
   }
 ]
