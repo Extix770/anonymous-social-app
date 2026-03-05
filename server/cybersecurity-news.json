@@ -1,5 +1,64 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Israel Hacked Traffic Cameras in Iran",
+    "link": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html",
+    "pubDate": "Thu, 05 Mar 2026 17:31:53 +0000",
+    "content:encoded": "<p><a href=\"https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/\">Multiple</a> <a href=\"https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836\">news</a> <a href=\"https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861\">outlets</a> are reporting on Israel&#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&#8217;s leadership.</p>\n<p><i>The New York Times</i> has an <a href=\"https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html\"<article</a> on the intelligence operation more generally.</p>\n",
+    "content:encodedSnippet": "Multiple news outlets are reporting on Israel’s hacking of Iranian traffic cameras and how they assisted with the killing of that country’s leadership.\nThe New York Times has an  on the intelligence operation more generally.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html#comments",
+    "content": "<p><a href=\"https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/\">Multiple</a> <a href=\"https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836\">news</a> <a href=\"https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861\">outlets</a> are reporting on Israel&#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&#8217;s leadership.</p>\n<p><i>The New York Times</i> has an &#60;a href=&#34;https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html&#34;&#60;article</a> on the intelligence operation more generally.</p>\n",
+    "contentSnippet": "Multiple news outlets are reporting on Israel’s hacking of Iranian traffic cameras and how they assisted with the killing of that country’s leadership.\nThe New York Times has an <a href=\"https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html\"<article on the intelligence operation more generally.",
+    "guid": "https://www.schneier.com/?p=71728",
+    "categories": [
+      "Uncategorized",
+      "assassinations",
+      "cameras",
+      "cars",
+      "CIA",
+      "hacking",
+      "infrastructure",
+      "intelligence",
+      "Israel"
+    ],
+    "isoDate": "2026-03-05T17:31:53.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
+    },
+    "content": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "isoDate": "2026-03-05T15:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+    "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+    "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEr5vlbwHAPeevtBJ7iylInnh2ZQCxX10smm1srCFONJBSriIbAvvp5jAFpFYdeoyk9BKBhyFZx-U4xBhqtN2eT1r150GMLdRP3scA8PsHMYh0PGALAqnzwQnLS-3K_9yneL-7tRa3lD-TTOIebyc_alzp2kLKFdFRCiJcWMcmTiMnoqUAeO_Wxv6hd05D/s1600/cisco-exploit.jpg"
+    },
+    "content": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could allow an authenticated, remote attacker to overwrite arbitrary files on the local file system.",
+    "contentSnippet": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could allow an authenticated, remote attacker to overwrite arbitrary files on the local file system.",
+    "guid": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+    "isoDate": "2026-03-05T15:22:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
     "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
@@ -14,23 +73,6 @@
     "contentSnippet": "Some weeks in cybersecurity feel routine. This one doesn’t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
     "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
     "isoDate": "2026-03-05T13:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "pubDate": "Thu, 05 Mar 2026 18:43:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
-    },
-    "content": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
-    "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
-    "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "isoDate": "2026-03-05T13:13:00.000Z",
     "itunes": {}
   },
   {
@@ -311,39 +353,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-03T19:01:35.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
-    "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
-    "pubDate": "Tue, 03 Mar 2026 22:45:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
-    },
-    "content": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
-    "contentSnippet": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
-    "guid": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
-    "isoDate": "2026-03-03T17:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-    "pubDate": "Tue, 03 Mar 2026 20:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
-    },
-    "content": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
-    "contentSnippet": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
-    "guid": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-    "isoDate": "2026-03-03T14:30:00.000Z",
-    "itunes": {}
   }
 ]
