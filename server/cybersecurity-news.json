@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Molly Taft, Dell Cameron",
+    "title": "The Controversies Finally Caught Up to Kristi Noem",
+    "link": "https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/",
+    "pubDate": "Thu, 05 Mar 2026 19:43:46 +0000",
+    "dc:creator": "Molly Taft, Dell Cameron",
+    "content": "Donald Trump said he would replace the secretary of the Department of Homeland Security. Noem's tenure was marked by aggressive anti-immigration tactics and ICE's killing of two US protestors.",
+    "contentSnippet": "Donald Trump said he would replace the secretary of the Department of Homeland Security. Noem's tenure was marked by aggressive anti-immigration tactics and ICE's killing of two US protestors.",
+    "guid": "693b36a3426a78582709ba68",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Politics"
+    ],
+    "isoDate": "2026-03-05T19:43:46.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Israel Hacked Traffic Cameras in Iran",
     "link": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html",
@@ -337,21 +353,5 @@
     "guid": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
     "isoDate": "2026-03-04T04:35:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
-    "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-    "pubDate": "Tue, 03 Mar 2026 19:01:35 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
-    "contentSnippet": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
-    "guid": "69a5e754fc068645e006095c",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-03T19:01:35.000Z"
   }
 ]
