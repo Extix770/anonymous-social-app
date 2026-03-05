@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
+    "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+    "pubDate": "Thu, 05 Mar 2026 12:21:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8UTSWEMM2rFGJeOr4V1jcbj7LGdQOWonmvhfcbkNspvoCt-7wsBrnJoMuGgnyCZ-E4G5DqWRcPYrrTi3MF-nZWM3pke6JmFrnNlIrs99WF4ayKdghQxMVtvsxxkvv0FMHmKHWCA92klsfqy2fS4rD0_YcBTOapV-lsGCsZhnLHMCe3oMhEukpHaTgGQE/s1600/takedown.jpg"
+    },
+    "content": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
+    "contentSnippet": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
+    "guid": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+    "isoDate": "2026-03-05T06:51:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
+    "link": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+    "pubDate": "Thu, 05 Mar 2026 12:04:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqCkvzA_QIoUAC6eMNU1kDX-c7UWPBC9pNRMLDRcjLxiDk6nxLIsjxSYkqpSIX3KpG20nCf8386lGtqomuIqQRGBtC5xfPi0oADNXOggDel6qLCkNMoE7YaHjazq_iL3XF7RZzkfAn18D8-kx1Jz7YAYzHo6bQVRhSdhYSHa16pljvUq8Cihnv3CUARjH0/s1600/FORUM.jpg"
+    },
+    "content": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
+    "contentSnippet": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
+    "guid": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+    "isoDate": "2026-03-05T06:34:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Andy Greenberg",
     "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
     "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
@@ -308,39 +342,5 @@
     "guid": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
     "isoDate": "2026-03-03T07:08:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-    "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-    "pubDate": "Tue, 03 Mar 2026 12:23:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
-    },
-    "content": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
-    "contentSnippet": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
-    "guid": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-    "isoDate": "2026-03-03T06:53:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
-    "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
-    "pubDate": "Mon, 02 Mar 2026 18:34:25 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.",
-    "contentSnippet": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.",
-    "guid": "69a5a29afb8b2b3db6442fa2",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-02T18:34:25.000Z"
   }
 ]
