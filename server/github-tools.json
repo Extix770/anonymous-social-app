@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7594,
+    "stars": 7595,
     "forks": 860,
     "language": "HTML"
   },
@@ -351,6 +351,15 @@
     "language": "Python"
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 20,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "PCI-DSS-Compliance-Toolkit",
     "owner": "praiseordu",
     "url": "https://github.com/praiseordu/PCI-DSS-Compliance-Toolkit",
@@ -376,15 +385,6 @@
     "stars": 19,
     "forks": 3,
     "language": null
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
-    "stars": 19,
-    "forks": 0,
-    "language": "Python"
   },
   {
     "name": "NmapScanningTool-V1",
@@ -765,15 +765,6 @@
     "language": null
   },
   {
-    "name": "cybersecurity-tools",
-    "owner": "AlejandroZaZ",
-    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
-    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python"
-  },
-  {
     "name": "Hack-Tools",
     "owner": "drakyanerlanggarizkiwardhana",
     "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
@@ -783,12 +774,12 @@
     "language": "TypeScript"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "cybersecurity-tools",
+    "owner": "AlejandroZaZ",
+    "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
+    "description": "A collection of open-source, terminal-based security tools for network analysis, penetration testing, and vulnerability assessment. Use these tools responsibly to enhance cybersecurity research and ethical hacking.",
     "stars": 6,
-    "forks": 0,
+    "forks": 1,
     "language": "Python"
   },
   {
@@ -808,6 +799,15 @@
     "stars": 6,
     "forks": 0,
     "language": "TypeScript"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "mini-tools",
-    "owner": "proditis",
-    "url": "https://github.com/proditis/mini-tools",
-    "description": "A collection of mini tools and snippets for various purposes",
-    "stars": 5,
-    "forks": 0,
-    "language": "Go"
-  },
-  {
     "name": "Pentesting-Toolkit",
     "owner": "shepherd-06",
     "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 1,
     "language": "C"
+  },
+  {
+    "name": "mini-tools",
+    "owner": "proditis",
+    "url": "https://github.com/proditis/mini-tools",
+    "description": "A collection of mini tools and snippets for various purposes",
+    "stars": 5,
+    "forks": 0,
+    "language": "Go"
   },
   {
     "name": "ncl-tools",
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
+    "forks": 1,
+    "language": null
   }
 ]
