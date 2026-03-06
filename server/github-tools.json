@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8547,
+    "stars": 8548,
     "forks": 1154,
     "language": null
   },
@@ -162,6 +162,15 @@
     "language": null
   },
   {
+    "name": "Digital-Forensics-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
+    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
+    "stars": 100,
+    "forks": 37,
+    "language": null
+  },
+  {
     "name": "HackerToolkit",
     "owner": "ChrisJr404",
     "url": "https://github.com/ChrisJr404/HackerToolkit",
@@ -169,15 +178,6 @@
     "stars": 100,
     "forks": 5,
     "language": "Shell"
-  },
-  {
-    "name": "Digital-Forensics-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
-    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
-    "stars": 99,
-    "forks": 37,
-    "language": null
   },
   {
     "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
@@ -783,19 +783,19 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"

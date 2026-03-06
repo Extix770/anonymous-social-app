@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+    "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+    "pubDate": "Fri, 06 Mar 2026 12:14:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg"
+    },
+    "content": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
+    "contentSnippet": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
+    "guid": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+    "isoDate": "2026-03-06T06:44:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+    "pubDate": "Fri, 06 Mar 2026 12:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
+    "guid": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+    "isoDate": "2026-03-06T06:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Maddy Varner",
     "title": "Here’s Every Country Directly Impacted by the War on Iran",
     "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
@@ -316,40 +350,6 @@
     "contentSnippet": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI",
     "guid": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
     "isoDate": "2026-03-04T11:30:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
-    "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
-    "pubDate": "Wed, 04 Mar 2026 15:07:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAkhOUNeGmbnO6-Wf7OTYmb_GbxBRyWPlLwHY_xWh2a3fWN3wqYQcNDK2z-ck6dCpYStrieeh79uwREaRnu7vXx3_1SqPqi0KYqdyMtPq45fbRFKtBdc_Vnbkh9mgOXSPu4GOPlkqQxfCX-mQ-62Jw5jsA8CybEImOOvdliNEOcPjnGQDEjKrunI4kOyG/s1600/php.jpg"
-    },
-    "content": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
-    "contentSnippet": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
-    "guid": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
-    "isoDate": "2026-03-04T09:37:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
-    "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
-    "pubDate": "Wed, 04 Mar 2026 13:44:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.\n\"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.\n\"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
-    "guid": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
-    "isoDate": "2026-03-04T08:14:00.000Z",
     "itunes": {}
   }
 ]
