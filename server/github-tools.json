@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8545,
+    "stars": 8546,
     "forks": 1153,
     "language": null
   },
@@ -783,19 +783,19 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "qradarOffenseTools",
+    "owner": "zoldax",
+    "url": "https://github.com/zoldax/qradarOffenseTools",
+    "description": "QRadar Offense Tools (Viewer)",
     "stars": 6,
     "forks": 0,
     "language": "Python"
   },
   {
-    "name": "qradarOffenseTools",
-    "owner": "zoldax",
-    "url": "https://github.com/zoldax/qradarOffenseTools",
-    "description": "QRadar Offense Tools (Viewer)",
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
@@ -891,12 +891,12 @@
     "language": null
   },
   {
-    "name": "BEC-Detection-Toolkit",
-    "owner": "reveal79",
-    "url": "https://github.com/reveal79/BEC-Detection-Toolkit",
-    "description": "Enterprise-grade Business Email Compromise detection for Microsoft 365 - Free & Open Source",
+    "name": "cloud-security-tools",
+    "owner": "ysftzcn",
+    "url": "https://github.com/ysftzcn/cloud-security-tools",
+    "description": "Open Source Cloud Security Tools ",
     "stars": 5,
-    "forks": 0,
-    "language": "PowerShell"
+    "forks": 1,
+    "language": null
   }
 ]
