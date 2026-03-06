@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Squid in Byzantine Monk Cooking",
+    "link": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html",
+    "pubDate": "Fri, 06 Mar 2026 22:03:17 +0000",
+    "content:encoded": "<p>This is a very weird <a href=\"https://www.turkiyetoday.com/lifestyle/how-stuffed-squid-survived-byzantine-monks-and-ottoman-tables-by-staying-ink-ognito-3215117?s=1\">story</a> about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.</p>\n<blockquote><p>At Constantinople&#8217;s Monastery of Stoudios, the kitchen didn&#8217;t answer to appetite.</p>\n<p>It answered to the &#8220;typikon&#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?</p>\n<p>Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass.</p>\n<p>In a kitchen governed by prohibitions, the safest ingredient was the one that caused the least disturbance. Squid entered not with applause, but with a shrug.</p></blockquote>\n<p>Bonus stuffed squid recipe at the end.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "This is a very weird story about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.\nAt Constantinople’s Monastery of Stoudios, the kitchen didn’t answer to appetite.\nIt answered to the “typikon”: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?\nSquid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn’t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass.\nIn a kitchen governed by prohibitions, the safest ingredient was the one that caused the least disturbance. Squid entered not with applause, but with a shrug.\n\nBonus stuffed squid recipe at the end.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html#respond",
+    "content": "<p>This is a very weird <a href=\"https://www.turkiyetoday.com/lifestyle/how-stuffed-squid-survived-byzantine-monks-and-ottoman-tables-by-staying-ink-ognito-3215117?s=1\">story</a> about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.</p>\n<blockquote><p>At Constantinople&#8217;s Monastery of Stoudios, the kitchen didn&#8217;t answer to appetite.</p>\n<p>It answered to the &#8220;typikon&#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?</p>\n<p>Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...</p></blockquote>",
+    "contentSnippet": "This is a very weird story about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.\nAt Constantinople’s Monastery of Stoudios, the kitchen didn’t answer to appetite.\nIt answered to the “typikon”: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?\nSquid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn’t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...",
+    "guid": "https://www.schneier.com/?p=71735",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-03-06T22:03:17.000Z"
+  },
+  {
     "creator": "Matt Burgess, Lily Hay Newman",
     "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
     "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
@@ -337,22 +355,5 @@
       "war"
     ],
     "isoDate": "2026-03-05T11:28:48.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
-    "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
-    "pubDate": "Thu, 05 Mar 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh573fCRL7EMT-Piz1QEJizjMNdQH5G4eMHpLbuCGvm-PNF6-osRuSQF09DHGIuYS1EXDgZXUmWzVf1p3kHDH0_jE7_XDKuG0J7R9Yc3kP4XbaW3UoF3gLYCQ6ba63S0iYQf3Ftf7s0UkDD9QBbnzUcBPRDQXI401TzAVjET05OjgS38tiYgfWA79kS-8g/s1600/outpost.jpg"
-    },
-    "content": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage.&nbsp;\nEnforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
-    "contentSnippet": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage. \nEnforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
-    "guid": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
-    "isoDate": "2026-03-05T11:00:00.000Z",
-    "itunes": {}
   }
 ]
