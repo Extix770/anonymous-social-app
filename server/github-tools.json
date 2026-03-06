@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1217,
+    "stars": 1218,
     "forks": 180,
     "language": null
   },
@@ -202,7 +202,7 @@
     "owner": "king04aman",
     "url": "https://github.com/king04aman/CyberSecurity-Tools",
     "description": "This repository is aimed to contain all basic tools and resources for cybersecurity. In this repository you will get all material which you must know in cybersecurity field. ",
-    "stars": 73,
+    "stars": 72,
     "forks": 24,
     "language": "Python"
   },

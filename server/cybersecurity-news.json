@@ -1,5 +1,42 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Claude Used to Hack Mexican Government",
+    "link": "https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html",
+    "pubDate": "Fri, 06 Mar 2026 11:53:27 +0000",
+    "content:encoded": "<p>An unknown hacker used Anthropic&#8217;s LLM to <a href=\"https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data\">hack</a> the Mexican government:</p>\n<blockquote><p>The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.</p>\n<p>[&#8230;]</p>\n<p>Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&#8217;s requests and executed thousands of commands on government computer networks, the researchers said.</p>\n<p>Anthropic investigated Gambit&#8217;s claims, disrupted the activity and banned the accounts involved, a representative said. The company feeds examples of malicious activity back into Claude to learn from it, and one of its latest AI models, Claude Opus 4.6, includes probes that can disrupt misuse, the representative said.</p></blockquote>\n<p>Alternative link <a href=\"https://archive.ph/GgzS2#selection-1651.0-1655.0\">here</a>.</p>\n",
+    "content:encodedSnippet": "An unknown hacker used Anthropic’s LLM to hack the Mexican government:\nThe unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.\n[…]\nClaude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker’s requests and executed thousands of commands on government computer networks, the researchers said.\nAnthropic investigated Gambit’s claims, disrupted the activity and banned the accounts involved, a representative said. The company feeds examples of malicious activity back into Claude to learn from it, and one of its latest AI models, Claude Opus 4.6, includes probes that can disrupt misuse, the representative said.\n\nAlternative link here.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html#respond",
+    "content": "<p>An unknown hacker used Anthropic&#8217;s LLM to <a href=\"https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data\">hack</a> the Mexican government:</p>\n<blockquote><p>The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.</p>\n<p>[&#8230;]</p>\n<p>Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&#8217;s requests and executed thousands of commands on government computer networks, the researchers said...</p></blockquote>",
+    "contentSnippet": "An unknown hacker used Anthropic’s LLM to hack the Mexican government:\nThe unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.\n[…]\nClaude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker’s requests and executed thousands of commands on government computer networks, the researchers said...",
+    "guid": "https://www.schneier.com/?p=71709",
+    "categories": [
+      "Uncategorized",
+      "AI",
+      "chatbots",
+      "hacking",
+      "LLM",
+      "Mexico"
+    ],
+    "isoDate": "2026-03-06T11:53:27.000Z"
+  },
+  {
+    "creator": "Andy Greenberg",
+    "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
+    "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
+    "pubDate": "Fri, 06 Mar 2026 11:30:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
+    "contentSnippet": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
+    "guid": "69a9b555c174041d2b6741bc",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-03-06T11:30:00.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
     "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
@@ -313,40 +350,6 @@
     "contentSnippet": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
     "guid": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
     "isoDate": "2026-03-05T06:34:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
-    "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
-    "pubDate": "Wed, 04 Mar 2026 19:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
-    "contentSnippet": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
-    "guid": "69a06414ec85594ee3d5c111",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-04T19:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
-    "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
-    "pubDate": "Wed, 04 Mar 2026 22:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjabhLtgN_k3Zm7rY2cHxMPh9Py-QdY1pESzIEtJbo45w5Y744g5nEtkc9z6tmPaXh_wB0pgzxbFwTzM7C0whbwEbbSopd-CZy98ANNcLF5k7orHTEMlkLSN5JegxMAMPEyeXPE2VXurPv4npqtKkvuay4ZltoPMk47uR-eqP6LsFHp3SqxAeu8tthDyZMa/s1600/ddos.jpg"
-    },
-    "content": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
-    "contentSnippet": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
-    "guid": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
-    "isoDate": "2026-03-04T17:21:00.000Z",
     "itunes": {}
   }
 ]
