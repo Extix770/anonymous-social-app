@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Matt Burgess, Lily Hay Newman",
+    "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
+    "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+    "pubDate": "Fri, 06 Mar 2026 20:06:06 +0000",
+    "dc:creator": "Matt Burgess, Lily Hay Newman",
+    "content": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
+    "contentSnippet": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
+    "guid": "69a84d562c124fb6b5d1e3d3",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-06T20:06:06.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Anthropic and the Pentagon",
     "link": "https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html",
@@ -338,23 +353,6 @@
     "contentSnippet": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage. \nEnforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
     "guid": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
     "isoDate": "2026-03-05T11:00:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
-    "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
-    "pubDate": "Thu, 05 Mar 2026 15:40:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihW1ns0JTT2vYUjdQEqTcDwytBGmTnID9xQkCxuT-WURhd71xeh9UD80hZiRL3WWBOg5dCVZKY2huOuElbB-QjczQquCirdpgVRjWNM426jLNF-U_s8RGs9CjNC1Qr2DJhQ532z6bz2hdMkzUjJ-vSKpJmBdvyy5qgkAuwB2armvVyx4HNsn4glFMWmupC/s1600/Ukraine.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow.\n\"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow.\n\"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
-    "guid": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
-    "isoDate": "2026-03-05T10:10:00.000Z",
     "itunes": {}
   }
 ]
