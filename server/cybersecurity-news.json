@@ -1,5 +1,39 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+    "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+    "pubDate": "Fri, 06 Mar 2026 20:41:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Nnrc1zd-1NJp8aP69eS_s4Ai_GG7Um-ltzX8eO5Jfrnxaq_fj3z5u3k7WUU65b0lmmxd6012MxINWFPC5vZDhznqnIrNEerUiPKbeKEVCTwtRCv2RCwnYa-k_hz4mha_qyOBV9kgvkWw6xlZfNSQYqvhez0T1xJFJXeaCjlYFAAtwt4RrMdmMHHsAU3/s1600/ai-coded-malware.jpg"
+    },
+    "content": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants.\nThe activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
+    "contentSnippet": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants.\nThe activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
+    "guid": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+    "isoDate": "2026-03-06T15:11:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+    "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+    "pubDate": "Fri, 06 Mar 2026 20:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjK1KC9p7VWWkeFycROhD4cXTkFws06lICtY2bwCh8m2G8vl20VKnurwKZGiqVLWKxZGBRREcIKUImgupySapsKegJcZjxIYuU5nmLtLBABpnxQIC0ShG0uUbiG0jfRH7IgBTj5COyPK090eD7qof5VnsI2gUG43uLkhdy3EqDCVPguAcBp7HSdASnA9Q/s1600/key-malware.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.\nThe stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research.\nAt a high level, the obfuscated batch script is used to deploy a second",
+    "contentSnippet": "Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.\nThe stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research.\nAt a high level, the obfuscated batch script is used to deploy a second",
+    "guid": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+    "isoDate": "2026-03-06T14:33:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Claude Used to Hack Mexican Government",
     "link": "https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html",
@@ -317,39 +351,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-05T10:00:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
-    "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
-    "pubDate": "Thu, 05 Mar 2026 12:21:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8UTSWEMM2rFGJeOr4V1jcbj7LGdQOWonmvhfcbkNspvoCt-7wsBrnJoMuGgnyCZ-E4G5DqWRcPYrrTi3MF-nZWM3pke6JmFrnNlIrs99WF4ayKdghQxMVtvsxxkvv0FMHmKHWCA92klsfqy2fS4rD0_YcBTOapV-lsGCsZhnLHMCe3oMhEukpHaTgGQE/s1600/takedown.jpg"
-    },
-    "content": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
-    "contentSnippet": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
-    "guid": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
-    "isoDate": "2026-03-05T06:51:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
-    "link": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
-    "pubDate": "Thu, 05 Mar 2026 12:04:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqCkvzA_QIoUAC6eMNU1kDX-c7UWPBC9pNRMLDRcjLxiDk6nxLIsjxSYkqpSIX3KpG20nCf8386lGtqomuIqQRGBtC5xfPi0oADNXOggDel6qLCkNMoE7YaHjazq_iL3XF7RZzkfAn18D8-kx1Jz7YAYzHo6bQVRhSdhYSHa16pljvUq8Cihnv3CUARjH0/s1600/FORUM.jpg"
-    },
-    "content": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
-    "contentSnippet": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
-    "guid": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
-    "isoDate": "2026-03-05T06:34:00.000Z",
-    "itunes": {}
   }
 ]
