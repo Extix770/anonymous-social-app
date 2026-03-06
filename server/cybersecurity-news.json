@@ -57,23 +57,6 @@
   },
   {
     "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
-    },
-    "content": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
-    "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
-    "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "isoDate": "2026-03-05T15:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
     "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
     "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530",
@@ -86,6 +69,23 @@
     "content": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could allow an authenticated, remote attacker to overwrite arbitrary files on the local file system.",
     "contentSnippet": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could allow an authenticated, remote attacker to overwrite arbitrary files on the local file system.",
     "guid": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+    "isoDate": "2026-03-05T15:22:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
+    },
+    "content": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
     "isoDate": "2026-03-05T15:22:00.000Z",
     "itunes": {}
   },
