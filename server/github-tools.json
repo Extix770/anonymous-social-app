@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1232,
+    "stars": 1233,
     "forks": 181,
     "language": null
   },
@@ -293,7 +293,7 @@
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
     "stars": 31,
-    "forks": 7,
+    "forks": 8,
     "language": "Python"
   },
   {
@@ -310,8 +310,8 @@
     "owner": "AnandaRauf",
     "url": "https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-",
     "description": "Haram Tool is Software Web Penetration Testing Tool.",
-    "stars": 24,
-    "forks": 7,
+    "stars": 22,
+    "forks": 6,
     "language": "Python"
   },
   {
@@ -333,6 +333,15 @@
     "language": "Python"
   },
   {
+    "name": "linkedin-osint-toolkit",
+    "owner": "michaelelizarov",
+    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
+    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
+    "stars": 21,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
     "name": "DFIR-Toolkit",
     "owner": "fsfang",
     "url": "https://github.com/fsfang/DFIR-Toolkit",
@@ -346,15 +355,6 @@
     "owner": "SagarBiswas-MultiHAT",
     "url": "https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit",
     "description": "Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.",
-    "stars": 20,
-    "forks": 0,
-    "language": "Python"
-  },
-  {
-    "name": "linkedin-osint-toolkit",
-    "owner": "michaelelizarov",
-    "url": "https://github.com/michaelelizarov/linkedin-osint-toolkit",
-    "description": "Full-stack LinkedIn OSINT toolkit. Four-phase funnel: discover companies by region, batch scrape employees, classify roles by hierarchy/department, and deep dive into profiles. Interactive D3.js org chart viewer, Groq AI      enhancement, anti-detection stealth, proxy support, and graceful partial-save on interruption.",
     "stars": 20,
     "forks": 0,
     "language": "Python"
@@ -792,15 +792,6 @@
     "language": "Python"
   },
   {
-    "name": "obsidian-soc-toolkit",
-    "owner": "michaelmassoni",
-    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
-    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript"
-  },
-  {
     "name": "red_team_toolkit",
     "owner": "Jubiko31",
     "url": "https://github.com/Jubiko31/red_team_toolkit",
@@ -808,6 +799,15 @@
     "stars": 6,
     "forks": 0,
     "language": "Python"
+  },
+  {
+    "name": "obsidian-soc-toolkit",
+    "owner": "michaelmassoni",
+    "url": "https://github.com/michaelmassoni/obsidian-soc-toolkit",
+    "description": "An Obsidian plugin that provides a collection of tools for SOC analysts and cybersecurity professionals.",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript"
   },
   {
     "name": "Password_Strength_Analysis_Tool",
@@ -828,15 +828,6 @@
     "language": null
   },
   {
-    "name": "soc-toolkit",
-    "owner": "phrp720",
-    "url": "https://github.com/phrp720/soc-toolkit",
-    "description": "A Security Operations Center (SOC) created by open source tools",
-    "stars": 5,
-    "forks": 2,
-    "language": "Shell"
-  },
-  {
     "name": "Hacker-Tools",
     "owner": "Push4ck",
     "url": "https://github.com/Push4ck/Hacker-Tools",
@@ -844,6 +835,15 @@
     "stars": 5,
     "forks": 2,
     "language": "Python"
+  },
+  {
+    "name": "soc-toolkit",
+    "owner": "phrp720",
+    "url": "https://github.com/phrp720/soc-toolkit",
+    "description": "A Security Operations Center (SOC) created by open source tools",
+    "stars": 5,
+    "forks": 2,
+    "language": "Shell"
   },
   {
     "name": "Phishing-Simulation-Tool",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -880,6 +871,15 @@
     "stars": 5,
     "forks": 0,
     "language": "Go"
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "ncl-tools",
