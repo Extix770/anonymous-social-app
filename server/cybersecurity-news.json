@@ -17,6 +17,23 @@
     "isoDate": "2026-03-07T11:30:00.000Z"
   },
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+    "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+    "pubDate": "Sat, 07 Mar 2026 16:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DaQuy20IkM7M8iL7NBmzJhI9m5KDEpf6CBgxcI9rAhiVLO1VyfdAeQKaInOY3dlIiwy1FWtusinpu8Yyj1fChemLiVCTLnMLRtKaKNvDbOOa0ZjVFt5zoT7yON1ljb2DAlgki_aVmVuWSmAPn2jFszCpJdjzN7DGGRzeEzD5OYcSn2oeLzcaBARYzmOS/s1600/firefox-claude.jpg"
+    },
+    "content": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
+    "contentSnippet": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
+    "guid": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+    "isoDate": "2026-03-07T11:21:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Dana Alomar",
     "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
     "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
@@ -329,23 +346,6 @@
     "contentSnippet": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
     "guid": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
     "isoDate": "2026-03-05T15:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-    "pubDate": "Thu, 05 Mar 2026 19:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmX71oTh0PhBoeXrV6BUD7_jQe9VWPqHc60ijUxf4iv8wPE8UeWY8dlDrfbx3-Ut5aNoNQZJ8DH_ADNQGgFL4NbMMcw-IayIe9HXKG3l5EN3-og9LuNqBP452mXpm1HTn3ooWlJ-q4QRqvPJC4gmR0lstJ8KWdQYa2knQ5J69nneIwIRTKKG43fXtcWRXm/s1600/threatsday.jpg"
-    },
-    "content": "Some weeks in cybersecurity feel routine. This one doesn&rsquo;t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
-    "contentSnippet": "Some weeks in cybersecurity feel routine. This one doesn’t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
-    "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-    "isoDate": "2026-03-05T13:44:00.000Z",
     "itunes": {}
   }
 ]
