@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg, Dell Cameron",
+    "title": "CBP Used Online Ad Data to Track Phone Locations",
+    "link": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/",
+    "pubDate": "Sat, 07 Mar 2026 11:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg, Dell Cameron",
+    "content": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
+    "contentSnippet": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
+    "guid": "69a858f5e166ef7297c6e5e7",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-07T11:30:00.000Z"
+  },
+  {
     "creator": "Dana Alomar",
     "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
     "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
@@ -329,23 +346,6 @@
     "contentSnippet": "Some weeks in cybersecurity feel routine. This one doesn’t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
     "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
     "isoDate": "2026-03-05T13:44:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
-    "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
-    "pubDate": "Thu, 05 Mar 2026 17:31:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWg0441avqEutKSymEsuuVP_gKz7kiss4jZesCHLwD4731n135lf6jhJdT2X5CPIWISsByG0RsJoH7eXSyGVOI6RNmo1QkE8Z24lPdiFTLni79c2EoiLGlAurQsIHqn7j_-MDPlL9F98XAsRtrBD17V7YXRYikdcET0hnw897ButkFyI1T4JmzxpJdwM8y/s1600/iran-attack.jpg"
-    },
-    "content": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware.\nZscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
-    "contentSnippet": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware.\nZscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
-    "guid": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
-    "isoDate": "2026-03-05T12:01:00.000Z",
     "itunes": {}
   }
 ]
