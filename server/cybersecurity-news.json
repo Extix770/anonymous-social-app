@@ -1,5 +1,20 @@
 [
   {
+    "creator": "Dana Alomar",
+    "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
+    "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
+    "pubDate": "Sat, 07 Mar 2026 11:00:00 +0000",
+    "dc:creator": "Dana Alomar",
+    "content": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
+    "contentSnippet": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
+    "guid": "69aafeb319e74863b0e32e2b",
+    "categories": [
+      "Security",
+      "Security / National Security"
+    ],
+    "isoDate": "2026-03-07T11:00:00.000Z"
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Friday Squid Blogging: Squid in Byzantine Monk Cooking",
     "link": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html",
@@ -332,28 +347,5 @@
     "guid": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
     "isoDate": "2026-03-05T12:01:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Hacked App Part of US/Israeli Propaganda Campaign Against Iran",
-    "link": "https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html",
-    "pubDate": "Thu, 05 Mar 2026 11:28:48 +0000",
-    "content:encoded": "<p><i>Wired</i> has the <a href=\"https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776\">story</a>:</p>\n<blockquote><p>Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.</p>\n<p>The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &#8216;Help has arrived&#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks.</p></blockquote>\n<p>It happened so fast that this is most likely a government operation. I can easily envision both the US and Israel having hacked the app previously, and then deciding that this is a good use of that access.</p>\n",
-    "content:encodedSnippet": "Wired has the story:\nShortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.\nThe messages arrived in quick succession over a period of 30 minutes, starting with the phrase ‘Help has arrived’ at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks.\n\nIt happened so fast that this is most likely a government operation. I can easily envision both the US and Israel having hacked the app previously, and then deciding that this is a good use of that access.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html#comments",
-    "content": "<p><i>Wired</i> has the <a href=\"https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776\">story</a>:</p>\n<blockquote><p>Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.</p>\n<p>The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &#8216;Help has arrived&#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...</p></blockquote>",
-    "contentSnippet": "Wired has the story:\nShortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.\nThe messages arrived in quick succession over a period of 30 minutes, starting with the phrase ‘Help has arrived’ at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...",
-    "guid": "https://www.schneier.com/?p=71725",
-    "categories": [
-      "Uncategorized",
-      "cybersecurity",
-      "hacking",
-      "Iran",
-      "Israel",
-      "propaganda",
-      "war"
-    ],
-    "isoDate": "2026-03-05T11:28:48.000Z"
   }
 ]
