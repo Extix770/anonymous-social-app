@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7608,
+    "stars": 7609,
     "forks": 860,
     "language": "HTML"
   },
@@ -76,7 +76,7 @@
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 767,
+    "stars": 768,
     "forks": 69,
     "language": null
   },
@@ -256,7 +256,7 @@
     "owner": "DefconParrot",
     "url": "https://github.com/DefconParrot/DefconArsenalTools",
     "description": "A curation of tools presented at DEF CON conference each year, the world's largest hacker con.",
-    "stars": 43,
+    "stars": 44,
     "forks": 7,
     "language": null
   },
