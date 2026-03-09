@@ -1,5 +1,43 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "New Attack Against Wi-Fi",
+    "link": "https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html",
+    "pubDate": "Mon, 09 Mar 2026 10:57:18 +0000",
+    "content:encoded": "<p>It&#8217;s called <a href=\"https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/\">AirSnitch</a>:</p>\n<blockquote><p>Unlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.</p>\n<p>The most powerful such attack is a full, bidirectional <a href=\"https://en.wikipedia.org/wiki/Man-in-the-middle_attack\">machine-in-the-middle (MitM) attack</a>, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises.</p>\n<p>With the ability to intercept all link-layer traffic (that is, the traffic as it passes between Layers 1 and 2), an attacker can perform other attacks on higher layers. The most dire consequence occurs when an Internet connection isn’t encrypted­&#8212;something that Google <a href=\"https://transparencyreport.google.com/https/overview\">recently estimated</a> occurred when as much as 6 percent and 20 percent of pages loaded on Windows and Linux, respectively. In these cases, the attacker can view and modify all traffic in the clear and steal authentication cookies, passwords, payment card details, and any other sensitive data. Since many company intranets are sent in plaintext, traffic from them can also be intercepted.</p>\n<p>Even when HTTPS is in place, an attacker can still intercept domain look-up traffic and use DNS cache poisoning to corrupt tables stored by the target’s operating system. The AirSnitch MitM also puts the attacker in the position to wage attacks against vulnerabilities that may not be patched. Attackers can also see the external IP addresses hosting webpages being visited and often correlate them with the precise URL.</p></blockquote>\n<p>Here&#8217;s the <a href=\"https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/\">paper</a>.</p>\n",
+    "content:encodedSnippet": "It’s called AirSnitch:\nUnlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.\nThe most powerful such attack is a full, bidirectional machine-in-the-middle (MitM) attack, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises.\nWith the ability to intercept all link-layer traffic (that is, the traffic as it passes between Layers 1 and 2), an attacker can perform other attacks on higher layers. The most dire consequence occurs when an Internet connection isn’t encrypted­—something that Google recently estimated occurred when as much as 6 percent and 20 percent of pages loaded on Windows and Linux, respectively. In these cases, the attacker can view and modify all traffic in the clear and steal authentication cookies, passwords, payment card details, and any other sensitive data. Since many company intranets are sent in plaintext, traffic from them can also be intercepted.\nEven when HTTPS is in place, an attacker can still intercept domain look-up traffic and use DNS cache poisoning to corrupt tables stored by the target’s operating system. The AirSnitch MitM also puts the attacker in the position to wage attacks against vulnerabilities that may not be patched. Attackers can also see the external IP addresses hosting webpages being visited and often correlate them with the precise URL.\n\nHere’s the paper.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html#respond",
+    "content": "<p>It&#8217;s called <a href=\"https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/\">AirSnitch</a>:</p>\n<blockquote><p>Unlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.</p>\n<p>The most powerful such attack is a full, bidirectional <a href=\"https://en.wikipedia.org/wiki/Man-in-the-middle_attack\">machine-in-the-middle (MitM) attack</a>, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises...</p></blockquote>",
+    "contentSnippet": "It’s called AirSnitch:\nUnlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.\nThe most powerful such attack is a full, bidirectional machine-in-the-middle (MitM) attack, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises...",
+    "guid": "https://www.schneier.com/?p=71711",
+    "categories": [
+      "Uncategorized",
+      "academic papers",
+      "cyberattack",
+      "man-in-the-middle attacks",
+      "Wi-Fi"
+    ],
+    "isoDate": "2026-03-09T10:57:18.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
+    "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
+    "pubDate": "Mon, 09 Mar 2026 15:58:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg"
+    },
+    "content": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
+    "contentSnippet": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
+    "guid": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
+    "isoDate": "2026-03-09T10:28:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
     "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
@@ -341,36 +379,5 @@
     "guid": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
     "isoDate": "2026-03-06T06:30:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "Here’s Every Country Directly Impacted by the War on Iran",
-    "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
-    "pubDate": "Thu, 05 Mar 2026 22:28:33 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by air strikes.",
-    "contentSnippet": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by air strikes.",
-    "guid": "69a84a1e7b1e561d71bd018d",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-03-05T22:28:33.000Z"
-  },
-  {
-    "creator": "Molly Taft, Dell Cameron",
-    "title": "The Controversies Finally Caught Up to Kristi Noem",
-    "link": "https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/",
-    "pubDate": "Thu, 05 Mar 2026 19:43:46 +0000",
-    "dc:creator": "Molly Taft, Dell Cameron",
-    "content": "Donald Trump said he would replace the secretary of the Department of Homeland Security. Noem’s tenure was marked by aggressive anti-immigration tactics and ICE and CBP’s killing of two US protesters.",
-    "contentSnippet": "Donald Trump said he would replace the secretary of the Department of Homeland Security. Noem’s tenure was marked by aggressive anti-immigration tactics and ICE and CBP’s killing of two US protesters.",
-    "guid": "693b36a3426a78582709ba68",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Politics"
-    ],
-    "isoDate": "2026-03-05T19:43:46.000Z"
   }
 ]
