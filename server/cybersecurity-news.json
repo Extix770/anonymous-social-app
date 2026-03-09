@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
+    "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
+    "pubDate": "Mon, 09 Mar 2026 12:51:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png"
+    },
+    "content": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
+    "contentSnippet": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
+    "guid": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
+    "isoDate": "2026-03-09T07:21:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "BrianKrebs",
     "title": "How AI Assistants are Moving the Security Goalposts",
     "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
@@ -355,30 +372,5 @@
       "Politics"
     ],
     "isoDate": "2026-03-05T19:43:46.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Israel Hacked Traffic Cameras in Iran",
-    "link": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html",
-    "pubDate": "Thu, 05 Mar 2026 17:31:53 +0000",
-    "content:encoded": "<p><a href=\"https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/\">Multiple</a> <a href=\"https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836\">news</a> <a href=\"https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861\">outlets</a> are reporting on Israel&#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&#8217;s leadership.</p>\n<p><i>The New York Times</i> has an <a href=\"https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html\"<article</a> on the intelligence operation more generally.</p>\n",
-    "content:encodedSnippet": "Multiple news outlets are reporting on Israel’s hacking of Iranian traffic cameras and how they assisted with the killing of that country’s leadership.\nThe New York Times has an  on the intelligence operation more generally.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html#comments",
-    "content": "<p><a href=\"https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/\">Multiple</a> <a href=\"https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836\">news</a> <a href=\"https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861\">outlets</a> are reporting on Israel&#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&#8217;s leadership.</p>\n<p><i>The New York Times</i> has an &#60;a href=&#34;https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html&#34;&#60;article</a> on the intelligence operation more generally.</p>\n",
-    "contentSnippet": "Multiple news outlets are reporting on Israel’s hacking of Iranian traffic cameras and how they assisted with the killing of that country’s leadership.\nThe New York Times has an <a href=\"https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html\"<article on the intelligence operation more generally.",
-    "guid": "https://www.schneier.com/?p=71728",
-    "categories": [
-      "Uncategorized",
-      "assassinations",
-      "cameras",
-      "cars",
-      "CIA",
-      "hacking",
-      "infrastructure",
-      "intelligence",
-      "Israel"
-    ],
-    "isoDate": "2026-03-05T17:31:53.000Z"
   }
 ]
