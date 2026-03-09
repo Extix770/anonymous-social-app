@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1276,
+    "stars": 1277,
     "forks": 186,
     "language": null
   },
@@ -58,7 +58,7 @@
     "owner": "dev-lu",
     "url": "https://github.com/dev-lu/osint_toolkit",
     "description": "Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.",
-    "stars": 818,
+    "stars": 819,
     "forks": 140,
     "language": "JavaScript"
   },
@@ -765,15 +765,6 @@
     "language": null
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -783,19 +774,28 @@
     "language": "Python"
   },
   {
-    "name": "red_team_toolkit",
-    "owner": "Jubiko31",
-    "url": "https://github.com/Jubiko31/red_team_toolkit",
-    "description": "⚔️  Red Team tools, scripts",
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
     "stars": 6,
-    "forks": 0,
-    "language": "Python"
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
     "owner": "zoldax",
     "url": "https://github.com/zoldax/qradarOffenseTools",
     "description": "QRadar Offense Tools (Viewer)",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python"
+  },
+  {
+    "name": "red_team_toolkit",
+    "owner": "Jubiko31",
+    "url": "https://github.com/Jubiko31/red_team_toolkit",
+    "description": "⚔️  Red Team tools, scripts",
     "stars": 6,
     "forks": 0,
     "language": "Python"
