@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
+    "pubDate": "Mon, 09 Mar 2026 19:16:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg"
+    },
+    "content": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now.\nThe good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
+    "contentSnippet": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now.\nThe good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
+    "guid": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
+    "isoDate": "2026-03-09T13:46:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
     "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
     "pubDate": "Mon, 09 Mar 2026 17:15:00 +0530",
@@ -361,23 +378,6 @@
     "contentSnippet": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.\nThe activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.\nIt's worth",
     "guid": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
     "isoDate": "2026-03-06T08:22:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
-    "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
-    "pubDate": "Fri, 06 Mar 2026 12:14:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg"
-    },
-    "content": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
-    "contentSnippet": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
-    "guid": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
-    "isoDate": "2026-03-06T06:44:00.000Z",
     "itunes": {}
   }
 ]
