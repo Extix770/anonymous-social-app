@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
+    "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
+    "pubDate": "Tue, 10 Mar 2026 18:50:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
+    "contentSnippet": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
+    "guid": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
+    "isoDate": "2026-03-10T13:20:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
     "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
     "pubDate": "Tue, 10 Mar 2026 17:15:00 +0530",
@@ -360,20 +377,5 @@
       "squid"
     ],
     "isoDate": "2026-03-06T22:03:17.000Z"
-  },
-  {
-    "creator": "Matt Burgess, Lily Hay Newman",
-    "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-    "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-    "pubDate": "Fri, 06 Mar 2026 20:06:06 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman",
-    "content": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-    "contentSnippet": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-    "guid": "69a84d562c124fb6b5d1e3d3",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-06T20:06:06.000Z"
   }
 ]
