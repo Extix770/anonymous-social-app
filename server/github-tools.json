@@ -50,7 +50,7 @@
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
     "stars": 1277,
-    "forks": 186,
+    "forks": 187,
     "language": null
   },
   {
@@ -171,15 +171,6 @@
     "language": null
   },
   {
-    "name": "HackerToolkit",
-    "owner": "ChrisJr404",
-    "url": "https://github.com/ChrisJr404/HackerToolkit",
-    "description": "HackerToolkit offers a curated selection of tools designed to enhance your hacking capabilities. This repository not only organizes these tools but provides information about them. Easily install all of them with one script. ",
-    "stars": 100,
-    "forks": 5,
-    "language": "Shell"
-  },
-  {
     "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
     "owner": "CyberAlbSecOP",
     "url": "https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools",
@@ -187,6 +178,15 @@
     "stars": 99,
     "forks": 15,
     "language": null
+  },
+  {
+    "name": "HackerToolkit",
+    "owner": "ChrisJr404",
+    "url": "https://github.com/ChrisJr404/HackerToolkit",
+    "description": "HackerToolkit offers a curated selection of tools designed to enhance your hacking capabilities. This repository not only organizes these tools but provides information about them. Easily install all of them with one script. ",
+    "stars": 99,
+    "forks": 5,
+    "language": "Shell"
   },
   {
     "name": "Wifi-Deauthentication-Tool",
@@ -513,19 +513,19 @@
     "language": "Shell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 12,
     "forks": 3,
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
