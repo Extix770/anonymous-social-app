@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
+    "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+    "pubDate": "Tue, 10 Mar 2026 21:30:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
+    "contentSnippet": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
+    "guid": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+    "isoDate": "2026-03-10T16:00:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Carla Sertin",
     "title": "GPS Attacks Near Iran Are Wreaking Havoc on Delivery and Mapping Apps",
     "link": "https://www.wired.com/story/gps-attacks-near-iran-are-wreaking-havoc-on-delivery-and-mapping-apps/",
@@ -360,20 +377,5 @@
     "guid": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
     "isoDate": "2026-03-07T11:21:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Dana Alomar",
-    "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
-    "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
-    "pubDate": "Sat, 07 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Dana Alomar",
-    "content": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
-    "contentSnippet": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
-    "guid": "69aafeb319e74863b0e32e2b",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-03-07T11:00:00.000Z"
   }
 ]
