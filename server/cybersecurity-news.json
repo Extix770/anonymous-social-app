@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
+    "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
+    "pubDate": "Tue, 10 Mar 2026 11:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg"
+    },
+    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability list is as follows -\n\nCVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
+    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability list is as follows -\n\nCVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
+    "guid": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
+    "isoDate": "2026-03-10T06:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
     "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
     "pubDate": "Tue, 10 Mar 2026 00:01:00 +0530",
@@ -362,22 +379,5 @@
       "Security / Cyberattacks and Hacks"
     ],
     "isoDate": "2026-03-06T11:30:00.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-    "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
-    "pubDate": "Fri, 06 Mar 2026 16:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg"
-    },
-    "content": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
-    "contentSnippet": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
-    "guid": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
-    "isoDate": "2026-03-06T10:30:00.000Z",
-    "itunes": {}
   }
 ]
