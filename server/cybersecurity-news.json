@@ -1,5 +1,21 @@
 [
   {
+    "creator": "Carla Sertin",
+    "title": "GPS Attacks Near Iran Are Wreaking Havoc on Delivery and Mapping Apps",
+    "link": "https://www.wired.com/story/gps-attacks-near-iran-are-wreaking-havoc-on-delivery-and-mapping-apps/",
+    "pubDate": "Tue, 10 Mar 2026 15:22:35 +0000",
+    "dc:creator": "Carla Sertin",
+    "content": "Delivery apps are glitching and navigation routes are changing abruptly thanks to electronic warfare disrupting the satellite signals that power everything from missiles to your ride home.",
+    "contentSnippet": "Delivery apps are glitching and navigation routes are changing abruptly thanks to electronic warfare disrupting the satellite signals that power everything from missiles to your ride home.",
+    "guid": "69b02646bdd06eaedc3a905c",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-10T15:22:35.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
     "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
@@ -359,23 +375,5 @@
       "Security / National Security"
     ],
     "isoDate": "2026-03-07T11:00:00.000Z"
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Friday Squid Blogging: Squid in Byzantine Monk Cooking",
-    "link": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html",
-    "pubDate": "Fri, 06 Mar 2026 22:03:17 +0000",
-    "content:encoded": "<p>This is a very weird <a href=\"https://www.turkiyetoday.com/lifestyle/how-stuffed-squid-survived-byzantine-monks-and-ottoman-tables-by-staying-ink-ognito-3215117?s=1\">story</a> about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.</p>\n<blockquote><p>At Constantinople&#8217;s Monastery of Stoudios, the kitchen didn&#8217;t answer to appetite.</p>\n<p>It answered to the &#8220;typikon&#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?</p>\n<p>Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass.</p>\n<p>In a kitchen governed by prohibitions, the safest ingredient was the one that caused the least disturbance. Squid entered not with applause, but with a shrug.</p></blockquote>\n<p>Bonus stuffed squid recipe at the end.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
-    "content:encodedSnippet": "This is a very weird story about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.\nAt Constantinople’s Monastery of Stoudios, the kitchen didn’t answer to appetite.\nIt answered to the “typikon”: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?\nSquid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn’t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass.\nIn a kitchen governed by prohibitions, the safest ingredient was the one that caused the least disturbance. Squid entered not with applause, but with a shrug.\n\nBonus stuffed squid recipe at the end.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html#comments",
-    "content": "<p>This is a very weird <a href=\"https://www.turkiyetoday.com/lifestyle/how-stuffed-squid-survived-byzantine-monks-and-ottoman-tables-by-staying-ink-ognito-3215117?s=1\">story</a> about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.</p>\n<blockquote><p>At Constantinople&#8217;s Monastery of Stoudios, the kitchen didn&#8217;t answer to appetite.</p>\n<p>It answered to the &#8220;typikon&#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?</p>\n<p>Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...</p></blockquote>",
-    "contentSnippet": "This is a very weird story about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.\nAt Constantinople’s Monastery of Stoudios, the kitchen didn’t answer to appetite.\nIt answered to the “typikon”: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?\nSquid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn’t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...",
-    "guid": "https://www.schneier.com/?p=71735",
-    "categories": [
-      "Uncategorized",
-      "squid"
-    ],
-    "isoDate": "2026-03-06T22:03:17.000Z"
   }
 ]
