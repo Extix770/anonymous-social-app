@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Jailbreaking the F-35 Fighter Jet",
+    "link": "https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html",
+    "pubDate": "Tue, 10 Mar 2026 09:50:23 +0000",
+    "content:encoded": "<p>Countries around the world are becoming increasingly concerned about their dependencies on the US. If you&#8217;ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.</p>\n<p>The Dutch Defense Secretary recently <a href=\"https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister\">said</a> that he could jailbreak the planes to accept third-party software.</p>\n",
+    "content:encodedSnippet": "Countries around the world are becoming increasingly concerned about their dependencies on the US. If you’ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.\nThe Dutch Defense Secretary recently said that he could jailbreak the planes to accept third-party software.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html#respond",
+    "content": "<p>Countries around the world are becoming increasingly concerned about their dependencies on the US. If you&#8217;ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.</p>\n<p>The Dutch Defense Secretary recently <a href=\"https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister\">said</a> that he could jailbreak the planes to accept third-party software.</p>\n",
+    "contentSnippet": "Countries around the world are becoming increasingly concerned about their dependencies on the US. If you’ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.\nThe Dutch Defense Secretary recently said that he could jailbreak the planes to accept third-party software.",
+    "guid": "https://www.schneier.com/?p=71706",
+    "categories": [
+      "Uncategorized",
+      "DRM",
+      "national security policy",
+      "Netherlands"
+    ],
+    "isoDate": "2026-03-10T09:50:23.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
     "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
@@ -359,27 +379,5 @@
     "guid": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
     "isoDate": "2026-03-06T14:33:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Bruce Schneier",
-    "title": "Claude Used to Hack Mexican Government",
-    "link": "https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html",
-    "pubDate": "Fri, 06 Mar 2026 11:53:27 +0000",
-    "content:encoded": "<p>An unknown hacker used Anthropic&#8217;s LLM to <a href=\"https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data\">hack</a> the Mexican government:</p>\n<blockquote><p>The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.</p>\n<p>[&#8230;]</p>\n<p>Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&#8217;s requests and executed thousands of commands on government computer networks, the researchers said.</p>\n<p>Anthropic investigated Gambit&#8217;s claims, disrupted the activity and banned the accounts involved, a representative said. The company feeds examples of malicious activity back into Claude to learn from it, and one of its latest AI models, Claude Opus 4.6, includes probes that can disrupt misuse, the representative said.</p></blockquote>\n<p>Alternative link <a href=\"https://archive.ph/GgzS2#selection-1651.0-1655.0\">here</a>.</p>\n",
-    "content:encodedSnippet": "An unknown hacker used Anthropic’s LLM to hack the Mexican government:\nThe unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.\n[…]\nClaude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker’s requests and executed thousands of commands on government computer networks, the researchers said.\nAnthropic investigated Gambit’s claims, disrupted the activity and banned the accounts involved, a representative said. The company feeds examples of malicious activity back into Claude to learn from it, and one of its latest AI models, Claude Opus 4.6, includes probes that can disrupt misuse, the representative said.\n\nAlternative link here.",
-    "dc:creator": "Bruce Schneier",
-    "comments": "https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html#comments",
-    "content": "<p>An unknown hacker used Anthropic&#8217;s LLM to <a href=\"https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data\">hack</a> the Mexican government:</p>\n<blockquote><p>The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.</p>\n<p>[&#8230;]</p>\n<p>Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&#8217;s requests and executed thousands of commands on government computer networks, the researchers said...</p></blockquote>",
-    "contentSnippet": "An unknown hacker used Anthropic’s LLM to hack the Mexican government:\nThe unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.\n[…]\nClaude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker’s requests and executed thousands of commands on government computer networks, the researchers said...",
-    "guid": "https://www.schneier.com/?p=71709",
-    "categories": [
-      "Uncategorized",
-      "AI",
-      "chatbots",
-      "hacking",
-      "LLM",
-      "Mexico"
-    ],
-    "isoDate": "2026-03-06T11:53:27.000Z"
   }
 ]
