@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
+    "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
+    "pubDate": "Tue, 10 Mar 2026 12:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg3WBGF42HjwJCk1bkljwrz8qAZRBc_WKGgu7SuNluRZBhSEGh3JelP6R_I9w64bbi9soVTwDerZux7tknJmttdOS024pbnsAG8a16SYaBubeRlhDIYboq-SBO53ARQ77uWWAUGX6yTZ8AaeWOQMydWFRP-nbunFtTDsmCpqcUvgFBsTpxHYqSi050MtYl/s1600/salesforce.jpg"
+    },
+    "content": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.\nThe activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
+    "contentSnippet": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.\nThe activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
+    "guid": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
+    "isoDate": "2026-03-10T07:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
     "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
     "pubDate": "Tue, 10 Mar 2026 11:47:00 +0530",
@@ -364,20 +381,5 @@
       "Mexico"
     ],
     "isoDate": "2026-03-06T11:53:27.000Z"
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
-    "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
-    "pubDate": "Fri, 06 Mar 2026 11:30:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
-    "contentSnippet": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
-    "guid": "69a9b555c174041d2b6741bc",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-03-06T11:30:00.000Z"
   }
 ]
