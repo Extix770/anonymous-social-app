@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8559,
+    "stars": 8555,
     "forks": 1153,
     "language": null
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2423,
+    "stars": 2422,
     "forks": 355,
     "language": null
   },
@@ -40,7 +40,7 @@
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix",
     "description": "A resource containing all the tools each ransomware gangs uses",
-    "stars": 1332,
+    "stars": 1330,
     "forks": 149,
     "language": null
   },
@@ -49,7 +49,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Hacking-Tools",
     "description": "A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.",
-    "stars": 1277,
+    "stars": 1276,
     "forks": 187,
     "language": null
   },
@@ -112,7 +112,7 @@
     "owner": "lucasfrag",
     "url": "https://github.com/lucasfrag/kali-linux-tools-interface",
     "description": "Graphical Web interface developed to facilitate the use of security information tools.",
-    "stars": 269,
+    "stars": 268,
     "forks": 73,
     "language": "PHP"
   },
@@ -162,15 +162,6 @@
     "language": null
   },
   {
-    "name": "Digital-Forensics-Tools",
-    "owner": "yogsec",
-    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
-    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
-    "stars": 100,
-    "forks": 37,
-    "language": null
-  },
-  {
     "name": "HackerToolkit",
     "owner": "ChrisJr404",
     "url": "https://github.com/ChrisJr404/HackerToolkit",
@@ -178,6 +169,15 @@
     "stars": 100,
     "forks": 5,
     "language": "Shell"
+  },
+  {
+    "name": "Digital-Forensics-Tools",
+    "owner": "yogsec",
+    "url": "https://github.com/yogsec/Digital-Forensics-Tools",
+    "description": "A curated list of essential digital forensics tools used for investigation, data recovery, and security analysis. These tools help in disk forensics, memory analysis, network monitoring, malware analysis, and more.",
+    "stars": 99,
+    "forks": 37,
+    "language": null
   },
   {
     "name": "Awesome_Free_Online_SOC_And_Pentest_Tools",
@@ -229,7 +229,7 @@
     "owner": "yogsec",
     "url": "https://github.com/yogsec/Social-Engineering-Tools",
     "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
-    "stars": 60,
+    "stars": 59,
     "forks": 5,
     "language": null
   },
