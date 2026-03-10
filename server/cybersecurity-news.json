@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Dell Cameron",
+    "title": "DHS Ousts CBP Privacy Officers Who Questioned ‘Illegal’ Orders",
+    "link": "https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/",
+    "pubDate": "Tue, 10 Mar 2026 18:23:28 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "Department of Homeland Security leaders removed top privacy officers who objected to mislabeling government records to block their public release, WIRED has learned.",
+    "contentSnippet": "Department of Homeland Security leaders removed top privacy officers who objected to mislabeling government records to block their public release, WIRED has learned.",
+    "guid": "69aaefdc8dc52763006304ef",
+    "categories": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-10T18:23:28.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
     "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
@@ -360,22 +377,5 @@
     "guid": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
     "isoDate": "2026-03-07T16:28:00.000Z",
     "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg, Dell Cameron",
-    "title": "CBP Used Online Ad Data to Track Phone Locations",
-    "link": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/",
-    "pubDate": "Sat, 07 Mar 2026 11:30:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess, Andy Greenberg, Dell Cameron",
-    "content": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
-    "contentSnippet": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
-    "guid": "69a858f5e166ef7297c6e5e7",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-03-07T11:30:00.000Z"
   }
 ]
