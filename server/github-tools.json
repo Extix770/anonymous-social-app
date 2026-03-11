@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7629,
+    "stars": 7630,
     "forks": 860,
     "language": "HTML"
   },
@@ -293,7 +293,7 @@
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
     "stars": 31,
-    "forks": 9,
+    "forks": 10,
     "language": "Python"
   },
   {
