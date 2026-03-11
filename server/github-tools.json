@@ -4,7 +4,7 @@
     "owner": "A-poc",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
-    "stars": 8558,
+    "stars": 8559,
     "forks": 1152,
     "language": null
   },
@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7630,
+    "stars": 7631,
     "forks": 860,
     "language": "HTML"
   },
@@ -513,19 +513,19 @@
     "language": "Shell"
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 12,
     "forks": 3,
     "language": null
@@ -774,15 +774,6 @@
     "language": null
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -790,6 +781,15 @@
     "stars": 6,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -864,15 +864,6 @@
     "language": "Python"
   },
   {
-    "name": "Pentesting-Toolkit",
-    "owner": "shepherd-06",
-    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
-    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
-    "stars": 5,
-    "forks": 1,
-    "language": "C"
-  },
-  {
     "name": "mini-tools",
     "owner": "proditis",
     "url": "https://github.com/proditis/mini-tools",
@@ -889,6 +880,15 @@
     "stars": 5,
     "forks": 1,
     "language": null
+  },
+  {
+    "name": "Pentesting-Toolkit",
+    "owner": "shepherd-06",
+    "url": "https://github.com/shepherd-06/Pentesting-Toolkit",
+    "description": "🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️",
+    "stars": 5,
+    "forks": 1,
+    "language": "C"
   },
   {
     "name": "cloud-security-tools",

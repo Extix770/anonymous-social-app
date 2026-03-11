@@ -1,5 +1,72 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+    "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+    "pubDate": "Wed, 11 Mar 2026 18:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiU2byr8OVn_Cvv66sMyUa0QaabpGv0bB1Y7u7BxMAryr4PRdDTQLlPMTavhwTj3aaVkNf9lPeXxnygBDTmm5MDETpEcbyJjpN2dt0yx-8MuEwwWXbZm4g0a6BTFfLOekUzBnjPR2qYkIyOP4K3tHRd8am6YbhYIcbSXYVdTt983cyMtYKbd8BgBsy0lu/s1600/whatsapp.gif"
+    },
+    "content": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.\nThe effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon",
+    "contentSnippet": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.\nThe effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon",
+    "guid": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+    "isoDate": "2026-03-11T13:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+    "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+    "pubDate": "Wed, 11 Mar 2026 17:56:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrrEElPNhJ9Cn51FnZPkh9XKFRVQzKwXGWqMzaKySW388TL56lNUbySAgOs9nxMbwCHVmFwxE3UvCVt_H9MtWZfS2euZz9zF-Wrh0mnVf-3kefawk-MvoqjSZd3MOcKzHVgjYWnkWy9iE2Ns-6kauXtWE4K9LJHQdBStJVJHjGCRS4om2dZIHDv7rw3zh/s1600/software-update.jpg"
+    },
+    "content": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed below -\n\nCVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO)\nCVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
+    "contentSnippet": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed below -\n\nCVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO)\nCVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
+    "guid": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+    "isoDate": "2026-03-11T12:26:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "Lily Hay Newman",
+    "title": "Meta Ramps Up Efforts to Disrupt Industrialized Scamming",
+    "link": "https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/",
+    "pubDate": "Wed, 11 Mar 2026 12:01:28 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Meta removed 10.9 million Facebook and Instagram accounts linked to “criminal scam centers” last year, the company announced on Wednesday.",
+    "contentSnippet": "Meta removed 10.9 million Facebook and Instagram accounts linked to “criminal scam centers” last year, the company announced on Wednesday.",
+    "guid": "69b0cffc08d13e567b3b2cff",
+    "categories": [
+      "Security",
+      "Security / Security News",
+      "Business / Social Media"
+    ],
+    "isoDate": "2026-03-11T12:01:28.000Z"
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+    "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+    "pubDate": "Wed, 11 Mar 2026 17:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE7iXMy1HxdiC1nv__LhHF82XPreFShxc1GUsFkX9zgXiLwfkFKnVKzKOIYxe3D8_-dQeigLmUpbojS2-9doGrKHcwXhV34J1S1qsK8TzWyo3kymXEHMtML-js6yobbKDk3DXCi7bV2tXjKs_p5KtbvHoyPXEANC0LI5h5fBqIw2poe_O2x-sh4tO4T4/s1600/ai-exploit.jpg"
+    },
+    "content": "“You knew, and you could have acted. Why didn’t you?”&nbsp;\nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
+    "contentSnippet": "“You knew, and you could have acted. Why didn’t you?” \nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
+    "guid": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+    "isoDate": "2026-03-11T11:30:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "Bruce Schneier",
     "title": "Canada Needs Nationalized, Public AI",
     "link": "https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html",
@@ -294,74 +361,6 @@
     "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability list is as follows -\n\nCVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
     "guid": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
     "isoDate": "2026-03-10T06:17:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
-    "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
-    "pubDate": "Tue, 10 Mar 2026 00:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWahQ89p408qBpZO2cmP-m44fNG_BRHT34hjfmDGn2WhALZRls9d94ap8uK0ZYXj1JjAgxdDogTHv_1PHloweK3RtglJheCsgulTB0-KrYOgUFI3Gvp4FJiPaV33FVa8I5bl-v92O1IephSEiV_FMU010of5pnmgMQ0ZmBuvY4yC0Bl0ndth42P924uxR/s1600/openclaw.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts.\nThe package, named \"@openclaw-ai/openclawai,\" was uploaded to the registry by a user named \"openclaw-ai\" on March 3, 2026. It has been downloaded 178 times to date. The library is still available for",
-    "contentSnippet": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts.\nThe package, named \"@openclaw-ai/openclawai,\" was uploaded to the registry by a user named \"openclaw-ai\" on March 3, 2026. It has been downloaded 178 times to date. The library is still available for",
-    "guid": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
-    "isoDate": "2026-03-09T18:31:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-    "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-    "pubDate": "Mon, 09 Mar 2026 20:20:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg"
-    },
-    "content": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency.\nThe activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and",
-    "contentSnippet": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency.\nThe activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and",
-    "guid": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-    "isoDate": "2026-03-09T14:50:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-    "pubDate": "Mon, 09 Mar 2026 19:16:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg"
-    },
-    "content": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now.\nThe good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
-    "contentSnippet": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now.\nThe good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
-    "guid": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-    "isoDate": "2026-03-09T13:46:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-    "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-    "pubDate": "Mon, 09 Mar 2026 17:15:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
-    },
-    "content": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you must meet.\nWhat if you could be the enabler for your organization to remain competitive — and help win business — by easily demonstrating that you meet these",
-    "contentSnippet": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you must meet.\nWhat if you could be the enabler for your organization to remain competitive — and help win business — by easily demonstrating that you meet these",
-    "guid": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-    "isoDate": "2026-03-09T11:45:00.000Z",
     "itunes": {}
   }
 ]
