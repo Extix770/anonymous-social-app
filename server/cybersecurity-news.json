@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+    "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "pubDate": "Wed, 11 Mar 2026 14:45:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipDVdeJebBFVnXLhsh2P4nBqmuh4R-UtLH7ZFvyw1W95zBU4YX4GF6I1WZ7g3ALEq596lEFr6q8iuGZ_PG2D12h67cLuNhCnSplkg_kDNbKyvTJnByhz2WAeAL9YHXCpJp0D3UOnhuydFZ6-jfXi6DLx5upod8egCtZ2lZhmbUzIprEusPyz0efzBMFzFI/s1600/windows-patch.jpg"
+    },
+    "content": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four",
+    "contentSnippet": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four",
+    "guid": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "isoDate": "2026-03-11T09:15:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
     "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
     "pubDate": "Wed, 11 Mar 2026 13:01:00 +0530",
@@ -347,22 +364,5 @@
       "Wi-Fi"
     ],
     "isoDate": "2026-03-09T10:57:18.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-    "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-    "pubDate": "Mon, 09 Mar 2026 15:58:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg"
-    },
-    "content": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
-    "contentSnippet": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
-    "guid": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-    "isoDate": "2026-03-09T10:28:00.000Z",
-    "itunes": {}
   }
 ]
