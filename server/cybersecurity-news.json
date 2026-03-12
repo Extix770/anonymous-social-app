@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
+    "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+    "pubDate": "Thu, 12 Mar 2026 13:26:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XqFIcbN9bZftTEAfBhB62BmEP37KyRy2yIFvs7i_kZN4B6VoQ6hXBubWk6jRv0QLqcAs1W1zsnJ30cfDpI5teRgyEkSVrYqYuygAIhpH6k2t-N48pxg0UpB8cJnYCAsuVi4PZxy2J8ZZdwL0Ff1EXhUDQo8NeKHPPxr_ur-_Mx0n8nUdZtoa3HZRLBRG/s1600/banking.jpg"
+    },
+    "content": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
+    "contentSnippet": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
+    "guid": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+    "isoDate": "2026-03-12T07:56:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
     "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
     "pubDate": "Thu, 12 Mar 2026 10:48:00 +0530",
@@ -353,23 +370,6 @@
     "contentSnippet": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
     "guid": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
     "isoDate": "2026-03-10T13:20:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
-    "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-    "pubDate": "Tue, 10 Mar 2026 16:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
-    },
-    "content": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
-    "contentSnippet": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
-    "guid": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-    "isoDate": "2026-03-10T11:00:00.000Z",
     "itunes": {}
   }
 ]
