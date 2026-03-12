@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
+    "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
+    "pubDate": "Thu, 12 Mar 2026 19:00:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2HzYQe6azf7VrHXnh94kq6r2J2iKsWe7pH325T7pu8CDvT8qBJdDJe-6jZkisgAxHrU53Zs4xakonSiDhLKOAdw3PpVi7kWrQUEZuP80UJBtotXaoc86xhDSEQwlfEG5BOwPrmdvdycf910ZJM5cO31Ifjuzj4R2e2xT0kQDrq403maMI5ApvrudhNU/s1600/anyrun.jpg"
+    },
+    "content": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
+    "contentSnippet": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
+    "guid": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
+    "isoDate": "2026-03-12T13:30:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
+    "pubDate": "Thu, 12 Mar 2026 18:44:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXV4c7kTpbuiCqYlpV1_7JzOZ3Pz-M51G5q4u6vUoAjUZF32E3z0pJ7mNpG3gz4N9ai7SaQ-nDNpYJWfLc7e8CeYKCeNJQH8OAljb8V6HB_r4s1MWBYCoduTSf4iPbtpSqnIxpp2uXGGikUKEXUVlhEtFeB_Ddaw83fcaC9tmy-mBCWNRBzNnFoNyJTxDV/s1600/tday.jpg"
+    },
+    "content": "Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.”\nThe pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how",
+    "contentSnippet": "Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.”\nThe pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how",
+    "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
+    "isoDate": "2026-03-12T13:14:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
     "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
     "pubDate": "Thu, 12 Mar 2026 17:00:00 +0530",
@@ -337,40 +371,6 @@
     "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. \nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
     "guid": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
     "isoDate": "2026-03-10T16:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-    "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-    "pubDate": "Tue, 10 Mar 2026 21:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
-    },
-    "content": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
-    "contentSnippet": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
-    "guid": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-    "isoDate": "2026-03-10T16:21:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
-    "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
-    "pubDate": "Tue, 10 Mar 2026 21:30:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
-    "contentSnippet": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
-    "guid": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
-    "isoDate": "2026-03-10T16:00:00.000Z",
     "itunes": {}
   }
 ]
