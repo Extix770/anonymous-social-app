@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "iPhones and iPads Approved for NATO Classified Data",
+    "link": "https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html",
+    "pubDate": "Thu, 12 Mar 2026 19:59:54 +0000",
+    "content:encoded": "<p>Apple <a href=\"https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/\">announcement</a>:</p>\n<blockquote><p>&#8230;iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings&#8212;a level of government certification no other consumer mobile device has met.</p></blockquote>\n<p>This is out of the box, no modifications required.</p>\n<p>Boing Boing <a href=\"https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html\">post</a>.</p>\n",
+    "content:encodedSnippet": "Apple announcement:\n…iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings—a level of government certification no other consumer mobile device has met.\n\nThis is out of the box, no modifications required.\nBoing Boing post.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html#respond",
+    "content": "<p>Apple <a href=\"https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/\">announcement</a>:</p>\n<blockquote><p>&#8230;iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings&#8212;a level of government certification no other consumer mobile device has met.</p></blockquote>\n<p>This is out of the box, no modifications required.</p>\n<p>Boing Boing <a href=\"https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html\">post</a>.</p>\n",
+    "contentSnippet": "Apple announcement:\n…iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings—a level of government certification no other consumer mobile device has met.\n\nThis is out of the box, no modifications required.\nBoing Boing post.",
+    "guid": "https://www.schneier.com/?p=71714",
+    "categories": [
+      "Uncategorized",
+      "Apple",
+      "cyberespionage",
+      "data protection",
+      "iPad",
+      "iPhone",
+      "smartphones"
+    ],
+    "isoDate": "2026-03-12T19:59:54.000Z"
+  },
+  {
     "creator": "Dell Cameron",
     "title": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
     "link": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
@@ -336,23 +359,6 @@
     "contentSnippet": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four",
     "guid": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
     "isoDate": "2026-03-11T09:15:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
-    "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
-    "pubDate": "Wed, 11 Mar 2026 13:01:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUREkqLhVFM9jnUqkHPMEmAj2KBdTrXOX_m8t7zEUdK4NE16BBL0XQHZ9q4KPVDfKecgf4KE64vzAW9XDvn6axd6fIU9WZy5Lqe348eT7rKvmsLU3ByDPajxWFlkTt6CQTNkmNv8e57XrvWAaM-YaXtD0QP1-grx4XPtV_Osxw-vjtPfw4A70O5x41yvq/s1600/aws.jpg"
-    },
-    "content": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours.\nThe attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data.\n\"The threat actor, UNC6426, then used this",
-    "contentSnippet": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours.\nThe attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data.\n\"The threat actor, UNC6426, then used this",
-    "guid": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
-    "isoDate": "2026-03-11T07:31:00.000Z",
     "itunes": {}
   }
 ]
