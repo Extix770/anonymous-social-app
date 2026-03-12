@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+    "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+    "pubDate": "Thu, 12 Mar 2026 15:28:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxpx0H72-jraYxYXM_LUEtyv1M503LKgvsrmHcmXew61h2RfR4Q5uyuLKb6h6qltO1UedF9lMjEC3MoOgxDNO8zB4BzKjkVusHicqzNXSK3Tojlq10A7xDds9wDdyKTGtwWTKMAvoR5-l5nK7gnZQOUDbTbOXGWAezt1MjNJQpPh3MalEkI-nhOmTZ7fW/s1600/iphones.jpg"
+    },
+    "content": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
+    "contentSnippet": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
+    "guid": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+    "isoDate": "2026-03-12T09:58:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
     "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
     "pubDate": "Thu, 12 Mar 2026 13:26:00 +0530",
@@ -354,22 +371,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-10T15:22:35.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-    "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-    "pubDate": "Tue, 10 Mar 2026 18:50:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
-    "contentSnippet": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
-    "guid": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-    "isoDate": "2026-03-10T13:20:00.000Z",
-    "itunes": {}
   }
 ]
