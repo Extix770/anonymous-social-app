@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Andy Greenberg, Matt Burgess, Lily Hay Newman",
+    "title": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
+    "link": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
+    "pubDate": "Thu, 12 Mar 2026 16:14:39 +0000",
+    "dc:creator": "Andy Greenberg, Matt Burgess, Lily Hay Newman",
+    "content": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory state-sponsored cyberattacks.",
+    "contentSnippet": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory state-sponsored cyberattacks.",
+    "guid": "69b1b16f73d793174166a019",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-03-12T16:14:39.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
     "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
@@ -355,22 +372,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-10T18:23:28.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
-    "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-    "pubDate": "Tue, 10 Mar 2026 21:51:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg"
-    },
-    "content": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&nbsp;\nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
-    "contentSnippet": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. \nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
-    "guid": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-    "isoDate": "2026-03-10T16:21:00.000Z",
-    "itunes": {}
   }
 ]
