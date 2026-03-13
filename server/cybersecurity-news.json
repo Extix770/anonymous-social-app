@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "pubDate": "Fri, 13 Mar 2026 23:03:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrOk1hLgfo5WibM8DV2JEqpyhy4SAs-pmNPJ9lflvC8CLCTEGabnzpAk9XlUmyY3EmJI-_SnGCqDA4C-A1nwD7LKbC6SCiAyTziw9KtzqZWYkARHbidARtOH-SxtUh80Cy3WJrKRR_U1E2ETOr72gQGAEhTaM1WHTm-vTDwru1ypZmmMBlC6fmVQp6IPL/s1600/dll.jpg"
+    },
+    "content": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and",
+    "contentSnippet": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and",
+    "guid": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "isoDate": "2026-03-13T17:33:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+    "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+    "pubDate": "Fri, 13 Mar 2026 22:39:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw1H50jEav77qEtezzwtuvWZF5YuaWWn_kwLx0sOZn8SBXFrcsqI5fwRoubG8lKN5T3xX_L5nLkfuQl-lavBiPJVvzZKZyK_KC_SjMJPJBVRGiTqxRJ0cbwxWyMban16y1KTNLeRzbesp_cxbpbd2gB8mxKSfV3pgO66kQf3xoLDFQB7MpH3vNRhYYjeyw/s1600/instagram.jpg"
+    },
+    "content": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.\n\"If you have chats that are impacted by this change, you will see instructions on how you can download any media or messages you may want to keep,\" the social media giant said in a help document. \"If you're on an older version of Instagram, you may also need to update the",
+    "contentSnippet": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.\n\"If you have chats that are impacted by this change, you will see instructions on how you can download any media or messages you may want to keep,\" the social media giant said in a help document. \"If you're on an older version of Instagram, you may also need to update the",
+    "guid": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+    "isoDate": "2026-03-13T17:09:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
     "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
     "pubDate": "Fri, 13 Mar 2026 20:50:00 +0530",
@@ -313,40 +347,6 @@
     "contentSnippet": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
     "guid": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
     "isoDate": "2026-03-12T07:56:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
-    "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-    "pubDate": "Thu, 12 Mar 2026 10:48:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTMEW2jHKU06jv88QZ06xgVQgmBS6BBQ2qOiIrLlhEJvpDCbje7ou_bIPAxP-N9b90TI7pIKZMotOLtO_3Gi4B3JBRRW8QxuqZtVj8WwFdEMhCdqd-XaTcRFRjBEyGeDeNjznGmw2qUWyHAshjwN8J2FOLhqTzwIS9-X6-G0pm5lUeKuxQegcENT4V8Q0/s1600/cisa-exploit.jpg"
-    },
-    "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
-    "contentSnippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
-    "guid": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-    "isoDate": "2026-03-12T05:18:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-    "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-    "pubDate": "Wed, 11 Mar 2026 22:08:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkDTAnMilk2AM0Yg71UjZJul-Q0y_QvAqY97sCemt73LNrjo7Rwp7uHjmFpSmeV75WwsRN5tRMdcgACXJFnv7FMOqb9qAnaOoyek1f0KubQtDtdkWZAh6g8ZZXNSwLLmAZYONBXIM-xa9QNbO9qQDI4REUUobzfhTuBJED4ilM5CBA0AmQ6zfyUWpvQDo/s1600/agent.png"
-    },
-    "content": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps.\nThe attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio",
-    "contentSnippet": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps.\nThe attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio",
-    "guid": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-    "isoDate": "2026-03-11T16:38:00.000Z",
     "itunes": {}
   }
 ]
