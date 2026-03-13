@@ -1,6 +1,40 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+    "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+    "pubDate": "Fri, 13 Mar 2026 14:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6RqjIMz8KqPQlA1cIBNewRR0jZi7h-6Hs9JFjyV_wT8SKGcY_CP6J-DsPjP1eFKUYDQIJ8wztGrSmiD3HSopChiVBV1mLfYcoZolAxeFL-bRHV79PuCEC1sQQE3KMz9u8c8jFx4WXL62e6KXGYcivKjnyTiuvFj7BYXNaPrbXACyCvTb1Y9xpfYvq-AK/s1600/chrome-exploit.png"
+    },
+    "content": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphics library that allows a remote attacker to perform out-of-bounds memory access via a crafted HTML",
+    "contentSnippet": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphics library that allows a remote attacker to perform out-of-bounds memory access via a crafted HTML",
+    "guid": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+    "isoDate": "2026-03-13T09:17:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+    "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+    "pubDate": "Fri, 13 Mar 2026 13:48:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_iDZMyZB2yYcYrlFVa1dJoHT3mV0d9HfTPEpKmflkN-4zBDaSNIurPPADFGUW9GfTfMaCDlwUb6ywLpKiQa5CtSGSC6sPJIqfe-gRWhUa_z1B6Obazf_U5NuRX-ruWpomgMJQqcjD7XPeoyhgbVplGYCX3zQKFKmSIf0iSBwoUXhuE1ZZeZns9-fMlNr/s1600/linux-root.jpg"
+    },
+    "content": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees.\nThe nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
+    "contentSnippet": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees.\nThe nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
+    "guid": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+    "isoDate": "2026-03-13T08:18:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
     "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
     "pubDate": "Fri, 13 Mar 2026 10:56:00 +0530",
@@ -323,39 +357,6 @@
     "contentSnippet": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed below -\n\nCVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO)\nCVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
     "guid": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
     "isoDate": "2026-03-11T12:26:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "Meta Ramps Up Efforts to Disrupt Industrialized Scamming",
-    "link": "https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/",
-    "pubDate": "Wed, 11 Mar 2026 12:01:28 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Meta removed 10.9 million Facebook and Instagram accounts linked to “criminal scam centers” last year, the company announced on Wednesday.",
-    "contentSnippet": "Meta removed 10.9 million Facebook and Instagram accounts linked to “criminal scam centers” last year, the company announced on Wednesday.",
-    "guid": "69b0cffc08d13e567b3b2cff",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Business / Social Media"
-    ],
-    "isoDate": "2026-03-11T12:01:28.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
-    "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
-    "pubDate": "Wed, 11 Mar 2026 17:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE7iXMy1HxdiC1nv__LhHF82XPreFShxc1GUsFkX9zgXiLwfkFKnVKzKOIYxe3D8_-dQeigLmUpbojS2-9doGrKHcwXhV34J1S1qsK8TzWyo3kymXEHMtML-js6yobbKDk3DXCi7bV2tXjKs_p5KtbvHoyPXEANC0LI5h5fBqIw2poe_O2x-sh4tO4T4/s1600/ai-exploit.jpg"
-    },
-    "content": "“You knew, and you could have acted. Why didn’t you?”&nbsp;\nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
-    "contentSnippet": "“You knew, and you could have acted. Why didn’t you?” \nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
-    "guid": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
-    "isoDate": "2026-03-11T11:30:00.000Z",
     "itunes": {}
   }
 ]
