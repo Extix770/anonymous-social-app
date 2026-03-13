@@ -1,6 +1,23 @@
 [
   {
     "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
+    "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+    "pubDate": "Fri, 13 Mar 2026 19:08:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHmOuzh2pt4Kd3D5FVJ3ryojQF5XMf6q51cdyxus7nMy4suicQ1RNW3_sjRA6OgE3H-JXTOoxz9wwMqEZQbJb9SXS7DOYTVUBK1MszgQoAR6rGGTgunHDAKM7NfOTkK-W2U9_5rT0Un6xn-cwMnGipbokPav0UoDL7eyQkKIrrKwa2h0BgCFqwuZe598R/s1600/vpn-download.jpg"
+    },
+    "content": "Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The campaign redirects users searching for legitimate enterprise software to malicious ZIP files on attacker-controlled websites to deploy digitally signed trojans that masquerade as trusted VPN clients",
+    "contentSnippet": "Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The campaign redirects users searching for legitimate enterprise software to malicious ZIP files on attacker-controlled websites to deploy digitally signed trojans that masquerade as trusted VPN clients",
+    "guid": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+    "isoDate": "2026-03-13T13:38:00.000Z",
+    "itunes": {}
+  },
+  {
+    "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Investigating a New Click-Fix Variant",
     "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
     "pubDate": "Fri, 13 Mar 2026 18:58:00 +0530",
@@ -343,22 +360,5 @@
       "wiper attack"
     ],
     "isoDate": "2026-03-11T16:20:13.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
-    "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-    "pubDate": "Wed, 11 Mar 2026 20:21:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMTLKLDP1BIQuPb3-fnJrl5cpfhjHBhFF0Onswskul1eyu4fTPyEpOzUa13oWHQsl-83zPhaSVWBfIDj_RIeaQFrbr9VwCDLVXfUp-QDt5V6Dtd91VvXCO5O0Zm9hPTLOUhbXPQKb6tKdWecJ_ejME8fZX8rQRsRFkg67WdzlSv-g0mOuvhcsFKh9eeG-A/s1600/n8n.jpg"
-    },
-    "content": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.\nThe vulnerabilities are listed below -\n\nCVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)\nCVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
-    "contentSnippet": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.\nThe vulnerabilities are listed below -\n\nCVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)\nCVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
-    "guid": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-    "isoDate": "2026-03-11T14:51:00.000Z",
-    "itunes": {}
   }
 ]
