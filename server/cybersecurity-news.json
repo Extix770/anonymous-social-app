@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Bruce Schneier",
+    "title": "Friday Squid Blogging: Increased Squid Population in the Falklands",
+    "link": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html",
+    "pubDate": "Fri, 13 Mar 2026 21:05:22 +0000",
+    "content:encoded": "<p>Some <a href=\"https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/\">good news</a>: squid stocks seem to be recovering in the waters off the Falkland Islands.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "content:encodedSnippet": "Some good news: squid stocks seem to be recovering in the waters off the Falkland Islands.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "dc:creator": "Bruce Schneier",
+    "comments": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html#respond",
+    "content": "<p>Some <a href=\"https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/\">good news</a>: squid stocks seem to be recovering in the waters off the Falkland Islands.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>\n",
+    "contentSnippet": "Some good news: squid stocks seem to be recovering in the waters off the Falkland Islands.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nBlog moderation policy.",
+    "guid": "https://www.schneier.com/?p=71737",
+    "categories": [
+      "Uncategorized",
+      "squid"
+    ],
+    "isoDate": "2026-03-13T21:05:22.000Z"
+  },
+  {
     "creator": "info@thehackernews.com (The Hacker News)",
     "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
     "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
@@ -330,23 +348,6 @@
     "contentSnippet": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
     "guid": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
     "isoDate": "2026-03-12T09:58:00.000Z",
-    "itunes": {}
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-    "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-    "pubDate": "Thu, 12 Mar 2026 13:26:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XqFIcbN9bZftTEAfBhB62BmEP37KyRy2yIFvs7i_kZN4B6VoQ6hXBubWk6jRv0QLqcAs1W1zsnJ30cfDpI5teRgyEkSVrYqYuygAIhpH6k2t-N48pxg0UpB8cJnYCAsuVi4PZxy2J8ZZdwL0Ff1EXhUDQo8NeKHPPxr_ur-_Mx0n8nUdZtoa3HZRLBRG/s1600/banking.jpg"
-    },
-    "content": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
-    "contentSnippet": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
-    "guid": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-    "isoDate": "2026-03-12T07:56:00.000Z",
     "itunes": {}
   }
 ]
