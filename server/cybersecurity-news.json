@@ -1,5 +1,22 @@
 [
   {
+    "creator": "info@thehackernews.com (The Hacker News)",
+    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+    "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+    "pubDate": "Sat, 14 Mar 2026 21:47:00 +0530",
+    "author": "info@thehackernews.com (The Hacker News)",
+    "enclosure": {
+      "length": "12216320",
+      "type": "image/jpeg",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg"
+    },
+    "content": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.\nIn a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its",
+    "contentSnippet": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.\nIn a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its",
+    "guid": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+    "isoDate": "2026-03-14T16:17:00.000Z",
+    "itunes": {}
+  },
+  {
     "creator": "B. Schneier",
     "title": "Upcoming Speaking Engagements",
     "link": "https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html",
@@ -334,22 +351,5 @@
       "Security / Security News"
     ],
     "isoDate": "2026-03-12T16:14:39.000Z"
-  },
-  {
-    "creator": "info@thehackernews.com (The Hacker News)",
-    "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
-    "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
-    "pubDate": "Thu, 12 Mar 2026 19:00:00 +0530",
-    "author": "info@thehackernews.com (The Hacker News)",
-    "enclosure": {
-      "length": "12216320",
-      "type": "image/jpeg",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2HzYQe6azf7VrHXnh94kq6r2J2iKsWe7pH325T7pu8CDvT8qBJdDJe-6jZkisgAxHrU53Zs4xakonSiDhLKOAdw3PpVi7kWrQUEZuP80UJBtotXaoc86xhDSEQwlfEG5BOwPrmdvdycf910ZJM5cO31Ifjuzj4R2e2xT0kQDrq403maMI5ApvrudhNU/s1600/anyrun.jpg"
-    },
-    "content": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
-    "contentSnippet": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
-    "guid": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
-    "isoDate": "2026-03-12T13:30:00.000Z",
-    "itunes": {}
   }
 ]
