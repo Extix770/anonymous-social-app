@@ -13,7 +13,7 @@
     "owner": "cipher387",
     "url": "https://github.com/cipher387/osint_stuff_tool_collection",
     "description": "A collection of several hundred online tools for OSINT",
-    "stars": 7654,
+    "stars": 7655,
     "forks": 859,
     "language": "HTML"
   },
@@ -22,7 +22,7 @@
     "owner": "danieldurnea",
     "url": "https://github.com/danieldurnea/FBI-tools",
     "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
-    "stars": 2430,
+    "stars": 2431,
     "forks": 355,
     "language": null
   },
@@ -63,21 +63,21 @@
     "language": "JavaScript"
   },
   {
-    "name": "Open-source-tools-for-CTI",
-    "owner": "BushidoUK",
-    "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
-    "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
-    "stars": 776,
-    "forks": 134,
-    "language": null
-  },
-  {
     "name": "Awesome-Blackhat-Tools",
     "owner": "UCYBERS",
     "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
     "description": "A curated list of tools officially presented at Black Hat events",
     "stars": 776,
     "forks": 71,
+    "language": null
+  },
+  {
+    "name": "Open-source-tools-for-CTI",
+    "owner": "BushidoUK",
+    "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
+    "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
+    "stars": 776,
+    "forks": 134,
     "language": null
   },
   {
@@ -513,19 +513,19 @@
     "language": "Shell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
+    "name": "offensive-cybersec-toolkit",
+    "owner": "tid4l",
+    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
+    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
     "stars": 12,
     "forks": 3,
     "language": null
   },
   {
-    "name": "offensive-cybersec-toolkit",
-    "owner": "tid4l",
-    "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
-    "description": "A central place for offensive (and sometimes not) cybersecurity tools and resources. ",
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
