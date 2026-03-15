@@ -63,21 +63,21 @@
     "language": "JavaScript"
   },
   {
+    "name": "Awesome-Blackhat-Tools",
+    "owner": "UCYBERS",
+    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
+    "description": "A curated list of tools officially presented at Black Hat events",
+    "stars": 777,
+    "forks": 71,
+    "language": null
+  },
+  {
     "name": "Open-source-tools-for-CTI",
     "owner": "BushidoUK",
     "url": "https://github.com/BushidoUK/Open-source-tools-for-CTI",
     "description": "Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers",
     "stars": 776,
     "forks": 134,
-    "language": null
-  },
-  {
-    "name": "Awesome-Blackhat-Tools",
-    "owner": "UCYBERS",
-    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
-    "description": "A curated list of tools officially presented at Black Hat events",
-    "stars": 776,
-    "forks": 71,
     "language": null
   },
   {
@@ -292,7 +292,7 @@
     "owner": "arabhacking",
     "url": "https://github.com/arabhacking/mo-tool",
     "description": "MO Tool — Advanced SMS Testing Utility for Termux on Android",
-    "stars": 31,
+    "stars": 32,
     "forks": 9,
     "language": "Python"
   },
@@ -513,15 +513,6 @@
     "language": "Shell"
   },
   {
-    "name": "awesome-osint-toolkit",
-    "owner": "shallvhack",
-    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
-    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
-    "stars": 12,
-    "forks": 3,
-    "language": null
-  },
-  {
     "name": "offensive-cybersec-toolkit",
     "owner": "tid4l",
     "url": "https://github.com/tid4l/offensive-cybersec-toolkit",
@@ -535,6 +526,15 @@
     "owner": "garudaproject",
     "url": "https://github.com/garudaproject/digital-forensics-tools",
     "description": "Digital Forensics Tools Collection",
+    "stars": 12,
+    "forks": 3,
+    "language": null
+  },
+  {
+    "name": "awesome-osint-toolkit",
+    "owner": "shallvhack",
+    "url": "https://github.com/shallvhack/awesome-osint-toolkit",
+    "description": "🔎 A Toolkit for OSINT by the OSINT JOURNO Community!",
     "stars": 12,
     "forks": 3,
     "language": null
@@ -711,6 +711,15 @@
     "language": "Python"
   },
   {
+    "name": "CyberSec-Toolkit",
+    "owner": "Amr-Khaled-Ahmed",
+    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
+    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python"
+  },
+  {
     "name": "Bug-Bounty-Tools",
     "owner": "MaMad4Ever",
     "url": "https://github.com/MaMad4Ever/Bug-Bounty-Tools",
@@ -727,15 +736,6 @@
     "stars": 7,
     "forks": 0,
     "language": "TypeScript"
-  },
-  {
-    "name": "CyberSec-Toolkit",
-    "owner": "Amr-Khaled-Ahmed",
-    "url": "https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit",
-    "description": "This repository includes various hacking tools, malware analysis tools and malware to perform hacking simulations and get help with CTF competitions.",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python"
   },
   {
     "name": "nis2-sme-toolkit",
@@ -783,15 +783,6 @@
     "language": null
   },
   {
-    "name": "Hack-Tools",
-    "owner": "drakyanerlanggarizkiwardhana",
-    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
-    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
-    "stars": 6,
-    "forks": 1,
-    "language": "TypeScript"
-  },
-  {
     "name": "cybersecurity-tools",
     "owner": "AlejandroZaZ",
     "url": "https://github.com/AlejandroZaZ/cybersecurity-tools",
@@ -799,6 +790,15 @@
     "stars": 6,
     "forks": 1,
     "language": "Python"
+  },
+  {
+    "name": "Hack-Tools",
+    "owner": "drakyanerlanggarizkiwardhana",
+    "url": "https://github.com/drakyanerlanggarizkiwardhana/Hack-Tools",
+    "description": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "stars": 6,
+    "forks": 1,
+    "language": "TypeScript"
   },
   {
     "name": "qradarOffenseTools",
@@ -819,21 +819,21 @@
     "language": "Python"
   },
   {
-    "name": "Cyber-Sec-Resources-Tools",
-    "owner": "txuswashere",
-    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
-    "description": "Cyber Sec: Resources & Tools",
-    "stars": 6,
-    "forks": 1,
-    "language": null
-  },
-  {
     "name": "Password_Strength_Analysis_Tool",
     "owner": "ritik2898",
     "url": "https://github.com/ritik2898/Password_Strength_Analysis_Tool",
     "description": "A smart, context-aware Python-based command-line tool that analyzes password strength using entropy calculations, pattern detection, personal info checks, and file-based auditing. Includes secure suggestions, detailed feedback, and strong password generation. Perfect for cybersecurity learners, auditors, and developers.",
     "stars": 6,
     "forks": 2,
+    "language": null
+  },
+  {
+    "name": "Cyber-Sec-Resources-Tools",
+    "owner": "txuswashere",
+    "url": "https://github.com/txuswashere/Cyber-Sec-Resources-Tools",
+    "description": "Cyber Sec: Resources & Tools",
+    "stars": 6,
+    "forks": 1,
     "language": null
   },
   {
